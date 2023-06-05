@@ -7,53 +7,51 @@ on:
 
 jobs:
   scan_new_pypi_pkgs:
-    name: scan new pypi pkgs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-python@v4
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: install semgrep 
-        run: pip3 install semgrep
+    - name: install semgrep 
+      run: pip3 install semgrep
 
-      - name: clone rules repo
-        uses: actions/checkout@v3
+    - name: clone rules repo
+      uses: actions/checkout@v3
+      with:
+        repository: h4sh5/hash-semgrep-rules
+
+    - name: get new packages names
+      run: python3 get_packages.py | tee new.txt
+
+    - name: install parallel
+      run: apt install parallel -y
+
+    - name: download all new packages
+      run: |
+        mkdir packages;
+        cd packages;
+        cat ../new.txt | parallel pip download 
+
+    - name: run semgrep scan
+      run: |
+        semgrep --json -c hash-semgrep-rules/python packages/ | tee report.json
+
+    - name: Push scanned packages to cache
+      run: | 
+        cat new.txt >> scanned_pkgs.txt
+        git add scanned_pkgs.txt
+        git config --global user.name 'PyPi Scan Bot by h4sh'
+        git config --global user.name 'pypi-scan-bot-h4sh@open-source.local'
+        git commit -m "new scanned list $(date)" scanned_pkgs.txt
+        git push 
+
+    - name: Archive code coverage results
+      uses: actions/upload-artifact@v3
         with:
-          repository: h4sh5/hash-semgrep-rules
-
-      - name: get new packages names
-        run: python3 get_packages.py | tee new.txt
-
-      - name: install parallel
-        run: apt install parallel -y
-
-      - name: download all new packages
-        run: |
-          mkdir packages;
-          cd packages;
-          cat ../new.txt | parallel pip download 
-
-      - name: run semgrep scan
-        run: |
-          semgrep --json -c hash-semgrep-rules/python packages/ | tee report.json
-
-      - name: Push scanned packages to cache
-        run: | 
-          cat new.txt >> scanned_pkgs.txt
-          git add scanned_pkgs.txt
-          git config --global user.name 'PyPi Scan Bot by h4sh'
-          git config --global user.name 'pypi-scan-bot-h4sh@open-source.local'
-          git commit -m "new scanned list $(date)" scanned_pkgs.txt
-          git push 
-
-       - name: Archive code coverage results
-         uses: actions/upload-artifact@v3
-         with:
-           name: new-scan-report
-           path: report.json
+          name: new-scan-report
+          path: report.json
 
 
 
