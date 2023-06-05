@@ -36,13 +36,17 @@ jobs:
       run: |
         semgrep --json -c h4sh-semgrep-rules/python packages/ | tee report.json
 
+    - name: high risk pkgs detection
+      run: |
+        python3 raise_high_risk_pkgs.py
+
     - name: Push scanned packages to cache
       run: | 
         cat new.txt | sort -u >> scanned_pkgs.txt
-        git add scanned_pkgs.txt
+        git add scanned_pkgs.txt high_risk_pkgs.txt
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
-        git commit -m "new scanned list $(date)" scanned_pkgs.txt
+        git commit -m "new scan output $(date)" *.txt
         git push 
 
     - name: Archive code coverage results
