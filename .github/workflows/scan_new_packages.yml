@@ -7,6 +7,7 @@ on:
 
 jobs:
   scan_new_pypi_pkgs:
+    name: scan new pypi pkgs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
