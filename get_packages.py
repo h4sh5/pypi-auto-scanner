@@ -19,7 +19,7 @@ if response.status != 200:
 # read already scanned list
 already_scanned = []
 if os.path.isfile('scanned_pkgs.txt'):
-    already_scanned = open('scanned_pkgs.txt','r').read().split('\n').strip()
+    already_scanned = open('scanned_pkgs.txt','r').read().split('\n')
 
 root = ET.fromstring(body)
 
