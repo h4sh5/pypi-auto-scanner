@@ -25,8 +25,6 @@ jobs:
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
 
-    - name: install parallel
-      run: apt install parallel -y
 
     - name: download all new packages
       run: |
