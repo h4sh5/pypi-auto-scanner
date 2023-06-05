@@ -20,7 +20,7 @@ jobs:
     - name: clone rules repo
       uses: actions/checkout@v3
       with:
-        repository: h4sh5/hash-semgrep-rules
+        repository: h4sh5/h4sh-semgrep-rules
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
