@@ -41,7 +41,7 @@ jobs:
         cat new.txt >> scanned_pkgs.txt
         git add scanned_pkgs.txt
         git config --global user.name 'PyPi Scan Bot by h4sh'
-        git config --global user.name 'pypi-scan-bot-h4sh@open-source.local'
+        git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
         git commit -m "new scanned list $(date)" scanned_pkgs.txt
         git push 
 
