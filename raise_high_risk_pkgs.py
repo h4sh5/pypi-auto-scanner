@@ -38,6 +38,6 @@ for name in pkg_detections:
     if len(pkg_detections[name]) > 2 and error_exists:
         print("High risk pkg:", name)
         with open('high_risk_pkgs.txt','a+') as f:
-            f.write(name)
+            f.write(name+'\n')
 #import code
 #code.interact(local=locals())
