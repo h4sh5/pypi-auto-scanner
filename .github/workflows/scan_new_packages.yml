@@ -18,9 +18,8 @@ jobs:
       run: pip3 install semgrep
 
     - name: clone rules repo
-      uses: actions/checkout@v3
-      with:
-        repository: h4sh5/h4sh-semgrep-rules
+      run: |
+        git clone https://github.com/h4sh5/h4sh-semgrep-rules
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
@@ -34,7 +33,7 @@ jobs:
 
     - name: run semgrep scan
       run: |
-        semgrep --json -c hash-semgrep-rules/python packages/ | tee report.json
+        semgrep --json -c h4sh-semgrep-rules/python packages/ | tee report.json
 
     - name: Push scanned packages to cache
       run: | 
