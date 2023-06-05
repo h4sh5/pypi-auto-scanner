@@ -30,6 +30,7 @@ jobs:
         mkdir packages;
         cd packages;
         cat ../new.txt | parallel pip download 
+        for i in *; do unzip -- "$i"; done
 
     - name: run semgrep scan
       run: |
