@@ -10,7 +10,7 @@ script to parse semgrep json output
 
 def create_github_issue(body):
     url = 'https://api.github.com/repos/h4sh5/pypi-auto-scanner/issues'
-    request = Request(url, data=body.encode('utf-8'), headers={"Accept":"application/vnd.github+json", "Authorization":f"Bearer {os.getenv('GITHUB_TOKEN')}", "X-GitHub-Api-Version":"2022-11-28"})
+    request = Request(url, data=json.dumps(body).encode('utf-8'), headers={"Accept":"application/vnd.github+json", "Authorization":f"Bearer {os.getenv('GITHUB_TOKEN')}", "X-GitHub-Api-Version":"2022-11-28"})
     r = urlopen(request)
     data = r.read()
     if r.status != 200:
