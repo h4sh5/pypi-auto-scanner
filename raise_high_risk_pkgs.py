@@ -78,6 +78,18 @@ for name in sus_files:
 
 
 # parse yara scan output WIP
+yara_results = {}
+with open('sus_files.txt','r') as f:
+    for line in f:
+        line = line.strip()
+        pkg_name = line.split(' ')[1].split('/')[1]
+        if pkg_name not in yara_results:
+            yara_results[pkg_name] = []
+        yara_results[pkg_name].append(line)
+
+for name in yara_results:
+    issue_data = {"title":f"{name} has {len(yara_results[name])} yara scan results", "body":'```'+json.dumps(yara_results[name],indent=2)+'```', "labels":["yara"]}
+
 
 #import code
 #code.interact(local=locals())
