@@ -16,7 +16,7 @@ jobs:
         cache: 'pip'
     - run: pip3 install semgrep
 
-    - run: apt install yara -y
+    - run: sudo apt-get install yara -y
 
     - name: clone rules repo
       run: |
