@@ -40,6 +40,9 @@ jobs:
       run: |
         python3 raise_high_risk_pkgs.py
 
+    - name: suspicious files detection
+      run: |
+        bash detect_sus_file_formats.sh 
     - name: Push scanned packages to cache
       run: | 
         cat new.txt | sort -u >> scanned_pkgs.txt
