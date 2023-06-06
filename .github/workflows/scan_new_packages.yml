@@ -46,7 +46,10 @@ jobs:
         bash detect_sus_file_formats.sh 
     - name: Push scanned packages to cache
       run: | 
-        cat new.txt | sort -u >> scanned_pkgs.txt
+        cat new.txt >> scanned_pkgs.txt
+        cd packages/ ; ls -d * |  grep -v dist-info >> ../scanned_pkgs.txt; cd ..
+        sort -u scanned_pkgs.txt > scanned_pkgs.txt.1
+        mv scanned_pkgs.txt.1 scanned_pkgs.txt
         git add *.txt *.csv
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
