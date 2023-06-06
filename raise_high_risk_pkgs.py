@@ -13,7 +13,7 @@ def create_github_issue(body):
     request = Request(url, data=json.dumps(body).encode('utf-8'), headers={"Accept":"application/vnd.github+json", "Authorization":f"Bearer {os.getenv('GITHUB_TOKEN')}", "X-GitHub-Api-Version":"2022-11-28"})
     r = urlopen(request)
     data = r.read()
-    if r.status != 200:
+    if r.status not in[200,201]:
         print('ERROR create_github_issue', r.status, data)
 
     
