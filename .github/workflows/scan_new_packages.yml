@@ -38,6 +38,8 @@ jobs:
     - name: high risk pkgs detection
       run: |
         python3 raise_high_risk_pkgs.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: suspicious files detection
       run: |
