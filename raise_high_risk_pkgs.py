@@ -51,11 +51,33 @@ for name in pkg_detections:
         print("High risk pkg:", name)
         with open('high_risk_pkgs.csv','a+') as f:
             f.write(f'{name},{len(pkg_detections[name])}\n')
-        issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":json.dumps(pkg_detections[name],indent=2), "labels":["suspicious"]}
+        issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":json.dumps(pkg_detections[name],indent=2), "labels":["suspicious","semgrep"]}
         try:
             create_github_issue(issue_data)
         except:
             pass
+
+# parse sus file extensions output
+sus_files = {}
+with open('sus_files.txt','r') as f:
+    for line in f:
+        line = line.strip()
+        pkg_name = line.split('/')[1]
+        filepath = line.split(':')[0]
+        file_magic = line.split(': ')[1]
+        if pkg_name not in sus_files:
+            sus_files[pkg_name] = []
+        sus_files[pkg_name].append(line)
+
+for name in sus_files:
+    issue_data = {"title":f"{name} has {len(sus_files[name])} suspicious file formats", "body":json.dumps(sus_files[name],indent=2), "labels":["sus-file-formats"]}
+    try:
+        create_github_issue(issue_data)
+    except:
+        pass
+
+
+# parse yara scan output WIP
 
 #import code
 #code.interact(local=locals())
