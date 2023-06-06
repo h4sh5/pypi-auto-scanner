@@ -24,7 +24,7 @@ jobs:
         cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {}
 
     - name: stop sysdig
-      run: sudo pkill -fc sysdig
+      run: sudo pkill -fc sysdig || echo error here
 
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
