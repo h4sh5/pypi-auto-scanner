@@ -30,6 +30,7 @@ jobs:
         cd packages;
         cat ../new.txt | parallel pip download || echo ignoring some error $?
         for i in *; do unzip -- "$i"; done || echo ignorin error $?
+        for i in $(cat ../scanned_pkgs.txt); do rm -rf -- "$i" "$i-dist-info"; done
 
     - name: run semgrep scan
       run: |
