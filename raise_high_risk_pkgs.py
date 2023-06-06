@@ -59,7 +59,7 @@ for name in pkg_detections:
 
 # parse sus file extensions output
 sus_files = {}
-with open('sus_files.txt','r') as f:
+with open('new_sus_files.txt','r') as f:
     for line in f:
         line = line.strip()
         pkg_name = line.split('/')[1]
@@ -79,7 +79,7 @@ for name in sus_files:
 
 # parse yara scan output WIP
 yara_results = {}
-with open('sus_files.txt','r') as f:
+with open('yara_results.txt','r') as f:
     for line in f:
         line = line.strip()
         if len(line) <= 1: #skip empty lines
