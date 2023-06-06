@@ -14,9 +14,7 @@ jobs:
       with:
         python-version: '3.10'
         cache: 'pip'
-
-    - name: install semgrep 
-      run: pip3 install semgrep
+    - run: pip3 install semgrep
 
     - name: clone rules repo
       run: |
