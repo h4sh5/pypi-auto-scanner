@@ -21,7 +21,7 @@ jobs:
     - name: start sysdig, run pip install on each container
       run: |
         sudo sysdig -w sysdig.scap &
-        cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {}
+        cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {} || echo error here
 
     - name: stop sysdig
       run: sudo pkill -fc sysdig || echo error here
