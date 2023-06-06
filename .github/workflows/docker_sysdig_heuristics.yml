@@ -1,0 +1,38 @@
+name: Scan new pypi pkgs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/30 * * * *'
+
+jobs:
+  scan_new_pypi_pkgs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - run: sudo apt-get install sysdig -y
+
+    - name: get new packages names
+      run: python3 get_packages.py | tee new.txt
+
+    - name: start sysdig, run pip install on each container
+      run: |
+        sudo sysdig -w sysdig.scap &
+        cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {}
+
+    - name: stop sysdig
+      run: sudo pkill -fc sysdig
+
+    - name: Archive code coverage results
+      uses: actions/upload-artifact@v3
+      with:
+        name: new-scan-report
+        path: sysdig.scap
+
+
+
+
