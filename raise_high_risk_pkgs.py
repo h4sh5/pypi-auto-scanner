@@ -52,7 +52,10 @@ for name in pkg_detections:
         with open('high_risk_pkgs.csv','a+') as f:
             f.write(f'{name},{len(pkg_detections[name])}\n')
         issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":json.dumps(pkg_detections[name],indent=2), "labels":["suspicious"]}
-        create_github_issue(issue_data)
+        try:
+            create_github_issue(issue_data)
+        except:
+            pass
 
 #import code
 #code.interact(local=locals())
