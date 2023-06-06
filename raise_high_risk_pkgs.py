@@ -82,6 +82,8 @@ yara_results = {}
 with open('sus_files.txt','r') as f:
     for line in f:
         line = line.strip()
+        if len(line) <= 1: #skip empty lines
+            continue
         pkg_name = line.split(' ')[1].split('/')[1]
         if pkg_name not in yara_results:
             yara_results[pkg_name] = []
