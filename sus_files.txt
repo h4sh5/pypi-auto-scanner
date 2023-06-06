@@ -1,3 +1,19 @@
+packages/PySide6/Qt/libexec/QtWebEngineProcess: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=59ab981c466f16a56022c1ccc8f80abc27358714, stripped
+packages/PySide6/Qt/libexec/qmlcachegen: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fad0f176bd20b53c3b59ba812fff9249c30ed6bf, stripped
+packages/PySide6/Qt/libexec/qmlimportscanner: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=74f77faef07481f85f3fefcc89c9d0c05dd693b1, stripped
+packages/PySide6/Qt/libexec/qmltyperegistrar: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0ef3391078cbb677f3a029ccbc4d1244faeee2fb, stripped
+packages/PySide6/Qt/libexec/rcc: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cfedab62cb7e9fea6e6d558e095fc2d13cce93a8, stripped
+packages/PySide6/Qt/libexec/uic: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3830975a17923db8e030ffb0fb501c161f7ea011, stripped
+packages/PySide6/assistant: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6077cce7e5c6efa9d3fa661eb9258e223a56063f, stripped
+packages/PySide6/designer: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3ac39fa4d16dcfa36e46d2a1cab55be6917f5b13, stripped
+packages/PySide6/linguist: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9ca6344b75f93ddf22694ab4b57add05543a4a7b, stripped
+packages/PySide6/lrelease: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=97a05318ceb6f4b30182ff9293faaf8405e30132, stripped
+packages/PySide6/lupdate: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f27bb0225f019ea596c3b55e1c5c90d15423d326, stripped
+packages/PySide6/qmlformat: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a0661f49621766041bb7a57f69ea98a9b101d4c8, stripped
+packages/PySide6/qmllint: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cc1aafcb16382947a3a2a542daf3f69fd917a5bb, stripped
+packages/PySide6/qmlls: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bd27a7e2f46d7f1828dfd36eeaea81e59b745e18, stripped
+packages/PySide6/support/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/PySide6/support/__pycache__/deprecated.cpython-38.pyc: python 3.8 byte-compiled
 packages/christmas/mncPy/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/christmas/mncPy/__pycache__/common.cpython-39.pyc: python 3.9 byte-compiled
 packages/christmas/mncPy/__pycache__/compress.cpython-39.pyc: python 3.9 byte-compiled
@@ -260,6 +276,7 @@ packages/setuptools/gui-32.exe: PE32 executable (GUI) Intel 80386, for MS Window
 packages/setuptools/gui-64.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/setuptools/gui-arm64.exe: PE32+ executable (GUI) Aarch64, for MS Windows
 packages/setuptools/gui.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/shiboken6/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/tensorboard_data_server/bin/server: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1bc8cd0482cee15b71d8d9b9df1679d1fdfb83d5, for GNU/Linux 3.2.0, with debug_info, not stripped
 packages/torch/bin/nvfuser_tests: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e20644c7a19c1f2b36fd7bcefa882a02baa560af, for GNU/Linux 2.6.32, not stripped
 packages/torch/bin/protoc-3.13.0.0: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fdf6e0922e92f73c3ef736d0fff9a768f7e07ebb, for GNU/Linux 2.6.32, not stripped
