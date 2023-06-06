@@ -16,13 +16,17 @@ jobs:
         cache: 'pip'
     - run: pip3 install semgrep
 
+    - run: apt install yara -y
+
     - name: clone rules repo
       run: |
         git clone https://github.com/h4sh5/h4sh-semgrep-rules
+    
+    - name: clone ttp yara rules
+      run: git clone https://github.com/h4sh5/mal-library-ttps
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
-
 
     - name: download all new packages
       run: |
@@ -36,18 +40,24 @@ jobs:
       run: |
         semgrep --json -c h4sh-semgrep-rules/python packages/ | tee report.json
     
+
+    - name: run secret scan
+      run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
+
+    - name: run yara scan
+      run: yara mal-library-ttps/yara-rules/* packages/ | tee -a yara_results.txt
+
+    - name: suspicious files detection
+      run: |
+        bash detect_sus_file_formats.sh 
+
     - name: high risk pkgs detection
       run: |
         python3 raise_high_risk_pkgs.py
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: run secret scan
-      run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
 
-    - name: suspicious files detection
-      run: |
-        bash detect_sus_file_formats.sh 
     - name: Push scanned packages to cache
       run: | 
         cat new.txt >> scanned_pkgs.txt
