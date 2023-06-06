@@ -1,11 +1,11 @@
-name: Scan new pypi pkgs
+name: Docker sysdig pip install heuristics monitoring
 on:
   workflow_dispatch:
   schedule:
     - cron:  '*/30 * * * *'
 
 jobs:
-  scan_new_pypi_pkgs:
+  install_new_pypi_pkgs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
