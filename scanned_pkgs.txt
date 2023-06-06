@@ -44,6 +44,9 @@ Cython
 Cython-0.29.35-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
 Cython.libs
 DBUtils-3.0.3-py3-none-any.whl
+DKCloudCommand
+DKCloudCommand-1.1.271-py2.py3-none-any.whl
+DKCommon
 DataOcean
 DateTime
 DateTime-5.1-py3-none-any.whl
@@ -117,6 +120,8 @@ OpenGeode_core-14.1.11-cp310-cp310-manylinux2014_x86_64.whl
 OpenSSL
 Orr_Sommerfeld_convmix_CGB
 PIL
+PandasColorPrinter
+PandasColorPrinter-0.43-py3-none-any.whl
 ParallelPipe
 Paste-3.5.3-py2.py3-none-any.whl
 Paste-3.5.3-py3.10-nspkg.pth
@@ -130,6 +135,8 @@ PhyloPhlAn-3.0.3-py3-none-any.whl
 PhyloPhlAn-3.0.3.data
 Pillow-9.5.0-cp310-cp310-manylinux_2_28_x86_64.whl
 Pillow.libs
+PrettyColorPrinter
+PrettyColorPrinter-0.43-py3-none-any.whl
 ProductionalizingProject_1-0.23.3-py3-none-any.whl
 Products
 Products.BTreeFolder2-5.1-py3-none-any.whl
@@ -515,6 +522,8 @@ argon2_cffi_bindings.libs
 ariadne-codegen
 ariadne_codegen
 ariadne_codegen-0.7.1-py2.py3-none-any.whl
+aridity
+aridity-64-py2.py3-none-any.whl
 aries-cloudagent
 arivo-schedule
 arivo_schedule-1.2.1-py3-none-any.whl
@@ -874,6 +883,9 @@ bw2io
 bw2io-0.8.8.tar.gz
 bytedtrace
 bytedtrace-0.10.5-py3-none-any.whl
+byu-pytest-utils
+byu_pytest_utils
+byu_pytest_utils-0.6.3-py3-none-any.whl
 c2cciutils
 cachecontrol
 cached-url
@@ -1015,6 +1027,8 @@ cftime-1.6.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 cftime.libs
 cgitize
 cgitize-4.0.13-py3-none-any.whl
+cgsubmit
+cgsubmit-1.0.0-py3-none-any.whl
 chalice
 chalk-harness
 chalk_harness-0.17.3-py3-none-any.whl
@@ -1057,11 +1071,14 @@ circuitpython-h3lis200dl
 cirq
 cirq-aqt
 cirq-core
+cirq-ft
 cirq-google
 cirq-ionq
 cirq-pasqal
 cirq-rigetti
 cirq-web
+cirq_ft
+cirq_ft-1.2.0.dev20230606220332-py3-none-any.whl
 civics-cdf-validator
 civics_cdf_validator
 civics_cdf_validator-1.33-py3-none-any.whl
@@ -1206,6 +1223,7 @@ conviso-flowcli
 conviso_flowcli-1.12.0-py3-none-any.whl
 conviso_flowcli-1.12.0.data
 convisoappsec
+cookiecutter.json
 coremltools
 coretex
 coretex-1.0.4-py3-none-any.whl
@@ -1436,6 +1454,8 @@ diffenator2-0.2.4-py3-none-any.whl
 diffuserstangkhode
 diffusivity
 digiseller-api-tokenmanager
+digispark
+digispark-0.1.0.tar.gz
 dill
 dill-0.3.6-py3-none-any.whl
 dill-0.3.6.data
@@ -1476,6 +1496,8 @@ django-fakery
 django-gem
 django-hmac-authentication
 django-imagefit
+django-jbank
+django-jbank-4.2.7.tar.gz
 django-json-api
 django-modshib-certic
 django-pg-jsonschema
@@ -1501,6 +1523,7 @@ djangocms-simple-admin-style
 djangoldp-application
 djangoldp_application
 djangoldp_application-1.1.18-py3-none-any.whl
+dkcloudcommand
 dkist-processing-common
 dls-normsql
 dls-servbase
@@ -1582,6 +1605,8 @@ easy_install.py
 easyai-sdwebui-api
 easydags
 easylsb
+easypost
+easypost-8.0.0-py3-none-any.whl
 eazy
 ebank
 ebank-1.0.1-py3-none-any.whl
@@ -1630,6 +1655,13 @@ email_validator-2.0.0.post2-py3-none-any.whl
 embedding-reader
 embiggen
 embreex
+emmet
+emmet-api
+emmet-builders
+emmet-core
+emmet_api-0.55.4-py3-none-any.whl
+emmet_builders-0.55.4-py3-none-any.whl
+emmet_core-0.55.4-py3-none-any.whl
 empyric
 encoded-core
 enebootools
@@ -1673,9 +1705,11 @@ esa_cci_sm
 esa_cci_sm-0.4.0-py2.py3-none-any.whl
 esentity
 esi-core
+esi-utils-gmice
 esi_core
 esi_core-1.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 esi_core.libs
+esi_utils_gmice-1.0.0-py3-none-any.whl
 estimagic
 et_xmlfile
 et_xmlfile-1.1.0-py3-none-any.whl
@@ -1766,6 +1800,9 @@ fastcore-1.5.29-py3-none-any.whl
 fastdimr
 fastdownload
 fastdownload-0.0.7-py3-none-any.whl
+fastestimator
+fastestimator-nightly
+fastestimator_nightly-1.6.0.dev202306062143-py3-none-any.whl
 fastjet
 fastjsonschema
 fastjsonschema-2.17.1-py3-none-any.whl
@@ -1855,6 +1892,8 @@ fibphoflow
 fietsboek
 filelock
 filelock-3.12.0-py3-none-any.whl
+finalynx
+finalynx-1.20.2-py3-none-any.whl
 finance-jindowin
 finbourne_lab
 finbourne_lab_test
@@ -1954,8 +1993,14 @@ functime-client
 functime_client-0.1.4-py3-none-any.whl
 functorch
 future-0.18.3.tar.gz
+fw-gear-form-and-annotations-exporter
 fw-storage
+fw_gear_form_and_annotations_exporter
+fw_gear_form_and_annotations_exporter-0.0.4-py3-none-any.whl
 fwhunt-scan
+fyCursor
+fyCursor-0.1.0-py3-none-any.whl
+fycursor
 ga4-data-import
 ga4_data_import
 ga4_data_import-0.1.5-py3-none-any.whl
@@ -2024,6 +2069,7 @@ glclient
 globus-sdk
 gluonts
 gluonts-0.12.8-py3-none-any.whl
+gmice
 gmltools
 gmltools-0.0.78.tar.gz
 gmm-mi
@@ -2104,6 +2150,9 @@ greenlet-2.0.2.data
 greenlet.libs
 gregory-online
 gregory_online-0.2.6.tar.gz
+gretel-client
+gretel_client
+gretel_client-0.16.5-py3-none-any.whl
 grib2io
 grid2op
 gridappsd
@@ -2188,6 +2237,7 @@ hclust2-1.0.0.tar.gz
 hdbo-b
 hdn-research-environment
 headless
+healdata-utils
 health-calc-pack-python
 heisenbergpy
 hello50
@@ -2236,6 +2286,7 @@ honeybee-energy
 honeybee-ph
 honeybee-radiance
 honeybee-radiance-postprocess
+hooks
 hopic
 hopic-1.62.0-py3-none-any.whl
 howistheweathertoday
@@ -2312,6 +2363,7 @@ idna
 idna-3.4-py3-none-any.whl
 idspy-dictionaries
 idspy_dictionaries-0.3.1.tar.gz
+ifigure
 ilastik
 ilastik-napari
 ilastik_napari-0.2.2-py3-none-any.whl
@@ -2569,6 +2621,8 @@ ladybug-comfort
 ladybug-core
 ladybug-geometry
 ladybug-geometry-polyskel
+lagoon
+lagoon-31-py3-none-any.whl
 lalalaopti
 lalalaopti-1.0.0.tar.gz
 lama-cleaner
@@ -3114,13 +3168,18 @@ neon_mq_connector
 neon_mq_connector-0.6.0-py3-none-any.whl
 neopolitan
 neqsim
+nerfvis
+nerfvis-0.1.7.tar.gz
 nest_asyncio-1.5.6-py3-none-any.whl
 nest_asyncio.py
 netCDF4
 netCDF4-1.6.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 netCDF4.libs
 netbox-cisco-maintenance
+netbox-data-flows
 netbox-validity
+netbox_data_flows
+netbox_data_flows-0.6.0-py3-none-any.whl
 netcdf4
 netunicorn-connector-salt
 networkx
@@ -3147,6 +3206,8 @@ nidalee
 nikchat
 nikgapps
 nimblephysics
+ninjecto
+ninjecto-0.8.0-py3-none-any.whl
 nlp2
 nlpaug
 nlpaug-1.1.11-py3-none-any.whl
@@ -3511,6 +3572,8 @@ ont-remora
 onvif-gui
 onvif-gui-1.2.3.tar.gz
 ooresults
+opalstack
+opalstack-1.0.2-py3-none-any.whl
 open-aea-test-autonomy
 open-autonomy
 open_aea_test_autonomy-0.10.5.post2-py3-none-any.whl
@@ -3647,10 +3710,13 @@ pandas.libs
 pandas_datareader
 pandas_datareader-0.10.0-py3-none-any.whl
 pandasai
+pandascolorprinter
 pandasflow
 pandocfilters-1.5.0-py2.py3-none-any.whl
 pandocfilters.py
 panel
+pankmer
+pankmer-0.12.4.tar.gz
 panther-analysis-tool
 panther_analysis_tool-0.22.3.tar.gz
 paper-admin
@@ -3770,6 +3836,7 @@ php2py-0.2.0-py3-none-any.whl
 phylophlan
 pi7db
 pi7db-2.0-py3-none-any.whl
+piScope-1.0.14-py3-none-any.whl
 pianum
 pickleshare-0.7.5-py2.py3-none-any.whl
 pickleshare.py
@@ -3792,6 +3859,7 @@ pipeline-feature
 piperider-nightly
 pipiyiTools-0.0.3.tar.gz
 pipiyitools
+piscope
 pisensors
 pisensors-0.4.3-py3-none-any.whl
 pitlakq
@@ -4047,6 +4115,7 @@ preshed-3.0.8-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_
 preshed.libs
 pretext
 pretty_numbers
+prettycolorprinter
 prettynumbers
 prettynumbers-0.3.3-py3-none-any.whl
 prettytable
@@ -4129,6 +4198,7 @@ pulumi-civo
 pulumi-digitalocean
 pulumi-f5bigip
 pulumi-fastly
+pulumi-gcp
 pulumi-github
 pulumi-kubernetes
 pulumi-minio
@@ -4149,6 +4219,7 @@ pulumi_auth0-2.21.0.tar.gz
 pulumi_azure-5.43.0.tar.gz
 pulumi_civo-2.3.4.tar.gz
 pulumi_f5bigip-3.11.0.tar.gz
+pulumi_gcp-6.57.0.tar.gz
 pulumi_github-5.10.0.tar.gz
 pulumi_kubernetes-3.29.0.tar.gz
 pulumi_mongodbatlas-3.7.2.tar.gz
@@ -4177,12 +4248,15 @@ py2sambvca-1.4.1-py3-none-any.whl
 py4j
 py4j-0.10.9.7-py2.py3-none-any.whl
 py4j-0.10.9.7.data
+pyCapsid
+pyCapsid-0.3.4-py3-none-any.whl
 pyDFTutils
 pyDFTutils-0.1.13-py3-none-any.whl
 pyDFTutils-0.1.13.data
 pyDeprecate-0.3.2-py3-none-any.whl
 pyGuardPoint
 pyGuardPoint-0.9.3-py3-none-any.whl
+pyHalo
 pyOpenSSL-23.2.0-py3-none-any.whl
 pyPreservica
 pyPreservica-2.0.1-py3-none-any.whl
@@ -4213,6 +4287,10 @@ pybiocfilecache
 pybowl
 pycallingcards
 pycallingcards-0.0.8-py3-none-any.whl
+pycapsid
+pyckage-cookiecutter
+pyckage_cookiecutter
+pyckage_cookiecutter-0.4.0-py3-none-any.whl
 pyclowder
 pyclpu
 pycman-dna
@@ -4267,6 +4345,8 @@ pygnssutils
 pygost
 pygost-66.0.2.tar.gz
 pyguardpoint
+pyhalo
+pyhalo-0.2.5-py3-none-any.whl
 pyicat-plus
 pyicat-plus-0.1.4.tar.gz
 pyiges
@@ -4390,11 +4470,14 @@ pytesseract
 pytesseract-0.3.10-py3-none-any.whl
 pytest
 pytest-7.3.1-py3-none-any.whl
+pytest-check
 pytest-django-ifactory
 pytest-homeassistant-custom-component
 pytest-jira-xray
 pytest-memray
 pytest-when
+pytest_check
+pytest_check-2.1.5-py3-none-any.whl
 pytest_django
 pytest_django-4.5.2-py3-none-any.whl
 pytest_django_ifactory
@@ -4728,6 +4811,7 @@ scorecardpipeline
 scorecardpipeline-0.1.9-py3-none-any.whl
 scrapgpt
 scrapset
+screen.py
 screenpy
 screenpy-4.2.1-py3-none-any.whl
 screenpy-adapter-allure
@@ -4832,6 +4916,9 @@ silverstreamingapplication
 simba-uw-tf-dev
 simpervisor
 simpervisor-1.0.0-py3-none-any.whl
+simple-parsing
+simple_parsing
+simple_parsing-0.1.3-py3-none-any.whl
 simplegeomap
 simplejson
 simplejson-3.19.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -4842,6 +4929,8 @@ singer_sdk
 singer_sdk-0.14.0-py3-none-any.whl
 sioyek
 sioyek-0.31.11-py3-none-any.whl
+sirene
+sirene-0.0.1-py3-none-any.whl
 six-1.16.0-py2.py3-none-any.whl
 six.py
 skimage
@@ -4938,8 +5027,11 @@ spepper
 spepper-0.0.1-py3-none-any.whl
 spetlr
 spetlr-1.1.96-py3-none-any.whl
+sphinx-astropy
 sphinx-pytest
 sphinx-revealjs-slides
+sphinx_astropy
+sphinx_astropy-1.9.0-py3-none-any.whl
 spin-phonon-suite
 splathash
 splathash-1.0.0-py3-none-any.whl
@@ -5025,6 +5117,9 @@ stegonosaurus
 stem-1.8.2.tar.gz
 stepcount
 stepcount-2.1.4-py3-none-any.whl
+steps-autoencoder
+steps_autoencoder
+steps_autoencoder-0.1.3-py3-none-any.whl
 steptools
 stewchef
 stigg-api-client
@@ -5423,6 +5518,8 @@ torch-workflow-archiver-nightly
 torch_model_archiver_nightly-2023.6.6-py3-none-any.whl
 torch_workflow_archiver_nightly-2023.6.6-py3-none-any.whl
 torchbones
+torchbricks
+torchbricks-0.0.1-py3-none-any.whl
 torchdatasets-nightly
 torchgen
 torchlayers-nightly
@@ -5788,6 +5885,8 @@ wop
 workflow_archiver
 worldathletics
 worldathletics-1.0.0-py3-none-any.whl
+wpiformat
+wpiformat-2023.23-py3-none-any.whl
 wrapt
 wrapt-1.15.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 wrapt.libs
@@ -6038,3 +6137,4 @@ zstandard
 zstandard-0.21.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 zstandard.libs
 zxkane-cdk-construct-simple-nat
+{{cookiecutter.project_slug}}
