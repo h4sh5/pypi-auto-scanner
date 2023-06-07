@@ -38,5 +38,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: extracted-iocs
-        path: *.iocs.json
+        path: ./*.iocs.json
 
