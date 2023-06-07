@@ -13,24 +13,24 @@ jobs:
       with:
         python-version: '3.10'
 
-    - run: sudo apt-get install sysdig -y
+    - run: sudo apt-get install sysdig ripgrep -y
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
 
     - name: start sysdig, run pip install on each container
       run: |
-        sudo sysdig -w sysdig.scap &
+        sudo sysdig -pc -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > sysdig.json &
         cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {} || echo error here
 
     - name: stop sysdig
       run: sudo pkill -fc sysdig || echo error here
 
-    - name: Archive code coverage results
+    - name: Archive sysdig logs
       uses: actions/upload-artifact@v3
       with:
-        name: sysdig-scap-output
-        path: sysdig.scap
+        name: sysdig-output
+        path: sysdig.json
 
 
 
