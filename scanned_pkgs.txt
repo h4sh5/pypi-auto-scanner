@@ -127,6 +127,7 @@ LinSATNet
 LinSATNet-0.0.5-py3-none-any.whl
 LiteClashProMan
 Logbook-1.5.3.tar.gz
+MANIFEST.in
 MDRMF
 MDRMF-0.0.3-py3-none-any.whl
 MPSPlots
@@ -153,7 +154,10 @@ MultiMapping
 MultiMapping-5.0-py3-none-any.whl
 NEMO
 NEMO_CE-1.4.1-py3-none-any.whl
+NESTML-5.3.0-py3-none-any.whl
+NESTML-5.3.0.data
 NOTICE
+NOTICES.rst
 NaturalLanguage
 NetFS
 NikClip-2.1-py3-none-any.whl
@@ -320,6 +324,7 @@ Tailbone-0.9.29.tar.gz
 Task
 Testing
 ThreadNetwork
+Titan_Client-1.19.7-py3-none-any.whl
 TonTools-2.1.0.tar.gz
 TopasOpt
 TopasOpt-0.4.3-py3-none-any.whl
@@ -732,6 +737,8 @@ arsein
 arseintest
 art
 art-5.9-py2.py3-none-any.whl
+art-daq
+art-daq-2.0.1.tar.gz
 articlesumm
 articlesumm-0.0.1.tar.gz
 artus
@@ -1135,6 +1142,8 @@ blosc2_btune.libs
 blue-engine
 blueEngine
 blue_engine-0.0.4-py3-none-any.whl
+bluebox-users-client
+bluebox_users_client-0.1.0-py3-none-any.whl
 bluepy3
 bluepyopt
 bluetooth-data-tools
@@ -1626,6 +1635,7 @@ clinamen2
 clinica
 clipol
 clipol-1.tar.gz
+clitools
 clocky
 clocky-0.0.7-py3-none-any.whl
 clophfit
@@ -2162,6 +2172,7 @@ dkcloudcommand
 dkist-processing-common
 dl2050utils
 dl2050utils-1.0.284.tar.gz
+dlms-spodes
 dls-normsql
 dls-servbase
 dls-utilpack
@@ -2255,8 +2266,13 @@ dune-harmonizer
 dune_harmonizer-0.27.0-py3-none-any.whl
 dvc
 dvc-2.58.2-py3-none-any.whl
+dvc-data
+dvc_data
+dvc_data-0.55.0-py3-none-any.whl
 dve-lumipy-preview
 dve_lumipy_preview-0.1.550-py3-none-any.whl
+dwclib
+dwclib-2023.6.7-py3-none-any.whl
 dxr
 dxsp
 dynaconf-aws-loader
@@ -2316,6 +2332,9 @@ ecl_data_io
 ecl_data_io-3.1.0-py3-none-any.whl
 eclipse-zenoh
 eclipse_zenoh-0.7.2rc0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+ecs-composex
+ecs_composex
+ecs_composex-0.23.15-py3-none-any.whl
 edat-utils
 edat_utils
 edat_utils-0.5.4-py3-none-any.whl
@@ -2861,6 +2880,9 @@ geolibs
 geolibs-0.0.17-py3-none-any.whl
 geome
 georgio
+geoslurp
+geoslurp-2.1.1-py3-none-any.whl
+geoslurp-2.1.1.data
 geospec
 get-chrome-driver
 get-chrome-driver-1.3.11.tar.gz
@@ -3316,6 +3338,8 @@ importlib_resources
 importlib_resources-5.12.0-py3-none-any.whl
 imsholcal
 imsholcal-1.1.4-py3-none-any.whl
+in-dbt-core
+in_dbt_core-1.5.1-py3-none-any.whl
 index-calculator
 index_calculator
 index_calculator-0.7.3-py3-none-any.whl
@@ -3331,6 +3355,9 @@ inet_nm-0.0.1-py3-none-any.whl
 infer-subc
 infer_subc
 infer_subc-0.0.post1-py2.py3-none-any.whl
+inference
+inference-tools
+inference_tools-0.11.0-py3-none-any.whl
 inflection
 inflection-0.5.1-py2.py3-none-any.whl
 inflection.py
@@ -3546,9 +3573,13 @@ jupyter_server_proxy-3.2.1.data
 jupyterhub-firstuseauthenticator-greg
 jupyterhub-traefik-proxy
 jupyterlab-liveupdate
+jupyterlab-ou-brand-extension
 jupyterlab_liveupdate
 jupyterlab_liveupdate-0.1.1-py3-none-any.whl
 jupyterlab_liveupdate-0.1.1.data
+jupyterlab_ou_brand_extension
+jupyterlab_ou_brand_extension-0.2.0-py3-none-any.whl
+jupyterlab_ou_brand_extension-0.2.0.data
 jupyterlab_plotly
 jupyterlab_pygments
 jupyterlab_pygments-0.2.2-py2.py3-none-any.whl
@@ -3825,6 +3856,8 @@ lrbenchmark
 lrbenchmark-0.1.1-py3-none-any.whl
 lsmmdma
 lsmmdma-0.1.10-py3-none-any.whl
+lucidtech-synthetic
+lucidtech_synthetic-0.5.0-py2.py3-none-any.whl
 lumensigner
 lumigo-opentelemetry
 lumigo_opentelemetry
@@ -4151,6 +4184,8 @@ mosek
 motion-python
 mouritech-loggingerror
 mouritech-loggingperformance
+movie-rec-marking-aicore
+movie-rec-marking-aicore-0.1.4.tar.gz
 mozilla-metric-config-parser
 mozlog
 mozlog-8.0.0.tar.gz
@@ -4186,8 +4221,11 @@ muffin-peewee-aio
 muffin-rest
 multi-channel-pytorch
 multi-model-server
+multi-vector-simulator
 multi_channel_pytorch
 multi_channel_pytorch-0.1.0-py3-none-any.whl
+multi_vector_simulator
+multi_vector_simulator-1.0.0-py3-none-any.whl
 multidict
 multidict-6.0.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 multidict.libs
@@ -4225,6 +4263,7 @@ myads
 mybar
 mybar-0.3-py3-none-any.whl
 mycalculator
+mygemini
 mynacode
 mypackage
 mypackage123dpp
@@ -4363,6 +4402,7 @@ nerfvis
 nerfvis-0.1.7.tar.gz
 nest_asyncio-1.5.6-py3-none-any.whl
 nest_asyncio.py
+nestml
 netCDF4
 netCDF4-1.6.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 netCDF4.libs
@@ -4670,6 +4710,7 @@ odoo-addon-account-fiscal-year
 odoo-addon-account-invoice-margin
 odoo-addon-account-invoice-margin-sale
 odoo-addon-account-invoice-payment-term-date-due
+odoo-addon-account-invoice-pricelist
 odoo-addon-account-journal-lock-date
 odoo-addon-account-move-line-purchase-info
 odoo-addon-account-operating-unit
@@ -4730,10 +4771,12 @@ odoo-addon-mrp-bom-location
 odoo-addon-mrp-production-quant-manual-assign
 odoo-addon-mrp-production-serial-matrix
 odoo-addon-openupgrade-scripts
+odoo-addon-product-attribute-value-menu
 odoo-addon-product-form-purchase-link
 odoo-addon-product-logistics-uom
 odoo-addon-product-pack
 odoo-addon-product-pricelist-revision
+odoo-addon-product-pricelist-supplierinfo
 odoo-addon-purchase-fully-received
 odoo-addon-purchase-invoice-plan
 odoo-addon-purchase-merge
@@ -4754,6 +4797,7 @@ odoo-addon-stock-move-location
 odoo-addon-stock-picking-back2draft
 odoo-addon-stock-picking-product-kit-helper
 odoo-addon-stock-procurement-customer
+odoo-addon-stock-split-picking
 odoo-addon-survey-sale-generation
 odoo-addon-uom-unece
 odoo-addon-web-timeline
@@ -4937,6 +4981,8 @@ odoo14-addon-openupgrade-scripts
 odoo14-addon-partner-statement
 odoo14-addon-pos-partner-firstname
 odoo14-addon-pos-payment-change
+odoo14-addon-product-attribute-value-menu
+odoo14-addon-product-pricelist-supplierinfo
 odoo14-addon-project-task-pull-request
 odoo14-addon-project-template
 odoo14-addon-project-template-milestone
@@ -4982,6 +5028,8 @@ odoo14_addon_l10n_es_ticketbai-14.0.2.9.2-py3-none-any.whl
 odoo14_addon_mis_builder_cash_flow-14.0.1.0.2-py3-none-any.whl
 odoo14_addon_mrp_bom_note-14.0.1.0.1.dev2-py3-none-any.whl
 odoo14_addon_partner_statement-14.0.1.4.4-py3-none-any.whl
+odoo14_addon_product_attribute_value_menu-14.0.2.0.2-py3-none-any.whl
+odoo14_addon_product_pricelist_supplierinfo-14.0.1.1.1-py3-none-any.whl
 odoo14_addon_project_task_pull_request-14.0.1.1.0-py3-none-any.whl
 odoo14_addon_project_template-14.0.1.2.0-py3-none-any.whl
 odoo14_addon_project_template_milestone-14.0.1.0.1.dev8-py3-none-any.whl
@@ -5012,6 +5060,7 @@ odoo_addon_account_check_deposit-15.0.1.0.0.13-py3-none-any.whl
 odoo_addon_account_cutoff_base-16.0.1.0.0.19-py3-none-any.whl
 odoo_addon_account_fiscal_year-16.0.1.1.0-py3-none-any.whl
 odoo_addon_account_invoice_payment_term_date_due-15.0.1.1.0-py3-none-any.whl
+odoo_addon_account_invoice_pricelist-16.0.1.0.0.3-py3-none-any.whl
 odoo_addon_account_journal_lock_date-16.0.1.0.0.3-py3-none-any.whl
 odoo_addon_account_move_line_purchase_info-16.0.1.0.0.3-py3-none-any.whl
 odoo_addon_account_payment_purchase_stock-16.0.1.0.0.3-py3-none-any.whl
@@ -5048,9 +5097,11 @@ odoo_addon_letsencrypt-15.0.1.0.3-py3-none-any.whl
 odoo_addon_mrp_account_analytic-15.0.1.0.1.2-py3-none-any.whl
 odoo_addon_mrp_bom_location-16.0.1.0.0.2-py3-none-any.whl
 odoo_addon_mrp_production_quant_manual_assign-16.0.1.0.0.2-py3-none-any.whl
+odoo_addon_product_attribute_value_menu-15.0.1.1.1-py3-none-any.whl
 odoo_addon_product_form_purchase_link-15.0.1.1.0.1-py3-none-any.whl
 odoo_addon_product_logistics_uom-16.0.3.0.0-py3-none-any.whl
 odoo_addon_product_pricelist_revision-16.0.1.0.0.2-py3-none-any.whl
+odoo_addon_product_pricelist_supplierinfo-15.0.1.0.2-py3-none-any.whl
 odoo_addon_purchase_fully_received-15.0.1.0.0.2-py3-none-any.whl
 odoo_addon_purchase_order_type-16.0.1.0.0.2-py3-none-any.whl
 odoo_addon_purchase_partner_selectable_option-16.0.1.0.1.2-py3-none-any.whl
@@ -5062,6 +5113,7 @@ odoo_addon_sale_stock_secondary_unit-15.0.1.0.1.2-py3-none-any.whl
 odoo_addon_stock_move_location-16.0.1.1.0.2-py3-none-any.whl
 odoo_addon_stock_picking_back2draft-16.0.1.0.0.5-py3-none-any.whl
 odoo_addon_stock_picking_product_kit_helper-15.0.0.1.0.2-py3-none-any.whl
+odoo_addon_stock_split_picking-16.0.1.0.3-py3-none-any.whl
 odoo_addon_web_widget_plotly_chart-16.0.1.0.0.2-py3-none-any.whl
 odoo_addon_website_sale_comparison_hide_price-16.0.1.0.0.3-py3-none-any.whl
 odoo_addon_website_sale_secondary_unit-15.0.1.1.0.1-py3-none-any.whl
@@ -5181,6 +5233,8 @@ openseespy
 openseespylinux
 openseespywin
 opensourceleg
+opentok
+opentok-3.6.0-py2.py3-none-any.whl
 openvalidators
 openvalidators-test
 openvalidators_test-1.0.0-py3-none-any.whl
@@ -5193,14 +5247,21 @@ optimos
 optimos-0.9.2-py3-none-any.whl
 optool
 opuscleaner
+orange-earth-observation
 orange-system-dynamics
+orange_earth_observation-1.0.2-py3-none-any.whl
+orange_earth_observation-1.0.2-py3.8-nspkg.pth
+orangecontrib
 ord-schema
 ordered_set
 ordered_set-4.1.0-py3-none-any.whl
 orderly-web
 orderly_web-1.0.0.tar.gz
 ordinal-number
+ordinal-pytorch
 ordinal_number-0.1.tar.gz
+ordinal_pytorch
+ordinal_pytorch-0.1.0-py3-none-any.whl
 organizations
 organizations-0.1.2-py3-none-any.whl
 orjson
@@ -5424,9 +5485,13 @@ phamclust
 phamclust-1.0.1-py3-none-any.whl
 phc-ingestion
 phc_ingestion-0.3.33-py3-none-any.whl
+phidata
+phidata-1.6.21-py3-none-any.whl
 phik
 phik-0.12.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 phik.libs
+phiterm
+phiterm-1.6.21-py3-none-any.whl
 phoebusgen
 phoenixtools
 photo-burst-detection
@@ -5705,9 +5770,12 @@ pod5
 pod5-0.2.2-py3-none-any.whl
 podium-api
 podium_api-0.0.29.tar.gz
+poetry-demo-aflabs-test
 poetry-exec-plugin
 pofinance
 pofinance-0.0.2-py3-none-any.whl
+pointgroup
+pointgroup-0.4.1-py3-none-any.whl
 polaris-python-lite
 polars
 polars-0.18.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -5972,6 +6040,9 @@ pybiolib-1.1.971-py3-none-any.whl
 pybotx
 pybotx-0.55.4-py3-none-any.whl
 pybowl
+pybpsapi
+pybpsapi-1.3.0-py3-none-any.whl
+pybpsapi.py
 pycallingcards
 pycallingcards-0.0.8-py3-none-any.whl
 pycapsid
@@ -6012,6 +6083,8 @@ pydash2hls
 pydecs
 pyderasn
 pyderasn-66.0.2.tar.gz
+pydevd-pycharm
+pydevd-pycharm-232.7295.8.tar.gz
 pydevd_plugins
 pydftutils
 pydistances
@@ -6111,6 +6184,7 @@ pyncraft
 pynecone
 pyneoncli
 pyneoncli-0.0.9a3-py3-none-any.whl
+pynestml
 pynguin
 pynitrokey
 pynitrokey-0.4.38-py3-none-any.whl
@@ -6914,6 +6988,8 @@ skops-0.7.0-py3-none-any.whl
 sktime
 sktime-0.15.1-py3-none-any.whl
 skycatalogs
+skyflow
+skyflow-1.9.0-py3-none-any.whl
 sleep-inhibitor
 sleepeeg
 sliw
@@ -6977,6 +7053,8 @@ soda-core-trino
 soda-core-vertica
 soft-nudge
 solara-assets
+solfinder
+solfinder-1.0.4-py3-none-any.whl
 solidityscan
 somata
 somata-0.3.1-py3-none-any.whl
@@ -7004,6 +7082,8 @@ spaceone-core
 spaceone-inventory
 spaceone_core-1.12.8-py3-none-any.whl
 spaceone_inventory-1.11.0.3-py3-none-any.whl
+spacerunner
+spacerunner-0.0.1-py3-none-any.whl
 spacy
 spacy-3.5.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 spacy-llm
@@ -7230,6 +7310,9 @@ summarycode
 sun
 sun-1.5.2.tar.gz
 superpowered-sdk
+supervisely
+supervisely-6.72.30-py3-none-any.whl
+supervisely_lib
 supervision
 supervision-0.9.0-py3-none-any.whl
 support_modules
@@ -7270,6 +7353,7 @@ syneto-api
 syneto_api
 syneto_api-0.2.47-py3-none-any.whl
 synonym-custom
+synthetic
 t2qc
 t2qc-0.2.4-py2.py3-none-any.whl
 t2qc-0.2.4.data
@@ -7630,6 +7714,8 @@ tifffile
 tifffile-2023.4.12-py3-none-any.whl
 tigerblog
 tigerblog-0.1.15-py3-none-any.whl
+tigeropen
+tigeropen-2.4.0.tar.gz
 tiledb-jupyter-bioimg
 tiledb_jupyter_bioimg
 tiledb_jupyter_bioimg-0.1.1-py3-none-any.whl
@@ -7644,6 +7730,8 @@ tintolib-0.0.9-py3-none-any.whl
 tiny-ai-helper
 tinycss2
 tinycss2-1.2.1-py3-none-any.whl
+titan-client
+titan_client
 titulosuagrm
 titulosuagrm-0.1.tar.gz
 tkSrc
@@ -7841,6 +7929,9 @@ umap_project-1.3.3-py3-none-any.whl
 undetected-chromedriver-3.4.7.tar.gz
 unibetscraper
 unidecode
+uniparser-udmurt
+uniparser_udmurt
+uniparser_udmurt-2.1.30-py3-none-any.whl
 unipropic
 unit_tests
 unitsnet-py
@@ -7868,6 +7959,9 @@ urllib3
 urllib3-1.25.11-py2.py3-none-any.whl
 urllib3-1.26.16-py2.py3-none-any.whl
 urllib3-2.0.2-py3-none-any.whl
+us2djongo
+us2djongo-1.3.43.tar.gz
+userplugins
 usersettings-1.1.5-py3-none-any.whl
 usersettings.py
 uservice
@@ -8084,7 +8178,10 @@ weave_py_api-1.1.0-py3-none-any.whl
 weaveapi
 weaverbird
 weaverbird-0.31.1-py3-none-any.whl
+web
 web-etc
+web-foundation
+web_foundation-3.0.32-py3-none-any.whl
 webdav
 webdriver_manager
 webdriver_manager-3.8.6-py2.py3-none-any.whl
