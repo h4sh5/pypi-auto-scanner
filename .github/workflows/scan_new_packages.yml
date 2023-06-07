@@ -45,7 +45,7 @@ jobs:
       run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
 
     - name: run yara scan
-      run: yara mal-library-ttps/yara-rules/sus_pkg.yara packages | tee -a yara_results.txt
+      run: yara mal-library-ttps/yara-rules/sus_pkg.yara packages | tee  new_yara_results.txt
 
     - name: suspicious files detection
       run: |
@@ -61,6 +61,7 @@ jobs:
     - name: Push scanned packages to cache
       run: | 
         cat new.txt >> scanned_pkgs.txt
+        cat new_yara_results.txt >> yara_results.txt
         cd packages/ ; ls -d * |  grep -v dist-info >> ../scanned_pkgs.txt; cd ..
         sort -u scanned_pkgs.txt > scanned_pkgs.txt.1
         mv scanned_pkgs.txt.1 scanned_pkgs.txt

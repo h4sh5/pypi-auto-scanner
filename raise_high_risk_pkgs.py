@@ -83,7 +83,7 @@ for name in sus_files:
 
 # parse yara scan output WIP
 yara_results = {}
-with open('yara_results.txt','r') as f:
+with open('new_yara_results.txt','r') as f:
     for line in f:
         line = line.strip()
         if len(line) <= 1: #skip empty lines
