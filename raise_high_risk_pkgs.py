@@ -16,7 +16,11 @@ def create_github_issue(body):
     if r.status not in[200,201]:
         print('ERROR create_github_issue', r.status, data)
 
-    
+def get_project_link(name):
+    return 'https://pypi.org/project/'+name
+
+def get_inspector_link(name):
+    return 'https://inspector.pypi.io/project/'+name
 
 file = 'report.json'
 
@@ -51,7 +55,7 @@ for name in pkg_detections:
         print("High risk pkg:", name)
         with open('high_risk_pkgs.csv','a+') as f:
             f.write(f'{name},{len(pkg_detections[name])}\n')
-        issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":json.dumps(pkg_detections[name],indent=2), "labels":["suspicious","semgrep"]}
+        issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name],indent=2)+'```', "labels":["suspicious","semgrep"]}
         try:
             create_github_issue(issue_data)
         except:
@@ -70,7 +74,7 @@ with open('new_sus_files.txt','r') as f:
         sus_files[pkg_name].append(line)
 
 for name in sus_files:
-    issue_data = {"title":f"{name} has {len(sus_files[name])} suspicious file formats", "body":json.dumps(sus_files[name],indent=2), "labels":["sus-file-formats"]}
+    issue_data = {"title":f"{name} has {len(sus_files[name])} suspicious file formats", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(sus_files[name],indent=2)+'```', "labels":["sus-file-formats"]}
     try:
         create_github_issue(issue_data)
     except:
@@ -90,7 +94,11 @@ with open('yara_results.txt','r') as f:
         yara_results[pkg_name].append(line)
 
 for name in yara_results:
-    issue_data = {"title":f"{name} has {len(yara_results[name])} yara scan results", "body":'```'+json.dumps(yara_results[name],indent=2)+'```', "labels":["yara"]}
+    issue_data = {"title":f"{name} has {len(yara_results[name])} yara scan results", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(yara_results[name],indent=2)+'```', "labels":["yara"]}
+    try:
+        create_github_issue(issue_data)
+    except:
+        pass
 
 
 #import code
