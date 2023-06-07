@@ -376,6 +376,7 @@ Social
 SoundAnalysis
 Stockstir
 StringDist-1.0.9.tar.gz
+SupermarQ-0.3.30-py3-none-any.whl
 SwarmML
 SwarmML-1.0-py3-none-any.whl
 TDXLib-0.5.0-py3-none-any.whl
@@ -760,6 +761,9 @@ annotation_tool-0.9.0-py3-none-any.whl
 announcer
 announcer-5.0.0-py3-none-any.whl
 another-sd-client
+anova-wifi
+anova_wifi
+anova_wifi-0.10.2-py3-none-any.whl
 ansys
 ansys-fluent-core
 ansys-mapdl-reader
@@ -2035,9 +2039,12 @@ cirq-google
 cirq-ionq
 cirq-pasqal
 cirq-rigetti
+cirq-superstaq
 cirq-web
 cirq_ft
 cirq_ft-1.2.0.dev20230606220332-py3-none-any.whl
+cirq_superstaq
+cirq_superstaq-0.3.30-py3-none-any.whl
 civics-cdf-validator
 civics_cdf_validator
 civics_cdf_validator-1.33-py3-none-any.whl
@@ -2447,7 +2454,10 @@ databaserestoreintegrity
 databend-py
 databend_py
 databend_py-0.4.3-py3-none-any.whl
+databricks
 databricks-feature-lookup
+databricks-sql-connector
+databricks_sql_connector-2.6.0-py3-none-any.whl
 datachain
 datachain-1.1.0-py3-none-any.whl
 dataclass_dict_convert
@@ -2746,6 +2756,7 @@ django-join-unrelated
 django-json-api
 django-logpipe
 django-modshib-certic
+django-oscar-bluelight
 django-passkeys
 django-passkeys-1.1.1.tar.gz
 django-pfx
@@ -2781,6 +2792,7 @@ django_hydrothings-0.1.7-py3-none-any.whl
 django_join_unrelated
 django_join_unrelated-0.1.0.dev1-py3-none-any.whl
 django_logpipe-1.3.0-py3-none-any.whl
+django_oscar_bluelight-5.3.0-py3-none-any.whl
 django_pfx-1.1-py3-none-any.whl
 django_s3file-5.5.4-py3-none-any.whl
 django_vendor_promo-0.2.7-py2.py3-none-any.whl
@@ -2846,6 +2858,8 @@ docutils-0.15.2-py3-none-any.whl
 docutils-0.15.2.data
 docutils-0.20.1-py3-none-any.whl
 docutils-0.20.1.data
+dogpile-backend-redis-advanced
+dogpile_backend_redis_advanced-0.4.0.tar.gz
 dojo-compass
 dolfin-mech
 dolfin-warp
@@ -3673,6 +3687,9 @@ gen3-util
 geneCGR
 geneCGR-0.1-py3-none-any.whl
 genecgr
+general-superstaq
+general_superstaq
+general_superstaq-0.3.30-py3-none-any.whl
 geneseq
 geneseq-0.0.1-py3-none-any.whl
 genomenotebook
@@ -3867,6 +3884,8 @@ gpt_term
 gpt_term-1.1.2-py3-none-any.whl
 gpustat-1.1.tar.gz
 gracefully-kill
+gradio
+gradio-3.34.0-py3-none-any.whl
 gradio-client
 gradio_client
 gradio_client-0.2.6-py3-none-any.whl
@@ -3993,6 +4012,9 @@ hatch_rest_api-1.20.1-py3-none-any.whl
 haven
 havenllm
 havenllm-0.1-py3-none-any.whl
+havoc-clustering
+havoc_clustering
+havoc_clustering-0.0.15-py3-none-any.whl
 hazelbean
 hb-account-statement-banque-postale-csv
 hb_account_statement_banque_postale_csv
@@ -4212,6 +4234,8 @@ iboxstacksops-0.8.0.data
 iboxstacksops.egg-info
 icalendar
 icalendar-5.0.7-py3-none-any.whl
+icecube-skyreader
+icecube_skyreader-1.1.0-py3-none-any.whl
 iciconsole
 icub-models
 idbadapter
@@ -4249,6 +4273,8 @@ image-center
 image-filtering
 image_center
 image_center-1.0.1-py3-none-any.whl
+imageflow-py
+imageflow-py-0.0.1.tar.gz
 imageio
 imageio-2.31.0-py3-none-any.whl
 imbalanced_learn-0.8.1-py3-none-any.whl
@@ -4437,8 +4463,10 @@ irene_pro-0.0.50-py3-none-any.whl
 irene_pro-0.0.51-py3-none-any.whl
 irisml
 irisml-tasks
+irisml-tasks-training
 irisml-tasks-transformers
 irisml_tasks-0.0.31-py3-none-any.whl
+irisml_tasks_training-0.0.78-py3-none-any.whl
 irisml_tasks_transformers-0.0.2-py3-none-any.whl
 ironbot
 irt-data-utils
@@ -4912,6 +4940,7 @@ lnschema-core
 lnschema_bionty
 lnschema_bionty-0.18.3-py2.py3-none-any.whl
 load.py
+local_runner
 localstack-core
 localtileserver
 locationsharinglib
@@ -5000,6 +5029,8 @@ makerpack
 makerpack-0.1.0-py3-none-any.whl
 mako
 malihtorovich-serializer
+man-etl
+man_etl-0.0.3.tar.gz
 mande-integration-gisel
 mande_integration_gisel
 mande_integration_gisel-1.0.0-py3-none-any.whl
@@ -5116,6 +5147,8 @@ memoization-0.4.0.tar.gz
 memorix-client-redis
 memorix_client_redis
 memorix_client_redis-1.4.2-py3-none-any.whl
+mendeleev
+mendeleev-0.14.0-py3-none-any.whl
 meow-sim
 mercury-engine-data-structures
 mergepythonsdk
@@ -5465,9 +5498,12 @@ myads
 mybar
 mybar-0.3-py3-none-any.whl
 mycalculator
+mycroft
 mygemini
 mynacode
 mynode_setup
+myokit
+myokit-1.34.0-py3-none-any.whl
 mypackage
 mypackage123dpp
 mypackagelicenseprototype
@@ -5625,6 +5661,7 @@ neon-skill-alerts
 neon-skill-device-controls
 neon-skill-fallback-llm
 neon-skill-fallback-unknown
+neon-skill-speed-test
 neon-skill-support-helper
 neon-skill-user-settings
 neon-speech
@@ -5641,6 +5678,7 @@ neon_phal_plugin_reset
 neon_phal_plugin_reset-0.2.0-py3-none-any.whl
 neon_skill_device_controls-0.3.0-py3-none-any.whl
 neon_skill_fallback_llm-0.0.1a5-py3-none-any.whl
+neon_skill_speed_test-0.5.0-py3-none-any.whl
 neopolitan
 neqsim
 neqsim_ecalc_wrapper
@@ -6667,6 +6705,7 @@ orso
 orso-0.0.63-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 orso.libs
 osais
+oscarbluelight
 osdu-client
 osim-utils
 osim_utils
@@ -6693,6 +6732,7 @@ ovito-3.8.4-cp310-cp310-manylinux1_x86_64.whl
 ovito-3.8.4.data
 ovos-backend-client
 ovos-classifiers
+ovos-core
 ovos-dinkum-listener
 ovos-lingua-franca
 ovos-listener
@@ -6709,6 +6749,7 @@ ovos_backend_client
 ovos_backend_client-0.0.6-py3-none-any.whl
 ovos_classifiers
 ovos_classifiers-0.0.0a31-py3-none-any.whl
+ovos_core-0.0.7-py3-none-any.whl
 ovos_skill_homescreen-0.0.2-py3-none-any.whl
 ovos_skill_stop-0.2.1-py3-none-any.whl
 ovos_tts_plugin_mimic3
@@ -7287,6 +7328,8 @@ power-grid-model
 power_grid_model
 power_grid_model-1.4.74-py3-none-manylinux_2_24_x86_64.whl
 power_grid_model.libs
+powermolegui
+powermolegui-0.2.14.tar.gz
 pox
 pox-0.3.2-py3-none-any.whl
 pox-0.3.2.data
@@ -7384,6 +7427,8 @@ prompt_toolkit
 prompt_toolkit-3.0.38-py3-none-any.whl
 promptlayer
 promptlayer-0.1.85.tar.gz
+promptops
+promptops-0.1.6-py3-none-any.whl
 promptrix
 proofs
 propan
@@ -7697,6 +7742,9 @@ pyhalo-0.2.5-py3-none-any.whl
 pyhelpers
 pyhelpers-1.4.6-py3-none-any.whl
 pyhilo
+pyhmmer
+pyhmmer-0.8.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
+pyhmmer.libs
 pyicat-plus
 pyicat-plus-0.1.4.tar.gz
 pyiges
@@ -8081,6 +8129,8 @@ pytlgateway
 pytlgateway-0.2.17-py3-none-any.whl
 pytojs
 pytojs-0.1-py3-none-any.whl
+pytoolbox
+pytoolbox-14.5.0-py3-none-any.whl
 pytorch-ie
 pytorch-ignite
 pytorch-lightning
@@ -8126,6 +8176,8 @@ pyzmq-25.1.0-cp310-cp310-manylinux_2_28_x86_64.whl
 pyzmq.libs
 qanary-ner-automl-component
 qanary_ner_automl_component-2.0.0-py3-none-any.whl
+qclib
+qclib-0.0.23-py3-none-any.whl
 qcs-phy
 qcs-sdk-python
 qcs_phy-1.0.5.tar.gz
@@ -8133,6 +8185,9 @@ qdk
 qgate-perf
 qif
 qif-1.2.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+qiskit-superstaq
+qiskit_superstaq
+qiskit_superstaq-0.3.30-py3-none-any.whl
 qlapi-nrsdk
 qlapi_nrsdk
 qlapi_nrsdk-0.1.4-py3-none-any.whl
@@ -8556,6 +8611,7 @@ schema.py
 schema_salad
 schema_salad-8.4.20230601112322-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl
 schema_salad.libs
+schemander
 school-grader
 school_grader
 school_grader-3.0.1-py3-none-any.whl
@@ -8798,6 +8854,7 @@ skill_device_controls
 skill_fallback_llm
 skill_ovos_homescreen
 skill_ovos_stop
+skill_speed_test
 skimage
 skin-tone-classifier
 skin_tone_classifier-0.1.12-py3-none-any.whl
@@ -8810,6 +8867,7 @@ sktime-0.15.1-py3-none-any.whl
 skycatalogs
 skyflow
 skyflow-1.9.0-py3-none-any.whl
+skyreader
 slack-export-viewer
 slack-export-viewer-1.1.5.tar.gz
 sleep-inhibitor
@@ -9309,6 +9367,7 @@ sun-1.5.2.tar.gz
 sunpeek
 sunraster
 sunraster-0.4.3-py3-none-any.whl
+supermarq
 superpowered-sdk
 supervisely
 supervisely-6.72.30-py3-none-any.whl
@@ -9665,6 +9724,8 @@ terrace
 terrace-engine
 terrace_engine-0.0.1-py3-none-any.whl
 terraform-backend-s3-bucket
+terragit
+terragit-0.3.62.tar.gz
 terver
 terver-1.0.4-py3-none-any.whl
 test
@@ -9737,6 +9798,8 @@ th2_grpc_lw_data_provider-0.0.0.tar.gz
 themachinethatgoesping
 themachinethatgoesping-0.6.13-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl
 themachinethatgoesping.libs
+thetagang
+thetagang-1.6.1-py3-none-any.whl
 thinc
 thinc-8.1.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 thinc.libs
@@ -10010,6 +10073,8 @@ umap_project-1.3.3-py3-none-any.whl
 undetected-chromedriver-3.4.7.tar.gz
 unibetscraper
 unidecode
+unimenu
+unimenu-0.4.0-py3-none-any.whl
 uniparser-udmurt
 uniparser_udmurt
 uniparser_udmurt-2.1.30-py3-none-any.whl
