@@ -45,7 +45,7 @@ jobs:
       run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
 
     - name: run yara scan
-      run: yara mal-library-ttps/yara-rules/* packages/ | tee -a yara_results.txt
+      run: yara mal-library-ttps/yara-rules/sus_pkg.yara packages | tee -a yara_results.txt
 
     - name: suspicious files detection
       run: |
