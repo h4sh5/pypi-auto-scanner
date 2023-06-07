@@ -13,25 +13,30 @@ jobs:
       with:
         python-version: '3.10'
 
-    - run: sudo apt-get install sysdig ripgrep -y
+    - run: sudo apt-get install sysdig ripgrep golang-go -y
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
 
     - name: start sysdig, run pip install on each container
       run: |
-        sudo sysdig -pc -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > sysdig.json &
+        sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > sysdig.json &
         cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {} || echo error here
+
 
     - name: stop sysdig
       run: sudo pkill -fc sysdig || echo error here
 
-    - name: Archive sysdig logs
+
+    - name: build extractor
+      run: cd sysdig_ioc_extractor; go build sysdig_ioc_extractor.go; cd ..
+
+    - name: extract iocs
+      run: for i in $(cat new.txt); do rg "pip-install-$i" sysdig.json |  sysdig_ioc_extractor/sysdig_ioc_extractor /dev/stdin > "$i".iocs.json; done
+
+    - name: Upload IOCs
       uses: actions/upload-artifact@v3
       with:
-        name: sysdig-output
-        path: sysdig.json
-
-
-
+        name: extracted-iocs
+        path: *.iocs.json
 
