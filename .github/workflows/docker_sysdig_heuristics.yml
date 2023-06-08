@@ -14,9 +14,9 @@ jobs:
         python-version: '3.10'
 
     - uses: awalsh128/cache-apt-pkgs-action@latest
-        with:
-          packages:  sysdig ripgrep golang-go
-          version: 1.0
+      with:
+        packages:  sysdig ripgrep golang-go
+        version: 1.0
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
