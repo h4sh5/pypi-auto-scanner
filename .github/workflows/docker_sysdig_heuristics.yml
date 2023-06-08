@@ -18,6 +18,9 @@ jobs:
         packages:  sysdig ripgrep golang-go
         version: 1.0
 
+    - name: ensure apt pkgs are installed
+      run: sudo apt-get install sysdig ripgrep golang-go -y
+
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
 
