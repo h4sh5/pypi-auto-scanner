@@ -25,7 +25,7 @@ jobs:
       run: python3 get_packages.py | tee new.txt
 
     - name: build extractor
-      run: cd sysdig_ioc_extractor; go build sysdig_ioc_extractor.go; cd ..
+      run: cd sysdig_ioc_extractor; go build ioc_extractor.go; cd ..
 
     - name: for each package, start sysdig, run pip install on each container
       run: |
