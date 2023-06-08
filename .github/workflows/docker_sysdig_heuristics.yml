@@ -31,12 +31,13 @@ jobs:
           sudo pkill -c sysdig || echo pkill sysdig error $?
         done
 
-    - name: raise alerts
-      run: python3 raise_sus_heuristics.py *iocs.json
-
     - name: Upload IOCs
       uses: actions/upload-artifact@v3
       with:
         name: extracted-iocs
         path: ./*.iocs.json
+
+    - name: raise alerts
+      run: python3 raise_sus_heuristics.py *iocs.json
+
 
