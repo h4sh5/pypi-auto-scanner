@@ -33,9 +33,8 @@ jobs:
         do 
           sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name=$i) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" |  sysdig_ioc_extractor/sysdig_ioc_extractor /dev/stdin > "$i".iocs.json &
           sudo docker run --rm --name pip-install-$i python:3.10-buster pip install $i || echo error docker run $?
-          echo "killing sysdig:" 
-          sudo pkill -c sysdig || echo pkill sysdig error $?
         done
+        wait
 
     - name: Upload IOCs
       uses: actions/upload-artifact@v3
