@@ -23,7 +23,6 @@ jobs:
         sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > sysdig.json &
         cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {} || echo error here
 
-
     - name: stop sysdig
       run: sudo pkill -fc sysdig || echo error here
 
@@ -33,6 +32,9 @@ jobs:
 
     - name: extract iocs
       run: for i in $(cat new.txt); do rg "pip-install-$i" sysdig.json |  sysdig_ioc_extractor/sysdig_ioc_extractor /dev/stdin > "$i".iocs.json; done
+
+    - name: raise alerts
+      run: python3 raise_sus_heuristics.py *iocs.json
 
     - name: Upload IOCs
       uses: actions/upload-artifact@v3
