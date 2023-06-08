@@ -28,7 +28,11 @@ ip_port_bypass = [ ("168.63.129.16", "53"), ("0.0.0.0","0") ]
 files = sys.argv[1:]
 
 for file in files:
-    d = json.load(open(file, 'r'))
+    try:
+        d = json.load(open(file, 'r'))
+    except Exception as e:
+        print("error json loading",file,e)
+        continue
     # keys: package, connections (protocol,address,port), dns, files, commands
     # (maybe fix src so that package is in source json file instead of filename?)
     name = file.split('.iocs.json')[0]
