@@ -18,20 +18,12 @@ jobs:
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
 
-    - name: start sysdig, run pip install on each container
-      run: |
-        sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > sysdig.json &
-        cat new.txt | parallel sudo docker run --rm --name pip-install-{} python:3.10-buster pip install {} || echo error here
-
-    - name: stop sysdig
-      run: sudo pkill -fc sysdig || echo error here
-
-
     - name: build extractor
       run: cd sysdig_ioc_extractor; go build sysdig_ioc_extractor.go; cd ..
 
-    - name: extract iocs
-      run: for i in $(cat new.txt); do rg "pip-install-$i" sysdig.json |  sysdig_ioc_extractor/sysdig_ioc_extractor /dev/stdin > "$i".iocs.json; done
+    - name: for each package, start sysdig, run pip install on each container
+      run: |
+        for i in $(cat new.txt); do sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name=$i) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" |  sysdig_ioc_extractor/sysdig_ioc_extractor /dev/stdin > "$i".iocs.json & ; sudo docker run --rm --name pip-install-$i python:3.10-buster pip install $i || echo error docker run $?; echo killing sysdig: ; sudo pkill -fc sysdig || echo pkill sysdig error $? ;done
 
     - name: raise alerts
       run: python3 raise_sus_heuristics.py *iocs.json
