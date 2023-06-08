@@ -38,6 +38,11 @@ for file in files:
     name = file.split('.iocs.json')[0]
     commands = d['commands']
     connections = d['connections']
+
+    if commands == None:
+        commands = []
+    if connections == None:
+        connections = []
     # TODO files and dns
 
     # detections
