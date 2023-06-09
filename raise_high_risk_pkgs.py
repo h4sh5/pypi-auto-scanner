@@ -35,10 +35,8 @@ pkg_detections = {}
 
 for i in results:
     name_ver = i['dependency'] + ' ' + i['version']
-    if not name_ver in pkg_detections:
-        pkg_detections[name_ver] = []
     if i['result']['issues'] > 0:
-        pkg_detections[name_ver].append(i)
+        pkg_detections[name_ver] = i
 
 for name_ver in pkg_detections:
     name = name_ver.split()[0]
