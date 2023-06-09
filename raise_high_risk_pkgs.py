@@ -5,7 +5,7 @@ import sys
 from urllib.request import urlopen,Request
 
 '''
-script to parse semgrep json output
+script to parse output of static / other scanners and raise github issues
 '''
 
 def create_github_issue(body):
@@ -41,25 +41,6 @@ for i in results:
         pkg_detections[pkg_name] = []
     pkg_detections[pkg_name].append(i)
 
-
-#print(sev_map)
-for name in pkg_detections:
-    #print(name, pkg_detections[name])
-    error_exists = False
-    for d in pkg_detections[name]:
-        severity = d['extra']['severity']
-        if severity == "ERROR":
-            error_exists = True
-            break
-    if error_exists or len(pkg_detections[name]) > 3:
-        print("High risk pkg:", name)
-        with open('high_risk_pkgs.csv','a+') as f:
-            f.write(f'{name},{len(pkg_detections[name])}\n')
-        issue_data = {"title":f"{name} has {len(pkg_detections[name])} detections", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name],indent=2)+'```', "labels":["suspicious","semgrep"]}
-        try:
-            create_github_issue(issue_data)
-        except:
-            pass
 
 # parse sus file extensions output
 sus_files = {}
