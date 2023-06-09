@@ -1,8 +1,3 @@
-packages/music_assistant/music_providers/spotify/librespot/windows/librespot.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/music_assistant/music_providers/spotify/librespot/freebsd/librespot: ELF 64-bit LSB pie executable, x86-64, version 1 (FreeBSD), dynamically linked, interpreter /libexec/ld-elf.so.1, FreeBSD-style, with debug_info, not stripped
-packages/music_assistant/music_providers/spotify/librespot/linux/librespot-x86_64: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, stripped
-packages/music_assistant/music_providers/spotify/librespot/linux/librespot-armhf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/music_assistant/music_providers/spotify/librespot/linux/librespot-arm: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/music_assistant/music_providers/spotify/librespot/linux/librespot-aarch64: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, stripped
-packages/music_assistant/music_providers/spotify/librespot/linux/librespot-armv7: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/music_assistant/music_providers/spotify/librespot/osx/librespot: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>
+packages/accesschk2df/accesschk64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/accesschk2df/accesschk64a.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/accesschk2df/accesschk.exe: PE32 executable (console) Intel 80386, for MS Windows
