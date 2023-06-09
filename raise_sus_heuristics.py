@@ -72,8 +72,4 @@ for file in files:
         # create issues
         detection_tags = list(detection_tags)
         issue_data = {"title":f"{name} has heuristics detections", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections,indent=2)+'```', "labels":detection_tags}
-        try:
-            create_github_issue(issue_data)
-        except:
-            pass
-
+        create_github_issue(issue_data)
