@@ -30,6 +30,7 @@ jobs:
           sudo docker run --rm --name pip-install-$(echo $i | tr '=' '_') python:3.10-buster pip install "$i" || echo error docker run $?
           sudo pkill -c sysdig
           sysdig_ioc_extractor/ioc_extractor "$i".sysdig.json > "$i".iocs.json
+          sudo rm "$i".sysdig.json
         done
 
 
