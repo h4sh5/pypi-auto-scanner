@@ -63,6 +63,8 @@ jobs:
         git add *.txt *.csv
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
+        git config --global branch.autoSetupMerge always
+        git pull
         git commit -m "new scan output $(date)"
         git push 
 
