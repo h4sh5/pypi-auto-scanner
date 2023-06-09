@@ -22,24 +22,31 @@ def get_project_link(name):
 def get_inspector_link(name):
     return 'https://inspector.pypi.io/project/'+name
 
+# currently guarddog
 file = 'report.json'
 
 if len(sys.argv) > 1:
     file = sys.argv[1]
 
-d = json.load(open(file, 'r'))
-
-results = d['results']
+results = json.load(open(file, 'r'))
 
 # detections
 pkg_detections = {}
-sev_map = {}
 
 for i in results:
-    pkg_name = i['path'].split('packages')[1].split('/')[1]
-    if not pkg_name in pkg_detections:
-        pkg_detections[pkg_name] = []
-    pkg_detections[pkg_name].append(i)
+    name_ver = i['dependency'] + ' ' + i['version']
+    if not name_ver in pkg_detections:
+        pkg_detections[name_ver] = []
+    if i['result']['issues'] > 0:
+        pkg_detections[name_ver].append(i)
+
+for name_ver in pkg_detections:
+    name = name_ver.split()[0]
+    issue_data = {"title":f"{name_ver} has {pkg_detections[name_ver]['issues']} GuardDog issues", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name_ver],indent=2)+'```', "labels":["suspicious","guarddog"]}
+    try:
+        create_github_issue(issue_data)
+    except:
+        pass
 
 
 # parse sus file extensions output
