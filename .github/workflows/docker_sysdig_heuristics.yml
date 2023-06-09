@@ -13,13 +13,8 @@ jobs:
       with:
         python-version: '3.10'
 
-    - uses: awalsh128/cache-apt-pkgs-action@latest
-      with:
-        packages:  sysdig ripgrep golang-go
-        version: 1.0
-
     - name: ensure apt pkgs are installed
-      run: sudo apt-get install sysdig ripgrep golang-go -y
+      run: sudo apt-get install sysdig ripgrep golang-go tcpdump -y
 
     - name: get new packages names
       run: python3 get_packages.py | tee new.txt
@@ -31,9 +26,11 @@ jobs:
       run: |
         for i in $(cat new.txt)
         do 
+          sudo tcpdump -w "$i".pcap &
           sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > "$i".sysdig.json &
           sudo docker run --rm --name pip-install-$i python:3.10-buster pip install $i || echo error docker run $?
           sudo pkill -c sysdig
+          sudo pkill -c tcpdump
           sysdig_ioc_extractor/ioc_extractor "$i".sysdig.json > "$i".iocs.json
         done
 
@@ -43,6 +40,12 @@ jobs:
       with:
         name: extracted-iocs
         path: ./*.iocs.json
+
+    - name: Upload pcaps
+      uses: actions/upload-artifact@v3
+      with:
+        name: pcaps
+        path: ./*.pcap
 
     - name: raise alerts
       run: python3 raise_sus_heuristics.py *iocs.json
