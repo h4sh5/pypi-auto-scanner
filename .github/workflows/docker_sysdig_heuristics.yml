@@ -2,7 +2,7 @@ name: Docker sysdig pip install heuristics monitoring
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/30 * * * *'
+    - cron:  '*/20 * * * *'
 
 jobs:
   install_new_pypi_pkgs:

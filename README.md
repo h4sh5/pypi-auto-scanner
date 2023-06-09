@@ -1,6 +1,6 @@
 # pypi auto scanner
 
-A github action that fetches the latest pypi packages and scans them using a variety of methods:
+A github action that periodically fetches the latest pypi packages and scans them using a variety of methods:
 - Datadog's guarddog tool (which uses `semgrep` rules to run static analysis on source code)
 - custom yara rules
 - running `file` and detection binary executables
