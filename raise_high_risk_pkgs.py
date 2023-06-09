@@ -40,7 +40,7 @@ for i in results:
 
 for name_ver in pkg_detections:
     name = name_ver.split()[0]
-    issue_data = {"title":f"{name_ver} has {pkg_detections[name_ver]['issues']} GuardDog issues", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name_ver],indent=2)+'```', "labels":["suspicious","guarddog"]}
+    issue_data = {"title":f"{name_ver} has {pkg_detections[name_ver]['result']['issues']} GuardDog issues", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name_ver],indent=2)+'```', "labels":["suspicious","guarddog"]}
     try:
         create_github_issue(issue_data)
     except:
