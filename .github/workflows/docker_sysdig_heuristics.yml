@@ -49,5 +49,7 @@ jobs:
 
     - name: raise alerts
       run: python3 raise_sus_heuristics.py *iocs.json
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
