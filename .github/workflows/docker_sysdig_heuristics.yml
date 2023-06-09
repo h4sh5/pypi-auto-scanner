@@ -26,11 +26,9 @@ jobs:
       run: |
         for i in $(cat new.txt)
         do 
-          sudo tcpdump -w "$i".pcap &
           sudo sysdig -p "*%evt.num %evt.outputtime %container.name %proc.name (%thread.tid:%thread.vtid) %evt.dir %evt.type %evt.info %evt.arg.flags %fd.name %fd.cip %fd.sip %fd.sport %proc.exeline" -j "(container.name contains pip-install) and not (fd.sip.name=pypi.org or fd.cip.name=pypi.org) and not (fd.sip.name=files.pythonhosted.org or fd.cip.name=files.pythonhosted.org)" > "$i".sysdig.json &
           sudo docker run --rm --name pip-install-$(echo $i | tr '=' '_') python:3.10-buster pip install "$i" || echo error docker run $?
           sudo pkill -c sysdig
-          sudo pkill -c tcpdump
           sysdig_ioc_extractor/ioc_extractor "$i".sysdig.json > "$i".iocs.json
         done
 
@@ -41,11 +39,11 @@ jobs:
         name: extracted-iocs
         path: ./*.iocs.json
 
-    - name: Upload pcaps
-      uses: actions/upload-artifact@v3
-      with:
-        name: pcaps
-        path: ./*.pcap
+    # - name: Upload pcaps
+    #   uses: actions/upload-artifact@v3
+    #   with:
+    #     name: pcaps
+    #     path: ./*.pcap
 
     - name: raise alerts
       run: python3 raise_sus_heuristics.py *iocs.json
