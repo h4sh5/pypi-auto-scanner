@@ -788,6 +788,14 @@ packages/moftransformer/libs/GRIDAY/scripts/grid2COTA: ELF 64-bit LSB pie execut
 packages/moftransformer/libs/GRIDAY/scripts/grid2props: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2605ea20bb5e6b13e46f342a0ebf679ae57029f1, for GNU/Linux 3.2.0, not stripped
 packages/moftransformer/libs/GRIDAY/scripts/grid2visit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=656b3456925f4d80b89caa8f49aef05f9708890d, for GNU/Linux 3.2.0, not stripped
 packages/moftransformer/libs/GRIDAY/scripts/grid_gen: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=26d4e120149db91279659de692636dd548d912d7, for GNU/Linux 3.2.0, not stripped
+packages/music_assistant/music_providers/spotify/librespot/freebsd/librespot: ELF 64-bit LSB pie executable, x86-64, version 1 (FreeBSD), dynamically linked, interpreter /libexec/ld-elf.so.1, FreeBSD-style, with debug_info, not stripped
+packages/music_assistant/music_providers/spotify/librespot/linux/librespot-aarch64: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, stripped
+packages/music_assistant/music_providers/spotify/librespot/linux/librespot-arm: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/music_assistant/music_providers/spotify/librespot/linux/librespot-armhf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/music_assistant/music_providers/spotify/librespot/linux/librespot-armv7: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/music_assistant/music_providers/spotify/librespot/linux/librespot-x86_64: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, stripped
+packages/music_assistant/music_providers/spotify/librespot/osx/librespot: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>
+packages/music_assistant/music_providers/spotify/librespot/windows/librespot.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/myke/__pycache__/__init__.cpython-310.pyc: data
 packages/myke/__pycache__/__main__.cpython-310.pyc: data
 packages/myke/__pycache__/__version__.cpython-310.pyc: data
