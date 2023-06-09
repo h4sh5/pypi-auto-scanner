@@ -28,8 +28,9 @@ for chan in root[0]:
         if e.tag == 'link':
             link = e.text
             name = link.split('/')[4]
+            version = link.split('/')[5]
             if name not in already_scanned:
-                print(name)
+                print(name + '==' + version)
 
 # debugging
 #import code
