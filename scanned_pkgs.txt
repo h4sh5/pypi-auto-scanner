@@ -1364,7 +1364,9 @@ alexandria3k-3.0.0-py3-none-any.whl
 algebra-with-sympy
 algeria
 algeria-0.1.0-py3-none-any.whl
+algeria-0.2.0-py3-none-any.whl
 algeria==0.1.0
+algeria==0.2.0
 algokit
 algokit-1.1.0-py3-none-any.whl
 algokit-client-generator
@@ -3550,6 +3552,7 @@ brainfk-0.0.1-py3-none-any.whl
 brainfk-0.0.2.tar.gz
 brainfk==0.0.1
 brainfk==0.0.2
+brainfk==0.0.3
 brainsurf
 brainsurf-7.0.0.tar.gz
 braintrust
@@ -4512,11 +4515,14 @@ civicutils==1.0.1
 ckanext
 ckanext-oidc-pkce
 ckanext-toolbelt
+ckanext-toolbelt==0.4.0
 ckanext-vocabularies
 ckanext_oidc_pkce-0.3.0-py3-none-any.whl
 ckanext_oidc_pkce-0.3.0-py3.8-nspkg.pth
 ckanext_toolbelt-0.3.13-py3-none-any.whl
 ckanext_toolbelt-0.3.13-py3.8-nspkg.pth
+ckanext_toolbelt-0.4.0-py3-none-any.whl
+ckanext_toolbelt-0.4.0-py3.11-nspkg.pth
 ckanext_vocabularies-0.0.7-py3-none-any.whl
 ckanext_vocabularies-0.0.7-py3.8-nspkg.pth
 clairvoyance-feature-selection==2023.6.9
@@ -4576,6 +4582,7 @@ clickzetta-sqlalchemy-0.8.9.tar.gz
 client
 client_custom_dataset
 client_module
+client_test
 clientpkgs
 clinamen2
 clinica
@@ -7787,6 +7794,7 @@ flask-marshmallow-openapi==0.1.6
 flask-simplepay
 flask-sqlalchemy-whoosh
 flask-useful
+flask-useful==0.2.5
 flask_babel
 flask_babel-3.1.0-py3-none-any.whl
 flask_bigapp
@@ -7798,6 +7806,8 @@ flask_marshmallow_openapi-0.1.2-py3-none-any.whl
 flask_marshmallow_openapi-0.1.5-py3-none-any.whl
 flask_marshmallow_openapi-0.1.6-py3-none-any.whl
 flask_sqlalchemy_whoosh-0.1.1-py2.py3-none-any.whl
+flask_useful
+flask_useful-0.2.5-py3-none-any.whl
 flaskel
 flat-api
 flatland-railway-extension
@@ -11184,7 +11194,11 @@ lnschema_core-0.35.4-py2.py3-none-any.whl
 load.py
 local
 local_runner
+localai-0.0.26-py3-none-any.whl
+localai==0.0.26
 localencrypt
+localgpt-0.0.26-py3-none-any.whl
+localgpt==0.0.26
 localize
 localize-1.2.2-py2.py3-none-any.whl
 localstack
@@ -11245,6 +11259,8 @@ lollms-1.1.33-py3-none-any.whl
 lollms-1.1.34-py3-none-any.whl
 lollms-1.1.35-py3-none-any.whl
 lollms-1.1.36-py3-none-any.whl
+lollms-1.1.37-py3-none-any.whl
+lollms-1.1.38-py3-none-any.whl
 lollms==1.1.28
 lollms==1.1.29
 lollms==1.1.30
@@ -11254,6 +11270,8 @@ lollms==1.1.33
 lollms==1.1.34
 lollms==1.1.35
 lollms==1.1.36
+lollms==1.1.37
+lollms==1.1.38
 longalpha-utils
 longalpha_utils
 longalpha_utils-0.55-py3-none-any.whl
@@ -12151,6 +12169,16 @@ mobio-dedupe-sdk-test-1.0.21.tar.gz
 mocet
 mocet-0.0.1-py3-none-any.whl
 mock-data-generator
+modal
+modal-0.49.2364-py3-none-any.whl
+modal-client==0.49.2364
+modal==0.49.2364
+modal_base_images
+modal_client-0.49.2364-py3-none-any.whl
+modal_proto
+modal_test_support
+modal_utils
+modal_version
 modbed
 modbedtools
 modbedtools-0.1.4-py3-none-any.whl
@@ -13356,8 +13384,10 @@ novalabs
 novalabs-backtest
 novalabs_backtest-1.1.26-py3-none-any.whl
 novel-swarms
+novel-swarms==0.1.7a0
 novel_swarms
 novel_swarms-0.1.6a0-py3-none-any.whl
+novel_swarms-0.1.7a0-py3-none-any.whl
 novelai-api==0.16.3
 novelai_api
 novelai_api-0.16.3-py3-none-any.whl
@@ -16843,6 +16873,8 @@ prismstudio-stg
 prismstudio_dev-1.1.2-py310-none-manylinux2014_x86_64.whl
 prismstudio_stg-1.1.2-py310-none-manylinux2014_x86_64.whl
 prismstudio_stg-1.1.2.data
+privategpt-0.0.26-py3-none-any.whl
+privategpt==0.0.26
 priwo
 priwo-0.0.3-py3-none-any.whl
 priwo==0.0.3
@@ -18033,6 +18065,9 @@ pyrademacher==0.9.15
 pyrchive
 pyrchive-0.0.1-py3-none-any.whl
 pyrchive.py
+pyrcs
+pyrcs-0.3.6-py3-none-any.whl
+pyrcs==0.3.6
 pyrddlgym
 pyre-check-nightly
 pyre-check-nightly==0.0.101686310781
@@ -19444,7 +19479,9 @@ scrapgpt
 scrapset
 scratchattach
 scratchattach-1.1.8-py3-none-any.whl
+scratchattach-1.2.0-py3-none-any.whl
 scratchattach==1.1.8
+scratchattach==1.2.0
 scratchpad
 scratchpad-py
 scratchpad_py-0.0.5-py3-none-any.whl
@@ -20926,6 +20963,8 @@ sun-1.5.2.tar.gz
 sunpeek
 sunraster
 sunraster-0.4.3-py3-none-any.whl
+superagi-0.0.26-py3-none-any.whl
+superagi==0.0.26
 supermarq
 superpowered-sdk
 supervisely
@@ -22168,6 +22207,9 @@ twitter-api-client==0.9.5
 twitter_api_client-0.9.5-py3-none-any.whl
 twscrape
 txcouchbase
+txt2ebook
+txt2ebook-0.1.39-py3-none-any.whl
+txt2ebook==0.1.39
 tycho
 tycho-api==1.14.0
 tycho-api==1.14.0.dev20230609165101
