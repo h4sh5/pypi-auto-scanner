@@ -79,6 +79,8 @@ BaseDT-0.0.6-py3-none-any.whl
 BasicLibrary.PY-0.5.1.tar.gz
 BatAnalysis-1.0.0-py3-none-any.whl
 BatteryRateCap-0.1.1-py3-none-any.whl
+BayesCCal
+BayesCCal-0.1.1-py3-none-any.whl
 Bgolearn
 Bgolearn-2.1.1-py3-none-any.whl
 BigBrainGHLPy-0.0.10-py3-none-any.whl
@@ -2637,6 +2639,7 @@ bahire_hasab-0.2.8-py3-none-any.whl
 balaboba
 balaboba-3.0.2-py3-none-any.whl
 balaboba==3.0.2
+balladeer==0.38.0
 banglaspeech2text
 bank_sync
 bantam
@@ -2701,6 +2704,7 @@ batteryratecap
 battle-cats-save-editor
 battle_cats_save_editor-2.7.2.2-py3-none-any.whl
 bayanpy
+bayesccal==0.1.1
 bayesianbandits
 bayesianbandits-0.4.0-py3-none-any.whl
 bayesianbandits-0.4.1-py3-none-any.whl
@@ -5070,9 +5074,11 @@ crayfish==0.0.1
 crazy-thursday
 crazy-thursday==2023.6.10.0
 crazy-thursday==2023.6.10.1
+crazy-thursday==2023.6.11.0
 crazy_thursday
 crazy_thursday-2023.6.10.0-py3-none-any.whl
 crazy_thursday-2023.6.10.1-py3-none-any.whl
+crazy_thursday-2023.6.11.0-py3-none-any.whl
 crcmod-1.7.tar.gz
 crdb
 crdb-0.12.0-py3-none-any.whl
@@ -5192,6 +5198,9 @@ csp-cli
 csp_cli-1.3.3-py3-none-any.whl
 csr-azure-utils
 csr_azure_utils-2.0.10.tar.gz
+css-inline==0.9.0
+css_inline
+css_inline-0.9.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 cssselect
 cssselect-1.2.0-py2.py3-none-any.whl
 cst816.py
@@ -7379,9 +7388,11 @@ fake_traffic
 fake_traffic-1.9.0-py3-none-any.whl
 faker
 faker-cli
+faker-cli==0.3.0
 faker-file
 faker_cli
 faker_cli-0.2.0-py3-none-any.whl
+faker_cli-0.3.0-py3-none-any.whl
 fakeredis
 fakeredis-1.7.6-py3-none-any.whl
 fakts
@@ -9312,6 +9323,9 @@ hpolib-extractor==2.0.0
 hpolib_extractor
 hpolib_extractor-2.0.0-py3-none-any.whl
 hrin-msb
+hrin-msb==0.2.69
+hrin_msb-0.2.69-py3-none-any.whl
+hrin_msb.py
 hsfs
 hsfs-3.0.7.tar.gz
 hshield
@@ -9876,6 +9890,11 @@ ironbot
 irt-data-utils
 irt_data_utils-0.0.1a1-py3-none-any.whl
 irtdata
+irvy
+irvy-0.0.1-py3-none-any.whl
+irvy-1.0.0-py3-none-any.whl
+irvy==0.0.1
+irvy==1.0.0
 is2view
 is31fl3741-stubs
 isar
@@ -10902,9 +10921,11 @@ libretrofuzz
 libretrofuzz-3.0.4-py3-none-any.whl
 libretrofuzz-3.0.6-py3-none-any.whl
 libretrofuzz-3.0.7-py3-none-any.whl
+libretrofuzz-3.0.8-py3-none-any.whl
 libretrofuzz==3.0.4
 libretrofuzz==3.0.6
 libretrofuzz==3.0.7
+libretrofuzz==3.0.8
 libsbmlnetworkeditor
 libserving
 libsettings
@@ -11160,6 +11181,7 @@ lollms-1.1.32-py3-none-any.whl
 lollms-1.1.33-py3-none-any.whl
 lollms-1.1.34-py3-none-any.whl
 lollms-1.1.35-py3-none-any.whl
+lollms-1.1.36-py3-none-any.whl
 lollms==1.1.28
 lollms==1.1.29
 lollms==1.1.30
@@ -11168,6 +11190,7 @@ lollms==1.1.32
 lollms==1.1.33
 lollms==1.1.34
 lollms==1.1.35
+lollms==1.1.36
 longalpha-utils
 longalpha_utils
 longalpha_utils-0.55-py3-none-any.whl
@@ -12300,6 +12323,7 @@ ms_entropy-0.6.0.tar.gz
 ms_salesforce_api
 ms_salesforce_api-0.0.42-py3-none-any.whl
 ms_salesforce_api-0.0.43-py3-none-any.whl
+msb
 msfvenomgui
 msfvenomgui-0.1.0-py3-none-any.whl
 msglib
@@ -21901,6 +21925,9 @@ transaction-3.1.0-py2.py3-none-any.whl
 transcript-transformer
 transcript_transformer
 transcript_transformer-0.3.3-py3-none-any.whl
+transformer-lite==0.1.0
+transformer_lite
+transformer_lite-0.1.0-py3-none-any.whl
 transformers
 transformers-4.26.1-py3-none-any.whl
 translinguer
