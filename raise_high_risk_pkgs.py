@@ -50,7 +50,7 @@ for name_ver in pkg_detections:
     name = name_ver.split()[0]
     extra_labels = [l for l in pkg_detections[name_ver]['result']['results']]
     issue_data = {"title":f"{name_ver} has {pkg_detections[name_ver]['result']['issues']} GuardDog issues", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections[name_ver],indent=2)+'```', "labels":["guarddog"] + extra_labels}
-    print(json.dumps(issue_data,indent=2))
+    #print(json.dumps(issue_data,indent=2))
     try:
         create_github_issue(issue_data)
     except:
