@@ -649,6 +649,8 @@ Ret2GPT-1.0.1-py3-none-any.whl
 Ret2GPT-1.0.1.1-py3-none-any.whl
 Ret2GPT-1.0.1.3-py3-none-any.whl
 Ret2GPT-1.0.1.4-py3-none-any.whl
+Ret2GPT-1.0.2-py3-none-any.whl
+Ret2GPT-1.0.2.1-py3-none-any.whl
 RobertCommonBasic-0.1.41-py3-none-any.whl
 RobertCommonDriver-0.1.42-py3-none-any.whl
 RobertCommonIO-0.1.42-py3-none-any.whl
@@ -11430,6 +11432,7 @@ neo-fairy-client
 neon-diana-utils
 neon-enclosure
 neon-gui==1.1.3a6
+neon-mana-utils==0.1.1a1
 neon-messagebus
 neon-mq-connector
 neon-phal-plugin-core-updater
@@ -11451,6 +11454,8 @@ neon_diana_utils
 neon_diana_utils-0.0.5-py3-none-any.whl
 neon_gui
 neon_gui-1.1.3a6-py3-none-any.whl
+neon_mana_utils
+neon_mana_utils-0.1.1a1-py3-none-any.whl
 neon_mq_connector
 neon_mq_connector-0.6.0-py3-none-any.whl
 neon_phal_plugin_core_updater
@@ -12504,6 +12509,7 @@ odoo10-addon-purchase-request
 odoo10-addon-purchase-request-to-procurement
 odoo10-addon-purchase-request-to-rfq
 odoo10-addon-quality-control
+odoo10-addon-sale-commission-formula==10.0.1.0.1.99.dev8
 odoo10-addon-sale-order-variant-mgmt
 odoo10-addon-server-environment
 odoo10-addon-stock-cycle-count
@@ -12592,6 +12598,7 @@ odoo11-addon-purchase-request
 odoo11-addon-quality-control
 odoo11-addon-quality-control-issue
 odoo11-addon-sale-commission
+odoo11-addon-sale-commission-formula==11.0.1.2.0.99.dev8
 odoo11-addon-sale-order-variant-mgmt
 odoo11-addon-stock-cycle-count
 odoo11-addon-stock-demand-estimate
@@ -12665,6 +12672,7 @@ odoo11_addon_purchase_request-11.0.1.2.6-py2.py3-none-any.whl
 odoo11_addon_quality_control-11.0.1.1.0-py2.py3-none-any.whl
 odoo11_addon_quality_control_issue-11.0.1.1.0-py2.py3-none-any.whl
 odoo11_addon_sale_commission-11.0.2.3.0-py2.py3-none-any.whl
+odoo11_addon_sale_commission_formula-11.0.1.2.0.99.dev8-py2.py3-none-any.whl
 odoo11_addon_sale_order_variant_mgmt-11.0.1.0.1-py2.py3-none-any.whl
 odoo11_addon_stock_cycle_count-11.0.1.0.2-py2.py3-none-any.whl
 odoo11_addon_stock_demand_estimate-11.0.1.1.0-py2.py3-none-any.whl
@@ -13010,6 +13018,7 @@ odoo14-addon-repair-refurbish
 odoo14-addon-repair-refurbish-repair-stock-move
 odoo14-addon-repair-stock-move
 odoo14-addon-sale-commission-check-deposit
+odoo14-addon-sale-commission==14.0.1.6.1.dev1
 odoo14-addon-sale-order-line-packaging-qty
 odoo14-addon-shopfloor
 odoo14-addon-stock-barcodes
@@ -13108,6 +13117,7 @@ odoo14_addon_queue_job-14.0.3.2.0-py3-none-any.whl
 odoo14_addon_repair_refurbish-14.0.1.0.1-py3-none-any.whl
 odoo14_addon_repair_refurbish_repair_stock_move-14.0.1.0.1.dev3-py3-none-any.whl
 odoo14_addon_repair_stock_move-14.0.1.0.2-py3-none-any.whl
+odoo14_addon_sale_commission-14.0.1.6.1.dev1-py3-none-any.whl
 odoo14_addon_stock_barcodes-14.0.2.2.1-py3-none-any.whl
 odoo14_addon_stock_picking_back2draft-14.0.1.0.1.dev5-py3-none-any.whl
 odoo14_addon_storage_image_product-14.0.3.5.1-py3-none-any.whl
@@ -13181,6 +13191,7 @@ odoo8-addon-l10n-ro-siruta
 odoo8-addon-l10n-ro-vat-on-payment
 odoo8-addon-lettermgmt
 odoo8-addon-magentoerpconnect
+odoo8-addon-magentoerpconnect==8.0.3.0.0.99.dev127
 odoo8-addon-mass-editing
 odoo8-addon-membership-extension
 odoo8-addon-mrp-bom-reference-selection
@@ -13208,6 +13219,7 @@ odoo8-addon-purchase-request-to-rfq
 odoo8-addon-purchase-requisition-bid-selection
 odoo8-addon-purchase-transport-document
 odoo8-addon-quality-control
+odoo8-addon-sale-commission-formula==8.0.1.0.0.99.dev26
 odoo8-addon-sale-order-back2draft
 odoo8-addon-stock-cycle-count
 odoo8-addon-stock-inventory-barcode
@@ -13242,6 +13254,7 @@ odoo9-addon-base-search-fuzzy
 odoo9-addon-base-user-role
 odoo9-addon-contract-commission
 odoo9-addon-contract-payment-mode
+odoo9-addon-contract==9.0.1.3.0.99.dev17
 odoo9-addon-crm-action
 odoo9-addon-crm-claim-type
 odoo9-addon-crm-phonecall
@@ -14307,8 +14320,10 @@ pepperize_projen_awscdk_construct
 permutate
 perseus-restful-api-framework==1.26.14
 perseus-restful-api-framework==1.26.15
+perseus-restful-api-framework==1.26.16
 perseus_restful_api_framework-1.26.14-py3-none-any.whl
 perseus_restful_api_framework-1.26.15-py3-none-any.whl
+perseus_restful_api_framework-1.26.16-py3-none-any.whl
 persian-gender-detection
 persian_gender_detection
 persian_gender_detection-1.0.2-py3-none-any.whl
@@ -15580,6 +15595,8 @@ pybsn-0.4.0.data
 pybsn==0.4.0
 pybuc
 pybuc-0.15.0-py3-none-any.whl
+pycafe24-1.25.tar.gz
+pycafe24==1.25
 pycallingcards
 pycallingcards-0.0.8-py3-none-any.whl
 pycanape
@@ -16920,6 +16937,8 @@ ret2gpt==1.0.1
 ret2gpt==1.0.1.1
 ret2gpt==1.0.1.3
 ret2gpt==1.0.1.4
+ret2gpt==1.0.2
+ret2gpt==1.0.2.1
 retrack
 returnn
 returnn-1.20230609.121734.tar.gz
