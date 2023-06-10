@@ -21,7 +21,7 @@ def get_inspector_link(name):
 
 ## bypass lists
 # if the command starts with these, bypassed.
-cmds_bypass_starts = ["runc init", "uname -rs", "/usr/local/bin/pip", "/usr/local/bin/python", "/usr/bin/gcc"]
+cmds_bypass_starts = ["runc init", "uname", "/usr/local/bin/pip", "/usr/local/bin/python", "/usr/bin/gcc"]
 # tuples of IP:port to bypass
 ip_port_bypass = [ ("168.63.129.16", "53"), ("0.0.0.0","0") ]
 
