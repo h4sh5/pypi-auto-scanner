@@ -421,6 +421,8 @@ OpenFisca_France-149.0.0-py3-none-any.whl
 OpenFisca_France-149.0.0.data
 OpenFisca_France_Local-4.6.2-py3-none-any.whl
 OpenFisca_France_Local-4.6.2.data
+OpenFisca_Survey_Manager-1.0.0-py3-none-any.whl
+OpenFisca_Survey_Manager-1.0.0.data
 OpenGeode_Geosciences-7.0.11-cp310-cp310-manylinux2014_x86_64.whl
 OpenGeode_GeosciencesIO-4.1.3-cp310-cp310-manylinux2014_x86_64.whl
 OpenGeode_IO-6.0.6-cp310-cp310-manylinux2014_x86_64.whl
@@ -3460,6 +3462,9 @@ casadi-kin-dyn
 casanova
 casanova-1.12.0-py3-none-any.whl
 casanova==1.13.0
+casbin-databases-adapter==1.0.0
+casbin_databases_adapter
+casbin_databases_adapter-1.0.0-py3-none-any.whl
 case-attribute-discovery
 case_attribute_discovery
 case_attribute_discovery-0.1.5-py3-none-any.whl
@@ -8385,11 +8390,13 @@ henipipe
 henipipe-2.4.10-py3-none-any.whl
 henipipe-2.4.11-py3-none-any.whl
 henipipe-2.4.12-py3-none-any.whl
+henipipe-2.4.13-py3-none-any.whl
 henipipe-2.4.8-py3-none-any.whl
 henipipe-2.4.9-py3-none-any.whl
 henipipe==2.4.10
 henipipe==2.4.11
 henipipe==2.4.12
+henipipe==2.4.13
 henipipe==2.4.8
 henipipe==2.4.9
 here-geocoding
@@ -8677,7 +8684,9 @@ hypertune
 hypertune-1.1.0rc18-py3-none-any.whl
 hypertune==1.1.0rc18
 hypha
+hypha-0.15.10a2.tar.gz
 hypha-0.15.8-py3-none-any.whl
+hypha==0.15.10a2
 hypll
 hypll-0.0.1-py3-none-any.whl
 hypothesis
@@ -10941,6 +10950,7 @@ mmh3-3.1.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86
 mmh3.cpython-310-x86_64-linux-gnu.so
 mmh3.libs
 mms
+mmutils==1.0.0
 mne
 mnemopwd==1.0.1
 mo-dots==9.408.23161
@@ -11411,6 +11421,9 @@ mythic_container
 mythic_container-0.2.10-py3-none-any.whl
 mythic_container-0.2.11rc5-py3-none-any.whl
 n_utils
+nacos-sdk-rust-binding-py==0.1.0
+nacos_sdk_rust_binding_py
+nacos_sdk_rust_binding_py-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 naif-eop-high-prec
 naif-eop-high-prec==2023.6.10
 naif-eop-predict
@@ -13935,9 +13948,11 @@ openfisca-core
 openfisca-france-local
 openfisca-france==148.0.0
 openfisca-france==149.0.0
+openfisca-survey-manager==1.0.0
 openfisca_core
 openfisca_france
 openfisca_france_local
+openfisca_survey_manager
 openfisca_web_api
 openfractal-client
 opengate
@@ -15287,6 +15302,8 @@ pretalx_youtube
 pretalx_youtube-1.1.0-py3-none-any.whl
 pretalx_youtube-1.2.0-py3-none-any.whl
 pretext
+pretext-1.6.1.dev20230610-py3-none-any.whl
+pretext==1.6.1.dev20230610
 pretrained
 pretty_numbers
 prettyc
@@ -16011,8 +16028,10 @@ pyfed_macos-0.0.35-py3-none-any.whl
 pyfilehandling
 pyfilehandling-0.1-py3-none-any.whl
 pyfilehandling-0.2-py3-none-any.whl
+pyfilehandling-1.0-py3-none-any.whl
 pyfilehandling==0.1
 pyfilehandling==0.2
+pyfilehandling==1.0
 pyflakes
 pyflakes-3.0.1-py2.py3-none-any.whl
 pyflasc-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -16599,6 +16618,8 @@ pytheia
 pythogen
 pythogen-0.1.19-py3-none-any.whl
 python
+python-alipay-sdk-3.3.0.tar.gz
+python-alipay-sdk==3.3.0
 python-card-framework
 python-eigen-ingenuity
 python-flexpolyline-pbapi
@@ -17498,6 +17519,7 @@ sabia_utils
 sabia_utils-0.2.0-py3-none-any.whl
 sabledocs
 sabledocs==0.3.174.dev0
+sabledocs==0.3.176.dev0
 sackeylib
 sackeylib-0.0.19.tar.gz
 saenopy
