@@ -4336,8 +4336,11 @@ cobra_db
 cobra_db-0.4.4-py3-none-any.whl
 coconut
 coconut-develop
+coconut-develop==3.0.2.post0.dev6
 coconut_develop-3.0.2.post0.dev5-py2.py3-none-any.whl
 coconut_develop-3.0.2.post0.dev5.data
+coconut_develop-3.0.2.post0.dev6-py2.py3-none-any.whl
+coconut_develop-3.0.2.post0.dev6.data
 codat-accounting
 codat-assess
 codat-bankfeeds
@@ -4869,6 +4872,9 @@ dagit
 dagit-1.3.8-py3-none-any.whl
 dagknows
 dagknows-0.0.20-py3-none-any.whl
+dagma
+dagma-1.0.0-py3-none-any.whl
+dagma==1.0.0
 dagshub
 dagshub-0.2.18-py3-none-any.whl
 dagster
@@ -8319,6 +8325,9 @@ hello_jupyter_proxy-0.2-py2.py3-none-any.whl
 hello_jupyter_proxy.py
 hello_robot_stretch_factory-0.4.6-py3-none-any.whl
 hello_robot_stretch_factory-0.4.6.data
+helloarefin
+helloarefin-1.0.0-py3-none-any.whl
+helloarefin==1.0.0
 helloworld
 helloworldtestlkrist==1.0.2
 helmdt
@@ -11643,7 +11652,9 @@ netspresso-0.1.5-py3-none-any.whl
 netunicorn
 netunicorn-base
 netunicorn-connector-salt
+netunicorn-library==0.3.2
 netunicorn_base-0.3.5-py3-none-any.whl
+netunicorn_library-0.3.2-py3-none-any.whl
 network-analysis
 network_analysis-0.0.1.2-py3-none-any.whl
 network_config
@@ -13050,6 +13061,7 @@ odoo14-addon-base-menu-visibility-restriction
 odoo14-addon-base-model-restrict-update
 odoo14-addon-base-multi-company
 odoo14-addon-base-name-search-improved
+odoo14-addon-base-product-mass-addition==14.0.1.2.1.dev2
 odoo14-addon-base-search-custom-field-filter
 odoo14-addon-base-tier-validation
 odoo14-addon-base-tier-validation-report
@@ -13116,6 +13128,7 @@ odoo14-addon-pos-payment-change
 odoo14-addon-product-attribute-value-menu
 odoo14-addon-product-brand
 odoo14-addon-product-form-purchase-link
+odoo14-addon-product-manufacturer==14.0.1.0.3.dev3
 odoo14-addon-product-pricelist-supplierinfo
 odoo14-addon-product-profile
 odoo14-addon-product-supplierinfo-group-intercompany
@@ -13173,6 +13186,7 @@ odoo14_addon_base_custom_filter-14.0.1.0.1-py3-none-any.whl
 odoo14_addon_base_menu_visibility_restriction-14.0.1.0.1.dev6-py3-none-any.whl
 odoo14_addon_base_multi_company-14.0.1.1.2-py3-none-any.whl
 odoo14_addon_base_name_search_improved-14.0.1.1.1.dev10-py3-none-any.whl
+odoo14_addon_base_product_mass_addition-14.0.1.2.1.dev2-py3-none-any.whl
 odoo14_addon_base_search_custom_field_filter-14.0.1.1.1-py3-none-any.whl
 odoo14_addon_base_tier_validation-14.0.2.12.5-py3-none-any.whl
 odoo14_addon_base_tier_validation_report-14.0.1.1.0-py3-none-any.whl
@@ -13222,6 +13236,7 @@ odoo14_addon_partner_statement-14.0.1.4.4-py3-none-any.whl
 odoo14_addon_product_attribute_value_menu-14.0.2.0.2-py3-none-any.whl
 odoo14_addon_product_brand-14.0.1.1.2-py3-none-any.whl
 odoo14_addon_product_form_purchase_link-14.0.2.2.0-py3-none-any.whl
+odoo14_addon_product_manufacturer-14.0.1.0.3.dev3-py3-none-any.whl
 odoo14_addon_product_pricelist_supplierinfo-14.0.1.1.1-py3-none-any.whl
 odoo14_addon_product_profile-14.0.1.0.1-py3-none-any.whl
 odoo14_addon_product_supplierinfo_group_intercompany-14.0.1.1.2-py3-none-any.whl
@@ -13336,10 +13351,13 @@ odoo8-addon-project-task-category
 odoo8-addon-project-task-materials
 odoo8-addon-purchase-order-type
 odoo8-addon-purchase-partial-invoicing
+odoo8-addon-purchase-partial-invoicing==8.0.0.1.2.99.dev29
 odoo8-addon-purchase-request
 odoo8-addon-purchase-request-to-requisition
 odoo8-addon-purchase-request-to-rfq
 odoo8-addon-purchase-requisition-bid-selection
+odoo8-addon-purchase-requisition-bid-selection==8.0.2.1.0.99.dev40
+odoo8-addon-purchase-requisition-multicurrency==8.0.0.1.0.99.dev25
 odoo8-addon-purchase-transport-document
 odoo8-addon-quality-control
 odoo8-addon-sale-commission-formula==8.0.1.0.0.99.dev26
@@ -19531,6 +19549,7 @@ tf-nightly-cpu
 tf-nightly-intel
 tf-nightly-intel==2.14.0.dev20230609
 tf-nightly-macos
+tf-nightly-macos==2.14.0.dev20230609
 tf_agents
 tf_agents_nightly-0.16.0.dev20230609-py3-none-any.whl
 tf_model_optimization_nightly-0.7.5.dev20230607-py2.py3-none-any.whl
