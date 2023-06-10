@@ -428,6 +428,8 @@ OpenFisca_France-149.0.0-py3-none-any.whl
 OpenFisca_France-149.0.0.data
 OpenFisca_France_Local-4.6.2-py3-none-any.whl
 OpenFisca_France_Local-4.6.2.data
+OpenFisca_France_Local-4.7.0-py3-none-any.whl
+OpenFisca_France_Local-4.7.0.data
 OpenFisca_Survey_Manager-1.0.0-py3-none-any.whl
 OpenFisca_Survey_Manager-1.0.0.data
 OpenGeode_Geosciences-7.0.11-cp310-cp310-manylinux2014_x86_64.whl
@@ -437,6 +439,7 @@ OpenGeode_core-14.1.11-cp310-cp310-manylinux2014_x86_64.whl
 OpenGeode_core-14.3.1rc5-cp310-cp310-manylinux2014_x86_64.whl
 OpenNMT_py-3.2.0-py3-none-any.whl
 OpenSSL
+Openfisca_Paris-3.9.0-py3-none-any.whl
 OpihiExarata-2023.6.7-py3-none-any.whl
 Orange3_Prototypes-0.19.0-py3-none-any.whl
 Orange3_Prototypes-0.19.0-py3.10-nspkg.pth
@@ -445,6 +448,8 @@ Orbus-1.0.6-py3-none-any.whl
 OrbusMaker-1.1.2-py3-none-any.whl
 OrbusMaker-1.1.3-py3-none-any.whl
 Orr_Sommerfeld_convmix_CGB
+Oz-Engine
+Oz_Engine-1.3.0.1-py3-none-any.whl
 PHASE
 PHX
 PHX-1.19.4-py2.py3-none-any.whl
@@ -1733,8 +1738,12 @@ arvados_python_client-2.6.3.data
 asBASE-0.4.tar.gz
 asbase
 ascend
+ascend-deployer==5.0.0b4
 ascend-io-sdk
 ascend-io-sdk==0.2.60
+ascend_deployer
+ascend_deployer-5.0.0b4-py3-none-any.whl
+ascend_deployer-5.0.0b4.data
 ascend_io_sdk-0.2.59-py3-none-any.whl
 ascend_io_sdk-0.2.60-py3-none-any.whl
 ase2sprkkr
@@ -2749,6 +2758,8 @@ bischoff_and_ratcliff_1995-0.0.1.data
 bischoff_and_ratcliff_1995-0.1.0-py3-none-any.whl
 bischoff_and_ratcliff_1995-0.1.0.data
 bitbangio-stubs
+bitcoin-p2p==0.1
+bitcoin_p2p-0.1-py3-none-any.whl
 bitfount==0.5.75
 bitmaptools-stubs
 bitmovin-api-sdk
@@ -6968,6 +6979,9 @@ fast_depends
 fast_depends-1.1.7-py3-none-any.whl
 fastai
 fastai-2.7.12-py3-none-any.whl
+fastai-datasets==0.0.8
+fastai_datasets
+fastai_datasets-0.0.8-py3-none-any.whl
 fastapi-amis-admin-cli==0.1.2
 fastapi-elasticsearch==0.6.0
 fastapi-register-model-router
@@ -7514,10 +7528,14 @@ forevd-0.1.7-py3-none-any.whl
 foreverbull
 foreverbull-0.0.0-py3-none-any.whl
 foreverbull-0.0.0.1-py3-none-any.whl
+foreverbull-0.0.0.20230610094722-py3-none-any.whl
 foreverbull-0.0.0.92-py3-none-any.whl
+foreverbull-0.0.0.99.20230610094209-py3-none-any.whl
 foreverbull==0.0.0
 foreverbull==0.0.0.1
+foreverbull==0.0.0.20230610094722
 foreverbull==0.0.0.92
+foreverbull==0.0.0.99.20230610094209
 foreverbull_core
 formal-sdk
 formal_sdk
@@ -8871,11 +8889,13 @@ hypha-0.15.10a2.tar.gz
 hypha-0.15.11-py3-none-any.whl
 hypha-0.15.12-py3-none-any.whl
 hypha-0.15.13-py3-none-any.whl
+hypha-0.15.14-py3-none-any.whl
 hypha-0.15.8-py3-none-any.whl
 hypha==0.15.10a2
 hypha==0.15.11
 hypha==0.15.12
 hypha==0.15.13
+hypha==0.15.14
 hypll
 hypll-0.0.1-py3-none-any.whl
 hypothesis
@@ -9602,6 +9622,8 @@ kartograf-0.5.1-py3-none-any.whl
 karuo
 karuo-0.92.tar.gz
 kast-flow-api-python
+katottglib-0.1.0.tar.gz
+katottglib==0.1.0
 kbib
 kbib-0.1.8-py3-none-any.whl
 kcli
@@ -10166,6 +10188,7 @@ libknot
 libmata-0.65.0.tar.gz
 libmata==0.65.0
 libmedaka.abi3.so
+libminioslcc20.so
 libmultilabel
 libmultilabel-0.3.0-py3-none-any.whl
 libmultilabel==0.3.0
@@ -10482,6 +10505,9 @@ lxml-4.9.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24
 lxml.libs
 lycoris-lora
 lycoris_lora-0.1.6.tar.gz
+lyrics-client==0.0.1
+lyrics_client
+lyrics_client-0.0.1-py3-none-any.whl
 lytekit
 lzstring-optimized
 lzy-610-0.1.tar.gz
@@ -11030,6 +11056,11 @@ minigrid==2.3.0
 minimal-snowplow-tracker-0.0.2.tar.gz
 minio_storage
 miniogl
+miniosl
+miniosl-0.0.4-cp310-cp310-manylinux_2_28_x86_64.whl
+miniosl.libs
+miniosl==0.0.4
+minioslcc.cpython-310-x86_64-linux-gnu.so
 miniscutil
 miniscutil-0.2.9-py3-none-any.whl
 minitrade
@@ -11202,6 +11233,7 @@ mmft.hybridsim.libs
 mmh3-3.1.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 mmh3.cpython-310-x86_64-linux-gnu.so
 mmh3.libs
+mml-qae==1.0.2.12
 mms
 mmutils==0.0.3
 mmutils==1.0.0
@@ -11357,6 +11389,9 @@ more_itertools-9.1.0-py3-none-any.whl
 morecantile
 morecantile-4.1.1-py3-none-any.whl
 morphio
+morsecodeplus
+morsecodeplus-1.0.0-py3-none-any.whl
+morsecodeplus==1.0.0
 mosaicml-cli
 mosaicml-streaming
 mosaicml_cli-0.4.6-py3-none-any.whl
@@ -13540,6 +13575,8 @@ odoo14-addon-sale-commission==14.0.1.6.1.dev1
 odoo14-addon-sale-order-line-packaging-qty
 odoo14-addon-shopfloor
 odoo14-addon-stock-barcodes
+odoo14-addon-stock-location-orderpoint-source-relocate==14.0.1.0.2
+odoo14-addon-stock-location-orderpoint==14.0.1.0.2
 odoo14-addon-stock-picking-back2draft
 odoo14-addon-stock-reserve==14.0.2.0.1.dev10
 odoo14-addon-stock-storage-type==14.0.1.12.1.dev4
@@ -13649,6 +13686,8 @@ odoo14_addon_repair_refurbish_repair_stock_move-14.0.1.0.1.dev3-py3-none-any.whl
 odoo14_addon_repair_stock_move-14.0.1.0.2-py3-none-any.whl
 odoo14_addon_sale_commission-14.0.1.6.1.dev1-py3-none-any.whl
 odoo14_addon_stock_barcodes-14.0.2.2.1-py3-none-any.whl
+odoo14_addon_stock_location_orderpoint-14.0.1.0.2-py3-none-any.whl
+odoo14_addon_stock_location_orderpoint_source_relocate-14.0.1.0.2-py3-none-any.whl
 odoo14_addon_stock_picking_back2draft-14.0.1.0.1.dev5-py3-none-any.whl
 odoo14_addon_stock_reserve-14.0.2.0.1.dev10-py3-none-any.whl
 odoo14_addon_stock_storage_type-14.0.1.12.1.dev4-py3-none-any.whl
@@ -14241,12 +14280,15 @@ openfabric-pysdk
 openfintech
 openfisca-core
 openfisca-france-local
+openfisca-france-local==4.7.0
 openfisca-france==148.0.0
 openfisca-france==149.0.0
+openfisca-paris==3.9.0
 openfisca-survey-manager==1.0.0
 openfisca_core
 openfisca_france
 openfisca_france_local
+openfisca_paris
 openfisca_survey_manager
 openfisca_web_api
 openfractal-client
@@ -14590,6 +14632,7 @@ oxenai==0.1.12
 oxenai==0.1.14
 oxenai==0.1.15
 oxenai==0.1.16
+oz-engine==1.3.0.1
 package
 package_nso_to_oc
 packagedcode
@@ -14726,6 +14769,9 @@ parso-0.8.3-py2.py3-none-any.whl
 part.py
 partd
 partd-1.4.0-py3-none-any.whl
+partitura
+partitura-1.3.0-py3-none-any.whl
+partitura==1.3.0
 parutils
 pascal
 pascal-voc
@@ -15451,6 +15497,7 @@ pocketsearch-0.5.3-py3-none-any.whl
 pocketsearch-0.5.4-py3-none-any.whl
 pocketsearch-0.5.6-py3-none-any.whl
 pocketsearch-0.5.7-py3-none-any.whl
+pocketsearch-0.6.0-py3-none-any.whl
 pocketsearch==0.5.0
 pocketsearch==0.5.1
 pocketsearch==0.5.2
@@ -15458,6 +15505,7 @@ pocketsearch==0.5.3
 pocketsearch==0.5.4
 pocketsearch==0.5.6
 pocketsearch==0.5.7
+pocketsearch==0.6.0
 pod5
 pod5-0.2.2-py3-none-any.whl
 podcast.py
@@ -16374,9 +16422,11 @@ pyfilehandling
 pyfilehandling-0.1-py3-none-any.whl
 pyfilehandling-0.2-py3-none-any.whl
 pyfilehandling-1.0-py3-none-any.whl
+pyfilehandling-1.1-py3-none-any.whl
 pyfilehandling==0.1
 pyfilehandling==0.2
 pyfilehandling==1.0
+pyfilehandling==1.1
 pyflakes
 pyflakes-3.0.1-py2.py3-none-any.whl
 pyflasc-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -16565,6 +16615,7 @@ pymisp
 pymisp-2.4.172-py3-none-any.whl
 pymobileprovision
 pymodbus
+pymodd==1.0.5
 pymongo-3.12.0.tar.gz
 pymonobank
 pymonobank-1.0.0-py3-none-any.whl
@@ -17746,6 +17797,8 @@ robotframework
 robotframework-extensions-collection
 robotframework-lsp
 robotframework-openapi-libcore==1.9.0
+robotframework-pabot-2.16.0.tar.gz
+robotframework-pabot==2.16.0
 robotframework-qconnect-base
 robotframework-requests
 robotframework-robotlog2db
@@ -18809,6 +18862,9 @@ soil_sdk-0.6.6-py3-none-any.whl
 solara-assets
 solartoolbox
 solartoolbox-0.2.3-py3-none-any.whl
+solax
+solax-0.3.2-py3-none-any.whl
+solax==0.3.2
 solfinder
 solfinder-1.0.4-py3-none-any.whl
 solidityscan
@@ -19184,6 +19240,9 @@ stactools_amazonia_1-0.1.0-py3-none-any.whl
 stadiamaps
 stadiamaps-0.3.0-py3-none-any.whl
 stale-maccarone
+stanscofi
+stanscofi-1.0.1-py3-none-any.whl
+stanscofi==1.0.1
 starbug2
 starbug2-0.4.0-py3-none-any.whl
 starbug2-0.4.0.data
@@ -21278,7 +21337,9 @@ waveorder
 waveorder-1.0.0-py3-none-any.whl
 wclone
 wclone-1.0.1-py3-none-any.whl
+wclone-1.0.2-py3-none-any.whl
 wclone==1.0.1
+wclone==1.0.2
 wctrl
 wcwidth
 wcwidth-0.2.6-py2.py3-none-any.whl
