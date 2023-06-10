@@ -36,6 +36,14 @@ pkg_detections = {}
 for i in results:
     name_ver = i['dependency'] + ' ' + i['version']
     if i['result']['issues'] > 0:
+        # get rid of empty issues so they dont show
+        empty_issue_keys = []
+        for r in i['result']['results']:
+            if i['result']['results'][r] == {}:
+                empty_issue_keys.append(r)
+        for r in empty_issue_keys:
+            del i['result']['results'][r]
+
         pkg_detections[name_ver] = i
 
 for name_ver in pkg_detections:

@@ -34,7 +34,7 @@ jobs:
 
     - name: run guarddog scan
       run: |
-        guarddog pypi verify --output-format=json new.txt > report.json
+        guarddog pypi verify -x single_python_file --output-format=json new.txt > report.json
     
     - name: run secret scan
       run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
