@@ -1265,6 +1265,10 @@ packages/pip/_vendor/distlib/t64.exe: PE32+ executable (console) x86-64, for MS 
 packages/pip/_vendor/distlib/w32.exe: PE32 executable (GUI) Intel 80386, for MS Windows
 packages/pip/_vendor/distlib/w64-arm.exe: PE32+ executable (GUI) Aarch64, for MS Windows
 packages/pip/_vendor/distlib/w64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/pipenv/patched/pip/_vendor/distlib/t32.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/pipenv/patched/pip/_vendor/distlib/t64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/pipenv/patched/pip/_vendor/distlib/w32.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/pipenv/patched/pip/_vendor/distlib/w64.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/piscola/__pycache__/__init__.cpython-310.pyc: data
 packages/piscola/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/piscola/__pycache__/_version.cpython-310.pyc: data
