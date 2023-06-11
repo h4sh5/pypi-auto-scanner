@@ -14,6 +14,7 @@ AI2PY-0.0.7-py3-none-any.whl
 AMTIUSBDeviceWrapper
 AUTHORS
 AUTHORS.rst
+Abg-1.3.tar.gz
 AccessControl
 AccessControl-6.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 AccessControl.libs
@@ -259,6 +260,8 @@ FuncsForSPO-5.3.0.tar.gz
 GANDLF
 GANDLF-0.0.17.dev20230610-py3-none-any.whl
 GANDLF-0.0.17.dev20230610.data
+GANDLF-0.0.17.dev20230611-py3-none-any.whl
+GANDLF-0.0.17.dev20230611.data
 GILBypass-0.1.0.tar.gz
 GMEncryption-0.0.1.tar.gz
 GROGU1
@@ -452,6 +455,8 @@ NOTICES.rst
 NaturalLanguage
 NetFS
 Nidhipdf-1.0-py3-none-any.whl
+NikChat
+NikChat-2.3-py3-none-any.whl
 NikClip-2.1-py3-none-any.whl
 NikeCA.py
 NikeQA.py
@@ -637,6 +642,8 @@ PyMca5-5.8.4.tar.gz
 PyMobileProvision-1.4.4-py3-none-any.whl
 PyMySQL-1.0.3-py3-none-any.whl
 PyOdbDesignLib.py
+PyPDFForm
+PyPDFForm-1.2.9-py3-none-any.whl
 PyPO-pkg-1.0.0.tar.gz
 PyParallelPipe-1.0.1-py3-none-any.whl
 PyProcar-6.0.0-py3-none-any.whl
@@ -654,6 +661,8 @@ PySocketLib-0.2.1-py3-none-any.whl
 PySocketLib-0.2.2-py3-none-any.whl
 PySocks-1.7.1-py3-none-any.whl
 PySupercell-0.0.12.tar.gz
+PySupercell-0.0.15.tar.gz
+PySupercell-0.0.16.tar.gz
 PyTableWiz
 PyTableWiz-0.0.1-py3-none-any.whl
 PyTestLog2DB
@@ -992,7 +1001,9 @@ a2ml-1.0.93-py3-none-any.whl
 a2ml==1.0.93
 a2y-wxtools
 a3redis-0.1.0.tar.gz
+a3redis-0.1.1.tar.gz
 a3redis==0.1.0
+a3redis==0.1.1
 a_bigelow.cdk_eventbridge_partner_processors-0.0.225-py3-none-any.whl
 a_bigelow.cdk_eventbridge_partner_processors-0.0.229-py3-none-any.whl
 a_bigelow.cdk_eventbridge_partner_processors-0.0.230-py3-none-any.whl
@@ -1013,6 +1024,7 @@ abacusai-0.68.0.tar.gz
 abaqus
 abaqusConstants.py
 abg
+abg==1.3
 ablator
 ablator-0.0.1b1-py3-none-any.whl
 abmatrix
@@ -1219,6 +1231,8 @@ ai_supporter
 ai_supporter-0.0.2-py3-none-any.whl
 aichat-cli==0.4.5
 aichat_cli-0.4.5-py3-none-any.whl
+aicurious-0.0.1-py3-none-any.whl
+aicurious==0.0.1
 aider
 aider-chat
 aider_chat-0.5.0-py3-none-any.whl
@@ -1689,6 +1703,8 @@ anyio
 anyio-3.7.0-py3-none-any.whl
 anylearn
 anylearn-0.17.6-py3-none-any.whl
+anyllm-0.0.26-py3-none-any.whl
+anyllm==0.0.26
 anyml-0.0.1-py3-none-any.whl
 anyml==0.0.1
 anynlp-0.0.1-py3-none-any.whl
@@ -1703,9 +1719,15 @@ anywidget
 aoipy==0.14.0
 aoipy==0.14.1
 aoipy==0.14.2
+aorta-sirius-dev==0.5
+aorta-sirius-dev==0.6
+aorta-sirius-dev==0.7
+aorta-sirius-dev==0.8
 aorta-sirius==0.0.4
 aorta-sirius==0.1
 aorta-sirius==0.2
+aorta-sirius==0.3
+aorta-sirius==0.4
 aorta-sirius==2023.6.10.22.31.43
 aorta-sirius==2023.6.10.22.50.24
 aorta-sirius==2023.6.10.23.33.49
@@ -2391,6 +2413,7 @@ automation_file_dev-0.0.7-py3-none-any.whl
 autonity
 autonity-1.0.0-py3-none-any.whl
 autonomy
+autopost==0.0.4
 autopub
 autopub-0.3.0-py3-none-any.whl
 autora
@@ -2775,8 +2798,10 @@ balladeer==0.38.0
 bambooai
 bambooai-0.3.1-py3-none-any.whl
 bambooai-0.3.2-py3-none-any.whl
+bambooai-0.3.3-py3-none-any.whl
 bambooai==0.3.1
 bambooai==0.3.2
+bambooai==0.3.3
 banglaspeech2text
 bank_sync
 bantam
@@ -2784,8 +2809,14 @@ bantam-2.2.3-py3-none-any.whl
 bantam-2.2.3.data
 bantam-2.2.4-py3-none-any.whl
 bantam-2.2.4.data
+bantam-2.3.4-py3-none-any.whl
+bantam-2.3.4.data
+bantam-2.3.5-py3-none-any.whl
+bantam-2.3.5.data
 bantam==2.2.3
 bantam==2.2.4
+bantam==2.3.4
+bantam==2.3.5
 banterbot
 baostock
 baostock-0.8.8-py3-none-any.whl
@@ -3025,6 +3056,9 @@ bigraph-schema-0.0.13.tar.gz
 bigraph-schema==0.0.13
 bigsansar
 bigsansar==1.7.1
+bike-rental-package==1.0.0
+bike_rental_model
+bike_rental_package-1.0.0-py3-none-any.whl
 biliarchiver
 biliarchiver-0.0.14-py3-none-any.whl
 biliarchiver-0.0.15-py3-none-any.whl
@@ -5243,6 +5277,8 @@ confection
 confection-0.0.4-py3-none-any.whl
 conficus
 conficus-0.6.4-py3-none-any.whl
+confidenceinterval-1.0.2.tar.gz
+confidenceinterval==1.0.2
 config
 config-mgmt-server
 configargparse.py
@@ -5311,6 +5347,7 @@ contourpy.libs
 control
 control-0.9.4-py3-none-any.whl
 control==0.9.4
+controller
 conventional-pre-commit
 conventional_pre_commit
 conventional_pre_commit-2.3.0-py3-none-any.whl
@@ -8795,11 +8832,13 @@ funcstats==0.0.1
 funcstats==0.0.2
 funcstats==0.0.3
 funcstats==0.0.4
+funcstats==0.0.6
 functime
 functime-0.1.6-py3-none-any.whl
 functime-client
 functime==0.1.6
 functime_client-0.1.4-py3-none-any.whl
+function
 functions.py
 functorch
 funding-service-design-utils==2.0.5
@@ -8878,6 +8917,11 @@ galaxy_tours-23.0.1-py3-none-any.whl
 galaxy_util-23.0.1-py3-none-any.whl
 galaxy_web_framework-23.0.1-py3-none-any.whl
 galaxy_web_stack-23.0.1-py3-none-any.whl
+gamdl
+gamdl-1.9.2-py3-none-any.whl
+gamdl-1.9.3-py3-none-any.whl
+gamdl==1.9.2
+gamdl==1.9.3
 game-vision-targeting-model==0.0.4
 game-vision-targeting-model==0.0.5
 game-vision-targeting-model==0.0.6
@@ -8910,6 +8954,7 @@ gandai
 gandai-1.2.0-py3-none-any.whl
 gandlf
 gandlf==0.0.17.dev20230610
+gandlf==0.0.17.dev20230611
 gandlf_anonymizer
 gandlf_collectStats
 gandlf_configGenerator
@@ -9692,6 +9737,8 @@ hanlabimport
 hansken
 harborapi
 harborapi-0.21.0-py3-none-any.whl
+hardy-weinberg-equilibrium==0.1.1.post20230611
+hardy_weinberg_equilibrium-0.1.1.post20230611-py3-none-any.whl
 harmony
 harmony-py
 harmony_py-0.4.9-py3-none-any.whl
@@ -10017,6 +10064,7 @@ hotsos-1.1.14.post23-py3-none-any.whl
 hotsos==1.1.14.post23
 hoverset
 howistheweathertoday
+hoyo-daily-logins-helper==2.5.2
 hpack
 hpack-4.0.0-py3-none-any.whl
 hpolib-extractor==2.0.0
@@ -10119,6 +10167,9 @@ humanity-etl
 humanity_etl-0.0.1rc1.tar.gz
 humanloop
 humanloop-0.4.7-py3-none-any.whl
+humano
+humano-0.0.1-py3-none-any.whl
+humano==0.0.1
 humap
 humap-0.2.8.tar.gz
 hume
@@ -11392,6 +11443,7 @@ langchain-0.0.196-py3-none-any.whl
 langchain-addons==0.0.1.dev1
 langchain-addons==0.0.1.dev2
 langchain-addons==0.0.1.dev3
+langchain-addons==0.0.25
 langchain-decorators==0.0.1
 langchain-decorators==0.0.2
 langchain-prefect
@@ -11402,6 +11454,7 @@ langchain_addons
 langchain_addons-0.0.1.dev1-py3-none-any.whl
 langchain_addons-0.0.1.dev2-py3-none-any.whl
 langchain_addons-0.0.1.dev3-py3-none-any.whl
+langchain_addons-0.0.25-py3-none-any.whl
 langchain_decorators
 langchain_decorators-0.0.1-py3-none-any.whl
 langchain_decorators-0.0.2-py3-none-any.whl
@@ -11680,6 +11733,9 @@ libTSCANAPI-1.0.1.tar.gz
 lib_pod5
 lib_pod5-0.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 lib_pod5.libs
+libauc
+libauc-1.3.0rc0-py3-none-any.whl
+libauc==1.3.0rc0
 libcbm
 libcbm-2.4.5-py3-none-any.whl
 libcnmc
@@ -12027,9 +12083,13 @@ lollms==1.1.38
 lollms==1.1.40
 longalpha-utils
 longalpha-utils==0.56
+longalpha-utils==0.57
+longalpha-utils==0.58
 longalpha_utils
 longalpha_utils-0.55-py3-none-any.whl
 longalpha_utils-0.56-py3-none-any.whl
+longalpha_utils-0.57-py3-none-any.whl
+longalpha_utils-0.58-py3-none-any.whl
 longbridge
 longbridge-0.2.61-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 longhorn
@@ -14015,6 +14075,7 @@ nihtest
 nihtest-1.0.0-py3-none-any.whl
 nihtest==1.0.0
 nikchat
+nikchat==2.3
 nikclip
 nikgapps
 nimblephysics
@@ -14738,6 +14799,8 @@ odoo-addon-l10n-ro-config
 odoo-addon-l10n-ro-partner-create-by-vat
 odoo-addon-letsencrypt
 odoo-addon-mail-activity-team
+odoo-addon-maintenance-equipment-hierarchy==15.0.1.0.1.2
+odoo-addon-maintenance-equipment-hierarchy==16.0.1.1.0.2
 odoo-addon-maintenance-project
 odoo-addon-maintenance-team-hierarchy==15.0.1.0.0.4
 odoo-addon-mgmtsystem-claim
@@ -15050,6 +15113,7 @@ odoo11-addon-hr-attendance-autoclose
 odoo11-addon-hr-attendance-reason==11.0.1.0.0.99.dev11
 odoo11-addon-hr-course
 odoo11-addon-hr-payslip-change-state
+odoo11-addon-hr-skill==11.0.2.1.0.99.dev28
 odoo11-addon-hr-timesheet-sheet
 odoo11-addon-l10n-ch-fds-postfinance
 odoo11-addon-l10n-ch-payment-slip
@@ -15061,6 +15125,7 @@ odoo11-addon-l10n-it-central-journal
 odoo11-addon-l10n-it-reverse-charge
 odoo11-addon-l10n-it-vat-registries
 odoo11-addon-l10n-ro-vat-on-payment
+odoo11-addon-maintenance-equipment-hierarchy==11.0.1.1.0.99.dev5
 odoo11-addon-maintenance-equipment-status
 odoo11-addon-maintenance-team-hierarchy==11.0.1.0.0.99.dev10
 odoo11-addon-mass-editing
@@ -15128,6 +15193,7 @@ odoo11_addon_hr_attendance_autoclose-11.0.1.3.0-py2.py3-none-any.whl
 odoo11_addon_hr_attendance_reason-11.0.1.0.0.99.dev11-py2.py3-none-any.whl
 odoo11_addon_hr_course-11.0.1.0.0.99.dev17-py2.py3-none-any.whl
 odoo11_addon_hr_payslip_change_state-11.0.1.0.0.99.dev8-py2.py3-none-any.whl
+odoo11_addon_hr_skill-11.0.2.1.0.99.dev28-py2.py3-none-any.whl
 odoo11_addon_hr_timesheet_sheet-11.0.2.0.1-py2.py3-none-any.whl
 odoo11_addon_l10n_ch_fds_postfinance-11.0.1.0.2.99.dev9-py2.py3-none-any.whl
 odoo11_addon_l10n_ch_payment_slip-11.0.1.0.1-py2.py3-none-any.whl
@@ -15137,6 +15203,7 @@ odoo11_addon_l10n_fr_intrastat_product-11.0.1.0.0.99.dev12-py2.py3-none-any.whl
 odoo11_addon_l10n_it_causali_pagamento-11.0.1.0.0.99.dev6-py2.py3-none-any.whl
 odoo11_addon_l10n_it_reverse_charge-11.0.1.0.2-py2.py3-none-any.whl
 odoo11_addon_l10n_ro_vat_on_payment-11.0.1.0.0.99.dev9-py2.py3-none-any.whl
+odoo11_addon_maintenance_equipment_hierarchy-11.0.1.1.0.99.dev5-py2.py3-none-any.whl
 odoo11_addon_maintenance_equipment_status-11.0.1.0.0.99.dev16-py2.py3-none-any.whl
 odoo11_addon_maintenance_team_hierarchy-11.0.1.0.0.99.dev10-py2.py3-none-any.whl
 odoo11_addon_mass_editing-11.0.1.1.2-py2.py3-none-any.whl
@@ -15212,21 +15279,27 @@ odoo12-addon-hr-employee-service
 odoo12-addon-hr-employee-service-contract
 odoo12-addon-hr-employee-social-media
 odoo12-addon-hr-expense-advance-clearing-sequence
+odoo12-addon-hr-expense-advance-clearing==12.0.1.3.0.99.dev4
 odoo12-addon-hr-expense-cancel
 odoo12-addon-hr-expense-journal
 odoo12-addon-hr-expense-petty-cash-sequence
+odoo12-addon-hr-expense-petty-cash==12.0.1.2.0.99.dev3
 odoo12-addon-hr-expense-portal==12.0.1.0.1.99.dev4
 odoo12-addon-hr-expense-receipt-require
 odoo12-addon-hr-expense-sequence
 odoo12-addon-hr-expense-type
+odoo12-addon-hr-experience==12.0.1.0.0.99.dev12
 odoo12-addon-hr-holidays-leave-auto-approve
 odoo12-addon-hr-holidays-leave-repeated
+odoo12-addon-hr-holidays-leave-request-wizard==12.0.1.0.0.99.dev10
 odoo12-addon-hr-holidays-notify-employee-manager
+odoo12-addon-hr-holidays-public==12.0.1.1.3.99.dev1
 odoo12-addon-hr-holidays-settings
 odoo12-addon-hr-holidays-validity-date
 odoo12-addon-hr-job-category
 odoo12-addon-hr-payroll-cancel
 odoo12-addon-hr-recruitment-security
+odoo12-addon-hr-skill==12.0.1.2.0.99.dev8
 odoo12-addon-hr-worked-days-from-timesheet
 odoo12-addon-iot-output
 odoo12-addon-kpi
@@ -15236,6 +15309,7 @@ odoo12-addon-l10n-fr-department-oversea==12.0.1.0.1
 odoo12-addon-l10n-fr-mis-reports==12.0.1.0.1
 odoo12-addon-l10n-fr-siret==12.0.1.0.3
 odoo12-addon-l10n-it-asset-history-import
+odoo12-addon-l10n-it-bill-of-entry==12.0.1.0.1.99.dev3
 odoo12-addon-mrp-production-request
 odoo12-addon-pos-cash-move-reason
 odoo12-addon-pos-multiple-control
@@ -15296,11 +15370,17 @@ odoo12_addon_hr_employee_health-12.0.1.0.0.99.dev12-py3-none-any.whl
 odoo12_addon_hr_employee_relative-12.0.1.1.0.99.dev9-py3-none-any.whl
 odoo12_addon_hr_employee_service_contract-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_hr_employee_social_media-12.0.1.0.0.99.dev16-py3-none-any.whl
+odoo12_addon_hr_expense_advance_clearing-12.0.1.3.0.99.dev4-py3-none-any.whl
+odoo12_addon_hr_expense_petty_cash-12.0.1.2.0.99.dev3-py3-none-any.whl
 odoo12_addon_hr_expense_portal-12.0.1.0.1.99.dev4-py3-none-any.whl
 odoo12_addon_hr_expense_receipt_require-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_hr_expense_type-12.0.1.0.0.99.dev5-py3-none-any.whl
+odoo12_addon_hr_experience-12.0.1.0.0.99.dev12-py3-none-any.whl
 odoo12_addon_hr_holidays_leave_repeated-12.0.1.0.1-py3-none-any.whl
+odoo12_addon_hr_holidays_leave_request_wizard-12.0.1.0.0.99.dev10-py3-none-any.whl
+odoo12_addon_hr_holidays_public-12.0.1.1.3.99.dev1-py3-none-any.whl
 odoo12_addon_hr_holidays_validity_date-12.0.1.1.0-py3-none-any.whl
+odoo12_addon_hr_skill-12.0.1.2.0.99.dev8-py3-none-any.whl
 odoo12_addon_hr_worked_days_from_timesheet-12.0.1.0.0.99.dev5-py3-none-any.whl
 odoo12_addon_iot_output-12.0.1.1.1-py3-none-any.whl
 odoo12_addon_kpi-12.0.1.0.1-py3-none-any.whl
@@ -15310,6 +15390,7 @@ odoo12_addon_l10n_fr_department_oversea-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_l10n_fr_mis_reports-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_l10n_fr_siret-12.0.1.0.3-py3-none-any.whl
 odoo12_addon_l10n_it_asset_history_import-12.0.1.0.0.99.dev6-py3-none-any.whl
+odoo12_addon_l10n_it_bill_of_entry-12.0.1.0.1.99.dev3-py3-none-any.whl
 odoo12_addon_mrp_production_request-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_pos_cash_move_reason-12.0.3.2.1-py3-none-any.whl
 odoo12_addon_product_brand-12.0.2.0.1-py3-none-any.whl
@@ -15468,6 +15549,8 @@ odoo14-addon-crm-phonecall
 odoo14-addon-crm-security-group
 odoo14-addon-crm-stage-probability
 odoo14-addon-currency-old-rate-notify==14.0.1.0.1.dev6
+odoo14-addon-currency-rate-inverted==14.0.1.0.3.dev1
+odoo14-addon-currency-rate-update==14.0.1.3.1.dev15
 odoo14-addon-delivery-mrw
 odoo14-addon-document-page
 odoo14-addon-document-page-access-group
@@ -15477,6 +15560,9 @@ odoo14-addon-document-page-reference
 odoo14-addon-document-page-tag
 odoo14-addon-document-url
 odoo14-addon-excel-import-export
+odoo14-addon-fieldservice-activity==14.0.1.1.1.dev7
+odoo14-addon-fieldservice-change-management==14.0.1.0.1.dev20
+odoo14-addon-fieldservice==14.0.1.28.1.dev11
 odoo14-addon-hotel
 odoo14-addon-hotel-reservation
 odoo14-addon-hr-attendance-autoclose
@@ -15493,6 +15579,7 @@ odoo14-addon-hr-timesheet-sheet-attendance
 odoo14-addon-hr-timesheet-time-type
 odoo14-addon-knowledge
 odoo14-addon-l10n-br-account
+odoo14-addon-l10n-br-account==14.0.7.0.1.dev2
 odoo14-addon-l10n-br-cnpj-search
 odoo14-addon-l10n-br-nfe
 odoo14-addon-l10n-br-nfse-paulistana
@@ -15510,6 +15597,7 @@ odoo14-addon-l10n-it-riba-sale-commission
 odoo14-addon-l10n-it-ricevute-bancarie==14.0.1.3.0
 odoo14-addon-l10n-it-ricevute-bancarie==14.0.1.3.1.dev1
 odoo14-addon-letsencrypt
+odoo14-addon-maintenance-equipment-hierarchy==14.0.1.0.2.dev5
 odoo14-addon-maintenance-team-hierarchy==14.0.1.0.1.dev4
 odoo14-addon-metadata
 odoo14-addon-mis-builder-cash-flow
@@ -15559,6 +15647,7 @@ odoo14-addon-web-dialog-size
 odoo14-addon-website-sale-ajaxify-cart
 odoo14-addon-website-sale-ajaxify-cart==14.0.1.0.2.dev1
 odoo14-addon-website-sale-payment-term-acquirer
+odoo14-addons-oca-currency==14.0.20230610.0
 odoo14-addons-oca-hr
 odoo14-addons-oca-l10n-brazil
 odoo14-addons-oca-l10n-spain==14.0.20230609.0
@@ -15609,8 +15698,13 @@ odoo14_addon_crm_phonecall-14.0.1.1.0-py3-none-any.whl
 odoo14_addon_crm_security_group-14.0.1.1.0-py3-none-any.whl
 odoo14_addon_crm_stage_probability-14.0.1.0.1.dev10-py3-none-any.whl
 odoo14_addon_currency_old_rate_notify-14.0.1.0.1.dev6-py3-none-any.whl
+odoo14_addon_currency_rate_inverted-14.0.1.0.3.dev1-py3-none-any.whl
+odoo14_addon_currency_rate_update-14.0.1.3.1.dev15-py3-none-any.whl
 odoo14_addon_delivery_mrw-14.0.1.1.2-py3-none-any.whl
 odoo14_addon_excel_import_export-14.0.1.1.0-py3-none-any.whl
+odoo14_addon_fieldservice-14.0.1.28.1.dev11-py3-none-any.whl
+odoo14_addon_fieldservice_activity-14.0.1.1.1.dev7-py3-none-any.whl
+odoo14_addon_fieldservice_change_management-14.0.1.0.1.dev20-py3-none-any.whl
 odoo14_addon_hotel-14.0.1.0.1.dev53-py3-none-any.whl
 odoo14_addon_hotel_reservation-14.0.1.0.1.dev26-py3-none-any.whl
 odoo14_addon_hr_attendance_autoclose-14.0.1.1.0-py3-none-any.whl
@@ -15625,6 +15719,7 @@ odoo14_addon_hr_personal_equipment_variant_configurator-14.0.1.0.1.dev8-py3-none
 odoo14_addon_hr_timesheet_sheet_attendance-14.0.1.0.1.dev8-py3-none-any.whl
 odoo14_addon_hr_timesheet_time_type-14.0.1.0.1.dev9-py3-none-any.whl
 odoo14_addon_l10n_br_account-14.0.7.0.0-py3-none-any.whl
+odoo14_addon_l10n_br_account-14.0.7.0.1.dev2-py3-none-any.whl
 odoo14_addon_l10n_br_cnpj_search-14.0.1.1.1-py3-none-any.whl
 odoo14_addon_l10n_br_nfe-14.0.8.4.0-py3-none-any.whl
 odoo14_addon_l10n_es_payment_order_confirming_aef-14.0.1.0.1.dev2-py3-none-any.whl
@@ -15637,6 +15732,7 @@ odoo14_addon_l10n_it_fatturapa_out-14.0.3.4.3.dev1-py3-none-any.whl
 odoo14_addon_l10n_it_location_nuts-14.0.1.1.0-py3-none-any.whl
 odoo14_addon_l10n_it_ricevute_bancarie-14.0.1.3.0-py3-none-any.whl
 odoo14_addon_l10n_it_ricevute_bancarie-14.0.1.3.1.dev1-py3-none-any.whl
+odoo14_addon_maintenance_equipment_hierarchy-14.0.1.0.2.dev5-py3-none-any.whl
 odoo14_addon_maintenance_team_hierarchy-14.0.1.0.1.dev4-py3-none-any.whl
 odoo14_addon_metadata-14.0.1.0.0-py3-none-any.whl
 odoo14_addon_mis_builder_cash_flow-14.0.1.0.2-py3-none-any.whl
@@ -15680,6 +15776,7 @@ odoo14_addon_web_dialog_size-14.0.1.0.1.dev16-py3-none-any.whl
 odoo14_addon_website_sale_ajaxify_cart-14.0.1.0.1-py3-none-any.whl
 odoo14_addon_website_sale_ajaxify_cart-14.0.1.0.2.dev1-py3-none-any.whl
 odoo14_addon_website_sale_payment_term_acquirer-14.0.1.0.1.dev7-py3-none-any.whl
+odoo14_addons_oca_currency-14.0.20230610.0-py3-none-any.whl
 odoo14_addons_oca_hr-14.0.20230607.0-py3-none-any.whl
 odoo14_addons_oca_l10n_spain-14.0.20230609.0-py3-none-any.whl
 odoo14_addons_oca_manufacture-14.0.20230606.1-py3-none-any.whl
@@ -15997,6 +16094,8 @@ odoo_addon_l10n_fr_intrastat_service-16.0.1.1.0-py3-none-any.whl
 odoo_addon_l10n_ro_config-16.0.1.1.0.1-py3-none-any.whl
 odoo_addon_letsencrypt-15.0.1.0.3-py3-none-any.whl
 odoo_addon_mail_activity_team-15.0.2.1.0.5-py3-none-any.whl
+odoo_addon_maintenance_equipment_hierarchy-15.0.1.0.1.2-py3-none-any.whl
+odoo_addon_maintenance_equipment_hierarchy-16.0.1.1.0.2-py3-none-any.whl
 odoo_addon_maintenance_project-16.0.1.0.0.2-py3-none-any.whl
 odoo_addon_maintenance_team_hierarchy-15.0.1.0.0.4-py3-none-any.whl
 odoo_addon_mgmtsystem_claim-16.0.1.0.0.16-py3-none-any.whl
@@ -16418,6 +16517,7 @@ openvisuspy
 openvisuspy-1.0.10-py3-none-any.whl
 openvisuspy-1.0.9-py3-none-any.whl
 openvisuspy==1.0.10
+operations
 opihiexarata
 opinionx
 opinionx-0.0.2-py3-none-any.whl
@@ -16906,9 +17006,11 @@ pbt
 pbt-2.12.0-py3-none-any.whl
 pbt-2.12.1-py3-none-any.whl
 pbt-2.12.2-py3-none-any.whl
+pbt-2.12.3-py3-none-any.whl
 pbt==2.12.0
 pbt==2.12.1
 pbt==2.12.2
+pbt==2.12.3
 pbumongo
 pbumongo-1.0.2-py3-none-any.whl
 pcapkit
@@ -18063,6 +18165,8 @@ publication-0.0.3-py2.py3-none-any.whl
 publication.py
 publicsuffixlist
 publicsuffixlist-0.10.0.20230608-py2.py3-none-any.whl
+publicsuffixlist-0.10.0.20230611-py2.py3-none-any.whl
+publicsuffixlist==0.10.0.20230611
 publisher
 pubmed-lib
 pubmed-types
@@ -18462,6 +18566,8 @@ pyautoreloadserver
 pyautoreloadserver-0.0.1-py3-none-any.whl
 pyautosrt
 pyautosrt-0.1.21-py2.py3-none-any.whl
+pyautosrt-0.2.0-py2.py3-none-any.whl
+pyautosrt==0.2.0
 pybads
 pybads==1.0.0
 pybarb
@@ -18782,6 +18888,9 @@ pyinstrument
 pyintegral
 pyintelowl
 pyintelowl-4.4.4-py3-none-any.whl
+pyipatcher
+pyipatcher-1.1.1-py3-none-any.whl
+pyipatcher==1.1.1
 pyiron
 pyiron-0.5.0-py3-none-any.whl
 pyiron-atomistics
@@ -19075,6 +19184,7 @@ pypcapkit
 pypcapkit-1.0.2.post2-cp310-none-any.whl
 pypcapkit-1.0.2.post6-cp310-none-any.whl
 pypcapkit==1.0.2.post6
+pypdfform==1.2.9
 pypdfium2
 pypeit
 pypeman
@@ -19274,6 +19384,8 @@ pystorz-0.3.4.tar.gz
 pystorz==0.3.3
 pystorz==0.3.4
 pysupercell
+pysupercell==0.0.15
+pysupercell==0.0.16
 pysurprisal
 pysurprisal-0.1.0-py3-none-any.whl
 pysurveycto
@@ -19719,7 +19831,9 @@ quickpathstr
 quickpathstr-0.0.1-py3-none-any.whl
 quickstart-vdk
 quickstart-vdk-0.2.895757559.dev11276.tar.gz
+quickstart-vdk-0.2.896146019.dev11277.tar.gz
 quickstart-vdk==0.2.895757559.dev11276
+quickstart-vdk==0.2.896146019.dev11277
 quickstats
 quik-ai==1.0.0
 quik-ai==1.0.1
@@ -19796,6 +19910,9 @@ raiwidgets==0.28.0
 ramodels
 ramonML-0.0.1-py3-none-any.whl
 ramonml
+randog
+randog-0.5.0-py3-none-any.whl
+randog==0.5.0
 randovania
 randovania-5.2.1-py3-none-any.whl
 ranx
@@ -20333,7 +20450,9 @@ rs
 rs-distances
 rs-distances==0.8.1
 rs-distances==1.0.0
+rs-tabler==0.1.0
 rs_distances-0.8.1.tar.gz
+rs_tabler-0.1.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 rsa
 rsa-4.9-py3-none-any.whl
 rsciio
@@ -20624,10 +20743,13 @@ scicookie==0.1.0
 scicookie==0.1.1
 scientific-tools
 sciform
+scikit-build-core==0.4.5
 scikit-hep==2023.6.9
 scikit-query==0.1.1
 scikit-robot
 scikit-robot-0.0.30.tar.gz
+scikit_build_core
+scikit_build_core-0.4.5-py3-none-any.whl
 scikit_hep-2023.6.9-py3-none-any.whl
 scikit_image-0.19.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 scikit_image.libs
@@ -21243,8 +21365,10 @@ six-python==0.0.1
 six.py
 six_python-0.0.1-py3-none-any.whl
 sk-calculator
+sk-calculator==1.0.5
 sk_calculator
 sk_calculator-1.0.1-py3-none-any.whl
+sk_calculator-1.0.5-py3-none-any.whl
 skale
 skale-py
 skale.py-1.0-py3-none-any.whl
@@ -21327,7 +21451,9 @@ sliderule==3.5.0
 slimeball-pdf==1.0
 slither
 slither-tcheck==0.0.4
+slither-tcheck==0.1.0
 slither_tcheck-0.0.4-py3-none-any.whl
+slither_tcheck-0.1.0-py3-none-any.whl
 sliw
 sliw-0.0.5-py3-none-any.whl
 sloth-framework
@@ -21510,6 +21636,7 @@ sowing-0.0.2-py3-none-any.whl
 sowphy
 sp-repo-review
 spPersist
+spPersist-0.4.0-py3-none-any.whl
 spaceone
 spaceone-core
 spaceone-core==1.12.16
@@ -21730,6 +21857,9 @@ spotPython-0.2.12-py3-none-any.whl
 spotPython-0.2.23-py3-none-any.whl
 spotRiver
 spotRiver-0.0.93-py3-none-any.whl
+spotcrates
+spotcrates-0.6.4-py3-none-any.whl
+spotcrates==0.6.4
 spotinst-sdk2
 spotinst-sdk2-2.1.36.tar.gz
 spoton-sdk
@@ -21740,6 +21870,7 @@ spotriver==0.0.93
 spotube
 sppersist
 sppersist-0.1.18-py3-none-any.whl
+sppersist==0.4.0
 sprit
 sprit-0.0.15-py3-none-any.whl
 sprkkr
@@ -22446,6 +22577,7 @@ tableau-helpers
 tableau-helpers-2.0.3.tar.gz
 tableauhyperapi
 tableauhyperapi-0.0.17231-py3-none-manylinux2014_x86_64.whl
+tabler
 tablite
 tablite-2022.11.19-py3-none-any.whl
 tablite-2022.11.19.data
@@ -22910,6 +23042,8 @@ term-chatgpt-1.1.1.tar.gz
 term-chatgpt-1.1.2.tar.gz
 term-chatgpt-1.1.3.tar.gz
 term-chatgpt-1.1.4.tar.gz
+term-chatgpt-1.1.5.tar.gz
+term-chatgpt-1.1.6.tar.gz
 term-chatgpt-1.1.tar.gz
 term-chatgpt==1.0
 term-chatgpt==1.1
@@ -22917,6 +23051,8 @@ term-chatgpt==1.1.1
 term-chatgpt==1.1.2
 term-chatgpt==1.1.3
 term-chatgpt==1.1.4
+term-chatgpt==1.1.5
+term-chatgpt==1.1.6
 terminado
 terminado-0.17.1-py3-none-any.whl
 terminal-agent-x
