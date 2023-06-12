@@ -59,6 +59,7 @@ jobs:
         cat new_yara_results.txt >> yara_results.txt
         mv new.txt new.txt.tmp || echo nothing to move
         mv new_yara_results.txt new_yara_results.txt.tmp || echo nothing to move
+        ls -d packages/* || exit 0 # if there are no new packages scanned, exit
         cd packages/ ; ls -d * |  grep -v dist-info >> ../scanned_pkgs.txt; cd ..
         sort -u scanned_pkgs.txt > scanned_pkgs.txt.1
         mv scanned_pkgs.txt.1 scanned_pkgs.txt
