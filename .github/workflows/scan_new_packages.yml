@@ -57,14 +57,18 @@ jobs:
       run: | 
         cat new.txt >> scanned_pkgs.txt
         cat new_yara_results.txt >> yara_results.txt
+        mv new.txt new.txt.tmp || echo nothing to move
+        mv new_yara_results.txt new_yara_results.txt.tmp || echo nothing to move
         cd packages/ ; ls -d * |  grep -v dist-info >> ../scanned_pkgs.txt; cd ..
         sort -u scanned_pkgs.txt > scanned_pkgs.txt.1
         mv scanned_pkgs.txt.1 scanned_pkgs.txt
-        git add *.txt *.csv
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
         git config --global branch.autoSetupMerge always
         git pull
+        mv new.txt.tmp new.txt
+        mv new_yara_results.txt.tmp new_yara_results.txt
+        git add *.txt *.csv || echo nothing to add
         git commit -m "new scan output $(date)"
         git push 
 
