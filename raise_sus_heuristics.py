@@ -35,7 +35,7 @@ for file in files:
         continue
     # keys: package, connections (protocol,address,port), dns, files, commands
     # (maybe fix src so that package is in source json file instead of filename?)
-    name = file.split('.iocs.json')[0]
+    name_ver = file.split('.iocs.json')[0]
     commands = d['commands']
     connections = d['connections']
 
@@ -71,5 +71,7 @@ for file in files:
     if pkg_detections != {}:
         # create issues
         detection_tags = list(detection_tags)
-        issue_data = {"title":f"{name} has heuristics detections", "body":f'{get_project_link(name)}\n{get_inspector_link(name)}\n```'+json.dumps(pkg_detections,indent=2)+'```', "labels":detection_tags}
+        name = name_ver.split('==')[0]
+        version = name_ver.split('==')[1]
+        issue_data = {"title":f"{name_ver} has heuristics detections", "body":f'{get_project_link(name)}\n{get_inspector_link(name+"/"+version)}\n```'+json.dumps(pkg_detections,indent=2)+'```', "labels":detection_tags}
         create_github_issue(issue_data)
