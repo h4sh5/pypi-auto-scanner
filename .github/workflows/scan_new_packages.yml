@@ -66,11 +66,13 @@ jobs:
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
         git config --global branch.autoSetupMerge always
-        git pull
+        git config --global core.mergeoptions --no-edit
+
         mv new.txt.tmp new.txt
         mv new_yara_results.txt.tmp new_yara_results.txt
         git add *.txt *.csv || echo nothing to add
         git commit -m "new scan output $(date)"
+        git pull
         git push 
 
     - name: Archive code coverage results
