@@ -691,6 +691,7 @@ NEURON_nightly-9.0a0.data
 NEURON_nightly.libs
 NIDDL-0.1.0-py3-none-any.whl
 NIDDL-0.1.1-py3-none-any.whl
+NIDDL-0.1.2-py3-none-any.whl
 NN-FAL-1.0.tar.gz
 NOTICE
 NOTICE.txt
@@ -6721,6 +6722,7 @@ cellworld-0.0.144.tar.gz
 cellworld-0.0.145.tar.gz
 cellworld-0.0.146.tar.gz
 cellworld-0.0.147.tar.gz
+cellworld-0.0.148.tar.gz
 cellworld-0.0.149.tar.gz
 cellworld-0.0.150.tar.gz
 cellworld-0.0.151.tar.gz
@@ -6732,6 +6734,7 @@ cellworld==0.0.144
 cellworld==0.0.145
 cellworld==0.0.146
 cellworld==0.0.147
+cellworld==0.0.148
 cellworld==0.0.149
 cellworld==0.0.150
 cellworld==0.0.151
@@ -7857,6 +7860,9 @@ cognitive-service-vision-model-customization-python-samples==0.0.5
 cognitive_service_vision_model_customization_python_samples
 cognitive_service_vision_model_customization_python_samples-0.0.5-py3-none-any.whl
 cognitolowlevel
+cognitopy
+cognitopy-0.0.1-py3-none-any.whl
+cognitopy==0.0.1
 cohere
 cohere-4.9.0-py3-none-any.whl
 cohere-4.9.1-py3-none-any.whl
@@ -20601,6 +20607,7 @@ mkdocs-blogging-plugin
 mkdocs-caption==0.0.2
 mkdocs-charts-plugin
 mkdocs-cu-ab6459
+mkdocs-exporter==3.1.0
 mkdocs-git-authors-plugin
 mkdocs-iframe
 mkdocs-images-to-webp-0.6.tar.gz
@@ -20626,6 +20633,8 @@ mkdocs_charts_plugin
 mkdocs_charts_plugin-0.0.9-py3-none-any.whl
 mkdocs_cu_ab6459
 mkdocs_cu_ab6459-0.0.2-py3-none-any.whl
+mkdocs_exporter
+mkdocs_exporter-3.1.0-py3-none-any.whl
 mkdocs_git_authors_plugin
 mkdocs_git_authors_plugin-0.7.2-py3-none-any.whl
 mkdocs_iframe
@@ -22561,6 +22570,7 @@ nidcpower-1.4.5-py3-none-any.whl
 nidcpower==1.4.5
 niddl==0.1.0
 niddl==0.1.1
+niddl==0.1.2
 nidhipdf==1.0
 nidigital
 nidigital-1.4.5-py3-none-any.whl
@@ -37713,6 +37723,7 @@ tpdk
 tpdk-2.0.9-py3-none-any.whl
 tplot
 tplot-0.3.4-py3-none-any.whl
+tplot==0.3.3
 tplot==0.3.4
 tpy-packaging-v2
 tpy_packaging_v2-0.0.1-py3-none-any.whl
