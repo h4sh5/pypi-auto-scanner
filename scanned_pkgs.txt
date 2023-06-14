@@ -389,6 +389,7 @@ FileCache_jingle1267-0.1.0-py3-none-any.whl
 FileEncTool-1.5-py3-none-any.whl
 FileMaster-1.0.tar.gz
 Files.com-1.0.944-py3-none-any.whl
+Files.com-1.0.945-py3-none-any.whl
 FindJobsTW-1.0.0-py3-none-any.whl
 FindJobsTW-1.0.1-py3-none-any.whl
 FindJobsTW-1.0.3-py3-none-any.whl
@@ -517,6 +518,7 @@ Geode_Conversion-5.0.7-cp310-cp310-manylinux2014_x86_64.whl
 Geode_Explicit-4.0.1rc1-cp310-cp310-manylinux2014_x86_64.whl
 Geode_Implicit-2.1.0rc1-cp310-cp310-manylinux2014_x86_64.whl
 Geode_Numerics-3.0.5-cp310-cp310-manylinux2014_x86_64.whl
+Geode_Simplex-6.0.12rc2-cp310-cp310-manylinux2014_x86_64.whl
 Geode_Viewables-2.0.3rc1-cp310-cp310-manylinux2014_x86_64.whl
 Get-API-Blaze-1.0.tar.gz
 GitHub
@@ -3601,12 +3603,14 @@ as-scraper==2.3.2
 as-scraper==2.3.3
 as-scraper==2.3.4
 as-scraper==2.3.5
+as-scraper==2.4.0
 asBASE-0.4.tar.gz
 as_scraper
 as_scraper-2.3.2-py3-none-any.whl
 as_scraper-2.3.3-py3-none-any.whl
 as_scraper-2.3.4-py3-none-any.whl
 as_scraper-2.3.5-py3-none-any.whl
+as_scraper-2.4.0-py3-none-any.whl
 asbase
 ascend
 ascend-deployer==5.0.0b4
@@ -4519,6 +4523,7 @@ aws-cdk-cx-api
 aws-cdk-cx-api==2.84.0
 aws-cdk-integ-tests-alpha
 aws-cdk-integ-tests-alpha==2.84.0a0
+aws-cdk-lambda-layer-kubectl-v23==2.0.8
 aws-cdk-lambda-layer-kubectl-v25==2.0.4
 aws-cdk-lambda-layer-kubectl-v26==2.0.1
 aws-cdk-lib
@@ -4693,6 +4698,7 @@ aws_cdk.cloud_assembly_schema-2.83.0-py3-none-any.whl
 aws_cdk.cx_api-2.83.0-py3-none-any.whl
 aws_cdk.integ_tests_alpha-2.83.0a0-py3-none-any.whl
 aws_cdk.integ_tests_alpha-2.84.0a0-py3-none-any.whl
+aws_cdk.lambda_layer_kubectl_v23-2.0.8-py3-none-any.whl
 aws_cdk.lambda_layer_kubectl_v25-2.0.4-py3-none-any.whl
 aws_cdk.lambda_layer_kubectl_v26-2.0.1-py3-none-any.whl
 aws_cdk.region_info-2.83.0-py3-none-any.whl
@@ -5653,6 +5659,9 @@ binsync-3.13.1-py3-none-any.whl
 bio-attention
 bio_attention
 bio_attention-0.0.4-py3-none-any.whl
+biobear
+biobear-0.5.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+biobear==0.5.0
 biocartograph
 biocartograph-0.6.2-py3-none-any.whl
 biocframe
@@ -5731,6 +5740,8 @@ bischoff_and_ratcliff_1995-0.1.0.data
 bisnet
 bisnet-1.0.0-py3-none-any.whl
 bisnet==1.0.0
+bisque-metadoc==0.6.3.26
+bisque_metadoc-0.6.3.26-py3-none-any.whl
 bit-diffusion==0.1.0
 bit_diffusion
 bit_diffusion-0.1.0-py3-none-any.whl
@@ -6083,6 +6094,9 @@ borg_space
 borg_space-2.1-py3-none-any.whl
 borg_space-2.2-py3-none-any.whl
 borgbackup==2.0.0b6
+bornrule
+bornrule-0.2.1-py3-none-any.whl
+bornrule==0.2.1
 bosch-alarm-mode2==0.3.20
 bosch_alarm_mode2
 bosch_alarm_mode2-0.3.20-py3-none-any.whl
@@ -6768,6 +6782,7 @@ bpy_restrict_state.py
 bpy_types.py
 bpyth
 bpyth-0.1.9-py3-none-any.whl
+bq
 bq-estimator==1.0.1
 bq_estimator-1.0.1-py3-none-any.whl
 bq_estimator.py
@@ -6868,6 +6883,7 @@ bruinen==1.1
 bs-admin-utils==1.0.5
 bs-admin-utils==1.0.8
 bs-orm==0.8.1.post20230615
+bs-orm==0.8.2.post20230615
 bs4
 bs_admin_utils
 bs_admin_utils-1.0.5-py3-none-any.whl
@@ -7944,6 +7960,7 @@ cdklabs-appsync-utils==0.0.117
 cdklabs-appsync-utils==0.0.118
 cdklabs-cdk-aws-sagemaker-role-manager==0.0.7
 cdklabs-cdk-aws-sagemaker-role-manager==0.0.8
+cdklabs-cdk-aws-sagemaker-role-manager==0.0.9
 cdklabs-cdk-enterprise-iac
 cdklabs-cdk-enterprise-iac==0.0.291
 cdklabs-cdk-enterprise-iac==0.0.292
@@ -7977,6 +7994,7 @@ cdklabs.appsync_utils-0.0.115-py3-none-any.whl
 cdklabs.appsync_utils-0.0.117-py3-none-any.whl
 cdklabs.cdk_aws_sagemaker_role_manager-0.0.7-py3-none-any.whl
 cdklabs.cdk_aws_sagemaker_role_manager-0.0.8-py3-none-any.whl
+cdklabs.cdk_aws_sagemaker_role_manager-0.0.9-py3-none-any.whl
 cdklabs.cdk_enterprise_iac-0.0.291-py3-none-any.whl
 cdklabs.cdk_enterprise_iac-0.0.292-py3-none-any.whl
 cdklabs.cdk_enterprise_iac-0.0.293-py3-none-any.whl
@@ -9313,6 +9331,7 @@ cns-1.0.0-py3-none-any.whl
 cns-1.0.1-py3-none-any.whl
 cns-1.0.10-py3-none-any.whl
 cns-1.0.11-py3-none-any.whl
+cns-1.0.12-py3-none-any.whl
 cns-1.0.2-py3-none-any.whl
 cns-1.0.3-py3-none-any.whl
 cns-1.0.9-py3-none-any.whl
@@ -9320,6 +9339,7 @@ cns==1.0.0
 cns==1.0.1
 cns==1.0.10
 cns==1.0.11
+cns==1.0.12
 cns==1.0.2
 cns==1.0.3
 cns==1.0.6
@@ -10373,6 +10393,7 @@ csdid-0.1.4.tar.gz
 csdid-0.1.5.tar.gz
 csdid-0.1.51.tar.gz
 csdid-0.1.52.tar.gz
+csdid-0.1.53.tar.gz
 csdid==0.1.0
 csdid==0.1.1
 csdid==0.1.2
@@ -10381,6 +10402,7 @@ csdid==0.1.4
 csdid==0.1.5
 csdid==0.1.51
 csdid==0.1.52
+csdid==0.1.53
 csle-agents==0.2.13
 csle-agents==0.2.14
 csle-attacker==0.2.13
@@ -11891,8 +11913,13 @@ deepfilternet-0.5.1-py3-none-any.whl
 deepfilternet==0.5.1
 deephaven
 deephaven-core
+deephaven-core==0.25.2
+deephaven-server==0.25.2
 deephaven_core-0.25.1-py3-none-any.whl
+deephaven_core-0.25.2-py3-none-any.whl
 deephaven_internal
+deephaven_server
+deephaven_server-0.25.2-py3-none-any.whl
 deepl
 deepl-1.15.0-py3-none-any.whl
 deeplake
@@ -12430,6 +12457,7 @@ django-browser-reload
 django-browser-reload==1.10.0
 django-categories-api
 django-cfdi
+django-cleanup==8.0.0
 django-clone==5.3.3
 django-cloudspotlicense
 django-cloudspotlicense-6.0.0.tar.gz
@@ -12654,6 +12682,8 @@ django_bootstrap_colors-5.3.0-py3-none-any.whl
 django_browser_reload
 django_browser_reload-1.10.0-py3-none-any.whl
 django_categories_api-0.0.2-py2.py3-none-any.whl
+django_cleanup
+django_cleanup-8.0.0-py2.py3-none-any.whl
 django_clone-5.3.3-py3-none-any.whl
 django_cloud_tasks
 django_cloudwatch_metrics
@@ -12892,11 +12922,13 @@ dl-myo
 dl-myo==0.1.2
 dl-myo==0.1.5
 dl-myo==0.1.6
+dl-myo==0.2.0
 dl-utils385==0.12.4
 dl2050utils
 dl2050utils-1.0.284.tar.gz
 dl_myo-0.1.5-py3-none-any.whl
 dl_myo-0.1.6-py3-none-any.whl
+dl_myo-0.2.0-py3-none-any.whl
 dl_utils
 dl_utils385-0.12.4-py3-none-any.whl
 dlbar
@@ -14451,6 +14483,8 @@ escavador-0.2.2-py3-none-any.whl
 escavador==0.2.2
 eseesminipy
 esentity
+esentity-0.2.118-py3-none-any.whl
+esentity==0.2.118
 esi-core
 esi-utils-gmice
 esi_core
@@ -15430,8 +15464,11 @@ federated_content_connector-1.0.1-py2.py3-none-any.whl
 fedml
 fedml-0.8.4a33-py2.py3-none-any.whl
 fedml-0.8.4a33.data
+fedml-0.8.4a34-py2.py3-none-any.whl
+fedml-0.8.4a34.data
 fedml-databricks
 fedml==0.8.4a33
+fedml==0.8.4a34
 fedml_databricks
 fedml_databricks-1.0.4-py3-none-any.whl
 fedml_databricks-1.0.4.data
@@ -15490,6 +15527,9 @@ fern_dopt_blocks-0.0.9-py3-none-any.whl
 fern_dopt_users-0.0.10-py3-none-any.whl
 fern_dopt_users-0.0.9-py3-none-any.whl
 fern_vitruvi-0.0.5-py3-none-any.whl
+fese
+fese-0.2.7-py3-none-any.whl
+fese==0.2.7
 fetchfox
 ff-fasttext-api
 ff_fasttext_api
@@ -15579,6 +15619,7 @@ filelock==3.12.2
 filemaster
 filer
 files-com
+files-com==1.0.945
 files-handler==0.2.1
 files_handler
 files_handler-0.2.1-py3-none-any.whl
@@ -16467,6 +16508,8 @@ foxitpdfconversionsdkpython3
 fpc
 fpc==0.53
 fpdf
+fpec2-0.1.tar.gz
+fpec2==0.1
 fps-jupytercad
 fps_jupytercad
 fps_jupytercad-0.1.0-py3-none-any.whl
@@ -17344,9 +17387,11 @@ geode-common==26.1.0rc2
 geode-conversion
 geode-conversion==5.0.7
 geode-explicit==4.0.1rc1
+geode-hybrid==2.0.4rc1
 geode-implicit==2.1.0rc1
 geode-numerics
 geode-simplex==6.0.12rc1
+geode-simplex==6.0.12rc2
 geode-viewables==2.0.3rc1
 geode_background
 geode_common
@@ -17354,6 +17399,7 @@ geode_conversion
 geode_explicit
 geode_implicit
 geode_numerics
+geode_simplex
 geode_viewables
 geodefi-1.0.1-py3-none-any.whl
 geodefi==1.0.1
@@ -18209,6 +18255,7 @@ grai-client==0.2.17
 grai-client==0.2.18
 grai-schemas==0.1.13
 grai-schemas==0.1.14
+grai-schemas==0.1.15
 grai-source-bigquery
 grai-source-dbt-cloud==0.0.4
 grai_cli
@@ -18222,6 +18269,7 @@ grai_schemas
 grai_schemas-0.1.12-py3-none-any.whl
 grai_schemas-0.1.13-py3-none-any.whl
 grai_schemas-0.1.14-py3-none-any.whl
+grai_schemas-0.1.15-py3-none-any.whl
 grai_source_bigquery
 grai_source_bigquery-0.0.6-py3-none-any.whl
 grai_source_dbt_cloud
@@ -18611,6 +18659,8 @@ h5py.libs
 h5viewer
 h5viewer-0.7.0-py3-none-any.whl
 h5viewer==0.7.0
+ha-philipsjs-3.1.0.tar.gz
+ha-philipsjs==3.1.0
 hab
 hab-0.18.0-py3-none-any.whl
 hab-0.18.0.data
@@ -19177,6 +19227,9 @@ hook
 hooks
 hopic
 hopic-1.62.0-py3-none-any.whl
+hoppr
+hoppr-1.8.6-py3-none-any.whl
+hoppr==1.8.6
 horde-clipfree==0.0.1
 horde_clipfree-0.0.1-py3-none-any.whl
 hordelib
@@ -19466,6 +19519,9 @@ hydra_plugins
 hydra_submitit_extension-0.0.1-py3-none-any.whl
 hydra_submitit_extension-0.0.3-py3-none-any.whl
 hydra_submitit_extension-0.0.4-py3-none-any.whl
+hydrofunctions
+hydrofunctions-0.2.4-py3-none-any.whl
+hydrofunctions==0.2.4
 hydrogibs
 hydrogibs-0.3.14-py3-none-any.whl
 hydrogibs-0.3.15-py3-none-any.whl
@@ -21876,6 +21932,10 @@ lamda==3.157
 lamin-logger==0.3.4
 lamin_logger
 lamin_logger-0.3.4-py2.py3-none-any.whl
+laminci
+laminci-0.6.7-py2.py3-none-any.whl
+laminci==0.6.7
+laminci==0.6.8
 lamindb
 lamindb-0.42.0-py3-none-any.whl
 lamindb-0.42a8-py3-none-any.whl
@@ -22970,8 +23030,10 @@ limepkg_getaccept
 limepkg_getaccept-1.1.5.dev2-py3-none-any.whl
 limes-x
 limes-x==1.1.7
+limes-x==1.1.8
 limes_x
 limes_x-1.1.7-py3-none-any.whl
+limes_x-1.1.8-py3-none-any.whl
 linc
 linc-1.7.0-py3-none-any.whl
 lincs
@@ -24436,7 +24498,9 @@ mekspdf==1.0
 melnor-bluetooth
 melodietable
 meltanolabs-target-snowflake==0.2.0
+meltanolabs-target-snowflake==0.2.1
 meltanolabs_target_snowflake-0.2.0-py3-none-any.whl
+meltanolabs_target_snowflake-0.2.1-py3-none-any.whl
 memento
 memento-scorecard
 memento-scorecard==0.3.3
@@ -26760,7 +26824,9 @@ nbtools-23.5.0.data
 ncbi-datasets-pylib
 ncbi-datasets-pylib-15.3.0.tar.gz
 ncbi-datasets-pylib-15.4.0.tar.gz
+ncbi-datasets-pylib-15.6.0.tar.gz
 ncbi-datasets-pylib==15.4.0
+ncbi-datasets-pylib==15.6.0
 ncbiquery
 ncdu-compare==0.0.7
 ncdu_compare-0.0.7-py3-none-any.whl
@@ -27183,6 +27249,9 @@ neural_insights
 neural_insights-0.1-py3-none-any.whl
 neural_solution
 neural_solution-0.1-py3-none-any.whl
+neuralprophet
+neuralprophet-0.6.1-py3-none-any.whl
+neuralprophet==0.6.1
 neuroconv
 neuroconv-0.3.0-py3-none-any.whl
 neurodiffeq
@@ -31141,6 +31210,7 @@ opening-hours-py==0.6.11
 opening-hours-py==0.6.12
 opening-hours-py==0.6.13
 opening-hours-py==0.6.16
+opening-hours-py==0.6.17
 opening-hours-py==0.6.6
 opening-hours-py==0.6.9
 opening_hours
@@ -31148,6 +31218,7 @@ opening_hours_py-0.6.11.tar.gz
 opening_hours_py-0.6.12-cp310-cp310-manylinux_2_34_x86_64.whl
 opening_hours_py-0.6.13-cp310-cp310-manylinux_2_34_x86_64.whl
 opening_hours_py-0.6.16-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+opening_hours_py-0.6.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 opening_hours_py-0.6.6-cp310-cp310-manylinux_2_34_x86_64.whl
 opening_hours_py-0.6.9.tar.gz
 openlayer
@@ -31618,6 +31689,7 @@ ovos-phal-plugin-system==0.0.4a4
 ovos-phal-plugin-wallpaper-manager==0.0.1a2
 ovos-phal-plugin-wifi-setup==1.1.1a1
 ovos-phal-plugin-wifi-setup==1.1.1a2
+ovos-plugin-common-play==0.0.6a2
 ovos-skill-homescreen
 ovos-skill-stop
 ovos-skill-weather
@@ -31670,6 +31742,8 @@ ovos_microphone_plugin_socket
 ovos_microphone_plugin_socket-0.0.0a2-py3-none-any.whl
 ovos_phal_plugin_connectivity_events
 ovos_phal_plugin_connectivity_events-0.0.3a1-py3-none-any.whl
+ovos_plugin_common_play
+ovos_plugin_common_play-0.0.6a2-py3-none-any.whl
 ovos_skill_homescreen-0.0.2-py3-none-any.whl
 ovos_skill_stop-0.2.1-py3-none-any.whl
 ovos_translate_plugin_nllb
@@ -32343,6 +32417,8 @@ pepperize-cdk-serverless-cluster-from-snapshot
 pepperize-cdk-serverless-cluster-from-snapshot==0.0.685
 pepperize-cdk-serverless-cluster-from-snapshot==0.0.686
 pepperize-cdk-serverless-cluster-from-snapshot==0.0.687
+pepperize-cdk-serverless-cluster-from-snapshot==0.0.688
+pepperize-cdk-serverless-cluster-from-snapshot==0.0.689
 pepperize-cdk-ses-smtp-credentials
 pepperize-cdk-ses-smtp-credentials==0.3.357
 pepperize-cdk-ses-smtp-credentials==0.3.358
@@ -32443,6 +32519,8 @@ pepperize.cdk_security_group-0.0.482-py3-none-any.whl
 pepperize.cdk_serverless_cluster_from_snapshot-0.0.685-py3-none-any.whl
 pepperize.cdk_serverless_cluster_from_snapshot-0.0.686-py3-none-any.whl
 pepperize.cdk_serverless_cluster_from_snapshot-0.0.687-py3-none-any.whl
+pepperize.cdk_serverless_cluster_from_snapshot-0.0.688-py3-none-any.whl
+pepperize.cdk_serverless_cluster_from_snapshot-0.0.689-py3-none-any.whl
 pepperize.cdk_ses_smtp_credentials-0.3.357-py3-none-any.whl
 pepperize.cdk_ses_smtp_credentials-0.3.358-py3-none-any.whl
 pepperize.cdk_ses_smtp_credentials-0.3.359-py3-none-any.whl
@@ -32519,12 +32597,15 @@ perseus_restful_api_framework-1.26.16-py3-none-any.whl
 perseus_restful_api_framework-1.26.17-py3-none-any.whl
 persian-gender-detection
 persian-gender-detection==1.1.0
+persian-gender-detection==1.2.0
 persian_admin
 persian_gender_detection
 persian_gender_detection-1.0.2-py3-none-any.whl
 persian_gender_detection-1.0.2.data
 persian_gender_detection-1.1.0-py3-none-any.whl
 persian_gender_detection-1.1.0.data
+persian_gender_detection-1.2.0-py3-none-any.whl
+persian_gender_detection-1.2.0.data
 persistent
 persistent-5.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 persistent-5.0.data
@@ -33405,6 +33486,8 @@ plotly_express
 plotly_express-0.4.1-py2.py3-none-any.whl
 plots
 plotting
+plover-stenograph-2.1.dev1.tar.gz
+plover-stenograph==2.1.dev1
 plugcli
 plugcli-0.2.0-py3-none-any.whl
 pluggy
@@ -34886,6 +34969,8 @@ pyDFTutils-0.1.14.data
 pyDeprecate-0.3.2-py3-none-any.whl
 pyDictStore
 pyDictStore-1.0.3-py3-none-any.whl
+pyEPR
+pyEPR_quantum-0.9.0-py3-none-any.whl
 pyElli-0.17.0-py3-none-any.whl
 pyFAT_astro
 pyFAT_astro-0.1.1-py3-none-any.whl
@@ -35482,15 +35567,18 @@ pyepkg-4.4.6-py3-none-any.whl
 pyepkg==2.2.2
 pyepkg==4.4.4
 pyepkg==4.4.6
+pyepr-quantum==0.9.0
 pyequations
 pyequations-0.1.0-py3-none-any.whl
 pyequations-0.1.1-py3-none-any.whl
 pyequations-0.1.2-py3-none-any.whl
 pyequations-0.1.3-py3-none-any.whl
+pyequations-0.1.4-py3-none-any.whl
 pyequations==0.1.0
 pyequations==0.1.1
 pyequations==0.1.2
 pyequations==0.1.3
+pyequations==0.1.4
 pyerr
 pyerr-0.1.1-py3-none-any.whl
 pyetcd
@@ -38366,10 +38454,12 @@ renumics_spotlight-1.2.0rc2-py3-none-any.whl
 repetita-parser==0.0.1
 repetita-parser==1.0.0
 repetita-parser==1.0.1
+repetita-parser==1.0.2
 repetita_parser
 repetita_parser-0.0.1-py3-none-any.whl
 repetita_parser-1.0.0-py3-none-any.whl
 repetita_parser-1.0.1-py3-none-any.whl
+repetita_parser-1.0.2-py3-none-any.whl
 repid
 repid-1.2.0-py3-none-any.whl
 repid==1.2.0
@@ -40386,6 +40476,9 @@ shark-sac-korean-editor
 shark-sac-korean-editor==1.2.1
 shark-sac-korean-editor==1.2.5
 sharkpyro
+sharktopoda-client==0.2.0
+sharktopoda_client
+sharktopoda_client-0.2.0-py3-none-any.whl
 sharpdisplay-stubs
 sharry-jira-tool==0.2.6
 sharry_jira_tool-0.2.6-py3-none-any.whl
@@ -41791,6 +41884,9 @@ splunk_add_on_ucc_framework-5.27.3-py3-none-any.whl
 spnego
 spoiltracker
 spoiltracker-0.0.8.tar.gz
+sport80
+sport80-2.2.2-py3-none-any.whl
+sport80==2.2.2
 sportradar-api
 sportradar_api
 sportradar_api-0.2.8-py3-none-any.whl
@@ -45468,6 +45564,9 @@ tributors-0.1.1-py2.py3-none-any.whl
 tricycle
 trie
 trie-2.1.1-py3-none-any.whl
+trill
+trill-proteins==1.3.9
+trill_proteins-1.3.9-py3-none-any.whl
 trilogy-public-models==0.0.14
 trilogy-public-models==0.0.15
 trilogy_public_models
@@ -46490,6 +46589,9 @@ vios-1.0.0-py3-none-any.whl
 vios-1.0.1-py3-none-any.whl
 vios==1.0.0
 vios==1.0.1
+vipickle
+vipickle-0.1.0a0-py3-none-any.whl
+vipickle==0.1.0a0
 virheat
 virtool-core
 virtual_fields
@@ -46737,6 +46839,9 @@ vstt-0.28.0-py3-none-any.whl
 vstt-0.30.0-py3-none-any.whl
 vstt==0.30.0
 vstutils
+vstutils-5.4.15-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+vstutils.libs
+vstutils==5.4.15
 vt-ratio
 vt-ratio==1.7
 vt_ratio-1.7-py3-none-any.whl
