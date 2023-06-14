@@ -492,6 +492,7 @@ HaplyHardwareAPI.libs
 HarishStringReplace-0.0.1.tar.gz
 HawaData-0.5.13-py3-none-any.whl
 HawaData-0.6.3-py3-none-any.whl
+HawaData-0.6.4-py3-none-any.whl
 Hefesto-0.4.3.tar.gz
 Hunabku_dri_udea-0.0.3-py3-none-any.whl
 ICICONSOLE
@@ -582,6 +583,7 @@ LICENSE
 LICENSE.fr
 LICENSE.html
 LICENSE.md
+LICENSE.rst
 LICENSE.txt
 LUASprites-0.0.25.tar.gz
 LUASprites-0.0.28.tar.gz
@@ -1252,6 +1254,7 @@ Signal8-3.4.tar.gz
 Signal8-3.5.tar.gz
 Signal8-3.6.tar.gz
 Signal8-3.7.tar.gz
+Signal8-3.8.tar.gz
 SimPyLC-3.10.5-py2.py3-none-any.whl
 Simba_UW_tf_dev-1.62.9-py3-none-any.whl
 SimpleITK
@@ -4022,8 +4025,10 @@ aws-prototyping-sdk-pipeline==0.19.20
 aws-prototyping-sdk-pipeline==0.19.22
 aws-prototyping-sdk-static-website
 aws-prototyping-sdk-static-website==0.19.20
+aws-prototyping-sdk-static-website==0.19.22
 aws-prototyping-sdk-type-safe-api
 aws-prototyping-sdk-type-safe-api==0.19.20
+aws-prototyping-sdk-type-safe-api==0.19.22
 aws-s3-tools==0.3.0
 aws-sam-cli
 aws-securityhub-suppression==0.1.0
@@ -4166,9 +4171,12 @@ aws_prototyping_sdk.pipeline-0.19.18-py3-none-any.whl
 aws_prototyping_sdk.pipeline-0.19.20-py3-none-any.whl
 aws_prototyping_sdk.static_website-0.19.18-py3-none-any.whl
 aws_prototyping_sdk.static_website-0.19.20-py3-none-any.whl
+aws_prototyping_sdk.static_website-0.19.22-py3-none-any.whl
 aws_prototyping_sdk.type_safe_api-0.19.18-py3-none-any.whl
 aws_prototyping_sdk.type_safe_api-0.19.20-py3-none-any.whl
 aws_prototyping_sdk.type_safe_api-0.19.20.data
+aws_prototyping_sdk.type_safe_api-0.19.22-py3-none-any.whl
+aws_prototyping_sdk.type_safe_api-0.19.22.data
 aws_s3_tools-0.3.0-py3-none-any.whl
 aws_sam_cli-1.86.0-py3-none-any.whl
 aws_securityhub_suppression
@@ -8251,6 +8259,9 @@ cnd_scaffold-2.2.5-py3-none-any.whl
 cnn2snn-2.3.7.tar.gz
 cnn2snn==2.3.7
 cnn_archs
+cns
+cns-1.0.0-py3-none-any.whl
+cns==1.0.0
 cnudie
 cnvmsg==0.1.0
 cnvrg
@@ -8849,6 +8860,12 @@ coop_html_editor-1.4.1-py3-none-any.whl
 copasi-basico
 copasi-basico==0.50
 copasi_basico-0.50-py3-none-any.whl
+coptpy-6.5.4-cp310-cp310-manylinux2014_x86_64.whl
+coptpy-6.5.4.data
+coptpy-stubs
+coptpy-stubs==1.1.2
+coptpy==6.5.4
+coptpy_stubs-1.1.2-py3-none-any.whl
 copyleaks
 copyleaks-4.0.1.tar.gz
 copyparty
@@ -13885,6 +13902,7 @@ flask-fullstack==0.4.14
 flask-http-middleware==0.2.2
 flask-http-middleware==0.3.0
 flask-http-middleware==0.3.1
+flask-identity==1.0.5
 flask-limit==1.0.4
 flask-limit==1.0.5
 flask-marshmallow-openapi
@@ -13915,6 +13933,8 @@ flask_http_middleware
 flask_http_middleware-0.2.2-py3-none-any.whl
 flask_http_middleware-0.3.0-py3-none-any.whl
 flask_http_middleware-0.3.1-py3-none-any.whl
+flask_identity
+flask_identity-1.0.5-py3-none-any.whl
 flask_marshmallow_openapi
 flask_marshmallow_openapi-0.1.2-py3-none-any.whl
 flask_marshmallow_openapi-0.1.5-py3-none-any.whl
@@ -14903,7 +14923,9 @@ gators.libs
 gattfuzz
 gauge
 gauge-llm==0.0.1
+gauge-llm==0.0.11
 gauge_llm-0.0.1-py3-none-any.whl
+gauge_llm-0.0.11-py3-none-any.whl
 gautomatch
 gb-chat-client-alexey-01==0.1.0
 gb-chat-server-alexey-01==0.1.0
@@ -16313,6 +16335,7 @@ havoc_clustering-0.0.15-py3-none-any.whl
 hawa
 hawadata
 hawadata==0.6.3
+hawadata==0.6.4
 hayloft
 hayloft-0.1.0-py3-none-any.whl
 hayloft-0.1.1-py3-none-any.whl
@@ -17388,6 +17411,7 @@ infixtopostfix==1.0.1
 infixtopostfix==1.0.2
 infixtopostfix==1.0.3
 infixtopostfix==1.0.4
+infixtopostfix==1.0.7
 inflection
 inflection-0.5.1-py2.py3-none-any.whl
 inflection.py
@@ -17907,7 +17931,9 @@ je-auto-control-dev==0.0.82
 je-auto-control==0.0.142
 je-auto-control==0.0.144
 je-editor-dev==0.0.116
+je-editor==0.0.111
 je-web-runner-dev==0.0.73
+je-web-runner==0.0.44
 je_api_testka
 je_api_testka-0.0.111-py3-none-any.whl
 je_api_testka_dev-0.0.94-py3-none-any.whl
@@ -17916,8 +17942,10 @@ je_auto_control-0.0.142-py3-none-any.whl
 je_auto_control-0.0.144-py3-none-any.whl
 je_auto_control_dev-0.0.82-py3-none-any.whl
 je_editor
+je_editor-0.0.111-py3-none-any.whl
 je_editor_dev-0.0.116-py3-none-any.whl
 je_web_runner
+je_web_runner-0.0.44-py3-none-any.whl
 je_web_runner_dev-0.0.73-py3-none-any.whl
 jedi
 jedi-0.18.2-py2.py3-none-any.whl
@@ -18997,6 +19025,7 @@ laboneq-2.8.0-py3-none-any.whl
 labonneboite-datamodel
 labonneboite_datamodel
 labonneboite_datamodel-1.0.9-py3-none-any.whl
+labscripts==0.1.1
 lace
 lacuscore
 lacuscore-1.5.6-py3-none-any.whl
@@ -19174,6 +19203,9 @@ langtests-0.1-py3-none-any.whl
 langtests==0.1
 language
 languagemodels
+laningfaiss
+laningfaiss-0.1.0-py3-none-any.whl
+laningfaiss==0.1.0
 laptrack
 laptrack-0.14.0-py3-none-any.whl
 laptrack==0.14.0
@@ -20162,6 +20194,8 @@ llm_rs.libs
 llmo
 llmspec
 llmspec-0.3.11-py3-none-any.whl
+llmspec-0.3.12-py3-none-any.whl
+llmspec==0.3.12
 llmtest-0.0.1-py3-none-any.whl
 llmtest==0.0.1
 llvm-tools==0.0.1
@@ -21325,6 +21359,9 @@ meow_sim-0.5.5-py3-none-any.whl
 meraki-netbox-plugin-pdu==0.0.10
 meraki_netbox_plugin_pdu-0.0.10-py3-none-any.whl
 mercury-engine-data-structures
+mercutio
+mercutio-0.10.2-py3-none-any.whl
+mercutio==0.10.2
 mergepythonsdk
 merqube-client-lib
 merqube-client-lib==0.12.1
@@ -21388,9 +21425,13 @@ metacountregressor
 metacountregressor-0.1.3-py3-none-any.whl
 metacountregressor-0.1.4-py3-none-any.whl
 metacountregressor-0.1.5-py3-none-any.whl
+metacountregressor-0.1.6-py3-none-any.whl
+metacountregressor-0.1.7-py3-none-any.whl
 metacountregressor==0.1.3
 metacountregressor==0.1.4
 metacountregressor==0.1.5
+metacountregressor==0.1.6
+metacountregressor==0.1.7
 metadata
 metadata-parser
 metadata-utils
@@ -24057,6 +24098,7 @@ nonebot-plugin-bili-push==0.1.1
 nonebot-plugin-bili-push==0.1.2
 nonebot-plugin-bili-push==0.1.4
 nonebot-plugin-bili-push==0.1.5
+nonebot-plugin-bili-push==0.1.6
 nonebot-plugin-bilichat
 nonebot-plugin-bilichat==2.4.2
 nonebot-plugin-bilichat==2.5.0
@@ -24164,6 +24206,7 @@ nonebot_plugin_bili_push-0.1.1-py3-none-any.whl
 nonebot_plugin_bili_push-0.1.2-py3-none-any.whl
 nonebot_plugin_bili_push-0.1.4-py3-none-any.whl
 nonebot_plugin_bili_push-0.1.5-py3-none-any.whl
+nonebot_plugin_bili_push-0.1.6-py3-none-any.whl
 nonebot_plugin_bilichat
 nonebot_plugin_bilichat-2.4.1-py3-none-any.whl
 nonebot_plugin_bilichat-2.4.2-py3-none-any.whl
@@ -25002,6 +25045,7 @@ odoo-addon-hr-employee-birthday-mail
 odoo-addon-hr-employee-birthday-mail==16.0.1.0.0.5
 odoo-addon-hr-employee-medical-examination
 odoo-addon-hr-employee-medical-examination==16.0.1.0.0.14
+odoo-addon-hr-holidays-public==15.0.1.1.1.2
 odoo-addon-hr-holidays-settings
 odoo-addon-hr-personal-equipment-request
 odoo-addon-hr-personal-equipment-request==16.0.1.0.0.11
@@ -25609,6 +25653,7 @@ odoo12-addon-hr-holidays-leave-repeated
 odoo12-addon-hr-holidays-leave-request-wizard==12.0.1.0.0.99.dev10
 odoo12-addon-hr-holidays-notify-employee-manager
 odoo12-addon-hr-holidays-public==12.0.1.1.3.99.dev1
+odoo12-addon-hr-holidays-public==12.0.1.1.3.99.dev2
 odoo12-addon-hr-holidays-settings
 odoo12-addon-hr-holidays-validity-date
 odoo12-addon-hr-job-category
@@ -25707,6 +25752,7 @@ odoo12_addon_hr_experience-12.0.1.0.0.99.dev12-py3-none-any.whl
 odoo12_addon_hr_holidays_leave_repeated-12.0.1.0.1-py3-none-any.whl
 odoo12_addon_hr_holidays_leave_request_wizard-12.0.1.0.0.99.dev10-py3-none-any.whl
 odoo12_addon_hr_holidays_public-12.0.1.1.3.99.dev1-py3-none-any.whl
+odoo12_addon_hr_holidays_public-12.0.1.1.3.99.dev2-py3-none-any.whl
 odoo12_addon_hr_holidays_validity_date-12.0.1.1.0-py3-none-any.whl
 odoo12_addon_hr_skill-12.0.1.2.0.99.dev8-py3-none-any.whl
 odoo12_addon_hr_worked_days_from_timesheet-12.0.1.0.0.99.dev5-py3-none-any.whl
@@ -25969,6 +26015,7 @@ odoo14-addon-hr-employee-birthday-mail==14.0.1.0.1.dev5
 odoo14-addon-hr-employee-calendar-planning
 odoo14-addon-hr-employee-calendar-planning==14.0.1.6.1.dev2
 odoo14-addon-hr-holidays-public
+odoo14-addon-hr-holidays-public==14.0.2.1.3.dev4
 odoo14-addon-hr-payroll-period
 odoo14-addon-hr-personal-equipment-request
 odoo14-addon-hr-personal-equipment-request-tier-validation
@@ -26069,6 +26116,7 @@ odoo14-addon-website-sale-payment-term-acquirer
 odoo14-addon-website-sale-product-assortment==14.0.1.0.1.dev6
 odoo14-addons-oca-currency==14.0.20230610.0
 odoo14-addons-oca-hr
+odoo14-addons-oca-hr-holidays==14.0.20230613.0
 odoo14-addons-oca-l10n-brazil
 odoo14-addons-oca-l10n-spain==14.0.20230609.0
 odoo14-addons-oca-manufacture
@@ -26159,6 +26207,7 @@ odoo14_addon_hr_employee_birthday_mail-14.0.1.0.1.dev5-py3-none-any.whl
 odoo14_addon_hr_employee_calendar_planning-14.0.1.6.0-py3-none-any.whl
 odoo14_addon_hr_employee_calendar_planning-14.0.1.6.1.dev2-py3-none-any.whl
 odoo14_addon_hr_holidays_public-14.0.2.1.2-py3-none-any.whl
+odoo14_addon_hr_holidays_public-14.0.2.1.3.dev4-py3-none-any.whl
 odoo14_addon_hr_payroll_period-14.0.1.0.1.dev6-py3-none-any.whl
 odoo14_addon_hr_personal_equipment_request-14.0.1.0.1.dev29-py3-none-any.whl
 odoo14_addon_hr_personal_equipment_request_tier_validation-14.0.1.0.1.dev7-py3-none-any.whl
@@ -26246,6 +26295,7 @@ odoo14_addon_website_sale_payment_term_acquirer-14.0.1.0.1.dev7-py3-none-any.whl
 odoo14_addon_website_sale_product_assortment-14.0.1.0.1.dev6-py3-none-any.whl
 odoo14_addons_oca_currency-14.0.20230610.0-py3-none-any.whl
 odoo14_addons_oca_hr-14.0.20230607.0-py3-none-any.whl
+odoo14_addons_oca_hr_holidays-14.0.20230613.0-py3-none-any.whl
 odoo14_addons_oca_l10n_spain-14.0.20230609.0-py3-none-any.whl
 odoo14_addons_oca_manufacture-14.0.20230606.1-py3-none-any.whl
 odoo14_addons_oca_sale_workflow-14.0.20230612.0-py3-none-any.whl
@@ -26607,6 +26657,7 @@ odoo_addon_hr_employee_birthday_mail-16.0.1.0.0.3-py3-none-any.whl
 odoo_addon_hr_employee_birthday_mail-16.0.1.0.0.5-py3-none-any.whl
 odoo_addon_hr_employee_medical_examination-16.0.1.0.0.13-py3-none-any.whl
 odoo_addon_hr_employee_medical_examination-16.0.1.0.0.14-py3-none-any.whl
+odoo_addon_hr_holidays_public-15.0.1.1.1.2-py3-none-any.whl
 odoo_addon_hr_holidays_settings-16.0.1.0.0.2-py3-none-any.whl
 odoo_addon_hr_personal_equipment_request-16.0.1.0.0.11-py3-none-any.whl
 odoo_addon_hr_personal_equipment_request-16.0.1.0.0.9-py3-none-any.whl
@@ -29700,6 +29751,7 @@ prince==0.10.6
 printbuddies
 printbuddies-1.3.1-py3-none-any.whl
 printbuddies==1.3.1
+priori==0.0.2
 prioritization-discovery
 prioritization_discovery
 prioritization_discovery-0.4.3-py3-none-any.whl
@@ -35222,8 +35274,12 @@ sfpl
 sfpl-1.5.4-py3-none-any.whl
 sftpoeb-0.0.3.tar.gz
 sftpoeb-0.0.4.tar.gz
+sftpoeb-0.0.5.tar.gz
+sftpoeb-0.0.6.tar.gz
 sftpoeb==0.0.3
 sftpoeb==0.0.4
+sftpoeb==0.0.5
+sftpoeb==0.0.6
 sgclimaapiclient
 sgclimaapiclient-1.1.19-py3-none-any.whl
 sgclimaapiclient==1.1.19
@@ -35381,10 +35437,12 @@ siat-2.0.16-py3-none-any.whl
 siat-2.0.17-py3-none-any.whl
 siat-2.0.18-py3-none-any.whl
 siat-2.0.19-py3-none-any.whl
+siat-2.1.1-py3-none-any.whl
 siat==2.0.16
 siat==2.0.17
 siat==2.0.18
 siat==2.0.19
+siat==2.1.1
 sickrage
 sidechannelattack
 sidechannelattack-0.0.2-py3-none-any.whl
@@ -35425,6 +35483,7 @@ signal8==3.4
 signal8==3.5
 signal8==3.6
 signal8==3.7
+signal8==3.8
 signal_ocean
 signal_ocean-6.1.0-py3-none-any.whl
 signalsnap
@@ -35575,8 +35634,10 @@ sinter==1.12.dev1686536079
 sinter==1.12.dev1686545420
 sinyi-datateam-utils==0.1.6
 sinyi-datateam-utils==0.1.7
+sinyi-datateam-utils==0.1.8
 sinyi_datateam_utils-0.1.6-py3-none-any.whl
 sinyi_datateam_utils-0.1.7-py3-none-any.whl
+sinyi_datateam_utils-0.1.8-py3-none-any.whl
 sinyi_utils
 sioyek
 sioyek-0.31.11-py3-none-any.whl
@@ -40756,10 +40817,12 @@ visualize-algos-0.0.2.tar.gz
 visualize-algos==0.0.1
 visualize-algos==0.0.2
 visualize-algos==0.0.3
+visualize-algos==0.0.4
 visualize-alogs==0.0.1
 visualize_algos
 visualize_algos-0.0.1-py3-none-any.whl
 visualize_algos-0.0.3-py3-none-any.whl
+visualize_algos-0.0.4-py3-none-any.whl
 visualize_alogs-0.0.1-py3-none-any.whl
 visuallayer
 visuallayer-0.0.1-py3-none-any.whl
