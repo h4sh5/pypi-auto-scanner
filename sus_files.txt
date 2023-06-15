@@ -2655,6 +2655,7 @@ packages/neuron/.data/bin/nocmodl: ELF 64-bit LSB executable, x86-64, version 1 
 packages/neuron/.data/bin/nrniv-core: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a6985d33b250a2d8c7085a234e1fe355ad69ab8c, for GNU/Linux 2.6.32, not stripped
 packages/neuron/.data/bin/nrniv: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b07aca92f30330a759e419d7958b5c8a79047051, for GNU/Linux 2.6.32, not stripped
 packages/neuron/.data/share/nrn/demo/release/x86_64/special: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8e07862897a977c863b426d865b90baafd4ace67, for GNU/Linux 2.6.32, not stripped
+packages/nionswift_tool-0.4.19.data/data/bin/NionSwiftLauncher/NionSwiftLauncher: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a96ccaea386b9bbf95841c8ebc607cfcc924655f, for GNU/Linux 3.2.0, not stripped
 packages/nionui_tool-0.4.19.data/data/bin/NionUILauncher/NionUILauncher: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d2b86e8ce27bcce8abc600dafd7b0f50b889e435, for GNU/Linux 3.2.0, not stripped
 packages/nlmod/bin/mp7_2_002_provisional: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=9abb982f327a7ceba702b9194d39e397dc8742dd, for GNU/Linux 3.2.0, not stripped
 packages/nrel/hive/resources/__pycache__/__init__.cpython-310.pyc: data
@@ -4742,6 +4743,13 @@ packages/ray/thirdparty_files/psutil/tests/__pycache__/test_testutils.cpython-31
 packages/ray/thirdparty_files/psutil/tests/__pycache__/test_unicode.cpython-310.pyc: data
 packages/ray/thirdparty_files/psutil/tests/__pycache__/test_windows.cpython-310.pyc: data
 packages/regpredict/__pycache__/regbot.cpython-310.pyc: data
+packages/resipy/cext/meshCalc.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/resipy/cext/meshCalc.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/resipy/cext/meshCalc.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/resipy/cext/meshCalc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/resipy/cext/meshCalc.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/resipy/exe/R2.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/resipy/exe/gmsh.exe: PE32+ executable (GUI) x86-64 (stripped to external PDB), for MS Windows
 packages/reverb/server_executable/__init__.py: empty
 packages/reverb/server_executable: directory
 packages/rldeploy/rl-deploy: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped
