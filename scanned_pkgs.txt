@@ -3182,6 +3182,7 @@ airflow-mcd==0.1.3
 airflow-mcd==0.1.4
 airflow-provider-anomaly-detection==0.0.22
 airflow-provider-anomaly-detection==0.0.23
+airflow-provider-anomaly-detection==0.0.24
 airflow-provider-fivetran-async==1.1.0
 airflow-provider-hex==0.1.9
 airflow_anomaly_detection
@@ -3196,6 +3197,7 @@ airflow_mcd-0.1.3-py3-none-any.whl
 airflow_mcd-0.1.4-py3-none-any.whl
 airflow_provider_anomaly_detection-0.0.22-py3-none-any.whl
 airflow_provider_anomaly_detection-0.0.23-py3-none-any.whl
+airflow_provider_anomaly_detection-0.0.24-py3-none-any.whl
 airflow_provider_fivetran_async-1.1.0-py3-none-any.whl
 airflow_provider_hex
 airflow_provider_hex-0.1.9-py3-none-any.whl
@@ -8231,10 +8233,13 @@ bluesky_darkframes-0.6.0-py3-none-any.whl
 bluetooth-data-tools
 bluetooth-data-tools==1.1.0
 bluetooth-data-tools==1.2.0
+bluetooth-numbers==1.1.1
 bluetooth_data_tools
 bluetooth_data_tools-1.0.0-cp310-cp310-manylinux_2_31_x86_64.whl
 bluetooth_data_tools-1.1.0-cp310-cp310-manylinux_2_31_x86_64.whl
 bluetooth_data_tools-1.2.0-cp310-cp310-manylinux_2_31_x86_64.whl
+bluetooth_numbers
+bluetooth_numbers-1.1.1-py3-none-any.whl
 bmarimaruplayer-0.0.1-py3-none-any.whl
 bmarimaruplayer==0.0.1
 bmcook-0.1.2.tar.gz
@@ -18004,6 +18009,9 @@ dmvimlemfodftest==0.0.0.2
 dna
 dna-node==2.1.1
 dna.node-2.1.1-py3-none-any.whl
+dnadb
+dnadb-0.7.0-py3-none-any.whl
+dnadb==0.7.0
 dnastack
 dnastack-client-library
 dnastack-client-library==3.0.382
@@ -22852,6 +22860,8 @@ foursight-cgap==3.5.0.1b11
 foursight-cgap==3.5.0.1b12
 foursight-cgap==3.5.0.1b13
 foursight-cgap==3.5.0.1b14
+foursight-cgap==3.5.0.1b15
+foursight-cgap==3.5.0.1b16
 foursight-cgap==3.5.0.1b2
 foursight-cgap==3.5.0.1b4
 foursight-cgap==3.5.0.1b5
@@ -22871,6 +22881,8 @@ foursight-core==4.3.0.1b10
 foursight-core==4.3.0.1b11
 foursight-core==4.3.0.1b12
 foursight-core==4.3.0.1b13
+foursight-core==4.3.0.1b14
+foursight-core==4.3.0.1b15
 foursight-core==4.3.0.1b2
 foursight-core==4.3.0.1b3
 foursight-core==4.3.0.1b4
@@ -22891,6 +22903,8 @@ foursight==3.5.0.1b11
 foursight==3.5.0.1b12
 foursight==3.5.0.1b13
 foursight==3.5.0.1b14
+foursight==3.5.0.1b15
+foursight==3.5.0.1b16
 foursight==3.5.0.1b2
 foursight==3.5.0.1b4
 foursight==3.5.0.1b5
@@ -24640,7 +24654,9 @@ git-versioner
 git-ws
 git2doc
 git2doc-0.1.8-py3-none-any.whl
+git2doc-0.2.0-py3-none-any.whl
 git2doc==0.1.8
+git2doc==0.2.0
 git2pdf
 git2vec
 git2vec-0.1.3-py3-none-any.whl
@@ -25368,6 +25384,8 @@ graphite-submit-mod
 graphite_submit_mod-0.0.1-py2.py3-none-any.whl
 graphium
 graphium-1.2.5-py3-none-any.whl
+graphium-2.0.2-py3-none-any.whl
+graphium==2.0.2
 graphkb
 graphkb-1.11.0-py3-none-any.whl
 graphkb==1.11.0
@@ -25502,9 +25520,13 @@ griffon-0.2.7-py3-none-any.whl
 griffon==0.2.7
 griptape
 griptape-0.11.0-py3-none-any.whl
+griptape-0.11.1-py3-none-any.whl
 griptape-tools==0.13.0
+griptape-tools==0.13.1
 griptape==0.11.0
+griptape==0.11.1
 griptape_tools-0.13.0-py3-none-any.whl
+griptape_tools-0.13.1-py3-none-any.whl
 grizli
 grnvae
 grnvae-0.0.1-py3-none-any.whl
@@ -27213,6 +27235,9 @@ huspacy_nightly-0.9.0.dev239-py3-none-any.whl
 huza
 huza-0.2.14-py3-none-any.whl
 huza-0.2.14.data
+hvac
+hvac-1.1.1-py3-none-any.whl
+hvac==1.1.1
 hveto
 hveto-2.1.1-py2.py3-none-any.whl
 hveto-2.1.2-py2.py3-none-any.whl
@@ -43562,7 +43587,11 @@ oneai-0.9.80-py3-none-any.whl
 oneai==0.9.80
 oneapi
 oneapi-sdk==0.0.2
+oneapi-sdk==0.0.3
+oneapi-sdk==0.0.4
 oneapi_sdk-0.0.2-py3-none-any.whl
+oneapi_sdk-0.0.3-py3-none-any.whl
+oneapi_sdk-0.0.4-py3-none-any.whl
 oneat
 oneat-5.10.0-py3-none-any.whl
 oneat-5.10.1-py3-none-any.whl
@@ -56875,6 +56904,8 @@ skale.py-1.0-py3-none-any.whl
 skale.py-5.8b2-py3-none-any.whl
 skale.py-6.0.dev1-py3-none-any.whl
 skbase
+skbase-0.4.6-py3-none-any.whl
+skbase==0.4.6
 skcyto
 skcyto-0.0.1-py3-none-any.whl
 skellyai
@@ -67201,8 +67232,10 @@ yamas
 yambs
 yambs-1.8.0-py3-none-any.whl
 yambs-1.8.1-py3-none-any.whl
+yambs-1.8.2-py3-none-any.whl
 yambs==1.8.0
 yambs==1.8.1
+yambs==1.8.2
 yamk
 yamk-5.2.0-py3-none-any.whl
 yamk==5.2.0
