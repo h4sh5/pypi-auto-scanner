@@ -762,6 +762,7 @@ HanLabTools
 HanLabTools-0.2.2-py3-none-any.whl
 HandGestureRec-0.1.4-py3-none-any.whl
 HandGestureRec-0.1.5-py3-none-any.whl
+HandGestureRec-0.1.6-py3-none-any.whl
 HandGestureRecSiliconM1-0.1-py3-none-any.whl
 HandGestureRecSiliconM1-0.1.2-py3-none-any.whl
 HaplyHardwareAPI-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
@@ -3176,8 +3177,10 @@ airflow-data-validation==4.0.4
 airflow-mcd
 airflow-mcd==0.1.3
 airflow-mcd==0.1.4
+airflow-provider-anomaly-detection==0.0.22
 airflow-provider-fivetran-async==1.1.0
 airflow-provider-hex==0.1.9
+airflow_anomaly_detection
 airflow_data_validation
 airflow_data_validation-4.0.1-py3-none-any.whl
 airflow_data_validation-4.0.2-py3-none-any.whl
@@ -3187,6 +3190,7 @@ airflow_mcd
 airflow_mcd-0.1.2-py3-none-any.whl
 airflow_mcd-0.1.3-py3-none-any.whl
 airflow_mcd-0.1.4-py3-none-any.whl
+airflow_provider_anomaly_detection-0.0.22-py3-none-any.whl
 airflow_provider_fivetran_async-1.1.0-py3-none-any.whl
 airflow_provider_hex
 airflow_provider_hex-0.1.9-py3-none-any.whl
@@ -4790,6 +4794,7 @@ artd-location==0.0.2
 artd-location==0.0.3
 artd-partner==0.0.2
 artd-partner==0.0.3
+artd-price-list==0.0.1
 artd-product==0.0.1
 artd-product==0.0.2
 artd-product==0.0.3
@@ -4807,6 +4812,8 @@ artd_location-0.0.3-py3-none-any.whl
 artd_partner
 artd_partner-0.0.2-py3-none-any.whl
 artd_partner-0.0.3-py3-none-any.whl
+artd_price_list
+artd_price_list-0.0.1-py3-none-any.whl
 artd_product
 artd_product-0.0.1-py3-none-any.whl
 artd_product-0.0.2-py3-none-any.whl
@@ -8186,9 +8193,11 @@ bludwig
 bludwig-0.0.0-py3-none-any.whl
 bludwig-0.0.2-py3-none-any.whl
 bludwig-0.0.4-py3-none-any.whl
+bludwig-0.0.5-py3-none-any.whl
 bludwig==0.0.0
 bludwig==0.0.2
 bludwig==0.0.4
+bludwig==0.0.5
 blue-engine
 blueEngine
 blue_engine-0.0.4-py3-none-any.whl
@@ -18690,7 +18699,9 @@ dushyanth==1.0.4
 dustpy==1.0.4
 dustpy==1.0.4rc0
 dustpylib
+dustpylib-0.5.0-py3-none-any.whl
 dustpylib-0.5.0rc0-py3-none-any.whl
+dustpylib==0.5.0
 dustpylib==0.5.0rc0
 dustvw
 dustvw==0.2.1
@@ -20428,6 +20439,7 @@ example-package-joaopcnogueira==0.1.4
 example-package-liortr30
 example-package-priya2==0.0.1
 example-package-superkai
+example-package-yaojh==1.0.0
 example-pkg-handpose-x==0.0.1
 example-publish-pypi-medium-v100==0.6
 example-wise-f1-maximizer==0.1.0
@@ -20459,6 +20471,8 @@ example_package_priya2
 example_package_priya2-0.0.1-py3-none-any.whl
 example_package_superkai
 example_package_superkai-0.0.1-py3-none-any.whl
+example_package_yaojh
+example_package_yaojh-1.0.0-py3-none-any.whl
 example_parlai_internal
 example_pkg_handpose_x-0.0.1-py3-none-any.whl
 example_project
@@ -20636,10 +20650,12 @@ ezargs-0.0.1-py3-none-any.whl
 ezargs-0.0.2-py3-none-any.whl
 ezargs-0.0.3-py3-none-any.whl
 ezargs-0.0.4-py3-none-any.whl
+ezargs-0.0.5-py3-none-any.whl
 ezargs==0.0.1
 ezargs==0.0.2
 ezargs==0.0.3
 ezargs==0.0.4
+ezargs==0.0.5
 ezbeq
 ezbeq-1.0.0-py3-none-any.whl
 ezbeq-1.0.1-py3-none-any.whl
@@ -21122,6 +21138,9 @@ fastmodels==0.1.4
 fastmodels==0.1.5
 fastprogress
 fastprogress-1.0.3-py3-none-any.whl
+fastq-dl==2.0.2
+fastq_dl
+fastq_dl-2.0.2-py3-none-any.whl
 fastqueue-lib
 fastqueue-lib-0.0.12.tar.gz
 fastqueue-lib-0.0.13.tar.gz
@@ -22951,6 +22970,7 @@ frc6343
 freeGPT
 freeGPT-1.1.7-py3-none-any.whl
 freeGPT-1.1.8-py3-none-any.whl
+freeGPT-1.1.9-py3-none-any.whl
 freeai==1.0.0
 freeai==1.0.1
 freeai==1.0.2
@@ -22962,6 +22982,7 @@ freeflux
 freeflux-0.3.4-py3-none-any.whl
 freegpt==1.1.7
 freegpt==1.1.8
+freegpt==1.1.9
 freeipa-4.10.2-py2.py3-none-any.whl
 freeipa-4.9.12-py2.py3-none-any.whl
 freeipa==4.10.2
@@ -25698,6 +25719,9 @@ gundi_client-1.0.0.tar.gz
 gundi_core
 gundi_core-1.0.1-py3-none-any.whl
 gundi_core-1.0.2-py3-none-any.whl
+gungnir
+gungnir-0.1.0-py3-none-any.whl
+gungnir==0.1.0
 gunicorn
 gurobi-machinelearning
 gurobi-optimods
@@ -25902,6 +25926,7 @@ hammer_vlsi-1.1.2-py3-none-any.whl
 han
 handgesturerec==0.1.4
 handgesturerec==0.1.5
+handgesturerec==0.1.6
 handgesturerecsiliconm1==0.1
 handgesturerecsiliconm1==0.1.2
 handpose-x==0.0.1
@@ -31627,6 +31652,7 @@ letsdebughelper
 leuci-geo==0.0.4
 leuci-geo==0.0.5
 leuci-geo==0.0.6
+leuci-geo==0.0.7
 leuci-map==0.1.40
 leuci-map==0.1.41
 leuci-map==0.1.42
@@ -31639,6 +31665,7 @@ leuci_geo
 leuci_geo-0.0.4-py3-none-any.whl
 leuci_geo-0.0.5-py3-none-any.whl
 leuci_geo-0.0.6-py3-none-any.whl
+leuci_geo-0.0.7-py3-none-any.whl
 leuci_map
 leuci_map-0.1.40-py3-none-any.whl
 leuci_map-0.1.41-py3-none-any.whl
@@ -43494,6 +43521,9 @@ oneai
 oneai-0.9.77-py3-none-any.whl
 oneai-0.9.80-py3-none-any.whl
 oneai==0.9.80
+oneapi
+oneapi-sdk==0.0.2
+oneapi_sdk-0.0.2-py3-none-any.whl
 oneat
 oneat-5.10.0-py3-none-any.whl
 oneat-5.10.1-py3-none-any.whl
@@ -47443,6 +47473,9 @@ prefect_docker
 prefect_docker-0.3.0-py3-none-any.whl
 prefect_gcp
 prefect_gcp-0.4.3-py3-none-any.whl
+prefecto
+prefecto-0.0.1-py3-none-any.whl
+prefecto==0.0.1
 prefpicker
 prefpicker-1.11.0-py3-none-any.whl
 prefpicker==1.11.0
@@ -52156,15 +52189,21 @@ pz_rail_som-0.0.1-py3-none-any.whl
 pz_rail_som-0.0.2-py3-none-any.whl
 q2db
 q2db-0.1.24-py3-none-any.whl
+q2db-0.1.25-py3-none-any.whl
 q2db==0.1.24
+q2db==0.1.25
 q2gui
 q2gui-0.1.89-py3-none-any.whl
 q2gui-0.1.90-py3-none-any.whl
+q2gui-0.1.91-py3-none-any.whl
 q2gui==0.1.89
 q2gui==0.1.90
+q2gui==0.1.91
 q2rad
 q2rad-0.1.132-py3-none-any.whl
+q2rad-0.1.133-py3-none-any.whl
 q2rad==0.1.132
+q2rad==0.1.133
 qBittorrentWebUIsimpleAPI
 qalib
 qanary-ner-automl-component
@@ -58193,6 +58232,7 @@ spotPython-0.2.31-py3-none-any.whl
 spotPython-0.2.32-py3-none-any.whl
 spotPython-0.2.33-py3-none-any.whl
 spotPython-0.2.34-py3-none-any.whl
+spotPython-0.2.35-py3-none-any.whl
 spotRiver
 spotRiver-0.0.93-py3-none-any.whl
 spotcrates
@@ -58239,6 +58279,7 @@ spotpython==0.2.31
 spotpython==0.2.32
 spotpython==0.2.33
 spotpython==0.2.34
+spotpython==0.2.35
 spotriver==0.0.93
 spotter
 spotube
@@ -62703,7 +62744,9 @@ tidy3d==2.2.3
 tidy_data
 tidypandas
 tidypandas-0.2.5-py3-none-any.whl
+tidypandas-0.2.6-py3-none-any.whl
 tidypandas==0.2.5
+tidypandas==0.2.6
 tifffile
 tifffile-2023.4.12-py3-none-any.whl
 tifftools
@@ -64448,6 +64491,10 @@ usdm_excel
 usdm_info
 usdm_model
 usdm_version
+usearch
+usearch-0.18.8-cp310-cp310-manylinux_2_28_x86_64.whl
+usearch.
+usearch==0.18.8
 useful-rdkit-utils==0.2.6
 useful_rdkit_utils-0.2.6.tar.gz
 usellm
