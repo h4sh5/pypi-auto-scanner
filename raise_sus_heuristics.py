@@ -21,9 +21,9 @@ def get_inspector_link(name):
 
 ## bypass lists
 # if the command starts with these, bypassed.
-cmds_bypass_starts = ["runc init", "uname", "/usr/local/bin/pip", "/usr/local/bin/python", "/usr/bin/gcc", "/usr/lib/gcc/x86_64-linux-gnu/8/cc1", "git"]
+cmds_bypass_starts = ["runc init", "uname", "/usr/local/bin/pip", "/usr/local/bin/python", "/usr/bin/gcc", "/usr/lib/gcc/x86_64-linux-gnu/8/cc1", "git", "as "]
 # tuples of IP:port to bypass
-ip_port_bypass = [ ("168.63.129.16", "53"), ("0.0.0.0","0"), ("151.101.45.63", "443")]
+ip_port_bypass = [ ("168.63.129.16", "53"), ("0.0.0.0","0"), ("151.101.45.63", "443"), ("140.82.114.3","443"),("140.82.114.10","443"),("140.82.114.4","443"),("140.82.114.5","443"),("140.82.114.6","443"),("140.82.114.7","443"),("140.82.114.8","443"),("140.82.114.9","443")]
 
 files = sys.argv[1:]
 
