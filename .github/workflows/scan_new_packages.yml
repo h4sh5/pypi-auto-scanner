@@ -30,7 +30,6 @@ jobs:
         cd packages;
         cat ../new.txt | parallel pip download --no-deps || echo ignoring some error $?
         for i in *; do unzip -- "$i"; done || echo ignorin error $?
-        for i in $(cat ../scanned_pkgs.txt); do rm -rf -- "$i" "$i-dist-info"; done
 
     - name: run guarddog scan
       run: |
@@ -55,22 +54,13 @@ jobs:
 
     - name: Push scanned packages to cache
       run: | 
-        cat new.txt >> scanned_pkgs.txt
-        cat new_yara_results.txt >> yara_results.txt
-        mv new.txt new.txt.tmp || echo nothing to move
-        mv new_yara_results.txt new_yara_results.txt.tmp || echo nothing to move
         ls -d packages/* || exit 0 # if there are no new packages scanned, exit
-        cd packages/ ; ls -d * |  grep -v dist-info >> ../scanned_pkgs.txt; cd ..
-        sort -u scanned_pkgs.txt > scanned_pkgs.txt.1
-        mv scanned_pkgs.txt.1 scanned_pkgs.txt
         git config --global user.name 'PyPi Scan Bot by h4sh'
         git config --global user.email 'pypi-scan-bot-h4sh@open-source.local'
         git config --global branch.autoSetupMerge always
         git config --global core.mergeoptions --no-edit
         git config --global pull.rebase false
 
-        mv new.txt.tmp new.txt
-        mv new_yara_results.txt.tmp new_yara_results.txt
         git add *.txt *.csv || echo nothing to add
         git commit -m "new scan output $(date)"
         git pull
