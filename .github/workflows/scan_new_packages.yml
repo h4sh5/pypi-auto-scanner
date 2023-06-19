@@ -35,8 +35,8 @@ jobs:
       run: |
         guarddog pypi verify -x empty_information -x release_zero -x single_python_file -x repository_integrity_mismatch  -x cmd-overwrite --output-format=json new.txt > report.json || echo guarddog error $?
     
-    - name: run secret scan
-      run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
+    # - name: run secret scan
+    #   run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
 
     - name: run yara scan
       run: yara mal-library-ttps/yara-rules/sus_pkg.yara packages | tee  new_yara_results.txt
