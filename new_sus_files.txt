@@ -1,14 +1,3 @@
-packages/scarf-0.28.4.data/scripts/sgtsne: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=79b03b924840d41c7f2b9c23e88c17cbb6424a29, not stripped
-packages/libximc/win32/libjximc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/libximc/win32/xiwrapper.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/libximc/win32/wrappers/csharp/ximcnet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/libximc/win32/libximc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/libximc/win32/bindy.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/libximc/win32/vcredist_x86.exe: PE32 executable (GUI) Intel 80386, for MS Windows
-packages/libximc/win64/libjximc.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/libximc/win64/xiwrapper.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/libximc/win64/wrappers/matlab/libximc_thunk_pcwin64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/libximc/win64/wrappers/csharp/ximcnet.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
-packages/libximc/win64/libximc.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/libximc/win64/bindy.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/libximc/win64/vcredist_x64.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/bibat/examples/baseball/baseball/stan/normal: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/bibat/examples/baseball/baseball/stan/gpareto: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/typos-1.15.4.data/scripts/typos: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=076754da70327dd992b06fab4c5a1658723efff7, for GNU/Linux 2.6.32, with debug_info, not stripped
