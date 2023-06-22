@@ -1,5 +1,13 @@
-packages/matt/iqtree/iqtree-1.6.12-Linux/bin/iqtree: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.32, BuildID[sha1]=1a56c0a233b5965973d62699e58c91afa6b9c115, stripped
-packages/matt/iqtree/iqtree-1.6.12-Windows/bin/libiomp5md.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/matt/iqtree/iqtree-1.6.12-Windows/bin/iqtree-click.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/matt/iqtree/iqtree-1.6.12-Windows/bin/iqtree.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/matt/iqtree/iqtree-1.6.12-MacOSX/bin/iqtree: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
+packages/libximc/win32/libjximc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/libximc/win32/xiwrapper.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/libximc/win32/wrappers/csharp/ximcnet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/libximc/win32/libximc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/libximc/win32/bindy.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/libximc/win32/vcredist_x86.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/libximc/win64/libjximc.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/libximc/win64/xiwrapper.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/libximc/win64/wrappers/matlab/libximc_thunk_pcwin64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/libximc/win64/wrappers/csharp/ximcnet.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
+packages/libximc/win64/libximc.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/libximc/win64/bindy.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/libximc/win64/vcredist_x64.exe: PE32 executable (GUI) Intel 80386, for MS Windows
