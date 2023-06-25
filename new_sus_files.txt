@@ -1,7 +1,10 @@
 packages/pyqrack/qrack_cl_precompile/Linux/2_35/qrack_cl_precompile: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e41ea02c8ee493ed21350e8470153fc0e152d4eb, for GNU/Linux 3.2.0, not stripped
+packages/procmondf/Procmon64a.exe: PE32+ executable (GUI) Aarch64, for MS Windows
+packages/procmondf/Procmon.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/procmondf/Procmon64.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/Namotion.Reflection.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/spectrum_io/raw/utils/ThermoRawFileParser/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/System.Runtime.CompilerServices.Unsafe.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/spectrum_io/raw/utils/ThermoRawFileParser/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/System.Security.Principal.Windows.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/AWS.Logger.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/AWSSDK.CloudWatchLogs.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
@@ -10,8 +13,8 @@ packages/spectrum_io/raw/utils/ThermoRawFileParser/OpenMcdf.Extensions.dll: PE32
 packages/spectrum_io/raw/utils/ThermoRawFileParser/AWSSDK.S3.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/log4net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/Mono.Options.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/spectrum_io/raw/utils/ThermoRawFileParser/ThermoFisher.CommonCore.RawFileReader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/System.ValueTuple.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/spectrum_io/raw/utils/ThermoRawFileParser/ThermoFisher.CommonCore.RawFileReader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/ThermoFisher.CommonCore.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/NJsonSchema.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/spectrum_io/raw/utils/ThermoRawFileParser/System.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
