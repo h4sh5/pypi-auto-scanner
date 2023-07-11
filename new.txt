@@ -1,13 +1,3 @@
-publicsuffixlist==0.10.0.20230711
-always-updates==145.0
-always-updates==145.1
-mysqlx==1.3.7
-cryptography-vectors==41.0.2
-cryptography==41.0.2
-ai-transform==0.32.2
-huhk==1.5.6
-brewasm==1.0.0
-snk==0.10.0
 mysqlx==1.3.6
 calsim==0.0.9
 zit==0.0.3a0
@@ -27,6 +17,7 @@ herta-villa-sdk==0.4.0
 mysqlx-generator==1.0.2
 aihandler==1.18.2
 oloren==0.0.46a9
+anyconn-core==0.0.5
 pynldas2==0.15.1
 aws-prototyping-sdk-type-safe-api==0.19.38
 aws-prototyping-sdk-static-website==0.19.38
@@ -98,3 +89,12 @@ libcoveocds==0.12.3
 pylinefinder==0.1.6
 nnabla-ext-cuda116==1.36.0
 compare-dfs==0.0.6
+iam-actions==1.2.20230711
+open-gpt-torch==0.0.9
+jijmodeling==1.0.0rc2
+pepperize-cdk-autoscaling-gitlab-runner==0.2.516
+safepull==2.0.3
+finra-api-queries==1.2.1
+py3seed==0.0.201
+taichu-storage==0.0.3
+pylinefinder==0.1.5
