@@ -1,12 +1,31 @@
-packages/libqtopensesame/resources/theme/default/MokaSesame/32x32/mimetypes/application-x-executable.png: PNG image data, 32 x 32, 8-bit/color RGBA, non-interlaced
-packages/libqtopensesame/resources/theme/default/MokaSesame/16x16/mimetypes/application-x-executable.png: PNG image data, 16 x 16, 8-bit/color RGBA, non-interlaced
-packages/libqtopensesame/resources/theme/default/MokaSesame/64x64/mimetypes/application-x-executable.png: PNG image data, 64 x 64, 8-bit/color RGBA, non-interlaced
-packages/libqtopensesame/resources/theme/default/MokaSesame/48x48/mimetypes/application-x-executable.png: PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
-packages/libqtopensesame/resources/theme/default/MokaSesame/256x256/mimetypes/application-x-executable.png: PNG image data, 256 x 256, 8-bit/color RGBA, non-interlaced
-packages/whoi_uwapm/bellhopcxx: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fcc96947d92f88695cae1f1543560fc7e8136425, for GNU/Linux 3.2.0, not stripped
-packages/sampo/native/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/native.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/build/lib.win-amd64-3.10/native.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/program_markers/program-markers: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d87035d476ff5bf542adf782648e409f76a88556, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/taskgraph/__pycache__/target_tasks.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/morph.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/graph.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/taskgraph.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/parameters.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/filter_tasks.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/generator.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/task.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/__pycache__/config.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/optimize/__pycache__/strategies.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/optimize/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/optimize/__pycache__/base.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/schema.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/workertypes.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/python_path.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/yaml.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/memoize.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/path.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/attributes.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/keyed_by.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/util/__pycache__/verify.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/transforms/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/taskgraph/transforms/__pycache__/base.cpython-38.pyc: python 3.8 byte-compiled
+packages/cmd_line/packmol/Linux_64bit/packmol: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=ffa308b0d886a5002fed24ada8c279e6a353bdf0, with debug_info, not stripped
+packages/cmd_line/enum/Linux_64bit/makestr.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.18, BuildID[sha1]=0fde5b2ac7419f30d807fbb03c0d2bebe1f28f13, with debug_info, not stripped
+packages/cmd_line/enum/Linux_64bit/enum.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.18, BuildID[sha1]=7f6e5acbe9b9920613d2b91c3e51dc56331bc024, with debug_info, not stripped
+packages/cmd_line/bader/Linux_64bit/bader: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.18, BuildID[sha1]=c8596b76d77a62a49f12cc395b0870a35c49692b, not stripped
+packages/cmd_line/boltztrap/Darwin_64bit/BoltzTraP: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/cmd_line/gulp/Linux_64bit/gulp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, BuildID[sha1]=45b39db755e0efacfd7b3346df75188d5fd125c9, not stripped
