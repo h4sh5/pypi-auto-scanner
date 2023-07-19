@@ -1,6 +1,12 @@
+django-url-tokenizer==0.0.41
+pypomes-scheduling==0.1.9
+pymap==0.36.2
+mpr==1.19
+cdktf-cdktf-provider-gitlab==9.0.1
+nonebot-plugin-sayoroll==0.3.1
+finter==0.0.22
 cdktf-cdktf-provider-github==10.0.4
 cdktf-cdktf-provider-mongodbatlas==4.0.1
-finance-scrapers==0.0.4
 fnum==1.6.0
 cdktf-cdktf-provider-vault==9.0.1
 omni-pro==0.1.15
@@ -92,9 +98,3 @@ odoo-addon-event-session==16.0.1.0.0.5
 odoo-addon-website-event-snippet-calendar==15.0.1.0.0.5
 odoo13-addon-event-registration-multi-qty==13.0.1.0.1.dev5
 odoo13-addon-website-event-crm==13.0.1.1.2.dev1
-odoo14-addon-event-session==14.0.1.1.1.dev2
-odoo13-addon-website-event-require-login==13.0.1.0.1.dev3
-odoo13-addon-event-sale-registration-multi-qty==13.0.1.0.1.dev5
-odoo14-addon-event-registration-qr-code==14.0.1.0.1.dev4
-odoo13-addon-event-session==13.0.1.0.3.dev2
-odoo14-addon-event-mail==14.0.1.0.1.dev10
