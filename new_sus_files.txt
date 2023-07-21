@@ -1,57 +1,7 @@
-packages/mimosa/common/data/__pycache__/utils.cpython-310.pyc: data
-packages/mimosa/common/data/__pycache__/datastore.cpython-310.pyc: data
-packages/mimosa/common/data/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/common/regional_params/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/common/regional_params/__pycache__/regional_param_container.cpython-310.pyc: data
-packages/mimosa/common/regional_params/__pycache__/region_mappers.cpython-310.pyc: data
-packages/mimosa/common/regional_params/__pycache__/main.cpython-310.pyc: data
-packages/mimosa/common/config/utils/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/common/config/utils/__pycache__/nested_dict.cpython-310.pyc: data
-packages/mimosa/common/config/utils/__pycache__/parsers.cpython-310.pyc: data
-packages/mimosa/common/config/__pycache__/parseconfig.cpython-310.pyc: data
-packages/mimosa/common/config/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/common/__pycache__/units.cpython-310.pyc: data
-packages/mimosa/common/__pycache__/utils.cpython-310.pyc: data
-packages/mimosa/common/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/common/__pycache__/economics.cpython-310.pyc: data
-packages/mimosa/common/__pycache__/pyomo_utils.cpython-310.pyc: data
-packages/mimosa/components/welfare/__pycache__/inequal_aversion_general.cpython-310.pyc: data
-packages/mimosa/components/welfare/__pycache__/inequal_aversion_elasmu.cpython-310.pyc: data
-packages/mimosa/components/welfare/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/welfare/__pycache__/inequal_aversion_zero.cpython-310.pyc: data
-packages/mimosa/components/financialtransfer/__pycache__/globaldamagepool.cpython-310.pyc: data
-packages/mimosa/components/financialtransfer/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/financialtransfer/__pycache__/notransfer.cpython-310.pyc: data
-packages/mimosa/components/emissiontrade/__pycache__/globalcostpool.cpython-310.pyc: data
-packages/mimosa/components/emissiontrade/__pycache__/notrade.cpython-310.pyc: data
-packages/mimosa/components/emissiontrade/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/emissiontrade/__pycache__/emissiontrade.cpython-310.pyc: data
-packages/mimosa/components/objective/__pycache__/utility.cpython-310.pyc: data
-packages/mimosa/components/objective/__pycache__/globalcosts.cpython-310.pyc: data
-packages/mimosa/components/objective/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/cobbdouglas.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/burdensharing.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/abatement.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/sealevelrise.cpython-310.pyc: data
-packages/mimosa/components/__pycache__/emissions.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/ad_witch.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/ad_rice2010.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/ad_rice2012.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/coacch.cpython-310.pyc: data
-packages/mimosa/components/damages/__pycache__/nodamage.cpython-310.pyc: data
-packages/mimosa/export/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/export/__pycache__/utils.cpython-310.pyc: data
-packages/mimosa/export/__pycache__/plot.cpython-310.pyc: data
-packages/mimosa/export/__pycache__/save.cpython-310.pyc: data
-packages/mimosa/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/__pycache__/abstract_model.cpython-310.pyc: data
-packages/mimosa/__pycache__/mimosa.cpython-310.pyc: data
-packages/mimosa/concrete_model/simulation_mode/__pycache__/deactivate_constraints.cpython-310.pyc: data
-packages/mimosa/concrete_model/simulation_mode/__pycache__/utils.cpython-310.pyc: data
-packages/mimosa/concrete_model/simulation_mode/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/concrete_model/simulation_mode/__pycache__/set_constraints.cpython-310.pyc: data
-packages/mimosa/concrete_model/simulation_mode/__pycache__/main.cpython-310.pyc: data
-packages/mimosa/concrete_model/__pycache__/__init__.cpython-310.pyc: data
-packages/mimosa/concrete_model/__pycache__/instantiate_params.cpython-310.pyc: data
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=75ce082529201664ecde46e1903191bfb21efa04, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b969a0520c826aa986ec0c4ff62d7f2108d81ef4, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c7e12023c5eedb59c51d95ff317d8331f75f2d8d, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dcec9671f4bfce814fe0c552f1402557476067ef, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a8c918735e01d8d917b4866115b3d592454f0281, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2234cc07ff9dcce1fe758437b5f5675ff7c79f30, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.4.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=34407402a1642a6c079bab76948bd0f5bdc8b867, for GNU/Linux 2.6.32, stripped
