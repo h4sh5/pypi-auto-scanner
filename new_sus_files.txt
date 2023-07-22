@@ -1,19 +1,60 @@
+packages/micrOS/micropython/esp32s3_spiram_oct-20230426-v1.20.0.bin: DOS executable (COM)
+packages/micrOS/micropython/esp32-20220618-v1.19.1.bin: DOS executable (COM)
+packages/micrOS/micropython/esp32s2-20220618-v1.19.1.bin: DOS executable (COM)
+packages/micrOS/micropython/tinypico-20220618-v1.19.1.bin: DOS executable (COM)
 packages/vhmap/utils/shm_pool.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/vhmap/utils/__pycache__/colorful.cpython-310.pyc: data
 packages/vhmap/utils/__pycache__/__init__.cpython-310.pyc: data
 packages/vhmap/utils/__pycache__/config_args.cpython-310.pyc: data
 packages/vhmap/utils/__pycache__/win_pool.cpython-310.pyc: data
-packages/vhmap/utils/__pycache__/hmp_daemon.cpython-310.pyc: data
 packages/vhmap/utils/__pycache__/network.cpython-310.pyc: data
+packages/vhmap/utils/__pycache__/hmp_daemon.cpython-310.pyc: data
 packages/vhmap/utils/__pycache__/tensor_ops.cpython-310.pyc: data
-packages/vhmap/examples/__pycache__/nb_3body_specials.cpython-310.pyc: data
 packages/vhmap/examples/__pycache__/__init__.cpython-310.pyc: data
+packages/vhmap/examples/__pycache__/nb_3body_specials.cpython-310.pyc: data
 packages/vhmap/__pycache__/__init__.cpython-310.pyc: data
 packages/vhmap/__pycache__/mcom.cpython-310.pyc: data
 packages/vhmap/__pycache__/mcom_def.cpython-310.pyc: data
 packages/UTIL/shm_pool.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/UTIL/__pycache__/colorful.cpython-310.pyc: data
-packages/UTIL/__pycache__/config_args.cpython-310.pyc: data
 packages/UTIL/__pycache__/__init__.cpython-310.pyc: data
+packages/UTIL/__pycache__/config_args.cpython-310.pyc: data
 packages/UTIL/__pycache__/win_pool.cpython-310.pyc: data
 packages/UTIL/__pycache__/hmp_daemon.cpython-310.pyc: data
+packages/hata/discord/bin/libopus-0.x64.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/hata/discord/bin/libopus-0.x86.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/hata/discord/application/application_executable: directory
+packages/toolkit/simulator_lib/__pycache__/uasyncio.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/sim_console.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/neopixel.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/micropython.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/simgc.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/framebuf.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/machine.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/LP_darwin.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/esp32.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/network.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/tinypico.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/utime.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/LP_darwin.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/esp32.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/micropython.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/simulator.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/sim_console.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/machine.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/dotstar.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/uasyncio.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/network.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/simulator.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/neopixel.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/ds18x20.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/utime.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/webrepl.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/framebuf.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/onewire.cpython-38.pyc: python 3.8 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/onewire.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/simgc.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/webrepl.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/dotstar.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/tinypico.cpython-39.pyc: python 3.9 byte-compiled
+packages/toolkit/simulator_lib/__pycache__/ds18x20.cpython-39.pyc: python 3.9 byte-compiled
