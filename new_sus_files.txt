@@ -1,5 +1,5 @@
-packages/idftools-0.1.33.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.33.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.35.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.35.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/bigdl/llm/libs/quantize-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=386f017cd6d9c8dc36b4b906e2e74f11ed2174e1, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-starcoder_avx2: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4f5a4940c358e6ff102a96179973fdd1d1fc509, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-starcoder_avx512: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7e303ef14cb0d51c411790fc1a53df2a985e3861, for GNU/Linux 2.6.32, not stripped
@@ -7,12 +7,10 @@ packages/bigdl/llm/libs/quantize-bloom: ELF 64-bit LSB executable, x86-64, versi
 packages/bigdl/llm/libs/main-bloom_avx2: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b49f3e06f75a98875eea4712e77ecec05aef9f35, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/quantize-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=24d8daac2f47937dec4d298d74c111265973e507, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab4d44c6c02cdb65bfb3410087f6e43d401a7f15, for GNU/Linux 2.6.32, not stripped
-packages/bigdl/llm/libs/main-bloom_avx512: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5a7de90afcbb21242784b64460d4808195a490e0, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-gptneox_avx512: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=db56fc6c122a9d6365b20a2a1887900c76ff3d48, for GNU/Linux 2.6.32, not stripped
+packages/bigdl/llm/libs/main-bloom_avx512: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5a7de90afcbb21242784b64460d4808195a490e0, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-gptneox_avx2: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d1035911bf378496f45098c4a7e646074e7647a8, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-llama_avx512: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=69157e77b5a2cd33ff51fc8ac93a7af7a0f7efc4, for GNU/Linux 2.6.32, not stripped
 packages/bigdl/llm/libs/main-llama_avx2: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=9f0e7b1c131b5cf03126f8e8fa67279a8d14c013, for GNU/Linux 2.6.32, not stripped
 packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.34.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.34.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
