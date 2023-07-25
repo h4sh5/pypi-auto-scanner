@@ -1,4 +1,7 @@
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/idftools-0.1.41.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.41.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
 packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
 packages/gandai/__pycache__/adapters.cpython-311.pyc: data
@@ -9,11 +12,11 @@ packages/gandai/__pycache__/helpers.cpython-311.pyc: data
 packages/gandai/__pycache__/models.cpython-311.pyc: data
 packages/gandai/__pycache__/grata.cpython-311.pyc: data
 packages/gandai/__pycache__/analytics.cpython-311.pyc: data
-packages/gandai/__pycache__/sources.cpython-311.pyc: data
 packages/gandai/__pycache__/main.cpython-311.pyc: data
+packages/gandai/__pycache__/sources.cpython-311.pyc: data
 packages/gandai/__pycache__/auth.cpython-311.pyc: data
-packages/gandai/__pycache__/gpt.cpython-311.pyc: data
 packages/gandai/__pycache__/__init__.cpython-311.pyc: data
+packages/gandai/__pycache__/gpt.cpython-311.pyc: data
 packages/gandai/__pycache__/datastore.cpython-311.pyc: data
 packages/gandai/__pycache__/secrets.cpython-311.pyc: data
 packages/pylyzer-0.0.38.data/scripts/pylyzer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=96292c82cb05dbca95ca66677b3aba14cf887207, for GNU/Linux 3.2.0, stripped
