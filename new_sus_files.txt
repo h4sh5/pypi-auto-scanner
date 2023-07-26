@@ -5,8 +5,8 @@ packages/zlgsendcan/kerneldlls/CANFDNET.dll: PE32+ executable (DLL) (console) x8
 packages/zlgsendcan/kerneldlls/VirtualUSBCAN.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/USBCANFD.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/CANDevice.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/zlgsendcan/kerneldlls/CANDevCore.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/zlgsendcan/kerneldlls/CANFDCOM.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/zlgsendcan/kerneldlls/CANDevCore.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/zlgsendcan/kerneldlls/USBCANFD800U.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/ZlgCloud.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/CANDTU_x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
@@ -14,6 +14,6 @@ packages/zlgsendcan/kerneldlls/CANWIFI_UDP.dll: PE32+ executable (DLL) (GUI) x86
 packages/zlgsendcan/kerneldlls/CANDTU_NET.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/CANET_TCP.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/CANWIFI_TCP.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/zlgsendcan/kerneldlls/CANETE.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/kerneldlls/USBCAN.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/zlgsendcan/kerneldlls/CANETE.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/zlgsendcan/zlgcan_1.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
