@@ -19,3 +19,6 @@ packages/graphscope.runtime/openmpi/bin/mpifort: ELF 64-bit LSB executable, x86-
 packages/graphscope.runtime/openmpi/bin/ortecc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
 packages/graphscope.runtime/openmpi/bin/orte-server: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c4464de5d1063300ce633ffbcacc2220af58dc5f, not stripped
 packages/graphscope.runtime/openmpi/bin/orted: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=970a07465c22ca7e5bd9f7bae3cecec81ab60905, not stripped
+packages/pyemc/emc/bin/emc_macos: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/pyemc/emc/bin/emc_win32.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/pyemc/emc/bin/emc_linux_x86_64: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, for GNU/Linux 2.6.16, stripped
