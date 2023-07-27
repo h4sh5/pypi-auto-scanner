@@ -1,40 +1,53 @@
-packages/garpix_order/services/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/services/__pycache__/robokassa.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/migrations/__pycache__/0002_auto_20230703_1624.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/migrations/__pycache__/0001_squashed_0008_auto_20211105_1533.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/migrations/__pycache__/0003_robokassainvoice.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/views/robokassa/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/views/robokassa/__pycache__/payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/views/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/views/cloudpayments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/__pycache__/urls.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/__pycache__/apps.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/serializers/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/serializers/__pycache__/robokassa.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/admin/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/cash.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/cloudpayments.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/recurring.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/bank_card.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/payments/__pycache__/robokassa.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/invoice.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/config.cpython-38.pyc: python 3.8 byte-compiled
-packages/garpix_order/models/__pycache__/order_item.cpython-38.pyc: python 3.8 byte-compiled
-packages/pyrfu/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/pydda/initialization/__pycache__/__init__.cpython-310.pyc: data
+packages/power_query/migrations/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/migrations/__pycache__/0015_alter_dataset_description_and_more.cpython-311.pyc: data
+packages/power_query/migrations/__pycache__/0001_migration_squashed_0014_migration.cpython-311.pyc: data
+packages/power_query/migrations/__pycache__/0001_migration_squashed_0014_migration.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/migrations/__pycache__/0015_alter_dataset_description_and_more.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/migrations/__pycache__/__init__.cpython-311.pyc: data
+packages/power_query/management/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/management/__pycache__/__init__.cpython-311.pyc: data
+packages/power_query/templatetags/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/templatetags/__pycache__/power_query.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/templatetags/__pycache__/__init__.cpython-311.pyc: data
+packages/power_query/templatetags/__pycache__/power_query.cpython-311.pyc: data
+packages/power_query/__pycache__/validators.cpython-311.pyc: data
+packages/power_query/__pycache__/admin.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/celery_tasks.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/urls.cpython-311.pyc: data
+packages/power_query/__pycache__/widget.cpython-311.pyc: data
+packages/power_query/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/models.cpython-311.pyc: data
+packages/power_query/__pycache__/exceptions.cpython-311.pyc: data
+packages/power_query/__pycache__/forms.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/utils.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/json.cpython-311.pyc: data
+packages/power_query/__pycache__/apps.cpython-311.pyc: data
+packages/power_query/__pycache__/fixtures.cpython-311.pyc: data
+packages/power_query/__pycache__/celery_tasks.cpython-311.pyc: data
+packages/power_query/__pycache__/forms.cpython-311.pyc: data
+packages/power_query/__pycache__/views.cpython-311.pyc: data
+packages/power_query/__pycache__/widget.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/defaults.cpython-311.pyc: data
+packages/power_query/__pycache__/urls.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/exceptions.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/apps.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/fixtures.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/models.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/views.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/validators.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/json.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/mixin.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/admin.cpython-311.pyc: data
+packages/power_query/__pycache__/__init__.cpython-311.pyc: data
+packages/power_query/__pycache__/defaults.cpython-39.pyc: python 3.9 byte-compiled
+packages/power_query/__pycache__/utils.cpython-311.pyc: data
 packages/pydda/initialization/__pycache__/wind_fields.cpython-310.pyc: data
+packages/pydda/initialization/__pycache__/__init__.cpython-310.pyc: data
 packages/pydda/cost_functions/__pycache__/__init__.cpython-310.pyc: data
 packages/pydda/cost_functions/__pycache__/_cost_functions_jax.cpython-310.pyc: data
 packages/pydda/cost_functions/__pycache__/_cost_functions_auglag.cpython-310.pyc: data
-packages/pydda/cost_functions/__pycache__/_cost_functions_tensorflow.cpython-310.pyc: data
 packages/pydda/cost_functions/__pycache__/_cost_functions_numpy.cpython-310.pyc: data
+packages/pydda/cost_functions/__pycache__/_cost_functions_tensorflow.cpython-310.pyc: data
 packages/pydda/cost_functions/__pycache__/cost_functions.cpython-310.pyc: data
 packages/pydda/tests/__pycache__/test_initialization.cpython-310-pytest-7.2.1.pyc: data
 packages/pydda/tests/__pycache__/test_cost_functions.cpython-310-pytest-7.2.1.pyc: data
@@ -53,6 +66,8 @@ packages/pydda/vis/__pycache__/__init__.cpython-310.pyc: data
 packages/pydda/vis/__pycache__/streamline_plot.cpython-310.pyc: data
 packages/pydda/vis/__pycache__/barb_plot.cpython-310.pyc: data
 packages/pydda/vis/__pycache__/quiver_plot.cpython-310.pyc: data
-packages/pydda/constraints/__pycache__/__init__.cpython-310.pyc: data
 packages/pydda/constraints/__pycache__/station_data.cpython-310.pyc: data
+packages/pydda/constraints/__pycache__/__init__.cpython-310.pyc: data
 packages/pydda/constraints/__pycache__/model_data.cpython-310.pyc: data
+packages/golem_node-0.12.2.data/scripts/yagna: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=492708ddd3953049b2eeeee9f331e697d097424c, stripped
+packages/wassfast/analysis/curl.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
