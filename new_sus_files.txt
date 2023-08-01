@@ -6,25 +6,24 @@ packages/pyarmor/cli/core/themida/windows/x86/pyarmor_runtime.pyd: PE32 executab
 packages/pyarmor/cli/core/themida/windows/x86_64/pyarmor_runtime.pyd: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/pyarmor/platforms/windows/x86/_pytransform.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/pyarmor/platforms/windows/x86_64/_pytransform.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/qetrader/win/pytransform/_pytransform.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=75ce082529201664ecde46e1903191bfb21efa04, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c7e12023c5eedb59c51d95ff317d8331f75f2d8d, for GNU/Linux 2.6.32, stripped
 packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b969a0520c826aa986ec0c4ff62d7f2108d81ef4, for GNU/Linux 2.6.32, stripped
 packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dcec9671f4bfce814fe0c552f1402557476067ef, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c7e12023c5eedb59c51d95ff317d8331f75f2d8d, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a8c918735e01d8d917b4866115b3d592454f0281, for GNU/Linux 2.6.32, stripped
 packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2234cc07ff9dcce1fe758437b5f5675ff7c79f30, for GNU/Linux 2.6.32, stripped
+packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a8c918735e01d8d917b4866115b3d592454f0281, for GNU/Linux 2.6.32, stripped
 packages/sherpa_onnx-1.5.5.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=34407402a1642a6c079bab76948bd0f5bdc8b867, for GNU/Linux 2.6.32, stripped
-packages/cryptlex/lexactivator/libs/win32/x86/LexActivator.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cryptlex/lexactivator/libs/win32/x86_64/LexActivator.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cx_Freeze/bases/console-cpython-310-x86_64-linux-gnu: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=271c1b6487f796b1e2f47775f0f668c3fdf555e0, for GNU/Linux 2.6.32, stripped
 packages/cx_Freeze/bases/__pycache__/__init__.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/install.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/command/__pycache__/bdist_rpm.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/install_exe.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/_bdist_msi.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/command/__pycache__/bdist_rpm.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/command/__pycache__/_pydialog.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/bdist_msi.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/command/__pycache__/build_exe.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/command/__pycache__/_pydialog.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/bdist_mac.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/command/__pycache__/build_exe.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/command/__pycache__/__init__.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/initscripts/__pycache__/sharedlibsource.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/initscripts/__pycache__/consolesetlibpath.cpython-310.opt-1.pyc: data
@@ -44,14 +43,14 @@ packages/cx_Freeze/hooks/__pycache__/exclude.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/ssl.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/pytz.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/cv2.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/hooks/__pycache__/_qthooks.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/multiprocessing.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/hooks/__pycache__/_qthooks.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/matplotlib.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/hooks/__pycache__/sklearn.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/tkinter.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/hooks/__pycache__/sklearn.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/skimage.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/hooks/__pycache__/torch.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/numpy.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/hooks/__pycache__/torch.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/crypto.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/_libs.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/hooks/__pycache__/__init__.cpython-310.opt-1.pyc: data
@@ -69,20 +68,20 @@ packages/cx_Freeze/__pycache__/__main__.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/finder.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/parser.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/winmsvcr.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/__pycache__/darwintools.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/winversioninfo.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/exception.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/__pycache__/darwintools.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/common.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/__init__.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/module.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/setupwriter.cpython-310.opt-1.pyc: data
-packages/cx_Freeze/__pycache__/cli.cpython-310.opt-1.pyc: data
 packages/cx_Freeze/__pycache__/executable.cpython-310.opt-1.pyc: data
+packages/cx_Freeze/__pycache__/cli.cpython-310.opt-1.pyc: data
 packages/explorer/migrations/0004_querylog_duration.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/__init__.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0006_auto_20230207_0103.pyc: python 2.7 byte-compiled
-packages/explorer/migrations/0005_querychangelog.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0001_initial.pyc: python 2.7 byte-compiled
+packages/explorer/migrations/0005_querychangelog.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0002_auto_20150501_1515.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0003_query_snapshot.pyc: python 2.7 byte-compiled
 packages/explorer/urls.pyc: python 2.7 byte-compiled
@@ -100,8 +99,8 @@ packages/explorer/tests/settings.pyc: python 2.7 byte-compiled
 packages/explorer/tests/urls.pyc: python 2.7 byte-compiled
 packages/explorer/tests/test_actions.pyc: python 2.7 byte-compiled
 packages/explorer/tests/test_forms.pyc: python 2.7 byte-compiled
-packages/explorer/tests/test_utils.pyc: python 2.7 byte-compiled
 packages/explorer/tests/__init__.pyc: python 2.7 byte-compiled
+packages/explorer/tests/test_utils.pyc: python 2.7 byte-compiled
 packages/explorer/tests/__pycache__/__init__.cpython-310.pyc: data
 packages/explorer/tests/__pycache__/settings.cpython-310.pyc: data
 packages/explorer/tests/test_models.pyc: python 2.7 byte-compiled
