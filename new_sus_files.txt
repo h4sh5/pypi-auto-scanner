@@ -1,8 +1,26 @@
 packages/openmodelz-0.0.22.data/data/bin/mdz: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=hhazR-D-X44-o3M_-wiN/WjvBPt4le0nFH2f91M0t/ivs5XYfjEcYS0PoTSiIw/pRNgEmNOk_lSaiCcU9UK, stripped
-packages/lammps/phana: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=71a6cbee084965b45f7be5fee892ba69b0298f7f, for GNU/Linux 2.6.32, stripped
-packages/lammps/stl_bin2txt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=465676e18e326c7ea88e88b65159182c3943110e, for GNU/Linux 2.6.32, stripped
-packages/lammps/micelle2d.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d31971e790bc25eb9084ba36894dca519185874c, for GNU/Linux 2.6.32, stripped
-packages/lammps/lmp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a270cfdfa54a1900462b56fa1495d1987053d8d7, for GNU/Linux 2.6.32, stripped
-packages/lammps/binary2txt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1cf06bc76fd0fd3aa649a48cbde54adc9ed804d2, for GNU/Linux 2.6.32, stripped
-packages/lammps/msi2lmp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f056b7d3d998700be445a1190d8fea973bdbf617, for GNU/Linux 2.6.32, stripped
-packages/lammps/chain.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1d7592e6fbde8a285c9c3bdf287dbc73329ac1be, for GNU/Linux 2.6.32, stripped
+packages/newexercises/{{cookiecutter.exercise-template-ai}}/cookiecutter.json: JSON data
+packages/newexercises/{{cookiecutter.exercise-template-ai}}: directory
+packages/newexercises/{{cookiecutter.exercise-template-ai}}/{{cookiecutter.exercise}}: directory
+packages/newexercises/{{cookiecutter.exercise-template-ai}}/{{cookiecutter.exercise}}/input.txt: very short file (no magic)
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}: directory
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/input.txt: very short file (no magic)
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/java: directory
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/java/initial: directory
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/java/solution: directory
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/go: directory
+packages/newexercises/{{cookiecutter.multi}}/{{cookiecutter.exercise}}/python: directory
+packages/newexercises/{{cookiecutter.exercise-kotlin-template}}: directory
+packages/newexercises/{{cookiecutter.exercise-kotlin-template}}/cookiecutter.json: JSON data
+packages/newexercises/{{cookiecutter.exercise-kotlin-template}}/{{cookiecutter.exercise}}: directory
+packages/newexercises/{{cookiecutter.exercise-kotlin-template}}/{{cookiecutter.exercise}}/input.txt: very short file (no magic)
+packages/newexercises/{{cookiecutter.exercise-template}}: directory
+packages/newexercises/{{cookiecutter.exercise-template}}/cookiecutter.json: JSON data
+packages/newexercises/{{cookiecutter.exercise-template}}/{{cookiecutter.exercise}}: directory
+packages/newexercises/{{cookiecutter.exercise-template}}/{{cookiecutter.exercise}}/{{cookiecutter.exercise}}_solution.{{cookiecutter.extra}}.txt: empty
+packages/newexercises/{{cookiecutter.exercise-template}}/{{cookiecutter.exercise}}/input.txt: very short file (no magic)
+packages/newexercises/{{cookiecutter.exercise-template}}/{{cookiecutter.exercise}}/{{cookiecutter.exercise}}_initial.{{cookiecutter.extra}}: empty
+packages/tbase_post/templatetags/__pycache__/__init__.cpython-310.pyc: data
+packages/tbase_post/templatetags/__pycache__/post_extras.cpython-310.pyc: data
+packages/tbase_post/templatetags/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tbase_post/templatetags/__pycache__/post_extras.cpython-39.pyc: python 3.9 byte-compiled
