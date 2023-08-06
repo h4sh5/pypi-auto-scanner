@@ -1,18 +1,14 @@
 packages/discord/bin/libopus-0.x64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/discord/bin/libopus-0.x86.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/nton/bin/hacbrewpack.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/nton/bin/nstool.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/nton/bin/hptnacp.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/nton/assets/exefs/main: Nintendo Switch executable (NSO)
 packages/audiomath/accel/libaudiochunk-Windows-64bit.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/audiomath/accel/libaudiochunk-Windows-32bit.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/audiomath/_wrap_avbin/libavbin-Windows-64bit.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/audiomath/_wrap_avbin/libavbin-Windows-32bit.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/audiomath/_wrap_portaudio/libportaudio-Windows-64bit.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/audiomath/_wrap_portaudio/libportaudio-Windows-32bit.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/IABT/__pycache__/json_control.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/__pycache__/file_control.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/__pycache__/build.cpython-38.pyc: python 3.8 byte-compiled
-packages/IABT/__pycache__/json_control.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/__pycache__/generate_path.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/vsp/__pycache__/VSPparser.cpython-37.pyc: python 3.7 byte-compiled
 packages/IABT/vsp/__pycache__/VSPparser.cpython-38.pyc: python 3.8 byte-compiled
@@ -26,5 +22,5 @@ packages/IABT/translate/__pycache__/xml_generate.cpython-37.pyc: python 3.7 byte
 packages/IABT/translate/__pycache__/translator.cpython-37.pyc: python 3.7 byte-compiled
 packages/IABT/translate/__pycache__/translator.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/translate/__pycache__/vsp2xml.cpython-37.pyc: python 3.7 byte-compiled
-packages/IABT/translate/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/IABT/translate/__pycache__/xml_generate.cpython-38.pyc: python 3.8 byte-compiled
+packages/IABT/translate/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
