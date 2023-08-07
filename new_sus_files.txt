@@ -1,0 +1,5 @@
+packages/gget/bins/Windows/muscle.win64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/gget/bins/Linux/jackhmmer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=08141e43b7a8b8e6e6b2bc1e83ece05f5aafe8e0, stripped
+packages/gget/bins/Linux/muscle: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=53242a9a84013f7d978eee9ffe80ba81c0c2b80d, stripped
+packages/gget/bins/Darwin/jackhmmer: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/gget/bins/Darwin/muscle: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
