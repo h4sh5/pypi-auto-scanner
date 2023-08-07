@@ -21,8 +21,8 @@ packages/javonet/Binaries/Native/Windows/X64/JavonetNetcoreRuntimeNative.dll: PE
 packages/javonet/Binaries/Native/Windows/X64/nethost.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/libxmlsec.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/JavonetRubyRuntimeNativeAuxiliary.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/javonet/Binaries/Native/Windows/X64/Utils.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/JavonetCppRuntimeNative.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/javonet/Binaries/Native/Windows/X64/Utils.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/JavonetRubyRuntimeNative.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/libxmlsec-openssl.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/JavonetJvmRuntimeNative.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
@@ -32,16 +32,8 @@ packages/javonet/Binaries/Native/Windows/X64/python311.dll: PE32+ executable (DL
 packages/javonet/Binaries/Native/Windows/X64/JavonetPerlRuntimeNative.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/x64-msvcrt-ruby270.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/JavonetPythonRuntimeNative.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/javonet/Binaries/Native/Windows/X64/libnode.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/javonet/Binaries/Native/Windows/X64/libxslt.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/javonet/Binaries/Native/Windows/X64/libnode.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/javonet/Binaries/Clr/Windows/X64/JavonetClrRuntime.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
 packages/javonet/Binaries/Clr/Windows/X64/Javonet.Clr.Utils.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=34407402a1642a6c079bab76948bd0f5bdc8b867, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2234cc07ff9dcce1fe758437b5f5675ff7c79f30, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dcec9671f4bfce814fe0c552f1402557476067ef, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ff4990b8671a66a94e942f106de7cfcd016858ca, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e9b88726c735b42d53e9fba3555b694261aaa6ce, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1c8baf4fe919af201078a796b3702d3d1f345b78, for GNU/Linux 2.6.32, stripped
-packages/sherpa_onnx-1.6.0.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4848af50714f8d48b4646c47459496cafe0f3b70, for GNU/Linux 2.6.32, stripped
-packages/staticx/assets/release/bootloader: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, with debug_info, not stripped
-packages/staticx/assets/debug/bootloader: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, with debug_info, not stripped
+packages/shared_atomic/atomic_python_suid: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.0.0, BuildID[sha1]=ce8f1e879ee46ddd93c1b6c9baa97f58f1d6f9c8, with debug_info, not stripped
