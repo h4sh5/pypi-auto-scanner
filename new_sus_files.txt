@@ -1,22 +1,29 @@
-packages/myke/io/__pycache__/write.cpython-310.pyc: data
 packages/myke/io/__pycache__/__init__.cpython-310.pyc: data
+packages/myke/io/__pycache__/write.cpython-310.pyc: data
 packages/myke/io/__pycache__/read.cpython-310.pyc: data
 packages/myke/io/__pycache__/echo.cpython-310.pyc: data
-packages/myke/__pycache__/globals.cpython-310.pyc: data
 packages/myke/__pycache__/tasks.cpython-310.pyc: data
+packages/myke/__pycache__/globals.cpython-310.pyc: data
 packages/myke/__pycache__/utils.cpython-310.pyc: data
 packages/myke/__pycache__/__init__.cpython-310.pyc: data
-packages/myke/__pycache__/__version__.cpython-310.pyc: data
 packages/myke/__pycache__/main.cpython-310.pyc: data
 packages/myke/__pycache__/run.cpython-310.pyc: data
+packages/myke/__pycache__/__version__.cpython-310.pyc: data
 packages/myke/__pycache__/types.cpython-310.pyc: data
 packages/myke/__pycache__/__main__.cpython-310.pyc: data
 packages/myke/__pycache__/exceptions.cpython-310.pyc: data
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=34407402a1642a6c079bab76948bd0f5bdc8b867, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=2234cc07ff9dcce1fe758437b5f5675ff7c79f30, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=dcec9671f4bfce814fe0c552f1402557476067ef, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e9b88726c735b42d53e9fba3555b694261aaa6ce, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=ff4990b8671a66a94e942f106de7cfcd016858ca, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=1c8baf4fe919af201078a796b3702d3d1f345b78, stripped
+packages/sherpa_onnx-1.6.2.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=4848af50714f8d48b4646c47459496cafe0f3b70, stripped
 packages/explorer/utils.pyc: python 2.7 byte-compiled
 packages/explorer/app_settings.pyc: python 2.7 byte-compiled
 packages/explorer/__pycache__/utils.cpython-310.pyc: data
-packages/explorer/__pycache__/__init__.cpython-310.pyc: data
 packages/explorer/__pycache__/models.cpython-310.pyc: data
+packages/explorer/__pycache__/__init__.cpython-310.pyc: data
 packages/explorer/models.pyc: python 2.7 byte-compiled
 packages/explorer/views.pyc: python 2.7 byte-compiled
 packages/explorer/constants.pyc: python 2.7 byte-compiled
@@ -37,15 +44,11 @@ packages/explorer/tests/factories.pyc: python 2.7 byte-compiled
 packages/explorer/forms.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0004_querylog_duration.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0002_auto_20150501_1515.pyc: python 2.7 byte-compiled
-packages/explorer/migrations/0001_initial.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0006_auto_20230207_0103.pyc: python 2.7 byte-compiled
+packages/explorer/migrations/0001_initial.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/__init__.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0003_query_snapshot.pyc: python 2.7 byte-compiled
 packages/explorer/migrations/0005_querychangelog.pyc: python 2.7 byte-compiled
 packages/explorer/tasks.pyc: python 2.7 byte-compiled
 packages/explorer/admin.pyc: python 2.7 byte-compiled
 packages/explorer/urls.pyc: python 2.7 byte-compiled
-packages/wandb_core_alpha-0.0.1a3.data/platlib/wandb_core/bin-windows-amd64/wandb-nexus: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/wandb_core_alpha-0.0.1a3.data/platlib/wandb_core/bin-linux-amd64/wandb-nexus: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=rRg8hfe3JO5yjISxyVGA/WbJXhvr5GlgF-Z-bl37_/7-jOWC2WMQo4L5YMSQG6/hAfj5FI_iLJmKQVWmBbx, stripped
-packages/wandb_core_alpha-0.0.1a3.data/platlib/wandb_core/bin-darwin-arm64/wandb-nexus: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
-packages/wandb_core_alpha-0.0.1a3.data/platlib/wandb_core/bin-darwin-amd64/wandb-nexus: Mach-O 64-bit x86_64 executable
