@@ -1,7 +1,7 @@
 packages/pyre_check_nightly-0.0.101691924991.data/data/bin/pyre.bin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4adc884c4b7861edc7f6527f1cc76090c5f1e59b, with debug_info, not stripped, too many notes (256)
 packages/systembridgewindowssensors/bin/LibreHardwareMonitorLib.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/systembridgewindowssensors/bin/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/System.Management.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/systembridgewindowssensors/bin/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/System.CodeDom.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/runtimes/linux-x86/lib/netstandard2.0/Mono.Posix.NETStandard.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/runtimes/linux-arm64/lib/netstandard2.0/Mono.Posix.NETStandard.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
@@ -19,7 +19,7 @@ packages/systembridgewindowssensors/bin/runtimes/win-x64/native/libMonoPosixHelp
 packages/systembridgewindowssensors/bin/runtimes/win-x64/lib/netstandard2.0/Mono.Posix.NETStandard.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/runtimes/linux-armel/lib/netstandard2.0/Mono.Posix.NETStandard.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/HidSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/systembridgewindowssensors/bin/System.IO.Ports.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/SystemBridgeWindowsSensors.dll: PE32+ executable (GUI) x86-64 Mono/.Net assembly, for MS Windows
-packages/systembridgewindowssensors/bin/SystemBridgeWindowsSensors.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/systembridgewindowssensors/bin/System.IO.Ports.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/systembridgewindowssensors/bin/NvAPIWrapper.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/systembridgewindowssensors/bin/SystemBridgeWindowsSensors.exe: PE32+ executable (GUI) x86-64, for MS Windows
