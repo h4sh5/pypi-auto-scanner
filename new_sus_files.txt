@@ -1,31 +1,21 @@
-packages/dizest/bundle/public/__pycache__/app.cpython-310.pyc: data
-packages/dizest/bundle/config/dizest/__pycache__/kernel.cpython-310.pyc: data
-packages/dizest/bundle/config/__pycache__/boot.cpython-310.pyc: data
-packages/dizest/bundle/config/__pycache__/service.cpython-310.pyc: data
-packages/dizest/daemon/__pycache__/simple.cpython-310.pyc: data
-packages/dizest/util/__pycache__/__init__.cpython-310.pyc: data
-packages/dizest/util/__pycache__/fn.cpython-310.pyc: data
-packages/dizest/util/__pycache__/std.cpython-310.pyc: data
-packages/dizest/util/__pycache__/os.cpython-310.pyc: data
-packages/dizest/util/__pycache__/web.cpython-310.pyc: data
-packages/dizest/util/__pycache__/string.cpython-310.pyc: data
-packages/dizest/command/__pycache__/install.cpython-310.pyc: data
-packages/dizest/command/__pycache__/service.cpython-310.pyc: data
-packages/dizest/command/__pycache__/run.cpython-310.pyc: data
-packages/reverb/server_executable: directory
-packages/reverb/server_executable/__init__.py: empty
+packages/pyre_check_nightly-0.0.101692011428.data/data/bin/pyre.bin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5602b663ca5de45466239128614a7b8cd9848b3a, with debug_info, not stripped, too many notes (256)
+packages/jag_panzer/wss/wss_boost/win/websockets/speedups.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/rpa_pdf/exec/docto.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/rpa_pdf/exec/sumatra.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/rpa_pdf/exec/wkhtmltox/bin/wkhtmltopdf.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
 packages/rpa_pdf/exec/wkhtmltox/bin/wkhtmltox.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/rpa_pdf/exec/wkhtmltox/bin/wkhtmltoimage.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/rpa_pdf/exec/EmailConverter/wkhtmltopdf.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/rpa_pdf/exec/EmailConverter/unins000.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/rpa_pdf/exec/EmailConverter/wkhtmltopdf.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/rpa_pdf/exec/EmailConverter/EmailConverterConsole.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/rpa_pdf/exec/EmailConverter/EmailConverter.exe: PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows
-packages/sen2vec/models/file_utils.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/sen2vec/models/bert.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/sen2vec/models/modeling.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/sen2vec/models/__main__.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/poetry/dataTackle: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f6f59a780b1a6ab248542de7330522ec868226d0, not stripped
-packages/envd-0.3.38.data/data/bin/envd: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=wQQuCwx4TEMdimiO7n33/dnDtxuU1ua-pf2T-Du7q/UasKZaUx2GzAhLvjqMMo/aD7Nc5NHXRCgJr4aX4Ni, stripped
+packages/kortical/cloud_api_app_templates/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/kortical/cloud_api_app_templates/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/framework_models/finalclassifier/__pycache__/FinalClassifier.cpython-310.pyc: data
+packages/framework_models/finalclassifier/__pycache__/__init__.cpython-310.pyc: data
+packages/framework_models/finalclassifier/__pycache__/data_cleaning.cpython-310.pyc: data
+packages/framework_models/__pycache__/__init__.cpython-310.pyc: data
+packages/framework_models/ml_function_classifier/__pycache__/__init__.cpython-310.pyc: data
+packages/framework_models/ml_function_classifier/__pycache__/MLFunctionClassifier.cpython-310.pyc: data
+packages/framework_models/ml_function_classifier/__pycache__/data_cleaning.cpython-310.pyc: data
