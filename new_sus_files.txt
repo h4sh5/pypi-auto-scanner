@@ -1,7 +1,15 @@
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=34407402a1642a6c079bab76948bd0f5bdc8b867, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=17da789eb268201ea7a58c24d3514a31aa7a4e3e, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e7714f07cfea97694917599a44c62477476c7a97, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=025ffb24babd82c7f12ba136ce40e3b4d6fefbf9, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=b4f3b8cdd40124d861f07c500dd2fa90b44d40c0, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e20dab16376761bba82a093bae92118af98acfa6, stripped
-packages/sherpa_onnx-1.7.6.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a5572d1cc160bd8e97ad524cc151fda484dfa857, stripped
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/testcli/htmldiff/__pycache__/tokenizer.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/htmldiff/__pycache__/diffhtmlgenerate.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/htmldiff/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/htmldiff/__pycache__/renderer.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/runregress.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/RunTestCli.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/regressexception.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/runrobotexecutor.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/RunCompare.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/SetupTestCli.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/htmltestreport/__pycache__/HtmlTestReport.cpython-38.pyc: python 3.8 byte-compiled
+packages/testcli/robot/common/junitreport/__pycache__/JunitTestReport.cpython-38.pyc: python 3.8 byte-compiled
