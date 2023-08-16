@@ -1,19 +1,6 @@
-packages/idftools-0.1.71.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.71.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.72.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.72.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/serial_bridge/winc_serial_bridge.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, with debug_info, not stripped
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/gain_builder/debug_i2c/aardvark.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/gain_builder/debug_i2c/gain_builder.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/gain_builder/debug_uart/gain_builder.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/image_builder_downloader/winc_programmer_I2C.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/image_builder_downloader/image_tool.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/image_builder_downloader/aardvark.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/image_builder_downloader/winc_programmer_UART.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/root_certificate_downloader/debug_i2c/root_certificate_downloader.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/root_certificate_downloader/debug_i2c/aardvark.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/tpds/proto_boards/DM320118/winc_firmware_upgrade/firmware/Tools/root_certificate_downloader/debug_uart/root_certificate_downloader.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/idftools-0.1.73.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.73.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/brainstem/x86/libczmq.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainstem/x86/BrainStem2.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/brainstem/x86/libzmq-v140-mt-4_3_4.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainstem/x64/libczmq.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainstem/x64/libzmq-v140-mt-4_3_4.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainstem/x64/BrainStem2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
