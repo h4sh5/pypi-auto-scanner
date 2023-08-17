@@ -1,11 +1,33 @@
-packages/idftools-0.1.79.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.79.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.78.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.78.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.80.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/idftools-0.1.80.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/deepsparse/arch.bin: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped
+packages/nanome/_internal/process/external/dssp/dssp-3.0.0-win32.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/nanome/_internal/process/external/dssp/dssp-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.32, BuildID[sha1]=dc39efe0bfceb04dfc7758020300038a42beb663, with debug_info, not stripped
+packages/idftools-0.1.80.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.80.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.81.data/data/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/idftools-0.1.81.data/data/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/ork.build-0.0.66.data/data/obt/modules/docker/amigadev/test1/libs/mathieeedoubtrans.library: AmigaOS loadseg()ble executable/binary
 packages/ork.build-0.0.66.data/data/obt/modules/docker/amigadev/test1/libs/mathieeedoubbas.library: AmigaOS loadseg()ble executable/binary
+packages/vasp_manager/calculation_manager/__pycache__/elastic.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/static.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/rlx_coarse.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/__init__.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/bulkmod.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/rlx.cpython-310.pyc: data
+packages/vasp_manager/calculation_manager/__pycache__/base.cpython-310.pyc: data
+packages/vasp_manager/tests/__pycache__/test_vasp_manager.cpython-310-pytest-7.4.0.pyc: data
+packages/vasp_manager/tests/__pycache__/test_vasp_manager.cpython-310-pytest-7.1.2.pyc: data
+packages/vasp_manager/analyzer/__pycache__/bulkmod_analyzer.cpython-310.pyc: data
+packages/vasp_manager/analyzer/__pycache__/elastic_analyzer.cpython-310.pyc: data
+packages/vasp_manager/analyzer/__pycache__/__init__.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/vasp_manager.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/job_manager.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/vasp_utils.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/calculation_manager.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/utils.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/test_vasp_manager.cpython-310-pytest-7.1.2.pyc: data
+packages/vasp_manager/__pycache__/elastic_analyzer.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/__init__.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/main_manager.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/vasp_input_creator.cpython-310.pyc: data
+packages/vasp_manager/__pycache__/elastic_analysis.cpython-310.pyc: data
