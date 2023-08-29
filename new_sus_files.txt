@@ -7,25 +7,25 @@ packages/pytoniq/tlb/__pycache__/account.cpython-310.pyc: data
 packages/pytoniq/tlb/__pycache__/utils.cpython-310.pyc: data
 packages/pytoniq/tlb/__pycache__/config.cpython-310.pyc: data
 packages/pytoniq/tlb/__pycache__/__init__.cpython-310.pyc: data
-packages/pytoniq/tlb/__pycache__/transaction.cpython-310.pyc: data
 packages/pytoniq/tlb/__pycache__/block.cpython-310.pyc: data
+packages/pytoniq/tlb/__pycache__/transaction.cpython-310.pyc: data
 packages/pytoniq/crypto/__pycache__/crc.cpython-310.pyc: data
 packages/pytoniq/crypto/__pycache__/__init__.cpython-310.pyc: data
 packages/pytoniq/boc/dict/__pycache__/utils.cpython-310.pyc: data
 packages/pytoniq/boc/dict/__pycache__/__init__.cpython-310.pyc: data
-packages/pytoniq/boc/dict/__pycache__/dict.cpython-310.pyc: data
 packages/pytoniq/boc/dict/__pycache__/parse.cpython-310.pyc: data
+packages/pytoniq/boc/dict/__pycache__/dict.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/exotic.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/slice.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/utils.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/builder.cpython-310.pyc: data
-packages/pytoniq/boc/__pycache__/address.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/tvm_bitarray.cpython-310.pyc: data
+packages/pytoniq/boc/__pycache__/address.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/cell.cpython-310.pyc: data
-packages/pytoniq/boc/__pycache__/__init__.cpython-310.pyc: data
 packages/pytoniq/boc/__pycache__/deserialize.cpython-310.pyc: data
-packages/pytoniq/contract/nft/__pycache__/__init__.cpython-310.pyc: data
+packages/pytoniq/boc/__pycache__/__init__.cpython-310.pyc: data
 packages/pytoniq/contract/nft/__pycache__/nft.cpython-310.pyc: data
+packages/pytoniq/contract/nft/__pycache__/__init__.cpython-310.pyc: data
 packages/pytoniq/contract/wallets/__pycache__/__init__.cpython-310.pyc: data
 packages/pytoniq/contract/wallets/__pycache__/wallet.cpython-310.pyc: data
 packages/pytoniq/contract/__pycache__/contract.cpython-310.pyc: data
@@ -35,3 +35,7 @@ packages/pytoniq/liteclient/__pycache__/sync.cpython-310.pyc: data
 packages/pytoniq/liteclient/__pycache__/client.cpython-310.pyc: data
 packages/pytoniq/liteclient/__pycache__/utils.cpython-310.pyc: data
 packages/pytoniq/liteclient/__pycache__/__init__.cpython-310.pyc: data
+packages/pyxai/sources/solvers/MUS/muser_static: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=59a6faf375222937f985eb79d59c19619e7a073e, for GNU/Linux 3.2.0, not stripped
+packages/pyxai/sources/solvers/COMPILER/d4_static: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=776e25e9eef6f8a436fb28947bfc3b032116d71a, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/pyxai/sources/solvers/MAXSAT/openwbo-darwin: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/pyxai/sources/solvers/MAXSAT/openwbo-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=36290cbbee18bab0404b1c6ecb955196e7112b30, with debug_info, not stripped
