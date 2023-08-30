@@ -1,16 +1,39 @@
-packages/fibo_gavin_baker/__pycache__/__init__.cpython-311.pyc: data
-packages/fibo_gavin_baker/__pycache__/fibo_gavin_baker.cpython-311.pyc: data
-packages/appdynamics_proxysupport/bin/jjs: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/jrunscript: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/keytool: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/rmid: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/unpack200: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/java: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/rmiregistry: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/pack200: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/bin/jfr: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/lib/jexec: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/appdynamics_proxysupport/lib/jspawnhelper: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-musl-x86_64.so.1, not stripped
-packages/maelzel/data/vamp/win64/pyin.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/maelzel/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/maelzel/__pycache__/__init__.cpython-310.pyc: data
+packages/pyqrack/qrack_cl_precompile/Linux/2_35/qrack_cl_precompile: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fe9c0a430679de260670b2db665f3e1ede2cf52c, for GNU/Linux 3.2.0, not stripped
+packages/postopus/bin/__pycache__/postopus_ls.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/plotters/__pycache__/quiver.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/plotters/__pycache__/surface.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/plotters/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/plotters/__pycache__/contour.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/octopus_inp_parser/__pycache__/inpparse.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/octopus_inp_parser/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/util/__pycache__/output_collector.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/util/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/util/__pycache__/convenience_dict.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/util/__pycache__/special_characters.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/vectorfielddim.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/system.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/field.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/octopusresults.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/datacontainers/__pycache__/calculationmodes.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/_ase_compatibility/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/examples/__pycache__/example_achimedeantrial_spiral.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/examples/__pycache__/example_data_reading.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/utils/__pycache__/xarray_converter.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/utils/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/utils/__pycache__/units.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/cube.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/netcdf.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/vtk.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/xyz.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/numpyfile.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/file.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/__pycache__/xcrysden.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/temp_utils/__pycache__/read_xsf_extra_output.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/files/temp_utils/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/__pycache__/namespace_utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/__pycache__/octopus_run.cpython-38.pyc: python 3.8 byte-compiled
+packages/postopus/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
