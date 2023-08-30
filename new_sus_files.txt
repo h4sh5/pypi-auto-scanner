@@ -1,6 +1,24 @@
-packages/src/assets/wifi_rs: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5801651ce3e58696495bbd8e5bda1d7e462f1a93, for GNU/Linux 4.4.0, with debug_info, not stripped
-packages/src/assets/api_rs: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=19d5788f85fd3273573b113ddc0a492f8619212e, for GNU/Linux 4.4.0, with debug_info, not stripped
-packages/src/assets/blueio_rs: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ed7cf0d4d1d94e4a0e879a54361fb64984498dcc, for GNU/Linux 4.4.0, with debug_info, not stripped
-packages/tests/data/test_image.bin: DOS executable (COM)
+packages/mixin.pyc: data
+packages/backports.pyc: data
 packages/sincfold/tools/RNAstructure/draw: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=639c9ba2b30510b8ea2695fa57673f7b2abec707, not stripped
 packages/sincfold/tools/RNAstructure/ct2dot: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9990a76980c6c5525236ff92b89652078580b1d4, not stripped
+packages/buffer.pyc: data
+packages/tailcall.pyc: data
+packages/malloc.pyc: data
+packages/test_tailcall.pyc: data
+packages/__init__.pyc: data
+packages/loop.pyc: data
+packages/sequence.pyc: data
+packages/test_fuzz.pyc: data
+packages/__pycache__/sequence.cpython-311.pyc: data
+packages/__pycache__/backports.cpython-311.pyc: data
+packages/__pycache__/malloc.cpython-311.pyc: data
+packages/__pycache__/tailcall.cpython-311.pyc: data
+packages/__pycache__/loop.cpython-311.pyc: data
+packages/__pycache__/buffer.cpython-311.pyc: data
+packages/__pycache__/test_fuzz.cpython-311.pyc: data
+packages/__pycache__/test_tailcall.cpython-311.pyc: data
+packages/__pycache__/__init__.cpython-311.pyc: data
+packages/__pycache__/test_backports.cpython-311.pyc: data
+packages/__pycache__/mixin.cpython-311.pyc: data
+packages/test_backports.pyc: data
