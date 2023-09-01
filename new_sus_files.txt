@@ -4,24 +4,24 @@ packages/mippy/resources/dcmdjpeg_win.exe: PE32 executable (console) Intel 80386
 packages/cns/DataX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/ExcelX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/ExcelX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/OTPX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/cmdX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/happyx/happyx.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/pyxai/sources/solvers/MUS/muser_static: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=59a6faf375222937f985eb79d59c19619e7a073e, for GNU/Linux 3.2.0, not stripped
-packages/pyxai/sources/solvers/COMPILER/d4_static: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=776e25e9eef6f8a436fb28947bfc3b032116d71a, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/pyxai/sources/solvers/MAXSAT/openwbo-darwin: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/pyxai/sources/solvers/MAXSAT/openwbo-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=36290cbbee18bab0404b1c6ecb955196e7112b30, with debug_info, not stripped
-packages/envd-0.3.40.data/data/bin/envd: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=wZl5lTW_WKqWi05eGYyX/LDmX7djhVTJ_4qqetPP0/UasKZaUx2GzAhLvjqMMo/Ls-6KZSH9yLqct3JWUkF, stripped
+packages/notebooker/web/static/node_modules/node-notifier/vendor/snoreToast/SnoreToast.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/notebooker/web/static/node_modules/node-notifier/vendor/notifu/notifu64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/notebooker/web/static/node_modules/node-notifier/vendor/notifu/notifu.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/notebooker/web/static/node_modules/node-notifier/vendor/mac.noindex/terminal-notifier.app/Contents/MacOS/terminal-notifier: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
