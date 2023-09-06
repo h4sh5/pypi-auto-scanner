@@ -35,9 +35,6 @@ jobs:
       run: |
         guarddog pypi verify -x empty_information -x release_zero -x single_python_file -x repository_integrity_mismatch  -x cmd-overwrite --output-format=json new.txt > report.json || echo guarddog error $?
     
-    # - name: run secret scan
-    #   run: semgrep --json -c p/secrets packages/ | tee -a secrets.jsonl.txt
-
     - name: run yara scan
       run: yara mal-library-ttps/yara-rules/sus_pkg.yara packages | tee  new_yara_results.txt
 
@@ -50,6 +47,9 @@ jobs:
         python3 raise_high_risk_pkgs.py || echo errors occurred here
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: run secret scan
+      run: semgrep --json -c p/secrets packages/ | tee secrets.jsonl.txt
 
 
     - name: Push scanned packages to cache
@@ -66,11 +66,13 @@ jobs:
         git pull
         git push 
 
-    - name: Archive code coverage results
+    - name: Archive report 
       uses: actions/upload-artifact@v3
       with:
         name: new-scan-report
         path: report.json
+
+
 
 
 
