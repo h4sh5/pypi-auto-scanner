@@ -1,12 +1,12 @@
 packages/cns/DataX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/ExcelX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/ExcelX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/OTPX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
@@ -16,42 +16,6 @@ packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for
 packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/alpharaw/ext/sciex/SciexToolKit.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/protobuf-net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.Data.XYData.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.UserLog.Types.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.WiffReader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Domain.Acquisition.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/WiffOps4Python.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.AnalystDataProvider.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Muni.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.Wiff.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Devices.Types.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Utility.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.StructuredStorage.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.DataService.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.XmlHelpers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Infrastructure.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Contracts.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Acquisition.Client.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.CommonInterfaces.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.Data.SimpleTypes.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Compression.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.InternalRawXYProcessing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.Clearcore.FMan.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.Data.Processing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Wiff2.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Client.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Domain.Acquisition.Methods.MassSpec.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.Data.Acquisition.Contracts.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Clearcore2.RawXYProcessing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/sciex/Sciex.FMan.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/thermo_fisher/ThermoFisher.CommonCore.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/ext/thermo_fisher/ThermoFisher.CommonCore.RawFileReader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/alpharaw/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/peptdeep/legacy/thermo_raw/ThermoFisher.CommonCore.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/peptdeep/legacy/thermo_raw/ThermoFisher.CommonCore.RawFileReader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/peptdeep/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
