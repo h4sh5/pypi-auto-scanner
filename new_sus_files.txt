@@ -8,12 +8,12 @@ packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for 
 packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cns/cmdX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/ozi/scripts/scm_version_snip.pyc: data
@@ -21,9 +21,9 @@ packages/ozi/scripts/version_metadata_template.pyc: data
 packages/ozi/scripts/sync_pkg_readme.pyc: data
 packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/sync_pkg_readme.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/version_metadata_template.cpython-310.pyc: data
 packages/ozi/scripts/core_metadata_template.pyc: data
+packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
 packages/ozi/assets/__init__.pyc: data
 packages/ozi/assets/structure.pyc: data
 packages/ozi/assets/__pycache__/__init__.cpython-310.pyc: data
@@ -33,8 +33,9 @@ packages/ozi/new.pyc: data
 packages/ozi/fix.pyc: data
 packages/ozi/__init__.pyc: data
 packages/ozi/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/__pycache__/new.cpython-310.pyc: data
 packages/ozi/__pycache__/fix.cpython-310.pyc: data
+packages/ozi/__pycache__/new.cpython-310.pyc: data
 packages/ozi/__pycache__/__init__.cpython-310.pyc: data
+packages/happyx/happyx.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/cglearn/comp_freq_tb.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/cglearn/cond_ind_test.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
