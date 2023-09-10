@@ -1,58 +1,21 @@
-packages/pywry-0.6.0.data/scripts/pywry: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=15b92ec66b0073b04727a01950d04522edc558e2, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cns/DataX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/ExcelX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/ExcelX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/OTPX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/cmdX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/pylyzer-0.0.44.data/scripts/pylyzer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6848b23e7d8e5f1b2bf330989ba76890a3722612, for GNU/Linux 3.2.0, stripped
 packages/ozi/scripts/scm_version_snip.pyc: data
 packages/ozi/scripts/version_metadata_template.pyc: data
 packages/ozi/scripts/sync_pkg_readme.pyc: data
 packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/sync_pkg_readme.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/version_metadata_template.cpython-310.pyc: data
+packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
 packages/ozi/scripts/core_metadata_template.pyc: data
 packages/ozi/assets/__init__.pyc: data
 packages/ozi/assets/structure.pyc: data
 packages/ozi/assets/__pycache__/__init__.cpython-310.pyc: data
 packages/ozi/assets/__pycache__/structure.cpython-310.pyc: data
-packages/ozi/new.pyc: data
 packages/ozi/__main__.pyc: data
+packages/ozi/new.pyc: data
 packages/ozi/fix.pyc: data
 packages/ozi/__init__.pyc: data
 packages/ozi/__pycache__/__main__.cpython-310.pyc: data
 packages/ozi/__pycache__/new.cpython-310.pyc: data
 packages/ozi/__pycache__/fix.cpython-310.pyc: data
 packages/ozi/__pycache__/__init__.cpython-310.pyc: data
-packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
-packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/secrets.cpython-311.pyc: data
-packages/gandai/__pycache__/db.cpython-311.pyc: data
-packages/gandai/__pycache__/datastore.cpython-311.pyc: data
-packages/gandai/__pycache__/query.cpython-311.pyc: data
-packages/gandai/__pycache__/helpers.cpython-311.pyc: data
-packages/gandai/__pycache__/sources.cpython-311.pyc: data
-packages/gandai/__pycache__/models.cpython-311.pyc: data
-packages/gandai/__pycache__/analytics.cpython-311.pyc: data
-packages/gandai/__pycache__/auth.cpython-311.pyc: data
-packages/gandai/__pycache__/tasks.cpython-311.pyc: data
-packages/gandai/__pycache__/grata.cpython-311.pyc: data
-packages/gandai/__pycache__/constants.cpython-311.pyc: data
-packages/gandai/__pycache__/main.cpython-311.pyc: data
-packages/gandai/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/adapters.cpython-311.pyc: data
-packages/gandai/__pycache__/gpt.cpython-311.pyc: data
-packages/gandai/__pycache__/services.cpython-311.pyc: data
