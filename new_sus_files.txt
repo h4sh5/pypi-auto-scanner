@@ -1,5 +1,27 @@
-packages/srttools/data/calibrators/__pycache__/parse_tex_table.cpython-39.pyc: python 3.9 byte-compiled
-packages/srttools/data/calibrators/__pycache__/parse_tex_table.cpython-310.pyc: data
+packages/speculos/cxlib/nanox-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-7.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-9.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-cx-1.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-13.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanos-cx-2.1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-8.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-cx-2.0.2.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, not stripped
+packages/speculos/cxlib/stax-api-level-cx-10.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-cx-1.0.3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanos-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-11.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/resources/vnc_server: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=18ce6c59bf7c30317fad3c6e58319d85700d3681, for GNU/Linux 3.2.0, not stripped
+packages/speculos/resources/launcher: ELF 32-bit LSB executable, ARM, EABI5 version 1 (GNU/Linux), statically linked, BuildID[sha1]=91031838c761bbd96e0fc2beee5466ec521f1a4b, for GNU/Linux 3.2.0, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-17: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/nvptx-arch: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-query: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
@@ -11,17 +33,17 @@ packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-linker-wrapper: ELF 6
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-apply-replacements: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-doc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-include-cleaner: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-rename: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/find-all-symbols: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-rename: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-extdef-mapping: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-tidy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/lld: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-tidy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-offload-packager: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-refactor: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-offload-bundler: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clangd: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-repl: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-move: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-repl: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/diagtool: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/amdgpu-arch: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.0rc4.data/data/bin/clang-format: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
