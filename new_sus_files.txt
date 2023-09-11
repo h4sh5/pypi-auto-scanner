@@ -14,8 +14,8 @@ packages/funid/external/RAxML_Windows/raxmlHPC-PTHREADS.exe: PE32+ executable (c
 packages/funid/external/RAxML_Windows/raxmlHPC.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/funid/external/RAxML_Windows/raxmlHPC-PTHREADS-AVX2.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/funid/external/RAxML_Windows/raxmlHPC-AVX.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/funid/external/RAxML_Windows/raxmlHPC-SSE3.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/funid/external/RAxML_Windows/raxmlHPC-AVX2.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/funid/external/RAxML_Windows/raxmlHPC-SSE3.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/funid/external/Gblocks_Windows_0.91b/Gblocks_0.91b/Gblocks.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/funid/external/trimal.v1.4/trimAl/bin/trimal.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/funid/external/trimal.v1.4/trimAl/bin/libstdc++-6.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
@@ -24,11 +24,11 @@ packages/funid/external/trimal.v1.4/trimAl/source/statal.exe: PE32 executable (c
 packages/funid/external/trimal.v1.4/trimAl/source/readal.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/funid/external/trimal.v1.2rev59/trimAl/bin/trimal.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/funid/external/trimal.v1.2rev59/trimAl/bin/readal.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/funid/external/mmseqs_Windows/bin/cygwin1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/cygz.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/funid/external/mmseqs_Windows/bin/cygwin1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/mmseqs.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/funid/external/mmseqs_Windows/bin/cygbz2-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/cyggomp-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/funid/external/mmseqs_Windows/bin/cygbz2-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/cyggcc_s-seh-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/cygstdc++-6.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/funid/external/mmseqs_Windows/bin/busybox.exe: PE32+ executable (console) x86-64, for MS Windows
