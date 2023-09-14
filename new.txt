@@ -1,11 +1,3 @@
-fast-simplification==0.1.2
-pulumi-azuredevops==2.13.0a1694721857
-teamhack-db==0.0.205
-gpt-review==0.9.6rc1020.post1
-quest-py==0.2.0b3
-torch-nos==0.0.10
-osu==1.2.4
-twitchify==2.0.2
 teamhack-nmap==0.0.233
 nft-market==1.40
 pulumi-gcp==6.66.0a1694720974
@@ -98,3 +90,11 @@ dagster-gcp-pyspark==0.20.13
 dagster-docker==0.20.13
 dagster-pyspark==0.20.13
 pyo3-branchwater==0.8.0
+dagster-duckdb-polars==0.20.13
+quanthon==0.1.0
+dagster-databricks==0.20.13
+dagster-gcp-pandas==0.20.13
+dagster-aws==0.20.13
+dagster-snowflake-pyspark==0.20.13
+dagster-prometheus==0.20.13
+dagster-snowflake-pandas==0.20.13
