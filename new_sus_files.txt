@@ -1,10 +1,11 @@
+packages/micro_editor/micro: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=RiVQ3gAhV1pEjszdGvrf/ZA3S8cGm3R0r6ZwPTouI/QNh8Dic3FBYoxbZC7Cxd/jhoC0Wt3_F28sxKCXgm0, stripped
 packages/mpf/platforms/pinproc/windows/pinproc.cp311-win32.pyd: MS-DOS executable
 packages/mpf/platforms/pinproc/windows/pinproc.cp39-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/mpf/platforms/pinproc/windows/pinproc.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/mpf/platforms/pinproc/windows/pinproc.cp310-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/mpf/platforms/pinproc/windows/pinproc.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/mpf/platforms/pinproc/windows/pinproc.cp37-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/mpf/platforms/pinproc/windows/pinproc.cp311-win_amd64.pyd: MS-DOS executable
 packages/mpf/platforms/pinproc/windows/pinproc.cp310-win32.pyd: MS-DOS executable
@@ -26,8 +27,5 @@ packages/ozi/scripts/__pycache__/sync_pkg_readme.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
 packages/ozi/__pycache__/__main__.cpython-310.pyc: data
 packages/ozi/__pycache__/new.cpython-310.pyc: data
-packages/ozi/__pycache__/__init__.cpython-310.pyc: data
 packages/ozi/__pycache__/fix.cpython-310.pyc: data
-packages/agentforge/loops/__pycache__/action.cpython-311.pyc: data
-packages/agentforge/loops/__pycache__/ActionExecution.cpython-311.pyc: data
-packages/agentforge/loops/__pycache__/__init__.cpython-311.pyc: data
+packages/ozi/__pycache__/__init__.cpython-310.pyc: data
