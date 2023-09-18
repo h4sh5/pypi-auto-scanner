@@ -1,3 +1,382 @@
+packages/lalapps/bin/lalapps_inspfrinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b17016325024ec3237620007c4d623cdf4d4431b, stripped
+packages/lalapps/bin/lalpulsar_synthesizeLVStats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c1ad410cd0ff6a19581682714644e4e206bf0fdf, stripped
+packages/lalapps/bin/lalsim-burst: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4a1eb6535b5841c210c73cb6d6b7290b0431f018, stripped
+packages/lalapps/bin/lalapps_xtefitstoframe: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=97bd09aec0c6c95405040a8fb31e8554cac7326f, stripped
+packages/lalapps/bin/lalapps_inspiralDistance: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=12b2904ae0d59bfe12fb2cc7f926e0d95dcba1c7, stripped
+packages/lalapps/bin/lalapps_StringAddFrame: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6bdd4fc3e52c3a3aba888bc53b6ca9ddf78ff200, stripped
+packages/lalapps/bin/lalapps_frview: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=04abf26e84484df4f33853f2bbaa5bd0ebd35124, stripped
+packages/lalapps/bin/lalapps_exc_resp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d51817d0cbb0b5f5e9a1126ebe5d901fb6a2659c, stripped
+packages/lalapps/bin/lalsim-bh-sphwf: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=16ed3a31c9725351db0c736d10ac6e651d716076, stripped
+packages/lalapps/bin/lalapps_blindinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2eb811c36cb7e890be8f6c729b9ffeb308c221e0, stripped
+packages/lalapps/bin/lalfr-cksum: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=50c4e4e58738d21d593380af1c6f3ea45d81b9ea, stripped
+packages/lalapps/bin/lalapps_calfacs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=dd5d3928755cac793c02cf93360bc701f09ae599, stripped
+packages/lalapps/bin/lalinspiral_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c98d3a594557a0778a977d936ff203aa848c9dfd, stripped
+packages/lalapps/bin/lalsimulation_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9a3ade43ab4b551f7f39b2f33dd542bcdd074af8, stripped
+packages/lalapps/bin/lalsim-ns-params: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=96dc8bdb6ea0020fee9723616e347ba5980995ff, stripped
+packages/lalapps/bin/lalpulsar_ssbtodetector: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3acf9f69b59e896ac55014ec6b217237bc79ed70, stripped
+packages/lalapps/bin/lalsim-unicorn: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=648e46d33ecf3029caf15eab474a1aa2a9d622d7, stripped
+packages/lalapps/bin/lalpulsar_ComputeAntennaPattern: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=54c3b671053f7009962a5f3a948d5282ce840c33, stripped
+packages/lalapps/bin/lalpulsar_crosscorr_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e004bf3159230ab4d7309de9a14006cf36255c40, stripped
+packages/lalapps/bin/lalapps_binj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=61f9397b414253e9da76901e7a890a77bcc2f9cb, stripped
+packages/lalapps/bin/lalsim-ns-mass-radius: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=36d2e120dc6adf0584b3ee161a0bca9e12d744ee, stripped
+packages/lalapps/bin/lal_fftw_wisdom: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bd6dc279a99f86da9f0e1182a25f6cc9f8a0e591, stripped
+packages/lalapps/bin/lalfr-print: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f723049628fec526bc439f2a0a48d8cca3b66df7, stripped
+packages/lalapps/bin/lalpulsar_fits_header_getval: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e22a0ef367360a1a1048cd01b4bdc47d4056c865, stripped
+packages/lalapps/bin/lalpulsar_compareFstats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1f6322fe9d2adc5fd7a93fe92764e55aa50c939f, stripped
+packages/lalapps/bin/lalpulsar_fits_table_list: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0ad3612450fde8a6fdc601a2d7dbd567441c7701, stripped
+packages/lalapps/bin/lalapps_animate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ab5c2ec60d48eb311f78874a94eb41447c7bcd77, stripped
+packages/lalapps/bin/lalpulsar_parameter_estimation_nested: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6198350bd5cc7298b97e5f10d93b1244821cba8f, stripped
+packages/lalapps/bin/lalsim-sgwb: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=990756d705dd7366174a73714be38fcc144883d8, stripped
+packages/lalapps/bin/lalpulsar_Makefakedata_v5: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=33d0af55bba7cdf5929cf7cae6d75ea57aea2a46, stripped
+packages/lalapps/bin/lalburst_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=dee879a5be9246a2397b5cc97513aae77feb71f9, stripped
+packages/lalapps/bin/lalapps_ninja: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=40589d8498f14bca3b870a11c885a747818f15f3, stripped
+packages/lalapps/bin/lalapps_gwf2xml: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1207f07aa47e66b3af7871e1cc31978157fca243, stripped
+packages/lalapps/bin/lalpulsar_DriveHoughMulti: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e105b16e5ef409fbe281722e8f09fa19ec20d1d5, stripped
+packages/lalapps/bin/lalpulsar_Weave: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5541a0c87767fce3e647e3342a4854418b7d5215, stripped
+packages/lalapps/bin/lalpulsar_spec_coherence: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=af5b14a278c0c9a76403c01464d7da722ca53c48, stripped
+packages/lalapps/bin/lalpulsar_HierarchicalSearch: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=85471acc3c92ae8be0a5cd304f90375e522e167f, stripped
+packages/lalapps/bin/lalsim-inject: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=20e5b1d40c1d4941cd068ec12fd3a42d07e1d188, stripped
+packages/lalapps/bin/lal_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4cbe1faee01028c4322fdb2293f3aeda384556cb, stripped
+packages/lalapps/bin/lalpulsar_WeaveConcat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cb798b9264481c0a29ed1ae9afdac3e6beabfb05, stripped
+packages/lalapps/bin/lalfr-fmt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=55dfd7ef9de0e49703ca7c1e32b32c7483635615, stripped
+packages/lalapps/bin/lalapps_cbc_stochasticbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2343b4336d2731c8d5a324ae83084e6461e63962, stripped
+packages/lalapps/bin/lalapps_power: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bbd71f699373541a56dc5e5c13fc4fd7bfaa0069, stripped
+packages/lalapps/bin/lalsim-detector-noise: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c1f27999a80ad254a146c55d6bd4794f0dd69d10, stripped
+packages/lalapps/bin/lalinference_burst: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=79c7bc6258d456d02af448da1d448316eea3eac0, stripped
+packages/lalapps/bin/lalinference_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=446675782e5c0c262a020a5a5d21d106f8620934, stripped
+packages/lalapps/bin/lalsim-bh-ringdown: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cf4e6511dd8947a41b5ab2c79e8b00e1ec2d8ebf, stripped
+packages/lalapps/bin/lalpulsar_compareSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9bf491995eabc2eb7d308d0b7ae96cc2a12b36b4, stripped
+packages/lalapps/bin/lalpulsar_MakeSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ecfa7f8e7e7bca9fe31b9388e522f35fba09abbd, stripped
+packages/lalapps/bin/lalapps_coh_PTF_inspiral: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=05a5da0de496f965ef51686eafe80a79b1ac338b, stripped
+packages/lalapps/bin/lalpulsar_WeaveSetup: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c25723f1c123a80537b53fcef8323ac423dd63f1, stripped
+packages/lalapps/bin/lalfr-split: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=eade29499ee5ad4cf3a6765df53766f2265e68b2, stripped
+packages/lalapps/bin/lal_simd_detect: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=eaaa5e3eed8537328d994ff8a7098d3406a2a569, stripped
+packages/lalapps/bin/lalapps_tmpltbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=708ac1e68a79ca62ef321b6801a4a5c41e446a93, stripped
+packages/lalapps/bin/lalpulsar_spec_avg_long: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=847d979df08471602ff4cb033fd77c3e0e7a6215, stripped
+packages/lalapps/bin/lalfr-dump: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=38ca973d9b29689b4b5a06f54d89861e2a91d4c2, stripped
+packages/lalapps/bin/lalapps_fr_ninja: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c092a4df7244a61c6b3eb2dd83ef40f86993b36f, stripped
+packages/lalapps/bin/lalapps_inspawgfile: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=99bc784b82a29a6574c5fff740cb3755671b0b1f, stripped
+packages/lalapps/bin/lalpulsar_create_solar_system_ephemeris: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f83f20a9eb0f9a95455bf30effbe341a1a62cf3d, stripped
+packages/lalapps/bin/lalpulsar_create_time_correction_ephemeris: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=63e96519e1c42d0a14cb841bb1bebcee4761968e, stripped
+packages/lalapps/bin/lalapps_splitbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b56e072806e2d0166bf40a1eaa5da9d17114d9da, stripped
+packages/lalapps/bin/lalapps_coinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f431f7aa620d3d97cab7a6d1fc927277476c7361, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatLatticeCount: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=90c99ecca00e3e7fb61d00ea81e64bd85258f1f0, stripped
+packages/lalapps/bin/lalinference_datadump: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6c8188667a47e3d99e2a4566dad5ecda6c4826d1, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatBenchmark: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4d88bedb24efe203ae2edb45803daf92a517fe9c, stripped
+packages/lalapps/bin/lalapps_random_bank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bf50e72ae89df1edbdf087da82286ee46a211e1f, stripped
+packages/lalapps/bin/lalfr-paste: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2cd30ba1787c2439de45533cb0a290b3fe7de758, stripped
+packages/lalapps/bin/lalpulsar_synthesizeTransientStats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e5f42cae6ed51c3b1bae39174479def6df92359c, stripped
+packages/lalapps/bin/lalfr-vis: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9100a6a2f4b1590f88d00b99ff9661ff4efc49a6, stripped
+packages/lalapps/bin/lalapps_frinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1096b35d3d9cb2b8dc9e931eb8c3164b2cd4f9df, stripped
+packages/lalapps/bin/lalinference_injectedlike: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f5815e9fbeb04614a019d6b577da3c886c13deec, stripped
+packages/lalapps/bin/lalpulsar_fits_header_list: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8fc8d47b3af4f09883942e064c6deab5cf51e04e, stripped
+packages/lalapps/bin/lalinference_kombine: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4f190cdb75c8d641a5d530332194b89f87c3ab6d, stripped
+packages/lalapps/bin/lalpulsar_splitSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4c66a152ef9007e66785d977769dceac4ec1d4aa, stripped
+packages/lalapps/bin/lalpulsar_spec_avg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=17c408a7ff87834c9054e91c356f72b692ca06b8, stripped
+packages/lalapps/bin/lalpulsar_PrintDetectorState: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b10dcf76f7ca7692a962944894e96788f5b8fd66, stripped
+packages/lalapps/bin/lalapps_frjoin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c9c10d1174555b878b5195b8caac03bd5dc0dc61, stripped
+packages/lalapps/bin/lal_cache: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d42c48ade54f602daf727fb2a7f31d26478b3947, stripped
+packages/lalapps/bin/lalpulsar_synthesizeBstatMC: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=013ad632412f15f9cbc94ab21eb36ddfd8a1548b, stripped
+packages/lalapps/bin/lalapps_inspinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=466bcaf7fde7da9443f61bcde83eec8f394ca53b, stripped
+packages/lalapps/bin/lalapps_spininj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1124ca022f68ece2f9e8ffc6b9ed0dff59e02ee2, stripped
+packages/lalapps/bin/lalapps_chirplen: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5f3234ca4a21727f2aa4e009af234026ccae797c, stripped
+packages/lalapps/bin/lalpulsar_ComputePSD: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=38bed9c5689faeca4bf33ea83da9e791a3af8b1a, stripped
+packages/lalapps/bin/lalsim-bh-qnmode: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e10fd5a380ef8e9195221db5947ce76f3bc730db, stripped
+packages/lalapps/bin/lalpulsar_WeaveCompare: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=eb8cf98da9e5161fbd1afee1cc10c03c108880b4, stripped
+packages/lalapps/bin/lalpulsar_Makefakedata_v4: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=83ca373d0e3beb6a74611eeede8f8eed4611ca50, stripped
+packages/lalapps/bin/lal_fftwf_wisdom: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5effbfb1631705c4202b0d3e719f8a7a95984ade, stripped
+packages/lalapps/bin/lalapps_randombank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6cd17260c0a27a86d1d59737742f9e6198bc28fe, stripped
+packages/lalapps/bin/lalpulsar_frequency_evolution: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1369881158cbd82540085a5651867184c330515e, stripped
+packages/lalapps/bin/lalpulsar_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5030968692ee49d026f3b91ac381c345a045be30, stripped
+packages/lalapps/bin/lalfr-cut: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2b7f367776ec58abcb0704742c85fc9e5edd1912, stripped
+packages/lalapps/bin/lalapps_effdist: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bdbe5a0cc70743052312d4a1dc99803b90d13dae, stripped
+packages/lalapps/bin/lalfr-stat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2124d4e8d56842d2f7647f42e29c77432ff97955, stripped
+packages/lalapps/bin/lalmetaio_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=50ff560a3d12aa541aa290525848620c344863f8, stripped
+packages/lalapps/bin/lalpulsar_dumpSFT: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cdbbd55cc70a795478395754bcc207e5e8f5fbe2, stripped
+packages/lalapps/bin/lalapps_frread: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e03d9b834b6832e966a5fb6f4cbcf9d6e3cf49d1, stripped
+packages/lalapps/bin/lalapps_StringSearch: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4c70e7d7ecf79ebf40b494c6f67082287d3acb12, stripped
+packages/lalapps/bin/lalpulsar_PredictFstat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2aa025b2454e61d4fcdf17946881285ae994c956, stripped
+packages/lalapps/bin/lalinference_mcmc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=49e54f43cadece79d53e91bfc1c6cace8bbf5647, stripped
+packages/lalapps/bin/lalsim-detector-strain: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a6b2fc0fbcc795510eac1fed8d1c3d0dfd0462d5, stripped
+packages/lalapps/bin/lalpulsar_SFTvalidate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2e40fc2374f09a9d73f85835ab7a334eb530fc7f, stripped
+packages/lalapps/bin/lalpulsar_FstatMetric_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6cf3488ddca4357f672797f0a688c5a577289904, stripped
+packages/lalapps/bin/lalfr-cat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9056ee40e575a92030558c7b604ff382ff820aa1, stripped
+packages/lalapps/bin/lalinference_nest: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=064370daca942c1251bd0853f3e30a18c0cded7e, stripped
+packages/lalapps/bin/lalsim-inspiral: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=61124e188a81b63f8f13d08c430989a22e0ec1cd, stripped
+packages/lalapps/bin/lalpulsar_SFTclean: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0baf3361da7fb8dfb38a4a26f463baf7eea4e4e0, stripped
+packages/lalapps/bin/lalpulsar_fits_overview: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=35b090f1dc4451df082838e234ccfee265ed4219, stripped
+packages/lalapps/bin/lalapps_calcexpsnr: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9c7cd25acd04465deb2481eaf98a89ed11f67664, stripped
+packages/lalapps/bin/lalframe_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4afa7fc3ef4733ef79c4e0334c763ff3650eec63, stripped
+packages/lalapps/bin/lalpulsar_HierarchSearchGCT: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bcd5db940b4d2dd8538593f18aba6d409b189986, stripped
+packages/lalapps/bin/lalinference_bench: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7e2ceee6247f0f88b9629adbd7dc5ea75e58e8fc, stripped
+packages/lalapps/bin/lalsim-ns-eos-table: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ef6efe5718c008a672c247569f263e483b44ee2f, stripped
+packages/lalapps/bin/lalapps_frextr: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=946b172a72212372febbfc30787a774cf2713e24, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatistic_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=78f8eac9a700a6065000f8818910393e9374b73c, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatMCUpperLimit: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fd16eec44aadbac4780fc730aec31aa7064e0942, stripped
+packages/lalapps/bin/lalapps_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6b6ce1fb71f5c9f81b9f56a19e91cca2000fbf57, stripped
+packages/lalapps/bin/lalpulsar_heterodyne: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8602fa2961e2f65cf1c7473987ced7c163a2ad98, stripped
+packages/lalapps/bin/lalpulsar_WriteSFTsfromSFDBs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=219764cf4dc84863c312cd52876d599178bae0db, stripped
+packages/lalapps/bin/lal_tconvert: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d2ef7e92af76f328732bec7895bd7aaa5cece4cf, stripped
+packages/lalapps/bin/lalapps_DistanceVsMass: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c8466341d644c7e849c14caa9d5c70bb3dad5e40, stripped
+packages/lalapps/bin/lalfr-stream: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f190bbc6742c35b05bf8fb117cafead593941a4f, stripped
 packages/sqlitepro-1.0.0.data/data/sqlitepro/sqlite3.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/spire/xls/lib/Spire.Xls.Base.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/spire/xls/lib/libSkiaSharp.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/season/command/__pycache__/daemon.cpython-310.pyc: data
+packages/season/command/__pycache__/bundle.cpython-310.pyc: data
+packages/season/command/__pycache__/ide.cpython-310.pyc: data
+packages/season/command/__pycache__/plugin.cpython-310.pyc: data
+packages/season/command/__pycache__/service.cpython-310.pyc: data
+packages/season/command/__pycache__/create.cpython-310.pyc: data
+packages/season/command/__pycache__/system.cpython-310.pyc: data
+packages/season/data/websrc/public/__pycache__/app.cpython-310.pyc: data
+packages/season/data/websrc/config/__pycache__/boot.cpython-310.pyc: data
+packages/season/data/websrc/config/__pycache__/service.cpython-310.pyc: data
+packages/season/data/websrc/config/__pycache__/ide.cpython-310.pyc: data
+packages/season/data/websrc/config/__pycache__/build.cpython-310.pyc: data
+packages/season/data/sample/portal/season/model/auth/__pycache__/saml.cpython-310.pyc: data
+packages/season/data/sample/portal/season/model/__pycache__/orm.cpython-310.pyc: data
+packages/season/data/sample/portal/season/model/__pycache__/session.cpython-310.pyc: data
+packages/season/data/sample/portal/season/model/__pycache__/smtp.cpython-310.pyc: data
+packages/season/data/sample/portal/season/controller/__pycache__/base.cpython-310.pyc: data
+packages/season/data/sample/portal/season/route/auth/__pycache__/controller.cpython-310.pyc: data
+packages/season/data/sample/portal/season/sample/page.login/__pycache__/api.cpython-310.pyc: data
+packages/season/data/sample/portal/season/sample/page.join/__pycache__/api.cpython-310.pyc: data
+packages/season/data/sample/src/controller/__pycache__/base.cpython-310.pyc: data
+packages/season/data/sample/src/route/index/__pycache__/controller.cpython-310.pyc: data
+packages/season/data/sample/src/app/page.main/__pycache__/api.cpython-310.pyc: data
+packages/season/data/sample/src/app/page.main/__pycache__/socket.cpython-310.pyc: data
+packages/season/data/sample/src/app/page.xyz/__pycache__/api.cpython-310.pyc: data
+packages/season/data/sample/src/app/page.xyz/__pycache__/socket.cpython-310.pyc: data
+packages/season/data/sample/src/app/layout.navbar/__pycache__/api.cpython-310.pyc: data
+packages/season/data/sample/src/app/layout.navbar/__pycache__/socket.cpython-310.pyc: data
+packages/season/util/__pycache__/fn.cpython-310.pyc: data
+packages/season/util/__pycache__/os.cpython-310.pyc: data
+packages/season/util/__pycache__/std.cpython-310.pyc: data
+packages/season/util/__pycache__/string.cpython-310.pyc: data
+packages/season/util/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/builder/__pycache__/ide.cpython-310.pyc: data
+packages/season/core/builder/__pycache__/base.cpython-310.pyc: data
+packages/season/core/builder/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/component/base/__pycache__/request.cpython-310.pyc: data
+packages/season/core/component/base/__pycache__/response.cpython-310.pyc: data
+packages/season/core/component/base/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/component/base/__pycache__/workspace.cpython-310.pyc: data
+packages/season/core/component/ide/__pycache__/request.cpython-310.pyc: data
+packages/season/core/component/ide/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/component/ide/__pycache__/response.cpython-310.pyc: data
+packages/season/core/component/ide/__pycache__/workspace.cpython-310.pyc: data
+packages/season/core/component/service/__pycache__/request.cpython-310.pyc: data
+packages/season/core/component/service/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/component/service/__pycache__/response.cpython-310.pyc: data
+packages/season/core/component/service/__pycache__/workspace.cpython-310.pyc: data
+packages/season/core/component/__pycache__/__init__.cpython-310.pyc: data
+packages/season/core/__pycache__/exception.cpython-310.pyc: data
+packages/season/core/__pycache__/wiz.cpython-310.pyc: data
+packages/season/core/__pycache__/config.cpython-310.pyc: data
+packages/season/core/__pycache__/__init__.cpython-310.pyc: data
+packages/andisdk/dlls/IronPython.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Sentry.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pt-BR/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pt-BR/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Numerics.Vectors.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Data.Blf.Converter.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Caching.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/HtmlAgilityPack.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Principal.Windows.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ExcelNumberFormat.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.Binder.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Fibex.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Grpc.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Encoding.CodePages.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.VisualStudio.Validation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/DocumentFormat.OpenXml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-8.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-10.0-amd64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-9.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-7.1.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-10.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-6.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-9.0-amd64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/autosar.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/tecmp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/isotp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/isotp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ssh.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ptp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ptp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ssh.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/tecmp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/__init__.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/autosar.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/e2e.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/e2e.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/PeNet.Asn1.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Scripting.Metadata.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/System.IO.Pipelines.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Db.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Collections.Deque.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Grpc.Core.Api.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ja/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ja/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Bcl.AsyncInterfaces.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ANDi.Docs.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/NetQD.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Permissions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Interop.WaitHandles.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/cs/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/cs/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Options.DataAnnotations.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Logging.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x86/TE-BTS-Driver.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/TE-BTS-Driver-Wrapper.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x86/TE-DriverBase.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/asc_reader.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/libtedrv.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/System.Runtime.CompilerServices.Unsafe.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Scripting.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/it/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/it/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/2to3.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/IronPython.Wpf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/AuthenticodeExaminer.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/wupi.net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Coordination.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ethcc.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Dbc.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.VisualStudio.Threading.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/YamlDotNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nerdbank.Streams.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyInjection.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.DotNet.PlatformAbstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi_NET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.TraceFiles.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IntelliLock.Licensing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Renci.SshNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Bcl.HashCode.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.CodeDom.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.SQLite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/XObjectsCore.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.batteries_v2.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Diagnostics.EventLog.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PrimaTestCaseLibrary.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x64/TE-BTS-Driver.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/x64/TE-BTS-Driver-Wrapper.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x64/TE-DriverBase.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/x64/libtedrv.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/x64/asc_reader.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Oop.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ANDi.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Relational.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.ServiceModel.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/NodaTime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ANDi.Docs.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Caching.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Win32.Registry.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.Pkcs.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ted-windows-minimal.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/Wibu.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/blf_converter.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/ted-linux-minimal: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=9230f3fa19123436d7e9b46b02c11f1e492895c1, for GNU/Linux 2.6.32, stripped
+packages/andisdk/dlls/System.IO.Packaging.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Options.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Pendulum.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/OxyPlot.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/tr/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PrimaITestCaseLibrary.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/tr/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PacketDotNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/protobuf-net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win-x86/native/e_sqlite3.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/runtimes/win-x64/native/e_sqlite3.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/runtimes/win-arm64/native/e_sqlite3.dll: PE32+ executable (DLL) (console) Aarch64, for MS Windows
+packages/andisdk/dlls/runtimes/win-arm/native/e_sqlite3.dll: PE32 executable (DLL) (console) ARMv7 Thumb, for MS Windows
+packages/andisdk/dlls/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/FastColoredTextBox.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Interactive.Async.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Traces.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyInjection.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Castle.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Mono.Unix.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.AccessControl.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ru/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ru/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Mdf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ClosedXML.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Dynamic.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ldf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/DotNetZip.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/de/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/de/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Disposables.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Avb.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/fr/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/fr/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.Xml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.TEDiscovery.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.provider.e_sqlite3.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Arxml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/WibuCmNET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/MQTTnet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Cancellation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/apiNET32.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pl/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pl/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SharpPcap.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/WupiEngineNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.PythonConverter.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.J2534.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Tasks.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SshNet.Security.Cryptography.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.Modules.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/MathParser.org-mXparser.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.WireBytes.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Buffers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Configuration.ConfigurationManager.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/es/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/es/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ko/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ko/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PeNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Core.Wibu.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SimpleMapi.NET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Logging.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Sqlite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/apiNET64.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Encodings.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Half.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ethtp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Python.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.ProtectedData.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Data.Sqlite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/WireSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
