@@ -1,3 +1,8 @@
+inference-gpu==0.8.5
+inference-cpu==0.8.5
+inference-core==0.8.5
+inference==0.8.5
+ethz-iam-webservice==0.14.0
 micropip==0.5.0
 crate-docs-theme==0.29.7
 soos-sca==1.7.13rc1
@@ -93,8 +98,3 @@ bigdl-chronos==2.4.0b20230919
 pyodmongo==0.2.3
 bigdl-llm==2.4.0b20230919
 opentf-tools-nightly==0.44.0.dev577
-bigdl-nano==2.4.0b20230919
-dedust==1.0.0
-nbdev-django==0.0.1045
-py-netty==0.0.13
-import-db==0.0.343
