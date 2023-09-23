@@ -1,8 +1,10 @@
 packages/PyInstaller/bootloader/Linux-64bit-intel/run: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b3a59e7c076b3b5dce5196ca64d323f0e0d84424, for GNU/Linux 2.6.32, stripped
 packages/PyInstaller/bootloader/Linux-64bit-intel/run_d: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=faa855ee3303c8af9e080a543ae38cc6cce74ba9, for GNU/Linux 2.6.32, stripped
+packages/pyarmor/platforms/windows/x86/_pytransform.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/pyarmor/platforms/windows/x86_64/_pytransform.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/build/lib/idaes/core/surrogate/plotting/tests/keras_surrogate/saved_model.pb: PDP-11 pure executable not stripped - version 16
+packages/build/lib/idaes/models_extra/power_generation/properties/sofc/sofc_surrogate_data/saved_model.pb: PDP-11 pure executable not stripped - version 16
 packages/marimo/_lsp/copilot/dist/compiled/win32/x64/kerberos.node: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/marimo/_lsp/copilot/dist/crypt32.node: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/gecatsim/lib/pthreadGC2_x64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/gecatsim/lib/libcatsim64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/gecatsim/reconstruction/lib/fdk_equiAngle.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/gecatsim/reconstruction/lib/helicalrecon.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/idaes/core/surrogate/plotting/tests/keras_surrogate/saved_model.pb: PDP-11 pure executable not stripped - version 16
+packages/idaes/models_extra/power_generation/properties/sofc/sofc_surrogate_data/saved_model.pb: PDP-11 pure executable not stripped - version 16
