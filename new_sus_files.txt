@@ -1,27 +1,18 @@
-packages/ozi/__init__.pyc: data
-packages/ozi/new.pyc: data
-packages/ozi/assets/structure.pyc: data
-packages/ozi/assets/__init__.pyc: data
-packages/ozi/assets/__pycache__/structure.cpython-310.pyc: data
-packages/ozi/assets/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/fix.pyc: data
-packages/ozi/__main__.pyc: data
-packages/ozi/scripts/core_metadata_template.pyc: data
-packages/ozi/scripts/scm_version_snip.pyc: data
-packages/ozi/scripts/version_metadata_template.pyc: data
-packages/ozi/scripts/sync_pkg_readme.pyc: data
-packages/ozi/scripts/__pycache__/version_metadata_template.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/sync_pkg_readme.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
-packages/ozi/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/__pycache__/new.cpython-310.pyc: data
-packages/ozi/__pycache__/fix.cpython-310.pyc: data
-packages/ozi/__pycache__/__init__.cpython-310.pyc: data
-packages/lammps/micelle2d.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2944223a40479c59b073a30461bf8e237c8a6eba, for GNU/Linux 2.6.32, stripped
-packages/lammps/phana: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c96f4d2ec64e013ea79a6fbd22810a2a0366f868, for GNU/Linux 2.6.32, stripped
-packages/lammps/lmp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a270cfdfa54a1900462b56fa1495d1987053d8d7, for GNU/Linux 2.6.32, stripped
-packages/lammps/binary2txt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1cf06bc76fd0fd3aa649a48cbde54adc9ed804d2, for GNU/Linux 2.6.32, stripped
-packages/lammps/msi2lmp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f056b7d3d998700be445a1190d8fea973bdbf617, for GNU/Linux 2.6.32, stripped
-packages/lammps/stl_bin2txt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=465676e18e326c7ea88e88b65159182c3943110e, for GNU/Linux 2.6.32, stripped
-packages/lammps/chain.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=82d621d336e7e2fc42b2d95cf20df1f0cf60dd64, for GNU/Linux 2.6.32, stripped
+packages/cns/DataX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/OTPX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/ExcelX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/ExcelX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
