@@ -1,3 +1,13 @@
+echofish-aws-create-empty-zarr-store-lambda==1.0.0.dev20230925225034
+cloudinary==1.35.0
+pulse3d==0.34.3
+sparkfly-api-client==1.0.1
+edc-visit-tracking==0.3.64
+moorpy==1.0.2
+edc-visit-schedule==0.3.71
+pydevd-pycharm==233.6745.319
+python-food-1==1.0.1
+jinja-compose-wrapper==0.0.4
 google-cloud-logging==3.7.0
 parsl==2023.9.25
 python-food-1==1.0.0
@@ -88,13 +98,3 @@ newrelic==9.1.0
 cert-host-scraper==0.8.0
 discovery-capability==0.10.0
 sem-desc==4.15.0
-clearml==1.13.1
-arrow-odbc==1.2.6
-dynamicroutingtask==0.1.15
-sparkfly-api-client==1.0.0
-pandasai==1.2.8
-mozanalysis==2023.9.3
-vpn-server==1.0.3
-google-cloud-documentai==2.20.0
-google-cloud-dialogflow==2.24.1
-moorse==1.0.1
