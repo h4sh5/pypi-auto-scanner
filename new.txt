@@ -1,6 +1,3 @@
-braintrust==0.0.48
-pop-release==14.0.2.post2
-pyvsc==0.8.6.6319294550
 heaserver-buckets==1.0.0b4
 momento-wire-types==0.81.1
 datadog-checks-dev==25.1.2
@@ -16,6 +13,7 @@ ethyca-fides==2.20.2
 templatify==0.0.2
 trio-websocket==0.11.0
 pulumi-aws==6.3.0a1695764072
+pop-release==14.0.2.post1
 unigui==2.0.8
 mpf==0.57.0.dev12
 hyprshade==0.13.0
@@ -98,3 +96,5 @@ honeybee-radiance-postprocess==0.4.277
 ga4gh-vrs==2.0.0a1
 litellm==0.1.7713
 mango-framework==0.9.8
+cybrid-api-bank-python==0.94.40
+cybrid-api-organization-python==0.94.40
