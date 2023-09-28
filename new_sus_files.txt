@@ -8,18 +8,18 @@ packages/ozi/__init__.pyc: data
 packages/ozi/new.pyc: data
 packages/ozi/assets/structure.pyc: data
 packages/ozi/assets/__init__.pyc: data
-packages/ozi/assets/__pycache__/structure.cpython-310.pyc: data
 packages/ozi/assets/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/__main__.pyc: data
+packages/ozi/assets/__pycache__/structure.cpython-310.pyc: data
 packages/ozi/fix.pyc: data
+packages/ozi/__main__.pyc: data
 packages/ozi/scripts/core_metadata_template.pyc: data
 packages/ozi/scripts/scm_version_snip.pyc: data
 packages/ozi/scripts/version_metadata_template.pyc: data
 packages/ozi/scripts/sync_pkg_readme.pyc: data
 packages/ozi/scripts/__pycache__/version_metadata_template.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
 packages/ozi/scripts/__pycache__/sync_pkg_readme.cpython-310.pyc: data
+packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
 packages/ozi/__pycache__/__main__.cpython-310.pyc: data
 packages/ozi/__pycache__/new.cpython-310.pyc: data
 packages/ozi/__pycache__/fix.cpython-310.pyc: data
@@ -29,8 +29,8 @@ packages/ozi/tests/ozi_fix.pyc: data
 packages/ozi/tests/__pycache__/ozi_new.cpython-310.pyc: data
 packages/ozi/tests/__pycache__/ozi_fix.cpython-310.pyc: data
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/modularize: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-apply-replacements: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/lld: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-apply-replacements: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-repl: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/find-all-symbols: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-include-fixer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
@@ -39,19 +39,19 @@ packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-format: ELF 64-bi
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-pseudo: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-move: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-scan-deps: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-offload-bundler: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-query: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-offload-bundler: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-check: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-reorder-fields: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-extdef-mapping: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-reorder-fields: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-refactor: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-tidy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/pp-trace: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/nvptx-arch: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-linker-wrapper: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-change-namespace: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/diagtool: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/amdgpu-arch: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/diagtool: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-include-cleaner: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-17: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.1.post15.data/data/bin/clang-offload-packager: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
