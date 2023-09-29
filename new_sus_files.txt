@@ -1,4 +1,3 @@
-packages/poetry/dataTackle: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=2a6e293a15b3f43c8676903acc0e3ba3b2934637, not stripped
 packages/bigdl/llm/libs/quantize-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=16ce083c968d0bc6daec635b5dc7a05ce93943f1, for GNU/Linux 3.2.0, not stripped
 packages/bigdl/llm/libs/main-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4837ddada3f280d0f38be3112b190bd90f5a354, for GNU/Linux 3.2.0, not stripped, too many notes (256)
 packages/bigdl/llm/libs/quantize-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1ecbf01844e1511ae58733faa00b9c56b1a2a1b7, for GNU/Linux 3.2.0, not stripped
@@ -7,5 +6,13 @@ packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, versi
 packages/bigdl/llm/libs/main-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab6f8fa2dc39e0e94bd40acec5ddf2c5e631332e, for GNU/Linux 3.2.0, not stripped, too many notes (256)
 packages/bigdl/llm/libs/main-chatglm_vnni: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d26f763a19bff54cc3b127a270a67d0e09d19d79, for GNU/Linux 3.2.0, not stripped
 packages/bigdl/llm/libs/main-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=640d67130854b47a2250758ccd4368ed44dbd846, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6ccd01eb4395a095865959e35c9648072215869e, for GNU/Linux 3.2.0, not stripped
 packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e765fd651e754a4b411297620e21f6703e4b3969, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6ccd01eb4395a095865959e35c9648072215869e, for GNU/Linux 3.2.0, not stripped
+packages/namer/tools/videohashes-arm64-linux: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, Go BuildID=uLzMjbkTHdXTZxzUk3t6/aL0ccaC7HGKM49lk3D3E/qNfJX32YAhPLMq5zS8rq/If0D4mTLidJ8ahShBYe4, with debug_info, not stripped
+packages/namer/tools/videohashes-arm-linux: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, Go BuildID=8J9jwwB4FAvcagiq35Bu/CpKXPHysgyk80jTWHWpM/DZgWJ1EFZ_7c5LSu1vq8/ehmbzgoxegfkqkBT3MtC, with debug_info, not stripped
+packages/namer/tools/videohashes-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/namer/tools/videohashes-amd64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/namer/tools/videohashes-arm64-macos: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/namer/tools/videohashes-amd64-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, Go BuildID=U1s6l8_E_NtJ198wHRpU/_I1LU8VnWotBxv3YMBXn/FvQsNeqWzQMtoJTXTIE-/192lU1RE5DDi4hrx_qV2, with debug_info, not stripped
+packages/namer/tools/videohashes-amd64-macos: Mach-O 64-bit x86_64 executable
+packages/namer/tools/videohashes-arm.exe: PE32 executable (console) ARMv7 Thumb, for MS Windows
