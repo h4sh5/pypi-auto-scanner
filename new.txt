@@ -1,7 +1,3 @@
-local-llama==1.0.2
-hab-gui==0.4.0
-aiohttp-requests==0.2.3
-srini-crma==0.3
 fgn==2023.9.29
 larvaworld==0.0.45
 serial-data-handler-zxw==0.3.1
@@ -98,3 +94,7 @@ ankichinese==1.3.7
 cdk-fargate-run-task==2.0.377
 larvaworld==0.0.43
 staticvar==0.1.0
+kernels-mixer==0.0.4
+cdktf-proxmox==0.0.217
+quillsql==0.8
+cdktf-github-actions==0.0.254
