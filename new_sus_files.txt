@@ -6,9 +6,24 @@ packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, versi
 packages/bigdl/llm/libs/main-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab6f8fa2dc39e0e94bd40acec5ddf2c5e631332e, for GNU/Linux 3.2.0, not stripped, too many notes (256)
 packages/bigdl/llm/libs/main-chatglm_vnni: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d26f763a19bff54cc3b127a270a67d0e09d19d79, for GNU/Linux 3.2.0, not stripped
 packages/bigdl/llm/libs/main-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=640d67130854b47a2250758ccd4368ed44dbd846, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e765fd651e754a4b411297620e21f6703e4b3969, for GNU/Linux 3.2.0, not stripped, too many notes (256)
 packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6ccd01eb4395a095865959e35c9648072215869e, for GNU/Linux 3.2.0, not stripped
-packages/cmake/data/bin/cpack: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dbc3594de584fe98921abc2b0d2a8907eb7b1ecf, for GNU/Linux 2.6.32, stripped
-packages/cmake/data/bin/cmake: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c559a06aa0669da685155bddbe9c9f882f09a584, for GNU/Linux 2.6.32, stripped
-packages/cmake/data/bin/ctest: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=97c3eb983f43f753732489732f6d7721dd7f257f, for GNU/Linux 2.6.32, stripped
+packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e765fd651e754a4b411297620e21f6703e4b3969, for GNU/Linux 3.2.0, not stripped, too many notes (256)
 packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8a67c704623fd4005d21a485e9f922774642ea82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/cns/OTPX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/TextX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DateTimeX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/SQLstrX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/DateTimeX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/ExcelX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/SQLstrX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/cmdX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/ExcelX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/DateTimeX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/ExcelX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/OTPX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp36-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/cns/TextX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/cns/DataX.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
