@@ -1,3 +1,15 @@
+sbom==2023.10.7
+take-note-cli==1.0.2
+quart-db==0.7.0
+teamhack-rest==0.0.841
+ciz01==0.1.2
+dungeons-and-trolls-client==1.7.0
+asynkit==0.10.4
+teamhack-db==0.0.707
+teamhack-dns==0.0.834
+bigdl-core-xe==2.4.0b20231007
+pyright==1.1.330
+ciz01==0.1.1
 poetry-polylith-plugin==1.10.0
 import-db==0.0.701
 all-project==1.0
@@ -8,7 +20,6 @@ ciz01==0.1
 teamhack-recond==0.0.793
 teamhack-rest==0.0.840
 teamhack-ca==0.0.222
-pilot-config==2.5.6
 python-lectio==1.26.2
 llamabot==0.0.84
 teamhack-db==0.0.706
@@ -52,7 +63,6 @@ npu-compiler==1.5.11rc0
 teamhack-db==0.0.703
 teamhack-rest==0.0.836
 rocket-fft==0.2.2
-pilot-config==2.5.5
 vgis-database==1.0.9
 inducoapi==2.1.3
 metabase-query-api==1.0.2
@@ -88,13 +98,3 @@ flatpack==2.2.0
 teamhack-recond==0.0.787
 django-napse==1.9.0
 teamhack-rest==0.0.834
-psnr-hvsm==0.1.1
-localstack-core==2.3.3.dev20231007101225
-cli-image-toolbox==0.1.1
-anylearn==0.19.3
-localstack-core==2.3.3.dev20231007101213
-flagai==1.8.0
-farfarfun==0.1.11
-tf-keras-nightly==2.15.0.dev2023100709
-webknossos==0.13.7
-cluster-tools==0.13.7
