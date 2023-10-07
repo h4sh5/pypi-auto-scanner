@@ -1,6 +1,6 @@
 packages/pilot/devices/__pycache__/aio20.cpython-36.pyc: python 3.6 byte-compiled
-packages/pilot/devices/__pycache__/i8.cpython-36.pyc: python 3.6 byte-compiled
 packages/pilot/devices/__pycache__/io16.cpython-38.pyc: python 3.8 byte-compiled
+packages/pilot/devices/__pycache__/i8.cpython-36.pyc: python 3.6 byte-compiled
 packages/pilot/devices/__pycache__/demo.cpython-36.pyc: python 3.6 byte-compiled
 packages/pilot/devices/__pycache__/o8.cpython-36.pyc: python 3.6 byte-compiled
 packages/pilot/devices/__pycache__/i8.cpython-38.pyc: python 3.8 byte-compiled
@@ -18,3 +18,14 @@ packages/pilot/bin/cortex-a53_64bit/jamplayer: ELF 64-bit LSB pie executable, AR
 packages/pilot/bin/cortex-a53_64bit/stm32flash: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 3.2.0, BuildID[sha1]=c3c02426314aba6ed431d8b93953924192be8c31, not stripped
 packages/pilot/bin/cortex-a53_32bit/jamplayer: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 3.2.0, BuildID[sha1]=2239d246bf5dcb0bd970fa975b398dd0d4a54aa2, with debug_info, not stripped
 packages/pilot/bin/cortex-a53_32bit/stm32flash: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 3.2.0, BuildID[sha1]=c3c02426314aba6ed431d8b93953924192be8c31, not stripped
+packages/bigdl/llm/libs/quantize-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=16ce083c968d0bc6daec635b5dc7a05ce93943f1, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/main-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4837ddada3f280d0f38be3112b190bd90f5a354, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/bigdl/llm/libs/quantize-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1ecbf01844e1511ae58733faa00b9c56b1a2a1b7, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/quantize-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1ec109085c591acf73ef7925d120bf1cfd8df63e, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a0b65332212019e762248715e211dba6a08ee331, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/main-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab6f8fa2dc39e0e94bd40acec5ddf2c5e631332e, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/bigdl/llm/libs/main-chatglm_vnni: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d26f763a19bff54cc3b127a270a67d0e09d19d79, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/main-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=640d67130854b47a2250758ccd4368ed44dbd846, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6ccd01eb4395a095865959e35c9648072215869e, for GNU/Linux 3.2.0, not stripped
+packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e765fd651e754a4b411297620e21f6703e4b3969, for GNU/Linux 3.2.0, not stripped, too many notes (256)
+packages/swiftest/swiftest_driver: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=db511fc6d8bc0d76682cd2591d430700229d887f, for GNU/Linux 2.6.32, stripped
