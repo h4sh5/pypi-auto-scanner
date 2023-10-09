@@ -1,6 +1,10 @@
-packages/kodi-tmdb/kodi-tmdb-linux-amd64: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=zfQOF2wnl5BnL4cm2pfD/zl0DPwnJANMZScA-pGbx/Im11yM1I75y9jjT-JWSZ/5OFHklVqteqfjmdL0ig8, stripped
-packages/pykx/pykx_init.q_: DOS executable (COM, 0x8C-variant)
-packages/pykx/lib/l64/pg: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f134c70be31ad77747adaad62580321c1c19ee67, with debug_info, not stripped
-packages/pykx/lib/l64/kxreaper: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=67694ed566fc97a8888918cce7f7aca72eac9c4c, stripped, too many notes (256)
-packages/pykx/lib/w64/e.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/pykx/lib/w64/q.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp311-win_amd64.pyd: MS-DOS executable
+packages/mpf/platforms/pinproc/windows/pinproc.cp311-win32.pyd: MS-DOS executable
+packages/mpf/platforms/pinproc/windows/pinproc.cp39-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp310-win_amd64.pyd: MS-DOS executable
+packages/mpf/platforms/pinproc/windows/pinproc.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp310-win32.pyd: MS-DOS executable
+packages/mpf/platforms/pinproc/windows/pinproc.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/mpf/platforms/pinproc/windows/pinproc.cp37-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
