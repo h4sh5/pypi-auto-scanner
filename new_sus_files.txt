@@ -1,10 +1,28 @@
-packages/hm_pyhelper/gateway_mfr_x86_64: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=69a63620c7d80526b182d853918812bd1bf1529f, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/hm_pyhelper/gateway_mfr_aarch64: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, for GNU/Linux 3.7.0, BuildID[sha1]=fd8360212a42780c87ea2071e8dd0888a1c0ebb1, with debug_info, not stripped
-packages/hm_pyhelper/gateway_mfr: ELF 32-bit LSB pie executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 4.19.21, with debug_info, not stripped
 packages/clij2_fft-0.18.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/clij2_fft-0.18.data/data/Library/bin/clij2fft.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/clij2_fft-0.21.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/tnia/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/plotting/__pycache__/plt_helper.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/plotting/__pycache__/projections.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/plotting/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/deconvolution/__pycache__/forward.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/deconvolution/__pycache__/pad.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/deconvolution/__pycache__/psfs.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/deconvolution/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/segmentation/__pycache__/rendering.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/segmentation/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/segmentation/__pycache__/filterobjects.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/viewing/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/nd/__pycache__/ndutil.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/nd/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/metrics/__pycache__/errors.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/metrics/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/io/__pycache__/tifffile_helper.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/io/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/io/__pycache__/bioformats_helper.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/simulation/__pycache__/phantoms.cpython-39.pyc: python 3.9 byte-compiled
+packages/tnia/simulation/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/clij2_fft-0.21.data/data/Library/bin/clij2fft.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/clij2_fft-0.21.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/clij2_fft-0.17.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/clij2_fft-0.17.data/data/Library/bin/clij2fft.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/clij2_fft-0.19.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
