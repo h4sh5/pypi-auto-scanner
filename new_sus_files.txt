@@ -1,17 +1,3 @@
-packages/g4f/gui/server/__pycache__/website.cpython-311.pyc: data
-packages/g4f/gui/server/__pycache__/provider.cpython-311.pyc: data
-packages/g4f/gui/server/__pycache__/internet.cpython-311.pyc: data
-packages/g4f/gui/server/__pycache__/backend.cpython-311.pyc: data
-packages/g4f/gui/server/__pycache__/config.cpython-311.pyc: data
-packages/g4f/gui/server/__pycache__/app.cpython-311.pyc: data
-packages/sampo/native/cmake-build-debug/native.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/build/lib.win-amd64-3.10/native.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/prophet/stan_model/prophet_model.bin: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e7334bd63731ab42ca50a82fff4da7030e47797f, for GNU/Linux 2.6.32, not stripped
-packages/prophet/stan_model/prophet: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e7334bd63731ab42ca50a82fff4da7030e47797f, for GNU/Linux 2.6.32, not stripped
-packages/prophet/stan_model/cmdstan-2.33.1/bin/print: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e53231c4c9e742f7e396a90aa7777f2a790f70ef, for GNU/Linux 2.6.32, not stripped
-packages/prophet/stan_model/cmdstan-2.33.1/bin/stansummary: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7d5574fed16bd92ccf0116a9ae1bcf927234216f, for GNU/Linux 2.6.32, not stripped
-packages/prophet/stan_model/cmdstan-2.33.1/bin/stanc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, with debug_info, not stripped
-packages/prophet/stan_model/cmdstan-2.33.1/bin/diagnose: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=32040f3a115a97f590c8186f2650c93a0cde24f4, for GNU/Linux 2.6.32, not stripped
+packages/fusionsc-2.0.0a5.data/scripts/fsc-worker: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e45fdf8982dbff4e408b5dde7c27a531f8b112a0, for GNU/Linux 2.6.32, stripped
+packages/fusionsc-2.0.0a5.data/scripts/fsc-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1d3eb4f387ba5c8febd343e0cad58b874d9e00cd, for GNU/Linux 2.6.32, stripped
+packages/fusionsc-2.0.0a5.data/scripts/fsc-load-balancer: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=be27ed8a92edc92582e61a5775086d7f033c2587, for GNU/Linux 2.6.32, stripped
