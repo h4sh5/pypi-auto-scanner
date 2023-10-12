@@ -1,33 +1,20 @@
-packages/reverb/server_executable: directory
-packages/reverb/server_executable/__init__.py: empty
-packages/speculos/cxlib/nanox-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanox-cx-2.0.2.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, not stripped
-packages/speculos/cxlib/nanox-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanosp-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanox-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanosp-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-7.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanox-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanosp-cx-1.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-10.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-8.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanos-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-13.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanosp-cx-1.0.3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-11.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanos-cx-2.1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-9.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/nanosp-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/cxlib/stax-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
-packages/speculos/resources/launcher: ELF 32-bit LSB executable, ARM, EABI5 version 1 (GNU/Linux), statically linked, BuildID[sha1]=f0efc04e429989f5225cc3021ca66eb7e307cdea, for GNU/Linux 3.2.0, not stripped
-packages/speculos/resources/vnc_server: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=18ce6c59bf7c30317fad3c6e58319d85700d3681, for GNU/Linux 3.2.0, not stripped
-packages/Angua_Luggage/data/__pycache__/__init__.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/parseBlastXML.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/ICTVEntrez.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/getORFs.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/parseBlastMegan.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/spadesTidy.cpython-310.pyc: data
-packages/Angua_Luggage/bin/__pycache__/fetchSRA.cpython-310.pyc: data
+packages/webtech/__pycache__/utils.cpython-311.pyc: data
+packages/webtech/__pycache__/database.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/target.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/__version__.cpython-311.pyc: data
+packages/webtech/__pycache__/__main__.cpython-311.pyc: data
+packages/webtech/__pycache__/webtech.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/target.cpython-311.pyc: data
+packages/webtech/__pycache__/webtech.cpython-311.pyc: data
+packages/webtech/__pycache__/__burp__.cpython-311.pyc: data
+packages/webtech/__pycache__/parser.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/database.cpython-311.pyc: data
+packages/webtech/__pycache__/encoder.cpython-311.pyc: data
+packages/webtech/__pycache__/__version__.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/encoder.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/__init__.cpython-311.pyc: data
+packages/webtech/__pycache__/__burp__.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/webtech/__pycache__/parser.cpython-311.pyc: data
+packages/tablite/_nimlite/nimlite.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
