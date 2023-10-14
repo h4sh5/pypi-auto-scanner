@@ -1,6 +1,3 @@
-fake-bpy-module-latest==20231014
-nomiden==0.0.6
-scrapy-kit==0.1.10
 scrapy-kit==0.1.9
 teamhack-ca==0.0.657
 djrestframework==3.14.0
@@ -98,3 +95,6 @@ odoo-addon-membership-extension==16.0.2.1.0.1
 odoo-addon-membership-delegated-partner==15.0.1.0.0.8
 odoo-addon-crm-timesheet==16.0.1.0.0.5
 odoo-addon-hr-timesheet-sheet==16.0.1.1.0.3
+odoo-addon-hr-timesheet-sheet==15.0.1.2.0.3
+beartype==0.16.3
+fedartml==0.1.26
