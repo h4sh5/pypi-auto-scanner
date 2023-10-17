@@ -1,4 +1,8 @@
+packages/sourcery_nightly-1.10.2b26.data/purelib/sourcery/sourcery: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7634813fc810307fce4963990c77024b7da6f95a, stripped
 packages/shiboken6/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/tests/data/test_image.bin: DOS executable (COM)
+packages/reverb/server_executable: directory
+packages/reverb/server_executable/__init__.py: empty
 packages/PySide6/qmlformat: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=37a25a1029676be27e5f4eb5cf0c76d8d8890740, stripped
 packages/PySide6/support/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/PySide6/support/__pycache__/deprecated.cpython-38.pyc: python 3.8 byte-compiled
@@ -6,7 +10,6 @@ packages/PySide6/assistant: ELF 64-bit LSB pie executable, x86-64, version 1 (GN
 packages/PySide6/lupdate: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7ddbc804c171bf926a837993851866b5e12f2f13, stripped
 packages/PySide6/lrelease: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d3e2d62d3a401a857fd589a966dcb0bf87d75ec1, stripped
 packages/PySide6/designer: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5373a87f3d3e903fabeb15d5f570058a2b5b281a, stripped
-packages/PySide6/Qt/libexec/QtWebEngineProcess: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=63efca8a9090edbdc4d62c444e80d84fe6311b70, stripped
 packages/PySide6/Qt/libexec/qmltyperegistrar: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=da44d323b8b02ce6d99f80264504cf8fd2facad5, stripped
 packages/PySide6/Qt/libexec/rcc: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=92187da629d9a950ffa4ec62864b68d42a6acecd, stripped
 packages/PySide6/Qt/libexec/uic: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=67344bb18f1250c7760d3f27f48a639d2c10d79b, stripped
@@ -15,9 +18,8 @@ packages/PySide6/Qt/libexec/qmlcachegen: ELF 64-bit LSB pie executable, x86-64, 
 packages/PySide6/qmlls: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9527384b60e53aa978ca46ca01b0b7ebe238aedc, stripped
 packages/PySide6/qmllint: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d21ee94afe578c670f06ef8c3dd9849141308d09, stripped
 packages/PySide6/linguist: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7045bc6ad452de44d996d7d00caba63f9115e18c, stripped
-packages/sampo/native/cmake-build-debug/native.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/sampo/native/build/lib.win-amd64-3.10/native.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/taurus/qt/qtgui/icon/Tango/scalable/mimetypes/application-x-executable.svg: SVG Scalable Vector Graphics image
+packages/taurus/qt/qtgui/icon/Tango/scalable/mimetypes/gnome-mime-application-x-executable.svg: SVG Scalable Vector Graphics image
+packages/taurus/qt/qtgui/icon/Tango/scalable/mimetypes/gnome-mime-application-x-ms-dos-executable.svg: SVG Scalable Vector Graphics image
+packages/taurus/qt/qtgui/icon/Tango/scalable/mimetypes/gnome-fs-executable.svg: SVG Scalable Vector Graphics image
 packages/shiboken6_generator/shiboken6: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ca0f426f8f36d8d6a5154b5183b6c85601bee70b, for GNU/Linux 3.2.0, not stripped
