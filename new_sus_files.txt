@@ -1,9 +1,7 @@
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-microphone: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f395f49df154157c1c83ea30dec868a65ef5b39a, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9ffeab21146a857b1693fd91bd649dab3e446d91, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-microphone-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8088478823a0390fe09ea2ebd4e5cc1d1afeb149, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-offline-tts: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9e719f5a62f23a4d26b343bf05cd81b5686313ff, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-offline-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=d7672878e303283de326b32ab3bc2d113870c2a0, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-offline: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=04a1c996936a13ead6b1c76de8f275eaf495d538, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-vad-microphone: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=36fb705106c41207736bd03b696136c5ab530045, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-online-websocket-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=7dfb9352602ad259126eda47cb19e957b361e671, stripped
-packages/sherpa_onnx-1.8.3.data/data/bin/sherpa-onnx-online-websocket-client: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=19399ac1af45f77214cdf9182418be0674b8ed0b, stripped
+packages/reverb/server_executable: directory
+packages/reverb/server_executable/__init__.py: empty
+packages/fpx/migrations/__pycache__/env.cpython-38.pyc: python 3.8 byte-compiled
+packages/fpx/migrations/versions/__pycache__/ef515c12c8ff_create_tickets_table.cpython-38.pyc: python 3.8 byte-compiled
+packages/fpx/migrations/versions/__pycache__/6a22a6995723_create_clients_table.cpython-38.pyc: python 3.8 byte-compiled
+packages/fpx/migrations/versions/__pycache__/ac8a8750d3e2_add_options_column_to_ticket_table.cpython-38.pyc: python 3.8 byte-compiled
+packages/gns3server/compute/docker/resources/bin/busybox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=36c64fc4707a00db11657009501f026401385933, for GNU/Linux 3.2.0, stripped
