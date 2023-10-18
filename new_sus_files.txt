@@ -1,9 +1,4 @@
 packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/jaeger_stats-0.2.2b13.data/scripts/trace_analysis: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e0c9d3cafae2e7388db8925bc175a6f7128f35d4, for GNU/Linux 2.6.32, stripped
-packages/jaeger_stats-0.2.2b13.data/scripts/show_traces: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=87d327794e65b170329c2ffe9de4dc15c6968523, for GNU/Linux 2.6.32, stripped
-packages/jaeger_stats-0.2.2b13.data/scripts/stitch: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e32434f25e7f73ffd7d467c202fe9bf4094f5da0, for GNU/Linux 2.6.32, stripped
-packages/jaeger_stats-0.2.2b13.data/scripts/dotgraph: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=638df3af7555f7204c1739764d766c8802f91db1, for GNU/Linux 2.6.32, stripped
-packages/semgrep-1.45.0.data/purelib/semgrep/bin/semgrep-core: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, with debug_info, not stripped
 packages/aria/tools/adb: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, not stripped
 packages/aria/aria-cli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 4.8.0, BuildID[xxHash]=c1253f49db52417f, stripped
