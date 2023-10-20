@@ -1,12 +1,14 @@
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win32.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win32.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp37-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/cwltool/hello.simg: a /usr/bin/env run-singularity script executable (binary data)
-packages/pymagicc/MAGICC6/run/magicc6.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/anycluster/api/__pycache__/serializer_fields.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/__pycache__/views.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/__pycache__/json_schemas.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/__pycache__/urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/tests/__pycache__/common.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/tests/__pycache__/test_views.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/api/tests/__pycache__/test_serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/test_Filters.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/common.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/mixins.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/test_MapClusterer.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/test_ClusterCache.cpython-38.pyc: python 3.8 byte-compiled
+packages/anycluster/tests/__pycache__/test_FilterComposer.cpython-38.pyc: python 3.8 byte-compiled
