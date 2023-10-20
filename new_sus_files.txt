@@ -1,26 +1,8 @@
 packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a25c46858650f0bed6001798226c3b9cf8ddd950, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/BotniumPlus/lib/KeyboardCollection.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
-packages/BotniumPlus/lib/CSharpRPA.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/BotniumPlus/lib/lib/DDHID32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/DD96699.64.x.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/WinRing0.sys: PE32 executable (native) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/DD96699.32.x.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/DD64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/DDHID64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/WinRing0x64.sys: PE32+ executable (native) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/DDHID64_1.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/WinRing0.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/DD96699.64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/WinRing0x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/DD32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/DD96699.32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/lib/AutoKeyBoard.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/BotniumPlus/lib/lib/DDHID32_1.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/BotniumPlus/lib/OpenCvSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/blf_tools/SWDConsole.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/QMulti_DL_CMD_V2.1.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/thonnycontrib/quecpython/fw/exes/NB/fplink.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/aboot.dll: PE32 executable (DLL) (GUI) Intel 80386 (stripped to external PDB), for MS Windows
+packages/thonnycontrib/quecpython/fw/exes/NB/fplink.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/UFlashTool.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/QMSL_MSVC9R.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/QtNetwork4.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
@@ -28,14 +10,14 @@ packages/thonnycontrib/quecpython/fw/exes/NB/libusb0.dll: PE32 executable (DLL) 
 packages/thonnycontrib/quecpython/fw/exes/NB/Channel9.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/SysUtility.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/ts_lan.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/thonnycontrib/quecpython/fw/exes/NB/DownloadLib.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/brom.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/thonnycontrib/quecpython/fw/exes/NB/DownloadLib.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/SLA_Challenge.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/thonnycontrib/quecpython/fw/exes/NB/mnbdl_lib.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/META_DLL.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/FilterBinTrans.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/thonnycontrib/quecpython/fw/exes/NB/mnbdl_lib.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/thonnycontrib/quecpython/fw/exes/NB/iSpLog.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/QtCore4.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/thonnycontrib/quecpython/fw/exes/NB/iSpLog.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/DataLibrary.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/libusb-1.0.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/thonnycontrib/quecpython/fw/exes/NB/Sparce2Raw.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
