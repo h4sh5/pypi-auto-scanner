@@ -1,23 +1,24 @@
-packages/cmdty_storage/lib/System.Buffers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/optim_cy/optim.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cmdty_storage/lib/Microsoft.CodeAnalysis.CSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/cmdty_storage/lib/System.Buffers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.Core.Simulation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.Core.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Linq.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.Core.Trees.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/cmdty_storage/lib/System.Reflection.Metadata.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Microsoft.CSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Runtime.CompilerServices.Unsafe.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/cmdty_storage/lib/System.Reflection.Metadata.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Threading.Tasks.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/x86/libiomp5md.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cmdty_storage/lib/x86/MathNet.Numerics.MKL.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/cmdty_storage/lib/System.Reflection.Emit.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/cmdty_storage/lib/Microsoft.CodeAnalysis.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.Storage.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/cmdty_storage/lib/Microsoft.CodeAnalysis.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Dynamic.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Text.Encoding.CodePages.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/cmdty_storage/lib/JetBrains.Annotations.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Threading.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/cmdty_storage/lib/JetBrains.Annotations.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Numerics.Vectors.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.TimePeriodValueTypes.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Microsoft.CodeAnalysis.Scripting.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
@@ -25,11 +26,23 @@ packages/cmdty_storage/lib/System.Reflection.Emit.Lightweight.dll: PE32 executab
 packages/cmdty_storage/lib/System.ObjectModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Linq.Expressions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/MathNet.Numerics.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/cmdty_storage/lib/System.Reflection.Emit.ILGeneration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Collections.Immutable.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/cmdty_storage/lib/System.Reflection.Emit.ILGeneration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Cmdty.TimeSeries.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/System.Reflection.TypeExtensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/Microsoft.CodeAnalysis.CSharp.Scripting.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
 packages/cmdty_storage/lib/x64/libiomp5md.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cmdty_storage/lib/x64/MathNet.Numerics.MKL.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/cmdty_storage/lib/Microsoft.Extensions.Logging.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/Auto3D/__pycache__/tautomer.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/ranking.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/SPE.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/isomer_engine.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/utils.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/__pycache__/auto3D.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/ASE/__pycache__/thermo.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/ASE/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/batch_opt/__pycache__/ANI2xt_no_rep.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/batch_opt/__pycache__/batchopt.cpython-39.pyc: python 3.9 byte-compiled
+packages/Auto3D/batch_opt/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
