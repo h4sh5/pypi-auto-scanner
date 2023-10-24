@@ -1,46 +1,8 @@
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a25c46858650f0bed6001798226c3b9cf8ddd950, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/h2lib_tests/test_files/DTU_10_MW/control/servo_with_limits.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/generator_servo.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/generator_servo_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/towerclearance_mblade_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/dtu_we_controller_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/towerclearance_mblade.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/servo_with_limits_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/mech_brake_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/mech_brake.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/DTU_10_MW/control/dtu_we_controller.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/servo_with_limits.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/generator_servo_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/generator_servo.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/towerclearance_mblade_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/dtu_we_controller_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/towerclearance_mblade.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/servo_with_limits_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/mech_brake_64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/dtu_we_controller.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/h2lib_tests/test_files/IEA-15-240-RWT-Onshore/control/mech_brake.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/mke2fs.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/fastboot.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/AdbWinUsbApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/adb.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/dmtracedump.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/etc1tool.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/sqlite3.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/libwinpthread-1.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/make_f2fs.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/make_f2fs_casefold.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/platform-tools/hprof-conv.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/anim_diff.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/dwebp.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/webpmux.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/freeglut.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/get_disto.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/vwebp.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/webpinfo.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/webp_quality.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/anim_dump.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/img2webp.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/gif2webp.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/psplpy/tools/libwebp-1.3.1-windows-x64/bin/cwebp.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/psplpy/lib/PyDll.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/namer/tools/videohashes-amd64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/namer/tools/videohashes-arm-linux: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, Go BuildID=B3Jmc0Ylwl5dz3JgXUT7/dhmu1kTiADdHcakWMMr1/nOi9KleBPORdQ4LlMagi/ftcaNzI93GG4QcjcV1FV, with debug_info, not stripped
+packages/namer/tools/videohashes-amd64-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, Go BuildID=5-h2QQ0KHdDvNaMD0AyU/uSd3vXMLAQUxF2WXKUbG/6VoVcUQwDdPcALczpRD7/BAB2t1_XyPx4dPnhPTTG, with debug_info, not stripped
+packages/namer/tools/videohashes-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/namer/tools/videohashes-arm64-linux: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, Go BuildID=aZJJgIaAhvIrHda3WU6E/fPJI2u6EUfO9dwL5gahG/5uG2g89X825C_0LGgUSS/8XeGodzuDlntBWPM6wtb, with debug_info, not stripped
+packages/namer/tools/videohashes-amd64-macos: Mach-O 64-bit x86_64 executable
+packages/namer/tools/videohashes-arm.exe: PE32 executable (console) ARMv7 Thumb, for MS Windows
+packages/namer/tools/videohashes-arm64-macos: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
