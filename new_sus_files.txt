@@ -1,10 +1,31 @@
-packages/bigdl/llm/libs/main-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4837ddada3f280d0f38be3112b190bd90f5a354, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab6f8fa2dc39e0e94bd40acec5ddf2c5e631332e, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/quantize-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=757e80783bbe8aca0c089d3cb4791c966cd39e4b, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/main-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=640d67130854b47a2250758ccd4368ed44dbd846, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e765fd651e754a4b411297620e21f6703e4b3969, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-chatglm_vnni: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=269cb66fcf0a8b90a6b5b4b38460f0561e493ae3, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/quantize-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=588d7b7eb58de9af596bc6bf26611545a7fb043f, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8418396ecc7927ef2fff84b9a515fc2ac8aa1fe8, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4c95af8965b57d571fb7b37ff5473b9ba7ee46d6, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/quantize-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5cd28fd28cc3b63ab7fb3d28db5b59d8690f4cbe, for GNU/Linux 3.2.0, not stripped
+packages/golem_node-0.12.3.data/scripts/yagna: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=b81c3f743779604226f2f62242d7c392d6790e97, stripped
+packages/golem_node-0.13.2a0.data/scripts/yagna: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=1515b137ef0465e5b81dd48cb4c6c2893c5a8c8e, stripped
+packages/uglypty/uglyplugin_nbtosession/__pycache__/nbtosession.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_nbtosession/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_serial/__pycache__/qtserialcon_widget.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_serial/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_serial/Library/__pycache__/serialshellreader.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_serial/Library/__pycache__/serialshell.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_serial/Library/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_grep/__pycache__/UglyGrep.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_grep/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_tftp/__pycache__/server.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_tftp/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_parsers/__pycache__/uglyparsers.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_parsers/__pycache__/HighlighterTEWidget.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_parsers/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_collector/__pycache__/collect_gui_netmiko.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/uglyplugin_collector/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/util.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/models.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/qtssh_widget.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/creds_widget.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/plugins.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/sshshellreader.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/parser_examples.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/collector_lib.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/sshshell.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/sshschemahandler.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/db.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/creds_dlg.cpython-39.pyc: python 3.9 byte-compiled
+packages/uglypty/Library/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
