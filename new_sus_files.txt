@@ -1,4 +1,78 @@
-packages/mfire/settings/sit_gen/training_models_SG/train_fronts_/imagettes_128p_3811566/saved_model.pb: PDP-11 pure executable not stripped - version 5
-packages/mfire/settings/sit_gen/training_models_SG/train_ad_/short_4000_1079776/saved_model.pb: PDP-11 pure executable not stripped - version 5
-packages/datagit/bin/data-drift-mac-intel: Mach-O 64-bit x86_64 executable
-packages/datagit/bin/data-drift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/datagit/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/datagit/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=XjnT8XXAI7dMkhXwOXk0/kXEG39kd6hHJ7OvKTOY9/fI6V16DpPEbWda91zdDp/eXrz2ZjgdvajbRYdTlrb, with debug_info, not stripped
+packages/datagit/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
+packages/visyn_core/dbmigration/__pycache__/router.cpython-310.pyc: data
+packages/visyn_core/dbmigration/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/dbmigration/__pycache__/manager.cpython-310.pyc: data
+packages/visyn_core/tests/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/tests/__pycache__/test_postgres_db.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_rdkit_img.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_mapper.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_settings.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/conftest.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_security_login.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_main_app.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/__pycache__/test_telemetry.cpython-310-pytest-7.2.2.pyc: data
+packages/visyn_core/tests/fixtures/__pycache__/app.cpython-310.pyc: data
+packages/visyn_core/tests/fixtures/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/tests/fixtures/__pycache__/postgres_db.cpython-310.pyc: data
+packages/visyn_core/id_mapping/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/id_mapping/__pycache__/manager.cpython-310.pyc: data
+packages/visyn_core/id_mapping/__pycache__/idtype_api.cpython-310.pyc: data
+packages/visyn_core/server/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/server/__pycache__/utils.cpython-310.pyc: data
+packages/visyn_core/server/__pycache__/cmd.cpython-310.pyc: data
+packages/visyn_core/server/__pycache__/mainapp.cpython-310.pyc: data
+packages/visyn_core/server/__pycache__/visyn_server.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/router.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/constants.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/utils.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/client_config.cpython-310.pyc: data
+packages/visyn_core/settings/__pycache__/model.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/dummy_store.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/alb_security_store.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/base_store.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/oauth2_security_store.cpython-310.pyc: data
+packages/visyn_core/security/store/__pycache__/no_security_store.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/dependencies.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/jwt_router.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/model.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/manager.cpython-310.pyc: data
+packages/visyn_core/security/__pycache__/permissions.cpython-310.pyc: data
+packages/visyn_core/rdkit/__pycache__/img_api.cpython-310.pyc: data
+packages/visyn_core/rdkit/__pycache__/models.cpython-310.pyc: data
+packages/visyn_core/rdkit/util/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/rdkit/util/__pycache__/molecule.cpython-310.pyc: data
+packages/visyn_core/rdkit/util/__pycache__/draw.cpython-310.pyc: data
+packages/visyn_core/plugin/__pycache__/router.cpython-310.pyc: data
+packages/visyn_core/plugin/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/plugin/__pycache__/registry.cpython-310.pyc: data
+packages/visyn_core/plugin/__pycache__/model.cpython-310.pyc: data
+packages/visyn_core/plugin/__pycache__/parser.cpython-310.pyc: data
+packages/visyn_core/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/__pycache__/utils.cpython-310.pyc: data
+packages/visyn_core/__pycache__/manager.cpython-310.pyc: data
+packages/visyn_core/__pycache__/dbview.cpython-310.pyc: data
+packages/visyn_core/__pycache__/dbmanager.cpython-310.pyc: data
+packages/visyn_core/__pycache__/xlsx.cpython-310.pyc: data
+packages/visyn_core/middleware/__pycache__/__init__.cpython-310.pyc: data
+packages/visyn_core/middleware/__pycache__/fastapi_metrics_middleware.cpython-310.pyc: data
+packages/visyn_core/middleware/__pycache__/exception_handler_middleware.cpython-310.pyc: data
+packages/visyn_core/middleware/__pycache__/close_web_sessions_middleware.cpython-310.pyc: data
+packages/visyn_core/telemetry/__pycache__/__init__.cpython-310.pyc: data
+packages/brainles_preprocessing/registration/niftyreg_scripts/reg_resample: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d82d4280b57977f3ee459f8e72fc592c1f5efef7, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/reg_aladin: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=14fe78e79c69df4a6697c10a81d3a9db379fb1cb, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_jacobian: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=087bb63a43a72a867ec03ef4d11d883f1e44a002, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_transform: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=eff0651e65a4503e77448a82850ff5b2c936633e, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_f3d: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=430f6465040d4f0462b7c8a672681a630f564913, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_average: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0da6d2fc9edf1264f40c13139f34330fcaf1814a, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_resample: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d82d4280b57977f3ee459f8e72fc592c1f5efef7, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_measure: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9d110ea627219a19f41475f390bf28fb014e7fde, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_tools: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1c7dad0f2824130175e6cfff9e3d70566be3c56d, not stripped
+packages/brainles_preprocessing/registration/niftyreg_scripts/niftyreg_1.5.68/bin/reg_aladin: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=14fe78e79c69df4a6697c10a81d3a9db379fb1cb, not stripped
+packages/sampo/native/cmake-build-debug/CMakeFiles/FindOpenMP/ompver_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sampo/native/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sampo/native/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/a.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
