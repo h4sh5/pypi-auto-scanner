@@ -1,10 +1,84 @@
-packages/DataVisual/__pycache__/tables.cpython-310.pyc: data
-packages/DataVisual/__pycache__/multi_array.cpython-310.pyc: data
-packages/DataVisual/__pycache__/__init__.cpython-310.pyc: data
 packages/cli_chess/modules/engine/binaries/fairy-stockfish_x86-64_linux: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e400cb6e1b8d6803ad7ddc004c1b577ffd80300b, for GNU/Linux 3.2.0, stripped
 packages/cli_chess/modules/engine/binaries/fairy-stockfish_x86-64_windows.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
 packages/cli_chess/modules/engine/binaries/fairy-stockfish_arm64_macos: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
 packages/cli_chess/modules/engine/binaries/fairy-stockfish_x86-64_macos: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/pydoctor/epydoc/markup/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/markup/__pycache__/_pyval_repr.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/markup/__pycache__/_types.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/markup/__pycache__/numpy.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/markup/__pycache__/_napoleon.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/markup/__pycache__/google.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/__pycache__/docutils.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/__pycache__/sre_parse36.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/__pycache__/sre_constants36.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/epydoc/__pycache__/doctest.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/napoleon/__pycache__/docstring.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/napoleon/__pycache__/iterators.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/napoleon/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/extensions/__pycache__/zopeinterface.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/extensions/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/extensions/__pycache__/deprecate.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/extensions/__pycache__/attrs.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/epydoc/__pycache__/test_google_numpy.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/epydoc/__pycache__/test_pyval_repr.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/epydoc/__pycache__/test_parsed_docstrings.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/epydoc/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_mro.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_options.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_attrs.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_packages.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_napoleon_iterators.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_visitor.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_templatewriter.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_sphinx.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_twisted_python_deprecate.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_pydantic_fields.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_cyclic_imports_base_classes.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_colorize.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_zopeinterface.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_epydoc2stan.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_model.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_napoleon_docstring.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_astbuilder.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_qnmatch.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_utils.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_node2stan.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_type_fields.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_commandline.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/test/__pycache__/test_configparser.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/pages/__pycache__/functionchild.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/pages/__pycache__/sidebar.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/pages/__pycache__/attributechild.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/pages/__pycache__/table.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/pages/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/__pycache__/writer.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/__pycache__/search.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/__pycache__/summary.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/__pycache__/util.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/templatewriter/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/sphinx_ext/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/sphinx_ext/__pycache__/build_apidocs.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/themes/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/sphinx.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/qnmatch.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/factory.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/epydoc2stan.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/_configparser.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/mro.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/utils.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/__init__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/astbuilder.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/driver.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/model.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/linker.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/node2stan.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/__main__.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/options.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/astutils.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/visitor.cpython-39.opt-1.pyc: python 3.9 byte-compiled
+packages/pydoctor/__pycache__/stanutils.cpython-39.opt-1.pyc: python 3.9 byte-compiled
 packages/pex/vendor/_vendored/pip/pip/_vendor/distlib/w32.exe: PE32 executable (GUI) Intel 80386, for MS Windows
 packages/pex/vendor/_vendored/pip/pip/_vendor/distlib/w64.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/pex/vendor/_vendored/pip/pip/_vendor/distlib/t64.exe: PE32+ executable (console) x86-64, for MS Windows
