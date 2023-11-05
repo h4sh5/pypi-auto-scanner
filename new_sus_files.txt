@@ -14,14 +14,17 @@ packages/karellen_llvm_toolchain_tools-17.0.4.0.data/data/bin/llvm-strings: ELF 
 packages/karellen_llvm_toolchain_tools-17.0.4.0.data/data/bin/llvm-objcopy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_toolchain_tools-17.0.4.0.data/data/bin/llvm-dwp: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_toolchain_tools-17.0.4.0.data/data/bin/llvm-size: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/wpiutil/__pycache__/_stacktrace.cpython-310.pyc: data
+packages/wpiutil/__pycache__/__init__.cpython-310.pyc: data
+packages/wpiutil/__pycache__/_init_wpiutil.cpython-310.pyc: data
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-scan-deps: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-rename: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-doc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-extdef-mapping: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-17: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-extdef-mapping: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-offload-packager: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.4.0.data/data/bin/modularize: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-tidy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.4.0.data/data/bin/modularize: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-pseudo: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-format: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-reorder-fields: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
@@ -35,8 +38,8 @@ packages/karellen_llvm_clang-17.0.4.0.data/data/bin/nvptx-arch: ELF 64-bit LSB p
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-refactor: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/find-all-symbols: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-include-cleaner: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/karellen_llvm_clang-17.0.4.0.data/data/bin/lld: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/diagtool: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/karellen_llvm_clang-17.0.4.0.data/data/bin/lld: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-change-namespace: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-move: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-apply-replacements: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
@@ -44,11 +47,33 @@ packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clangd: ELF 64-bit LSB pie e
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/pp-trace: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/karellen_llvm_clang-17.0.4.0.data/data/bin/clang-offload-bundler: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/zrb/builtin/generator/fastapp/template/src/kebab-zrb-app-name/monitoring/clickhouse/user_scripts/histogramQuantile: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=R-fpMXtan_yusNy-vyJR/ee9EigNhtQJxntGCAtp-/rX3QPetg3FEvQhgZtM1r/Whe2Vyu_29Caev6PZOs1, not stripped
+packages/wpilib/_impl/__pycache__/main.cpython-310.pyc: data
+packages/wpilib/_impl/__pycache__/_init_wpilibc.cpython-310.pyc: data
+packages/wpilib/_impl/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/_impl/__pycache__/report_error.cpython-310.pyc: data
+packages/wpilib/_impl/__pycache__/logconfig.cpython-310.pyc: data
+packages/wpilib/simulation/__pycache__/_init_simulation.cpython-310.pyc: data
+packages/wpilib/simulation/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/drive/__pycache__/_init_drive.cpython-310.pyc: data
+packages/wpilib/drive/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/counter/__pycache__/_init_counter.cpython-310.pyc: data
+packages/wpilib/counter/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/interfaces/__pycache__/_init_interfaces.cpython-310.pyc: data
+packages/wpilib/interfaces/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/shuffleboard/__pycache__/_init_shuffleboard.cpython-310.pyc: data
+packages/wpilib/shuffleboard/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/event/__pycache__/_init_event.cpython-310.pyc: data
+packages/wpilib/event/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/__pycache__/cameraserver.cpython-310.pyc: data
+packages/wpilib/__pycache__/deployinfo.cpython-310.pyc: data
+packages/wpilib/__pycache__/_init_wpilib.cpython-310.pyc: data
+packages/wpilib/__pycache__/__init__.cpython-310.pyc: data
+packages/wpilib/__pycache__/version.cpython-310.pyc: data
 packages/lalapps/bin/lalfr-stat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=16ce1735d70fb5ec7e4a51229925632b9850da97, stripped
 packages/lalapps/bin/lalapps_calfacs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a79557d0c11ff4141a16850a487fa7766e7cca14, stripped
 packages/lalapps/bin/lalpulsar_Weave: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ce37934f558f29686e88bede6f593b55b239e5dc, stripped
-packages/lalapps/bin/lalfr-stream: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fa6ab07b7c874d6a5386d361ef1b413bcb328055, stripped
 packages/lalapps/bin/lalpulsar_ComputeFstatistic_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8729c5d8d4d3f64039c630e259792d5c91f58afd, stripped
+packages/lalapps/bin/lalfr-stream: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fa6ab07b7c874d6a5386d361ef1b413bcb328055, stripped
 packages/lalapps/bin/lalapps_frextr: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=170973f7181e03c0436740be00b02d3cb8fdc917, stripped
 packages/lalapps/bin/lalpulsar_compareFstats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9a7b1ca4ffbdd799eee4e2af244a71db86c60950, stripped
 packages/lalapps/bin/lalfr-print: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c50af121dd1f82fee3883b3d8e27cc6fc3be1ef0, stripped
@@ -165,3 +190,22 @@ packages/lalapps/bin/lalpulsar_HierarchSearchGCT: ELF 64-bit LSB executable, x86
 packages/lalapps/bin/lalpulsar_synthesizeLVStats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2a68b5a62a412a6077561d4b48a4b3ef1c579c44, stripped
 packages/lalapps/bin/lalpulsar_fits_header_getval: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a9c5795bd838e081f3e858ef32c8cb0e6228365d, stripped
 packages/lalapps/bin/lalsim-unicorn: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b18363afbffad22fdfe3a9f2e7572840ae99b345, stripped
+packages/wpimath/_impl/__pycache__/_init_wpimath_cpp.cpython-310.pyc: data
+packages/wpimath/_impl/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/filter/__pycache__/_init_filter.cpython-310.pyc: data
+packages/wpimath/filter/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/geometry/__pycache__/_init_geometry.cpython-310.pyc: data
+packages/wpimath/geometry/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/_controls/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/_controls/__pycache__/_init_controls.cpython-310.pyc: data
+packages/wpimath/kinematics/__pycache__/_init_kinematics.cpython-310.pyc: data
+packages/wpimath/kinematics/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/spline/__pycache__/_init_spline.cpython-310.pyc: data
+packages/wpimath/spline/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/__pycache__/units.cpython-310.pyc: data
+packages/wpimath/__pycache__/_init_wpimath.cpython-310.pyc: data
+packages/wpimath/__pycache__/__init__.cpython-310.pyc: data
+packages/wpimath/interpolation/__pycache__/_init_interpolation.cpython-310.pyc: data
+packages/wpimath/interpolation/__pycache__/__init__.cpython-310.pyc: data
+packages/wpinet/__pycache__/_init_wpinet.cpython-310.pyc: data
+packages/wpinet/__pycache__/__init__.cpython-310.pyc: data
