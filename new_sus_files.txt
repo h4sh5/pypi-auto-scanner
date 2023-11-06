@@ -1,2 +1,8 @@
-packages/perun/collect/bounds/bin/clang-3.5: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=b9770fcab72e94dc9ffb10bff5b1212dfa25bb65, stripped
-packages/perun/collect/bounds/bin/loopus: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.0.0, BuildID[sha1]=df0a23f606bc5488d3cfe37fab72950cc92ab9b4, with debug_info, not stripped
+packages/py_heideltime/Heideltime/TreeTaggerLinux/bin/tree-tagger: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=c77a896a4c1225026ad3181a7130d06d325b2b92, stripped
+packages/py_heideltime/Heideltime/TreeTaggerLinux/bin/separate-punctuation: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.0.0, BuildID[sha1]=ada646cd2d0802a84c1b895e1565496a1a13ed28, stripped
+packages/py_heideltime/Heideltime/TreeTaggerLinux/bin/train-tree-tagger: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=b5593618aa934b18865068d78af4e665ef0b19b2, stripped
+packages/py_heideltime/Heideltime/TreeTaggerLinux/bin/tree-tagger-flush: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=4baf3e91c469d7083e4ed8586104773f3d7d7234, stripped
+packages/py_heideltime/Heideltime/TreeTaggerWindows/bin/tree-tagger-flush.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/py_heideltime/Heideltime/TreeTaggerWindows/bin/tree-tagger.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/py_heideltime/Heideltime/TreeTaggerWindows/bin/train-tree-tagger.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/opentrons/resources/scripts/lpc21isp: ELF 32-bit LSB pie executable, ARM, EABI5 version 1 (SYSV), static-pie linked, with debug_info, not stripped
