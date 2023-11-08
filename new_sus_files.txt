@@ -1,4 +1,23 @@
-packages/mni2mz3-1.0.0rc5.data/scripts/mni2mz3: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=74fff8ff4f223f1453f78182b62733c8c18b568b, for GNU/Linux 2.6.32, stripped
+packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
+packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
+packages/gandai/__pycache__/sources.cpython-311.pyc: data
+packages/gandai/__pycache__/google.cpython-311.pyc: data
+packages/gandai/__pycache__/services.cpython-311.pyc: data
+packages/gandai/__pycache__/grata.cpython-311.pyc: data
+packages/gandai/__pycache__/datastore.cpython-311.pyc: data
+packages/gandai/__pycache__/query.cpython-311.pyc: data
+packages/gandai/__pycache__/main.cpython-311.pyc: data
+packages/gandai/__pycache__/constants.cpython-311.pyc: data
+packages/gandai/__pycache__/tasks.cpython-311.pyc: data
+packages/gandai/__pycache__/helpers.cpython-311.pyc: data
+packages/gandai/__pycache__/db.cpython-311.pyc: data
+packages/gandai/__pycache__/gpt.cpython-311.pyc: data
+packages/gandai/__pycache__/__init__.cpython-311.pyc: data
+packages/gandai/__pycache__/auth.cpython-311.pyc: data
+packages/gandai/__pycache__/adapters.cpython-311.pyc: data
+packages/gandai/__pycache__/secrets.cpython-311.pyc: data
+packages/gandai/__pycache__/models.cpython-311.pyc: data
+packages/gandai/__pycache__/analytics.cpython-311.pyc: data
 packages/lumibot/tools/__pycache__/decorators.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/tools/__pycache__/debugers.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/tools/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
@@ -21,11 +40,11 @@ packages/lumibot/data_sources/__pycache__/yahoo_data.cpython-38.pyc: python 3.8 
 packages/lumibot/data_sources/__pycache__/tradovate_data.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/bars.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/lumibot/entities/__pycache__/position.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/dataline.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/position.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/asset.cpython-38.pyc: python 3.8 byte-compiled
-packages/lumibot/entities/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/trading_fee.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/entities/__pycache__/bar.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/traders/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
@@ -40,12 +59,12 @@ packages/lumibot/backtesting/__pycache__/yahoo_backtesting.cpython-38.pyc: pytho
 packages/lumibot/backtesting/__pycache__/backtesting_broker.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/example_strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/example_strategies/__pycache__/stock_diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
-packages/lumibot/example_strategies/__pycache__/stock_momentum.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/example_strategies/__pycache__/stock_buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_momentum.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/example_strategies/__pycache__/stock_limit_and_trailing_stops.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/strategies/examples/__pycache__/diversification.cpython-38.pyc: python 3.8 byte-compiled
-packages/lumibot/strategies/examples/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/strategies/examples/__pycache__/strangle.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/strategies/examples/__pycache__/intraday_momentum.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/strategies/examples/__pycache__/debt_trading.cpython-38.pyc: python 3.8 byte-compiled
 packages/lumibot/strategies/examples/__pycache__/fast_trading.cpython-38.pyc: python 3.8 byte-compiled
@@ -75,11 +94,11 @@ packages/tests/__pycache__/test_ccxt.cpython-38-pytest-7.4.0.pyc: python 3.8 byt
 packages/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_alpaca.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_tradingfee.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
-packages/tests/__pycache__/test_example_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_asset.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_example_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_main_pandas_daily.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_backtesting_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_strategy_executor.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_polygon_helper.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
-packages/tests/__pycache__/test_strategy_methods.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/tests/__pycache__/test_order.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_methods.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
