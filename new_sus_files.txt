@@ -1,20 +1,30 @@
-packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
-packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/sources.cpython-311.pyc: data
-packages/gandai/__pycache__/services.cpython-311.pyc: data
-packages/gandai/__pycache__/google.cpython-311.pyc: data
-packages/gandai/__pycache__/grata.cpython-311.pyc: data
-packages/gandai/__pycache__/query.cpython-311.pyc: data
-packages/gandai/__pycache__/datastore.cpython-311.pyc: data
-packages/gandai/__pycache__/main.cpython-311.pyc: data
-packages/gandai/__pycache__/constants.cpython-311.pyc: data
-packages/gandai/__pycache__/tasks.cpython-311.pyc: data
-packages/gandai/__pycache__/helpers.cpython-311.pyc: data
-packages/gandai/__pycache__/gpt.cpython-311.pyc: data
-packages/gandai/__pycache__/db.cpython-311.pyc: data
-packages/gandai/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/auth.cpython-311.pyc: data
-packages/gandai/__pycache__/adapters.cpython-311.pyc: data
-packages/gandai/__pycache__/secrets.cpython-311.pyc: data
-packages/gandai/__pycache__/analytics.cpython-311.pyc: data
-packages/gandai/__pycache__/models.cpython-311.pyc: data
+packages/CPCReady/binary/iDSK: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=86552ae225b8c5a28d33fe22c171466f66b5bfe8, for GNU/Linux 3.2.0, not stripped
+packages/CPCReady/binary/2cdt: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4efc2f6fd55bbd61baf6b4bb26f495d0bef5f59, for GNU/Linux 3.2.0, stripped
+packages/CPCReady/binary/cpc2cdt: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=382d02b437efc53f2e3cfd3634457f7a6de17877, for GNU/Linux 3.2.0, not stripped
+packages/CPCReady/binary/martine: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7fa14a644f4bd36ed0d3de0a61ae4078b86b7ba4, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/binary/xfer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=815b3f9bbe0558112cfcdf263be256c232b1a5f5, for GNU/Linux 3.2.0, stripped
+packages/CPCReady/binary/ugbc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f48d50ef47209a38671cad9fe530a02bc87a6195, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/binary/amsdos: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1e75f2ce3709cf1a5aab236b2163070e3861cfc8, for GNU/Linux 3.2.0, not stripped
+packages/CPCReady/binary/RetroVirtualMachine: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-dis: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=10a994b79ca6633cf9d17c1905b9e7661c531656, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-zpragma: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3d4e941fa9d151b26bf8178b91e6e169d03e584b, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-basck: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=05bbc71ea969d9e4c9502171c13d6c3b3b7abdad, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-z80nm: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8b599050ce368c17838100896f47e94c7a1c4172, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-sccz80: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a9f7ac4ca00657d5624db84e89cc1e18e5125dc3, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-z80asm: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=edd8006dd9ee66b9f20ccb4faba43ff645bffa38, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-lib: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=76083d6b6c9aebab3f6dc4b203fce825936c95a8, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/zcc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=489a2a4807fcff02a0892a066e6c9fd568a01877, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-z80svg: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5160ea605fcef97aa51a51727f7a8782a3eaa5bc, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-appmake: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c2e34b50e244d99806919d69de441f64f99fe76e, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-zobjcopy: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d903adc706984e3064ff96ef9b547c164c4d1d4c, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-zsdcc: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fdde7ead058659030ccd78261d1cc240f6e2d939, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-dzx0: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a01f80e09db7c8b9dbfe172cba6b415045e62166, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-copt: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c77d3d4b627b8a1933ccf163fa30a7de09c069a9, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-font2pv1000: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8c04b872c49d2bea3be6f37294d226eabd83ebf5, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z80asm: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=edd8006dd9ee66b9f20ccb4faba43ff645bffa38, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-gdb: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=250784c48d1eecfabf62d092009dc1a0597109fb, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-zx0: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=25f80022ef0085fc97b1f9d3ecd61bac13b4fa89, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-zx7: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f0f7b075aad13e49ebfc530c90604a45111d0a5d, for GNU/Linux 3.2.0, not stripped
+packages/CPCReady/z88dk/bin/z88dk-ucpp: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6fbd87a4be150c92cda9696de25fcd8b417bd953, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/CPCReady/z88dk/bin/z88dk-dzx7: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e7481c9ec862a0f9103ee5e31f97de677754ce81, for GNU/Linux 3.2.0, not stripped
+packages/CPCReady/z88dk/bin/z88dk-ticks: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ae32b4cbd651d732a3b7c7073a260fa5362d0d9b, for GNU/Linux 3.2.0, with debug_info, not stripped
