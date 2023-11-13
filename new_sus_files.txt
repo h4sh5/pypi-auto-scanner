@@ -93,12 +93,12 @@ packages/onnx/backend/test/data/node/test_split_1d_uneven_split_opset18/test_dat
 packages/onnx/backend/test/data/node/test_clip_default_max_expanded/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_sce_mean_weight_ii_4d_log_prob_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_sce_mean_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
-packages/onnx/backend/test/data/node/test_maxpool_2d_ceil/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_maxpool_2d_ceil/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_maxpool_2d_ceil/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_cubic_A_n0p5_exclude_outside/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_cubic_A_n0p5_exclude_outside/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_5.pb: HP s500 pure executable - version 1248354156
 packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_5.pb: HP s500 pure executable - version 1248354156
 packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_0.pb: HP s500 pure executable - version 63
 packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_6.pb: HP s500 pure executable - version 1248026476
 packages/onnx/backend/test/data/node/test_lstm_with_peepholes/test_data_set_0/input_7.pb: PDP-11 pure executable not stripped
@@ -118,8 +118,8 @@ packages/onnx/backend/test/data/node/test_unsqueeze_axis_0/test_data_set_0/input
 packages/onnx/backend/test/data/node/test_unsqueeze_axis_0/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 1
 packages/onnx/backend/test/data/node/test_reduce_mean_keepdims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_FLOAT_to_DOUBLE/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_ceil_half_pixel/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_ceil_half_pixel/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 2
+packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_ceil_half_pixel/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_dequantizelinear_e4m3fn_zero_point/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_dequantizelinear_e4m3fn_zero_point/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 111
 packages/onnx/backend/test/data/node/test_resize_upsample_scales_cubic_A_n0p5_exclude_outside/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
@@ -152,8 +152,8 @@ packages/onnx/backend/test/data/node/test_reduce_log_sum_exp_negative_axes_keepd
 packages/onnx/backend/test/data/node/test_basic_conv_with_padding/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_basic_conv_with_padding/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_basic_conv_with_padding/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_dft_axis_opset19/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 3
 packages/onnx/backend/test/data/node/test_dft_axis_opset19/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 6
+packages/onnx/backend/test/data/node/test_dft_axis_opset19/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 3
 packages/onnx/backend/test/data/node/test_resize_downsample_sizes_nearest_not_smaller/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_sizes_nearest_not_smaller/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_BFLOAT16_to_FLOAT_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 62
@@ -163,8 +163,8 @@ packages/onnx/backend/test/data/node/test_reduce_log_sum_exp_empty_set_expanded/
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_cubic_antialias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_cubic_antialias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 24
 packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_min/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_min/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_min/test_data_set_0/input_2.pb: HP s500 pure executable
+packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_min/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_hardmax_one_hot/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_hardmax_one_hot/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_sce_mean_3d_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
@@ -191,8 +191,8 @@ packages/onnx/backend/test/data/node/test_gridsample_volumetric_bilinear_align_c
 packages/onnx/backend/test/data/node/test_gridsample_volumetric_bilinear_align_corners_0/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_reduce_sum_default_axes_keepdims_random/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_sce_NCd1d2d3d4d5_mean_weight_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
-packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_antialias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_antialias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_antialias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_prod_negative_axes_keepdims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_scales_cubic_asymmetric/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_scales_cubic_asymmetric/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 2
@@ -201,14 +201,14 @@ packages/onnx/backend/test/data/node/test_scatter_with_axis/test_data_set_0/outp
 packages/onnx/backend/test/data/node/test_scatter_with_axis/test_data_set_0/input_2.pb: HP s500 pure executable
 packages/onnx/backend/test/data/node/test_dynamicquantizelinear_max_adjusted_expanded/test_data_set_0/output_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_reduce_l1_negative_axes_keep_dims_example_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_pytorch_half_pixel/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_pytorch_half_pixel/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 85
+packages/onnx/backend/test/data/node/test_resize_downsample_sizes_linear_pytorch_half_pixel/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_conv_with_autopad_same/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_conv_with_autopad_same/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_conv_with_autopad_same/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_sce_sum/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
-packages/onnx/backend/test/data/node/test_convtranspose_autopad_same/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
 packages/onnx/backend/test/data/node/test_convtranspose_autopad_same/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_convtranspose_autopad_same/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
 packages/onnx/backend/test/data/node/test_convtranspose_autopad_same/test_data_set_0/output_0.pb: HP s500 pure executable
 packages/onnx/backend/test/data/node/test_deform_conv_with_multiple_offset_groups/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
 packages/onnx/backend/test/data/node/test_deform_conv_with_multiple_offset_groups/test_data_set_0/input_0.pb: HP s500 pure executable
@@ -235,8 +235,8 @@ packages/onnx/backend/test/data/node/test_resize_upsample_scales_nearest/test_da
 packages/onnx/backend/test/data/node/test_resize_upsample_scales_nearest/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_l1_default_axes_keepdims_random_expanded/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_gridsample_volumetric_nearest_align_corners_1/test_data_set_0/input_1.pb: HP s500 pure executable
-packages/onnx/backend/test/data/node/test_gridsample_volumetric_nearest_align_corners_1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_gridsample_volumetric_nearest_align_corners_1/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 74
+packages/onnx/backend/test/data/node/test_gridsample_volumetric_nearest_align_corners_1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_shape_start_1_end_2/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_softmax_example_expanded_ver18/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_softmax_example_expanded_ver18/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 25
@@ -285,8 +285,8 @@ packages/onnx/backend/test/data/node/test_castlike_FLOAT16_to_DOUBLE_expanded/te
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_5.pb: PDP-11 pure executable not stripped - version 105
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_6.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 61
+packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_6.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_qlinearconv/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_averagepool_3d_dilations_small/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
@@ -311,19 +311,19 @@ packages/onnx/backend/test/data/node/test_conv_with_strides_padding/test_data_se
 packages/onnx/backend/test/data/node/test_maxpool_2d_precomputed_pads/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_maxpool_2d_precomputed_pads/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gridsample_bicubic_align_corners_0_additional_1/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
-packages/onnx/backend/test/data/node/test_gridsample_bicubic_align_corners_0_additional_1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gridsample_bicubic_align_corners_0_additional_1/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 115
+packages/onnx/backend/test/data/node/test_gridsample_bicubic_align_corners_0_additional_1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_nllloss_NCd1_mean_weight_negative_ii_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_linear_align_corners/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_linear_align_corners/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_FLOAT8E4M3FN_to_FLOAT_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 62
 packages/onnx/backend/test/data/node/test_quantizelinear_uint16/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
-packages/onnx/backend/test/data/node/test_range_float_type_positive_delta_expanded/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_range_float_type_positive_delta_expanded/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
+packages/onnx/backend/test/data/node/test_range_float_type_positive_delta_expanded/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_range_float_type_positive_delta_expanded/test_data_set_0/input_2.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 115
-packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 100
+packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped - version 104
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 116
 packages/onnx/backend/test/data/node/test_training_dropout_zero_ratio_mask/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
@@ -336,8 +336,8 @@ packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/input_1.p
 packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 31
 packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_gridsample_bilinear_align_corners_1_additional_1/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
 packages/onnx/backend/test/data/node/test_gridsample_bilinear_align_corners_1_additional_1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_gridsample_bilinear_align_corners_1_additional_1/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
 packages/onnx/backend/test/data/node/test_gridsample_bilinear_align_corners_1_additional_1/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_layer_normalization_3d_axis_negative_3_epsilon_expanded/test_data_set_0/output_1.pb: PDP-11 pure executable not stripped - version 4
 packages/onnx/backend/test/data/node/test_layer_normalization_3d_axis_negative_3_epsilon_expanded/test_data_set_0/output_2.pb: PDP-11 pure executable not stripped - version 100
@@ -378,8 +378,8 @@ packages/onnx/backend/test/data/node/test_reduce_max_bool_inputs/test_data_set_0
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_1.pb: HP s500 pure executable - version 1717973066
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 101
-packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped - version 104
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 116
+packages/onnx/backend/test/data/node/test_nonmaxsuppression_two_classes/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped - version 104
 packages/onnx/backend/test/data/node/test_string_concat_broadcasting/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_mean_do_not_keepdims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gemm_default_single_elem_vector_bias/test_data_set_0/input_2.pb: PDP-11 pure executable
@@ -405,8 +405,8 @@ packages/onnx/backend/test/data/node/test_squeeze_negative_axes/test_data_set_0/
 packages/onnx/backend/test/data/node/test_squeeze_negative_axes/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 120
 packages/onnx/backend/test/data/node/test_squeeze_negative_axes/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_maxpool_with_argmax_2d_precomputed_strides/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_maxpool_with_argmax_2d_precomputed_strides/test_data_set_0/output_1.pb: PDP-11 pure executable not stripped - version 6
 packages/onnx/backend/test/data/node/test_maxpool_with_argmax_2d_precomputed_strides/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_maxpool_with_argmax_2d_precomputed_strides/test_data_set_0/output_1.pb: PDP-11 pure executable not stripped - version 6
 packages/onnx/backend/test/data/node/test_maxpool_2d_default/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 96
 packages/onnx/backend/test/data/node/test_maxpool_2d_default/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 90
 packages/onnx/backend/test/data/node/test_averagepool_2d_precomputed_strides/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
@@ -418,8 +418,8 @@ packages/onnx/backend/test/data/node/test_top_k_negative_axis/test_data_set_0/in
 packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_max/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_max/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 102
 packages/onnx/backend/test/data/node/test_scatter_elements_with_reduction_max/test_data_set_0/input_2.pb: HP s500 pure executable
-packages/onnx/backend/test/data/node/test_col2im_5d/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_col2im_5d/test_data_set_0/output_0.pb: HP s500 pure executable - version 1953853556
+packages/onnx/backend/test/data/node/test_col2im_5d/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_cubic/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_cubic/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 2
 packages/onnx/backend/test/data/node/test_reduce_l2_keep_dims_random_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
@@ -480,8 +480,8 @@ packages/onnx/backend/test/data/node/test_conv_with_strides_no_padding/test_data
 packages/onnx/backend/test/data/node/test_conv_with_strides_no_padding/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_l1_keep_dims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 107
+packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_deform_conv_with_mask_bias/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 115
@@ -491,8 +491,8 @@ packages/onnx/backend/test/data/node/test_reduce_l1_do_not_keepdims_example/test
 packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_5.pb: PDP-11 pure executable not stripped - version 105
 packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_6.pb: PDP-11 pure executable not stripped - version 14
-packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_7.pb: PDP-11 pure executable not stripped - version 105
+packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_qlinearmatmul_2D/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 105
 packages/onnx/backend/test/data/node/test_castlike_STRING_to_FLOAT/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 62
 packages/onnx/backend/test/data/node/test_gridsample_bilinear/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
@@ -504,8 +504,8 @@ packages/onnx/backend/test/data/node/test_sce_mean_weight_ii_log_prob_expanded/t
 packages/onnx/backend/test/data/node/test_sce_mean_weight_log_prob_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_averagepool_2d_dilations/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_averagepool_2d_dilations/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/output_1.pb: PDP-11 pure executable not stripped - version 63
+packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_adagrad/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped
@@ -612,8 +612,8 @@ packages/onnx/backend/test/data/node/test_averagepool_2d_strides/test_data_set_0
 packages/onnx/backend/test/data/node/test_averagepool_2d_strides/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 9
 packages/onnx/backend/test/data/node/test_reduce_min_do_not_keepdims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_l2_do_not_keepdims_random_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_dequantizelinear_axis/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 3
 packages/onnx/backend/test/data/node/test_dequantizelinear_axis/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_dequantizelinear_axis/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 3
 packages/onnx/backend/test/data/node/test_nllloss_NCd1d2d3d4d5_mean_weight_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_axes_3_2/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_axes_3_2/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 1
@@ -636,8 +636,8 @@ packages/onnx/backend/test/data/node/test_simple_rnn_defaults/test_data_set_0/in
 packages/onnx/backend/test/data/node/test_simple_rnn_defaults/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_simple_rnn_defaults/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_simple_rnn_defaults/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_gridsample_border_padding/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
 packages/onnx/backend/test/data/node/test_gridsample_border_padding/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_gridsample_border_padding/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
 packages/onnx/backend/test/data/node/test_gridsample_border_padding/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_output_shape/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
 packages/onnx/backend/test/data/node/test_convtranspose_output_shape/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
@@ -645,8 +645,8 @@ packages/onnx/backend/test/data/node/test_convtranspose_output_shape/test_data_s
 packages/onnx/backend/test/data/node/test_reduce_prod_default_axes_keepdims_example/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_reduce_l2_keep_dims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_dilations/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_convtranspose_dilations/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_dilations/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_convtranspose_dilations/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_l2_do_not_keepdims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_argmin_default_axis_random_select_last_index/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 116
 packages/onnx/backend/test/data/node/test_reduce_log_sum_exp_do_not_keepdims_example_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
@@ -686,8 +686,8 @@ packages/onnx/backend/test/data/node/test_gridsample_nearest_align_corners_0_add
 packages/onnx/backend/test/data/node/test_gridsample_nearest_align_corners_0_additional_1/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_argmax_default_axis_random_select_last_index/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 116
 packages/onnx/backend/test/data/node/test_gridsample_nearest/test_data_set_0/input_1.pb: HP s500 pure executable - version 16458
-packages/onnx/backend/test/data/node/test_gridsample_nearest/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gridsample_nearest/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_gridsample_nearest/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_clip_splitbounds/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_clip_splitbounds/test_data_set_0/input_2.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_nllloss_NCd1d2_reduction_mean/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
@@ -713,8 +713,8 @@ packages/onnx/backend/test/data/node/test_mod_broadcast/test_data_set_0/input_1.
 packages/onnx/backend/test/data/node/test_quantizelinear_int16/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_reduce_l2_empty_set_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_log_sum_exp_keepdims_random_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/output_4.pb: PDP-11 pure executable not stripped - version 31
 packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
+packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/output_4.pb: PDP-11 pure executable not stripped - version 31
 packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/input_6.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/input_8.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_adam_multiple/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped
@@ -729,8 +729,8 @@ packages/onnx/backend/test/data/node/test_sce_mean_no_weight_ii_3d_log_prob/test
 packages/onnx/backend/test/data/node/test_reduce_max_negative_axes_keepdims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_FLOAT8E5M2FNUZ_to_FLOAT/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 63
 packages/onnx/backend/test/data/node/test_convtranspose_1d/test_data_set_0/input_1.pb: HP s500 pure executable
-packages/onnx/backend/test/data/node/test_convtranspose_1d/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_1d/test_data_set_0/output_0.pb: HP s500 pure executable
+packages/onnx/backend/test/data/node/test_convtranspose_1d/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_sce_sum_expanded/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_castlike_FLOAT8E4M3FN_to_FLOAT/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 62
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_suppress_by_IOU/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 115
@@ -831,11 +831,11 @@ packages/onnx/backend/test/data/node/test_reflect_pad/test_data_set_0/output_0.p
 packages/onnx/backend/test/data/node/test_reduce_sum_square_keepdims_random_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_max_default_axes_keepdim_example/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/node/test_reduce_sum_square_negative_axes_keepdims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
-packages/onnx/backend/test/data/node/test_globalmaxpool_precomputed/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_globalmaxpool_precomputed/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_globalmaxpool_precomputed/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_pads/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
-packages/onnx/backend/test/data/node/test_convtranspose_pads/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_pads/test_data_set_0/output_0.pb: HP s500 pure executable - version 1065353216
+packages/onnx/backend/test/data/node/test_convtranspose_pads/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_DOUBLE_to_FLOAT16/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_floor_align_corners/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_floor_align_corners/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 2
@@ -850,8 +850,8 @@ packages/onnx/backend/test/data/node/test_sce_mean_no_weight_ii_3d_log_prob_expa
 packages/onnx/backend/test/data/node/test_reduce_sum_negative_axes_keepdims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convinteger_with_padding/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 2
 packages/onnx/backend/test/data/node/test_convinteger_with_padding/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 1
-packages/onnx/backend/test/data/node/test_loop11/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 80
 packages/onnx/backend/test/data/node/test_loop11/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_loop11/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 80
 packages/onnx/backend/test/data/node/test_convtranspose_pad/test_data_set_0/input_1.pb: HP s500 pure executable - version 4161536
 packages/onnx/backend/test/data/node/test_convtranspose_pad/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_convtranspose_pad/test_data_set_0/output_0.pb: HP s500 pure executable
@@ -937,20 +937,20 @@ packages/onnx/backend/test/data/node/test_layer_normalization_2d_axis0_expanded_
 packages/onnx/backend/test/data/node/test_reduce_log_sum_exp_keepdims_example_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_max_keepdims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_max_default_axes_keepdims_random/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 101
-packages/onnx/backend/test/data/node/test_globalmaxpool/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 2
 packages/onnx/backend/test/data/node/test_globalmaxpool/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_globalmaxpool/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 2
 packages/onnx/backend/test/data/node/test_lppool_3d_default/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_lppool_3d_default/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_reduce_l2_negative_axes_keep_dims_example/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_nllloss_NCd1d2d3d4d5_mean_weight/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_not_larger/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_upsample_sizes_nearest_not_larger/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 2
-packages/onnx/backend/test/data/node/test_upsample_nearest/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_upsample_nearest/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_upsample_nearest/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_castlike_FLOAT_to_FLOAT8E5M2_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped - version 115
-packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_4.pb: PDP-11 pure executable not stripped - version 101
+packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 74
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_3.pb: PDP-11 pure executable not stripped - version 104
 packages/onnx/backend/test/data/node/test_nonmaxsuppression_center_point_box_format/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped - version 116
 packages/onnx/backend/test/data/node/test_scatter_elements_with_duplicate_indices/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
@@ -965,8 +965,8 @@ packages/onnx/backend/test/data/simple/test_expand_shape_model3/test_data_set_0/
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_1.pb: 0420 Alliant virtual executable
-packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_2.pb: 0420 Alliant virtual executable
+packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_0.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_expand_shape_model4/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/simple/test_strnorm_model_monday_insensintive_upper_twodim/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 7
 packages/onnx/backend/test/data/simple/test_strnorm_model_monday_insensintive_upper_twodim/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 50
@@ -989,15 +989,15 @@ packages/onnx/backend/test/data/pytorch-operator/test_operator_add_size1_singlet
 packages/onnx/backend/test/data/pytorch-operator/test_operator_reduced_sum/test_data_set_0/output_0.pb: HP s500 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_pow/test_data_set_0/input_1.pb: HP s500 pure executable - version 1016852514
 packages/onnx/backend/test/data/pytorch-operator/test_operator_pow/test_data_set_0/output_0.pb: HP s500 pure executable
-packages/onnx/backend/test/data/pytorch-operator/test_operator_permute2/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 4
 packages/onnx/backend/test/data/pytorch-operator/test_operator_permute2/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 4
+packages/onnx/backend/test/data/pytorch-operator/test_operator_permute2/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 4
 packages/onnx/backend/test/data/pytorch-operator/test_operator_flatten/test_data_set_0/output_0.pb: PDP-11 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_selu/test_data_set_0/output_0.pb: HP s500 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_basic/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/pytorch-operator/test_operator_basic/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/pytorch-operator/test_operator_basic/test_data_set_0/output_0.pb: PDP-11 pure executable
-packages/onnx/backend/test/data/pytorch-operator/test_operator_view/test_data_set_0/input_0.pb: PDP-11 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_view/test_data_set_0/output_0.pb: PDP-11 pure executable
+packages/onnx/backend/test/data/pytorch-operator/test_operator_view/test_data_set_0/input_0.pb: PDP-11 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_repeat/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/pytorch-operator/test_operator_reduced_sum_keepdim/test_data_set_0/output_0.pb: HP s500 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_index/test_data_set_0/input_0.pb: PDP-11 pure executable
@@ -1014,4 +1014,3 @@ packages/onnx/backend/test/data/pytorch-operator/test_operator_symbolic_override
 packages/onnx/backend/test/data/pytorch-operator/test_operator_symbolic_override_nested/test_data_set_0/output_2.pb: PDP-11 pure executable
 packages/onnx/backend/test/data/pytorch-operator/test_operator_symbolic_override_nested/test_data_set_0/input_2.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/pytorch-operator/test_operator_reduced_mean/test_data_set_0/output_0.pb: HP s500 pure executable - version 874298937
-packages/PQAnalysis/__pycache__/__init__.cpython-311.pyc: data
