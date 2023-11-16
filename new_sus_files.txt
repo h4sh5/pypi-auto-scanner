@@ -1,20 +1,74 @@
-packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
-packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/sources.cpython-311.pyc: data
-packages/gandai/__pycache__/services.cpython-311.pyc: data
-packages/gandai/__pycache__/google.cpython-311.pyc: data
-packages/gandai/__pycache__/grata.cpython-311.pyc: data
-packages/gandai/__pycache__/datastore.cpython-311.pyc: data
-packages/gandai/__pycache__/query.cpython-311.pyc: data
-packages/gandai/__pycache__/main.cpython-311.pyc: data
-packages/gandai/__pycache__/constants.cpython-311.pyc: data
-packages/gandai/__pycache__/tasks.cpython-311.pyc: data
-packages/gandai/__pycache__/helpers.cpython-311.pyc: data
-packages/gandai/__pycache__/gpt.cpython-311.pyc: data
-packages/gandai/__pycache__/db.cpython-311.pyc: data
-packages/gandai/__pycache__/__init__.cpython-311.pyc: data
-packages/gandai/__pycache__/auth.cpython-311.pyc: data
-packages/gandai/__pycache__/adapters.cpython-311.pyc: data
-packages/gandai/__pycache__/secrets.cpython-311.pyc: data
-packages/gandai/__pycache__/analytics.cpython-311.pyc: data
-packages/gandai/__pycache__/models.cpython-311.pyc: data
+packages/pruna/algorithms/smasher_config.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/pruning/prune.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/pruning/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/lit_llm_int8.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/torch_qat.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/lit_gptq.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/bitsandbytes.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/torch_static.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/auto_gptq.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/quantize.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/torch_dynamic.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/quantization/hugginface_gptq.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/compile.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/stable_diffusion/optimize_diffusers.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/stable_diffusion/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/ctranslate2/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/ctranslate2/optimize_ctranslate2.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/compilation_wrappers.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/compilation/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/model_config.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/factorization/factorize.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/factorization/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/algorithms/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/run_inference.pyc: python 3.9 byte-compiled
+packages/pruna/smash.pyc: python 3.9 byte-compiled
+packages/pruna/smash_for_inference.pyc: python 3.9 byte-compiled
+packages/pruna/data/PubchemSelfiesGenerationDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/C4DataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/PolyglotDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/RandomImageDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/SingleInpaintDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/SingleImage2ImageDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/CommonVoiceDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/ImageNetDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/COCODataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/MNISTDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/LAION256DataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/WikiTextDataModule.pyc: python 3.9 byte-compiled
+packages/pruna/data/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_training.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_all.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_deviation.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_inference.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_detection.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_classification.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_memory.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/evaluate_segmentation.pyc: python 3.9 byte-compiled
+packages/pruna/evaluations/__init__.pyc: python 3.9 byte-compiled
+packages/pruna/smash_for_training.pyc: python 3.9 byte-compiled
+packages/pruna/__init__.pyc: python 3.9 byte-compiled
+packages/rps_milea/templatetags/__pycache__/milea_override_tags.cpython-311.pyc: data
+packages/rps_milea/templatetags/__pycache__/milea_tags.cpython-311.pyc: data
+packages/rps_milea/templatetags/__pycache__/milea_menu.cpython-311.pyc: data
+packages/rps_milea/models/__pycache__/defaults.cpython-311.pyc: data
+packages/rps_milea/models/__pycache__/__init__.cpython-311.pyc: data
+packages/rps_milea/models/__pycache__/choices.cpython-311.pyc: data
+packages/rps_milea/admin/__pycache__/defaults.cpython-311.pyc: data
+packages/rps_milea/admin/__pycache__/users.cpython-311.pyc: data
+packages/rps_milea/admin/__pycache__/__init__.cpython-311.pyc: data
+packages/rps_milea/admin/__pycache__/choices.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/0005_alter_mileachoices_created_by_and_more.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/0003_alter_mileachoices_options_and_more.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/0001_initial.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/0002_alter_mileachoices_created_by_and_more.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/0004_alter_mileachoices_model.cpython-311.pyc: data
+packages/rps_milea/migrations/__pycache__/__init__.cpython-311.pyc: data
+packages/rps_milea/__pycache__/apps.cpython-311.pyc: data
+packages/rps_milea/__pycache__/utils.cpython-311.pyc: data
+packages/rps_milea/__pycache__/__init__.cpython-311.pyc: data
+packages/rps_milea/__pycache__/settings.cpython-311.pyc: data
+packages/docs/conf.pyc: python 3.9 byte-compiled
+packages/docs/__init__.pyc: python 3.9 byte-compiled
+packages/tests/__init__.pyc: python 3.9 byte-compiled
