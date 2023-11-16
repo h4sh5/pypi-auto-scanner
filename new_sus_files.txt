@@ -1,20 +1,12 @@
-packages/cmeel.prefix/bin/hwloc-bind: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=df7f400e3c454aa1ea0311ff4c80593a6474e5c0, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-distrib: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f87c627937bfb4d6956243a0c751be72d7e9c005, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/lstopo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f3081005fc6be2af8b4bda238c7e1eea7f8cb3c0, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-patch: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=183539fabed90cb8e79f1d4d54c9ebff52414645, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-ls: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f3081005fc6be2af8b4bda238c7e1eea7f8cb3c0, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-gather-cpuid: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d3cc92c4ffdc2bba99d258e036a94e0ce2da363a, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/lstopo-no-graphics: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f3081005fc6be2af8b4bda238c7e1eea7f8cb3c0, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-calc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=319393d8401f6e267fb551b7c3459bbe751be39c, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-diff: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d71c7466227672e0d185f7e0c2c1ba8e267b63b6, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-info: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b6c975e5447b784615119ff8b45f00c7b9ec71d6, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-ps: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=be4baf17a6af9a467213c5e51bd1fc692a1217ae, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/bin/hwloc-annotate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3a094a8930309d0c0a190d4354efd15d7b748529, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/cmeel.prefix/sbin/hwloc-dump-hwdata: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=677e65ceb8c67ba673c7e37daf98bc92db192eb1, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/vineyard/bdist/vineyardd: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2011dd43b1037a3fb7393921b5eabe597a34c5f2, for GNU/Linux 2.6.32, stripped
-packages/vineyard/bdist/vineyardctl: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, no section header
+packages/shell_proc/__pycache__/__meta__.cpython-311.pyc: data
+packages/shell_proc/__pycache__/non_blocking_pipe.cpython-311.pyc: data
+packages/shell_proc/__pycache__/__init__.cpython-311.pyc: data
+packages/shell_proc/__pycache__/shell.cpython-311.pyc: data
 packages/agentforge/utils/guiutils/__pycache__/listenforui.cpython-311.pyc: data
 packages/agentforge/utils/guiutils/__pycache__/__init__.cpython-311.pyc: data
 packages/agentforge/utils/guiutils/__pycache__/sendtoui.cpython-311.pyc: data
 packages/agentforge/utils/installer/__pycache__/__init__.cpython-311.pyc: data
 packages/agentforge/utils/installer/__pycache__/agentforge_cli.cpython-311.pyc: data
+packages/prompt_args/__pycache__/prompt_args.cpython-311.pyc: data
+packages/prompt_args/__pycache__/__init__.cpython-311.pyc: data
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a25c46858650f0bed6001798226c3b9cf8ddd950, for GNU/Linux 3.2.0, with debug_info, not stripped
