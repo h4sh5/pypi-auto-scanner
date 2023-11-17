@@ -1,56 +1,3 @@
-packages/pruna/algorithms/smasher_config.pyc: data
-packages/pruna/algorithms/pruning/prune.pyc: data
-packages/pruna/algorithms/pruning/__init__.pyc: data
-packages/pruna/algorithms/quantization/lit_llm_int8.pyc: data
-packages/pruna/algorithms/quantization/torch_qat.pyc: data
-packages/pruna/algorithms/quantization/lit_gptq.pyc: data
-packages/pruna/algorithms/quantization/bitsandbytes.pyc: data
-packages/pruna/algorithms/quantization/torch_static.pyc: data
-packages/pruna/algorithms/quantization/auto_gptq.pyc: data
-packages/pruna/algorithms/quantization/quantize.pyc: data
-packages/pruna/algorithms/quantization/torch_dynamic.pyc: data
-packages/pruna/algorithms/quantization/__init__.pyc: data
-packages/pruna/algorithms/quantization/hugginface_gptq.pyc: data
-packages/pruna/algorithms/compilation/compile.pyc: data
-packages/pruna/algorithms/compilation/stable_diffusion/optimize_diffusers.pyc: data
-packages/pruna/algorithms/compilation/stable_diffusion/__init__.pyc: data
-packages/pruna/algorithms/compilation/ctranslate2/__init__.pyc: data
-packages/pruna/algorithms/compilation/ctranslate2/optimize_ctranslate2.pyc: data
-packages/pruna/algorithms/compilation/compilation_wrappers.pyc: data
-packages/pruna/algorithms/compilation/__init__.pyc: data
-packages/pruna/algorithms/model_config.pyc: data
-packages/pruna/algorithms/factorization/factorize.pyc: data
-packages/pruna/algorithms/factorization/__init__.pyc: data
-packages/pruna/algorithms/__init__.pyc: data
-packages/pruna/run_inference.pyc: data
-packages/pruna/smash.pyc: data
-packages/pruna/smash_for_inference.pyc: data
-packages/pruna/data/PubchemSelfiesGenerationDataModule.pyc: data
-packages/pruna/data/C4DataModule.pyc: data
-packages/pruna/data/PolyglotDataModule.pyc: data
-packages/pruna/data/RandomImageDataModule.pyc: data
-packages/pruna/data/SingleInpaintDataModule.pyc: data
-packages/pruna/data/SingleImage2ImageDataModule.pyc: data
-packages/pruna/data/CommonVoiceDataModule.pyc: data
-packages/pruna/data/ImageNetDataModule.pyc: data
-packages/pruna/data/COCODataModule.pyc: data
-packages/pruna/data/MNISTDataModule.pyc: data
-packages/pruna/data/LAION256DataModule.pyc: data
-packages/pruna/data/WikiTextDataModule.pyc: data
-packages/pruna/data/__init__.pyc: data
-packages/pruna/evaluations/evaluate_training.pyc: data
-packages/pruna/evaluations/evaluate_all.pyc: data
-packages/pruna/evaluations/evaluate_deviation.pyc: data
-packages/pruna/evaluations/evaluate_inference.pyc: data
-packages/pruna/evaluations/evaluate_detection.pyc: data
-packages/pruna/evaluations/evaluate_classification.pyc: data
-packages/pruna/evaluations/evaluate_memory.pyc: data
-packages/pruna/evaluations/evaluate_segmentation.pyc: data
-packages/pruna/evaluations/__init__.pyc: data
-packages/pruna/smash_for_training.pyc: data
-packages/pruna/__init__.pyc: data
-packages/docs/conf.pyc: data
-packages/docs/__init__.pyc: data
 packages/QPT_SDK/QVCRedist/vcredist/vcomp140.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/QPT_SDK/QVCRedist/vcredist/vcamp140.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/QPT_SDK/QVCRedist/vcredist/msvcp140_1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
@@ -113,3 +60,5 @@ packages/QPT_SDK/QEnvPython/python38/vcruntime140_1.dll: PE32+ executable (DLL) 
 packages/driftdb/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
 packages/driftdb/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
 packages/driftdb/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=qlypuyAN5c7ptyNNv8it/MWq5wpVqyzii8-62Q54P/V_7w04Q77trQCZNJ_21A/phrUsVQHPwUX8XHNpvq-, with debug_info, not stripped
+packages/vocola2/exec/dvc2vcl.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/vocola2/vclEdit/vclEdit.exe: PE32 executable (GUI) Intel 80386, for MS Windows
