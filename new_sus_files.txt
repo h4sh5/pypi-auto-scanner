@@ -335,8 +335,8 @@ packages/onnx/backend/test/data/node/test_nonmaxsuppression_single_box/test_data
 packages/onnx/backend/test/data/node/test_training_dropout_zero_ratio_mask/test_data_set_0/input_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/node/test_castlike_FLOAT_to_FLOAT8E4M3FN_expanded/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_strnormalizer_export_monday_empty_output/test_data_set_0/output_0.pb: PDP-11 pure executable
-packages/onnx/backend/test/data/node/test_resize_downsample_scales_linear_antialias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_resize_downsample_scales_linear_antialias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
+packages/onnx/backend/test/data/node/test_resize_downsample_scales_linear_antialias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_reduce_max_keepdims_random/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/input_1.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/node/test_gru_defaults/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
