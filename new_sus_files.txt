@@ -1,3 +1,4 @@
+packages/example_package_chenwenjun/logAnalyzer.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/lalapps/bin/lalinference_bench: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7c2aa9a21958e51587aae8a2fabc138ff7c81d4c, stripped
 packages/lalapps/bin/lalfr-paste: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5cbdbd441577fa85c8558bb3fb5fc19ab2105ead, stripped
 packages/lalapps/bin/lal_simd_detect: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9d81ce00f612e9983167efbeed4fba5b234a6e1d, stripped
@@ -120,10 +121,13 @@ packages/lalapps/bin/lalpulsar_PredictFstat: ELF 64-bit LSB executable, x86-64, 
 packages/lalapps/bin/lalpulsar_fits_overview: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=58deedb9dc51acb29772c184988519ba0698eee9, stripped
 packages/lalapps/bin/lal_cache: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0590b70eed94b50332a7ab67781267efcef36312, stripped
 packages/happyx/happyx.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/framework_models/finalclassifier/__pycache__/__init__.cpython-310.pyc: data
-packages/framework_models/finalclassifier/__pycache__/FinalClassifier.cpython-310.pyc: data
-packages/framework_models/finalclassifier/__pycache__/data_cleaning.cpython-310.pyc: data
-packages/framework_models/ml_function_classifier/__pycache__/__init__.cpython-310.pyc: data
-packages/framework_models/ml_function_classifier/__pycache__/MLFunctionClassifier.cpython-310.pyc: data
-packages/framework_models/ml_function_classifier/__pycache__/data_cleaning.cpython-310.pyc: data
-packages/framework_models/__pycache__/__init__.cpython-310.pyc: data
+packages/mindrove/lib/DataHandler32.dll: PE32 executable (DLL) (console) ARMv7 Thumb, for MS Windows
+packages/mindrove/lib/MindRoveBluetooth32.dll: PE32 executable (DLL) (console) ARMv7 Thumb, for MS Windows
+packages/mindrove/lib/DataHandler.dll: PE32+ executable (DLL) (console) Aarch64, for MS Windows
+packages/mindrove/lib/BoardController32.dll: PE32 executable (DLL) (console) ARMv7 Thumb, for MS Windows
+packages/mindrove/lib/MindRoveBluetooth.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/mindrove/lib/BoardController.dll: PE32+ executable (DLL) (console) Aarch64, for MS Windows
+packages/mindrove/lib/MLModule.dll: PE32+ executable (DLL) (console) Aarch64, for MS Windows
+packages/mindrove/lib/simpleble-c.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/cairo-lang-0.13.0a1/starkware/starknet/compiler/v1/sierra-compiler-major-1/bin/starknet-sierra-compile: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=b18d2b92107df813408f6589a61941f5005bbdb6, with debug_info, not stripped
+packages/cairo-lang-0.13.0a1/starkware/starknet/compiler/v1/sierra-compiler-major-1/bin/starknet-compile: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=2c9957c6a4b4b6b699d254d545a748ab5bd1e67a, with debug_info, not stripped
