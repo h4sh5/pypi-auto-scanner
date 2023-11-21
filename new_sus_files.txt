@@ -1,2 +1,7 @@
-packages/appsignal/appsignal-agent: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=17ab15730f3139b2d643c6235faef829e66bb8fd, stripped
+packages/opsys_gimbal_controller/newmark/gclib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/opsys_gimbal_controller/newmark/libssl-1_1-x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/opsys_gimbal_controller/newmark/gclibo.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/opsys_gimbal_controller/newmark/libcrypto-1_1-x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/opsys_gimbal_controller/thorlabs/Thorlabs.MotionControl.DeviceManager.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/opsys_gimbal_controller/thorlabs/Thorlabs.MotionControl.Benchtop.StepperMotor.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a25c46858650f0bed6001798226c3b9cf8ddd950, for GNU/Linux 3.2.0, with debug_info, not stripped
