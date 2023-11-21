@@ -1,10 +1,3 @@
 packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/setuptools/cli.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/cli-32.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/gui-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
-packages/setuptools/gui-32.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/gui-64.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/setuptools/cli-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
-packages/setuptools/gui.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/cli-64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/flet/bin/fletd: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=CcxOXxATbJNpKKCgChq_/OPCu5UXZHZIWhfcJgIje/uWp7ye_Djt6iWJeT90wm/G70ZFMnd5Oz2Z_5cyAVo, stripped
