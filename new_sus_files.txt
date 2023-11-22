@@ -30,6 +30,23 @@ packages/ozi/__pycache__/filter.cpython-310.pyc: data
 packages/ozi/__pycache__/fix.cpython-310.pyc: data
 packages/ozi/__pycache__/actions.cpython-310.pyc: data
 packages/ozi/actions.pyc: data
+packages/kb_python/bins/linux/kallisto/kallisto: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f4607056e4804c5aedf18901a868857bcc7450ea, with debug_info, not stripped
+packages/kb_python/bins/linux/bustools/bustools: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.9, BuildID[sha1]=e2e9ee56129730993712111cabf23c732d33e771, not stripped
+packages/kb_python/bins/windows/kallisto/kallisto.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/kb_python/bins/windows/bustools/bustools.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/kb_python/bins/darwin/kallisto/kallisto: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
+packages/kb_python/bins/darwin/bustools/bustools: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/kb_python/bins/darwin/m1/kallisto/kallisto: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/kb_python/bins/darwin/m1/bustools/bustools: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/clidriver/bin/db2level: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=fd0e35ca865a3052901553d60c58878f36ed1daa, not stripped
+packages/clidriver/bin/db2drdat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=43fa1a8ea181b5e49bd50a58edb061fd1dba3711, not stripped
+packages/clidriver/bin/db2support: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=6551f538f43848af78f000853ec6f464c01b91ee, not stripped
+packages/clidriver/bin/db2lddrg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a824c37df81f83ff72d0635c227e6b5011f54e2e, not stripped
+packages/clidriver/bin/db2dsdcfgfill: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=2fb394a8f416449b8d7cf6b8b129883a5707910e, not stripped
+packages/clidriver/bin/db2trc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=6422db3c54f93cdc0f824724fc5882301658c08c, not stripped
+packages/clidriver/bin/db2ldcfg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=3bad9f0ca7c0c521bb02ec51da52145a673c3c3f, not stripped
+packages/clidriver/bin/db2diag: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=d67c192f065c4409aa5827a55b150e69fad7403b, not stripped
+packages/clidriver/bin/db2cli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=718e553aafc88402dd15e4fd7a5ca0a3c1ae77dc, not stripped
 packages/wnix/bin/__pycache__/grep.cpython-311.pyc: data
 packages/wnix/bin/__pycache__/__init__.cpython-311.pyc: data
 packages/wnix/bin/__pycache__/what.cpython-311.pyc: data
