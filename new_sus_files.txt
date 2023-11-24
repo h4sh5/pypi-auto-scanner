@@ -1,12 +1,4 @@
-packages/bin/sentinelcli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, Go BuildID=u8S7b4i4d_pTW_AP-HFt/zIF2-vKTrwIWVmC2koiy/gL-SElOzJlb5BK3jQBLa/ZoCVUWPsV3E4ORVX3Xed, with debug_info, not stripped
-packages/bin/tun2socks: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, stripped
-packages/bin/warp-cli: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d7f721e5f9965e78d35c3d561813c4ffaeb7a1ec, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/bin/warp-svc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=23e5d816e635cc7cc3f366c1a9b669bfc535b847, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/bin/v2ray: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, stripped
-packages/sampo/native/cmake-build-release/native.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/cmake-build-release/CMakeFiles/FindOpenMP/ompver_CXX.bin: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/cmake-build-release/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin: PE32+ executable (console) x86-64, for MS Windows
-packages/sampo/native/cmake-build-release/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/symai/backend/driver/chromedriver: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, stripped
 packages/imspy/algorithm/pretrained/DeepChargeStatePredictor/saved_model.pb: PDP-11 pure executable not stripped - version 10
 packages/imspy/algorithm/pretrained/DeepCCSPredictor/saved_model.pb: PDP-11 pure executable not stripped - version 10
 packages/imspy/algorithm/pretrained/DeepRetentionTimePredictor/saved_model.pb: PDP-11 pure executable not stripped - version 10
