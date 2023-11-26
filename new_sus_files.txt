@@ -1,3 +1,6 @@
+packages/rhvoice_wrapper_data/data/languages/Albanian/accented.dt: VAX-order 68k Blit mpx/mux executable
+packages/rhvoice_wrapper_data/data/languages/Tatar/gpos.fst: VAX-order 68k Blit mpx/mux executable
+packages/rhvoice_wrapper_data/data/languages/English/accents.dt: VAX-order 68K Blit (standalone) executable
 packages/gcsim_pypi/bin/gcsim: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=dV5kkxNRl3lgzk-6hCXL/hb02Xa0ISioe9xJQ7z08/YJl72RPRr0L0M_SCWlIb/XiQaP8MIrCNNkRfGK3os, with debug_info, not stripped
 packages/graphscope.runtime/bin/gaia_executor: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=3b066abd2e909763be3b563f70a8b8d4ebf6ae67, stripped
 packages/graphscope.runtime/bin/grape_engine: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=3d221fa1dfefd41f899e479923bb92f0df6d7ca8, stripped
@@ -20,3 +23,6 @@ packages/graphscope.runtime/openmpi/bin/orte-server: ELF 64-bit LSB executable, 
 packages/graphscope.runtime/openmpi/bin/mpicc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
 packages/graphscope.runtime/openmpi/bin/orterun: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a1707a5b0d8609eff48622c27aeaaa4b4f1aeb5, not stripped
 packages/graphscope.runtime/openmpi/bin/mpirun: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a1707a5b0d8609eff48622c27aeaaa4b4f1aeb5, not stripped
+packages/hata/discord/bin/libopus-0.x64.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/hata/discord/bin/libopus-0.x86.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/hata/discord/application/application_executable: directory
