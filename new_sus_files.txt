@@ -1,6 +1,5 @@
 packages/libkdv/libkdv.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/gcsim_pypi/bin/gcsim: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=dV5kkxNRl3lgzk-6hCXL/hb02Xa0ISioe9xJQ7z08/YJl72RPRr0L0M_SCWlIb/XiQaP8MIrCNNkRfGK3os, with debug_info, not stripped
-packages/gcsim_pypi/bin/gcsim.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/happyx/happyx.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/resdata/.bin/convert.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ff9c71da4b5af2cdfff961287e1af22f4f162eda, for GNU/Linux 2.6.32, not stripped
 packages/resdata/.bin/grdecl_test.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4b567e8be129bb9b2d9eced3b2ba223013bac992, for GNU/Linux 2.6.32, not stripped
 packages/resdata/.bin/grdecl_grid: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6b59afe701aa5e168b694db697aa1c7ad20a7723, for GNU/Linux 2.6.32, not stripped
@@ -18,3 +17,16 @@ packages/resdata/.bin/grid_dump_ascii.x: ELF 64-bit LSB executable, x86-64, vers
 packages/resdata/.bin/select_test.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=98b2f2b95f01e13acf33c1fd720a185d5b59f6fd, for GNU/Linux 2.6.32, not stripped
 packages/resdata/.bin/grid_dump.x: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=00c92ea64fc37328e64d47ff3888ef4b8c2526fb, for GNU/Linux 2.6.32, not stripped
 packages/resdata/.bin/ri_well_test: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fe472dbcad608afdb56bddf1ccf09eface5859c0, for GNU/Linux 2.6.32, not stripped
+packages/garpixcms/models/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/models/__pycache__/page.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/admin/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/admin/__pycache__/page.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/middleware/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/middleware/__pycache__/locale.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/translation/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/translation/__pycache__/page.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/management/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/__pycache__/urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/__pycache__/apps.cpython-38.pyc: python 3.8 byte-compiled
+packages/garpixcms/__pycache__/settings.cpython-38.pyc: python 3.8 byte-compiled
