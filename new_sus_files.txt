@@ -1,4 +1,3 @@
-packages/damo-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8324065f993de297dd2064d9d058bf654a762026, for GNU/Linux 2.6.32, not stripped
 packages/NikGapps/helper/assets/busybox: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, BuildID[sha1]=16068ba72aeb08eb31124718a0c895d24e4cacab, stripped
 packages/NikGapps/helper/assets/update-binary-busybox: a /sbin/sh script executable (binary data)
 packages/NikGapps/helper/assets/bin/Windows/aapt2.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
@@ -9,9 +8,21 @@ packages/NikGapps/helper/assets/bin/Windows/adb.exe: PE32 executable (console) I
 packages/NikGapps/helper/assets/bin/Windows/aapt_64.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
 packages/NikGapps/helper/assets/bin/Linux/aapt2: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, not stripped
 packages/NikGapps/helper/assets/bin/Darwin/aapt2: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
-packages/scanner/cli_tools/linux/mbicseq: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=1b083beffc4e2588c0620b56b0521dccf7dbdd61, with debug_info, not stripped
-packages/scanner/cli_tools/osx/mbicseq: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
-packages/scanner/cli_tools/win/mbicseq.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
 packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
 packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
 packages/gandai/__pycache__/gpt.cpython-311.pyc: data
