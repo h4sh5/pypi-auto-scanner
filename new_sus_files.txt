@@ -1,7 +1,7 @@
-packages/ozi/fix/__init__.pyc: data
 packages/ozi/render.pyc: data
 packages/ozi/fix/__main__.pyc: data
 packages/ozi/fix/parser.pyc: data
+packages/ozi/fix/__init__.pyc: data
 packages/ozi/fix/__pycache__/__init__.cpython-310.pyc: data
 packages/ozi/fix/__pycache__/parser.cpython-310.pyc: data
 packages/ozi/fix/__pycache__/__main__.cpython-310.pyc: data
@@ -22,6 +22,7 @@ packages/ozi/vendor/email_validator/validate_email.pyc: data
 packages/ozi/vendor/email_validator/__main__.pyc: data
 packages/ozi/vendor/email_validator/rfc_constants.pyc: data
 packages/ozi/vendor/email_validator/version.pyc: data
+packages/ozi/vendor/email_validator/syntax.pyc: data
 packages/ozi/vendor/email_validator/exceptions_types.pyc: data
 packages/ozi/vendor/email_validator/deliverability.pyc: data
 packages/ozi/vendor/email_validator/__init__.pyc: data
@@ -37,13 +38,12 @@ packages/ozi/vendor/__init__.pyc: data
 packages/ozi/vendor/__pycache__/__init__.cpython-310.pyc: data
 packages/ozi/__main__.pyc: data
 packages/ozi/tests/ozi_new.pyc: data
+packages/ozi/tests/ozi_fix.pyc: data
 packages/ozi/tests/__pycache__/ozi_fix.cpython-310.pyc: data
 packages/ozi/tests/__pycache__/ozi_new.cpython-310.pyc: data
+packages/ozi/spec.pyc: data
 packages/ozi/meson.pyc: data
 packages/ozi/new/__main__.pyc: data
-packages/ozi/tests/ozi_fix.pyc: data
-packages/ozi/vendor/email_validator/syntax.pyc: data
-packages/ozi/spec.pyc: data
 packages/ozi/new/parser.pyc: data
 packages/ozi/new/__init__.pyc: data
 packages/ozi/new/__pycache__/__init__.cpython-310.pyc: data
@@ -62,142 +62,4 @@ packages/ozi/__pycache__/spdx.cpython-310.pyc: data
 packages/ozi/__pycache__/tap.cpython-310.pyc: data
 packages/ozi/__pycache__/actions.cpython-310.pyc: data
 packages/ozi/actions.pyc: data
-packages/hlokty/assets/kitty.exe: PE32+ executable (GUI) x86-64, for MS Windows
-packages/micrOS/micropython/tinypico-20231005-v1.21.0.bin: DOS executable (COM)
-packages/micrOS/micropython/esp32s3_spiram_oct-20230426-v1.20.0.bin: DOS executable (COM)
-packages/micrOS/micropython/esp32-20231005-v1.21.0.bin: DOS executable (COM)
-packages/micrOS/micropython/esp32s2-20220618-v1.19.1.bin: DOS executable (COM)
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-synch-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-heap-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-datetime-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-debug-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/httplib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-string-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l2-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gslibeay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-locale-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-interlocked-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gsssleay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-handle-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-errorhandling-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-process-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/log4cplus.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-time-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-runtime-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gsexpat.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-string-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-private-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/msvcp140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-util-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxmsg.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-localization-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxcorepy.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows, AIN 2.x self-extracting archive
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-console-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/sqlite3.8.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-convert-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxtp.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-environment-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-namedpipe-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gszlib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-math-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/vccorlib140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-libraryloader-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-timezone-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processenvironment-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processthreads-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/python3.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/ForexConnect.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-stdio-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/pricehistorymgr.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/vcruntime140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-heap-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gstool3.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-sysinfo-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-memory-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-filesystem-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gscurl.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/quotesmgr2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-synch-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/pdas.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-rtlsupport-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-utility-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-profile-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-multibyte-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/ucrtbase.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processthreads-l1-1-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/concrt140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-conio-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/axserve/server/exe/axserve-x86-win32-release.exe: PE32 executable (GUI) Intel 80386, for MS Windows
-packages/axserve/server/exe/axserve-x86-console-release.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/axserve/server/exe/axserve-amd64-win32-release.exe: PE32+ executable (GUI) x86-64, for MS Windows
-packages/axserve/server/exe/axserve-amd64-console-release.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/stuntcat/scenes/platformer/__pycache__/sprite.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/event_handling.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/platformer.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/actions.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/model.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/simplefsm.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/unicyclecat.cpython-311.pyc: data
-packages/stuntcat/scenes/platformer/__pycache__/__init__.cpython-311.pyc: data
-packages/stuntcat/scenes/unisharklazer/__pycache__/flying_objects.cpython-311.pyc: data
-packages/stuntcat/scenes/unisharklazer/__pycache__/cat.cpython-311.pyc: data
-packages/stuntcat/scenes/unisharklazer/__pycache__/__init__.cpython-311.pyc: data
-packages/stuntcat/scenes/unisharklazer/__pycache__/shark.cpython-311.pyc: data
-packages/stuntcat/scenes/unisharklazer/__pycache__/elephant.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/news.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/scene.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/__init__.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/settings.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/loading.cpython-311.pyc: data
-packages/stuntcat/scenes/__pycache__/gameover.cpython-311.pyc: data
-packages/stuntcat/__pycache__/resources.cpython-311.pyc: data
-packages/stuntcat/__pycache__/game.cpython-311.pyc: data
-packages/stuntcat/__pycache__/__init__.cpython-311.pyc: data
-packages/stuntcat/__pycache__/gifmaker.cpython-311.pyc: data
-packages/clij2_fft-0.25.data/data/Library/bin/clij2fft.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/clij2_fft-0.25.data/data/Library/bin/clFFT.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/toolkit/simulator_lib/__pycache__/ds18x20.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/network.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/onewire.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/simgc.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/dht.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/uasyncio.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/neopixel.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/esp32.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/simulator.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/uasyncio.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/framebuf.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/ustruct.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/utime.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/ds18x20.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/tinypico.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/dotstar.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/micropython.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/esp32.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/dotstar.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/machine.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/neopixel.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/utime.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/LP_darwin.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/onewire.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/tinypico.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/sim_console.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/simulator.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/machine.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/micropython.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/framebuf.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/simgc.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/sim_console.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/LP_darwin.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/webrepl.cpython-38.pyc: python 3.8 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/webrepl.cpython-39.pyc: python 3.9 byte-compiled
-packages/toolkit/simulator_lib/__pycache__/network.cpython-39.pyc: python 3.9 byte-compiled
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/arm/silabser.sys: PE32 executable (native) ARMv7 Thumb, for MS Windows
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/arm64/silabser.sys: PE32+ executable (native) Aarch64, for MS Windows
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/CP210xVCPInstaller_x86.exe: PE32 executable (GUI) Intel 80386, for MS Windows
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/x64/silabser.sys: PE32+ executable (native) x86-64, for MS Windows
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/CP210xVCPInstaller_x64.exe: PE32+ executable (GUI) x86-64, for MS Windows
-packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/x86/silabser.sys: PE32 executable (native) Intel 80386, for MS Windows
-packages/SharedData/sharedmutexwin.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/zrb/builtin/generator/fastapp/template/src/kebab-zrb-app-name/monitoring/clickhouse/user_scripts/histogramQuantile: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=R-fpMXtan_yusNy-vyJR/ee9EigNhtQJxntGCAtp-/rX3QPetg3FEvQhgZtM1r/Whe2Vyu_29Caev6PZOs1, not stripped
