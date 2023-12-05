@@ -131,3 +131,6 @@ packages/aphylogeo/bin/clustalw2.exe: PE32 executable (console) Intel 80386, for
 packages/aphylogeo/bin/muscle5.1.linux_intel64: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=03a72f5b225d6defa11113598e3f170cb31ff9e2, for GNU/Linux 3.2.0, stripped
 packages/morph_utils/executable_scripts: directory
 packages/morph_utils/executable_scripts/__init__.py: empty
+packages/RStockvn/chrome_driver/macOS/chromedriver: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>
+packages/RStockvn/chrome_driver/windows/chromedriver.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/RStockvn/chrome_driver/macOS_arm/chromedriver: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>
