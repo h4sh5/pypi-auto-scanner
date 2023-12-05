@@ -1,3 +1,6 @@
+packages/mosec/bin/mosec: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6fdb2f09e6ca339d7867a2ecaf72f0587f2e5fcd, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/sourcery_nightly-1.14.1b25.data/purelib/sourcery/sourcery: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3495fbebef8e13fb873c31c242a6285616c78492, stripped
+packages/edc_dashboard/tests/etc/user-aes-restricted.key: 370 XA sysV executable not stripped - version 32107 - 5.2 format
 packages/garpix_utils/models/__pycache__/polymorphic_available_mixin.cpython-38.pyc: python 3.8 byte-compiled
 packages/garpix_utils/models/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
 packages/garpix_utils/models/__pycache__/polymorphic_active_mixin.cpython-38.pyc: python 3.8 byte-compiled
@@ -32,4 +35,5 @@ packages/garpix_utils/managers/__pycache__/current_site_manager.cpython-38.pyc: 
 packages/garpix_utils/managers/__pycache__/active_on_site_manager.cpython-38.pyc: python 3.8 byte-compiled
 packages/garpix_utils/managers/__pycache__/polymorphic_available_manager.cpython-38.pyc: python 3.8 byte-compiled
 packages/garpix_utils/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/z3_solver-4.12.3.0.data/data/bin/z3: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e1abcdc5e1faae1852d5392e0ece488901123d4c, for GNU/Linux 2.6.32, not stripped
+packages/rally/_vendored/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/TensorFrost/TensorFrost.cp312-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
