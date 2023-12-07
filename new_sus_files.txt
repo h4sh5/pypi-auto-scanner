@@ -4,7 +4,6 @@ packages/arch/__pycache__/__init__.cpython-312.opt-1.pyc: data
 packages/arch/__pycache__/serializers.cpython-312.opt-1.pyc: data
 packages/arch/__pycache__/apps.cpython-312.opt-1.pyc: data
 packages/arch/__pycache__/models.cpython-312.opt-1.pyc: data
-packages/menglingflow_process/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/packages/__pycache__/admin.cpython-312.opt-1.pyc: data
 packages/packages/__pycache__/views.cpython-312.opt-1.pyc: data
 packages/packages/__pycache__/urls.cpython-312.opt-1.pyc: data
@@ -43,7 +42,46 @@ packages/operatingsystems/__pycache__/serializers.cpython-312.opt-1.pyc: data
 packages/operatingsystems/__pycache__/apps.cpython-312.opt-1.pyc: data
 packages/operatingsystems/__pycache__/models.cpython-312.opt-1.pyc: data
 packages/operatingsystems/__pycache__/forms.cpython-312.opt-1.pyc: data
-packages/sourcery_nightly-1.14.1b27.data/purelib/sourcery/sourcery: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=73640eadbe157b48dd2276caf80dcf0f79394f0e, stripped
+packages/paddleocr/ppocr/utils/e2e_utils/__pycache__/extract_batchsize.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/e2e_utils/__pycache__/visual.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_utils/__pycache__/pgnet_pp_utils.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_utils/__pycache__/extract_batchsize.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_utils/__pycache__/pgnet_pp_utils.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/loggers.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/loggers/__pycache__/__init__.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/loggers/__pycache__/loggers.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/vdl_logger.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/base_logger.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/vdl_logger.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/loggers/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/wandb_logger.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/loggers/__pycache__/wandb_logger.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/loggers/__pycache__/base_logger.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_metric/__pycache__/polygon_fast.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_metric/__pycache__/Deteval.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/e2e_metric/__pycache__/Deteval.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/e2e_metric/__pycache__/polygon_fast.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/utility.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/utility.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/__init__.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/save_load.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/gen_label.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/profiler.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/iou.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/network.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/stats.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/stats.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/poly_nms.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/logging.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/network.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/visual.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/save_load.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/visual.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/profiler.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/iou.cpython-310.pyc: data
+packages/paddleocr/ppocr/utils/__pycache__/poly_nms.cpython-37.pyc: python 3.7 byte-compiled
+packages/paddleocr/ppocr/utils/__pycache__/logging.cpython-37.pyc: python 3.7 byte-compiled
 packages/reports/__pycache__/admin.cpython-312.opt-1.pyc: data
 packages/reports/__pycache__/views.cpython-312.opt-1.pyc: data
 packages/reports/__pycache__/urls.cpython-312.opt-1.pyc: data
@@ -99,6 +137,14 @@ packages/patchman/__pycache__/celery.cpython-312.opt-1.pyc: data
 packages/patchman/__pycache__/__init__.cpython-312.opt-1.pyc: data
 packages/patchman/__pycache__/settings.cpython-312.opt-1.pyc: data
 packages/patchman/__pycache__/wsgi.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/admin.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/views.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/urls.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/__init__.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/serializers.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/managers.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/apps.cpython-312.opt-1.pyc: data
+packages/modules/__pycache__/models.cpython-312.opt-1.pyc: data
 packages/repos/templatetags/__pycache__/__init__.cpython-312.opt-1.pyc: data
 packages/repos/templatetags/__pycache__/repo_buttons.cpython-312.opt-1.pyc: data
 packages/repos/__pycache__/admin.cpython-312.opt-1.pyc: data
