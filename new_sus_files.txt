@@ -1,4 +1,14 @@
+packages/charidotella/assets/size: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=0b303fbbed549d6355e3f9d40a81a0573b18a773, for GNU/Linux 2.6.32, stripped
+packages/charidotella/assets/spectrogram: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a51e42226e52021008cab654126fac83a9ee9373, for GNU/Linux 2.6.32, stripped
+packages/charidotella/assets/event_rate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=93eee3ba8515b0facd2bc02c98cbc9ed86e9b819, for GNU/Linux 2.6.32, stripped
+packages/charidotella/assets/es_to_frames: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2b0283b0c1c539820ab188d4fed1b10b34c13299, for GNU/Linux 2.6.32, stripped
+packages/charidotella/assets/spatiospectrogram: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=0fe2cd15f5a45be643385bc12ddce92401175a6e, for GNU/Linux 2.6.32, stripped
 packages/axserve/server/exe/axserve-x86-console-release.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/axserve/server/exe/axserve-amd64-win32-release.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/axserve/server/exe/axserve-amd64-console-release.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/axserve/server/exe/axserve-x86-win32-release.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/gcsim_pypi/bin/gcsim.arm64: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, Go BuildID=_96RmZ2ZAJqC1QYlDINx/3oUEKNKOdMx3klspa507/k9La4jn5Opc6jk05fjos/HrhQabYifDkD8jaC1r1r, with debug_info, not stripped
+packages/gcsim_pypi/bin/gcsim: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=AOigkfDiMmE9sJ2CCb-b/rjxcXwFsvhU1NjO1LW1Y/YJl72RPRr0L0M_SCWlIb/w24Rfgq43TVb9_losjfH, with debug_info, not stripped
+packages/gcsim_pypi/bin/gcsim.darwin.arm64: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/gcsim_pypi/bin/gcsim.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/gcsim_pypi/bin/gcsim.darwin: Mach-O 64-bit x86_64 executable
