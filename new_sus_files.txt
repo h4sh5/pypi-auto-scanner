@@ -11,5 +11,8 @@ packages/src/database/oracle2/instantclient_21_6/oraociei.dll: PE32+ executable 
 packages/src/database/oracle2/instantclient_21_6/orasql.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/oramysql.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/brainrender/atlas_specific/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/brickschema/topquadrant_shacl/org.topbraid.shacl.tools.infer: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/brickschema/topquadrant_shacl/org.topbraid.shacl.tools.validate: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/brickschema/topquadrant_shacl/lib/org.topbraid.shacl.tools.infer: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
 packages/bin/report: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5214f8f2825dcea4733d88ca77ff45d15f157fc4, for GNU/Linux 3.2.0, not stripped
 packages/bin/c5.0: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dde3abe886fab9d4c2850f88ddd8a8bb709a565e, for GNU/Linux 3.2.0, stripped
