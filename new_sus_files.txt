@@ -1,3 +1,7 @@
+packages/pykx/lib/l64/pg: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f134c70be31ad77747adaad62580321c1c19ee67, with debug_info, not stripped
+packages/pykx/lib/l64/kxreaper: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=67694ed566fc97a8888918cce7f7aca72eac9c4c, stripped, too many notes (256)
+packages/pykx/lib/w64/e.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/pykx/lib/w64/q.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/oci.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/oraocci21d.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/adrci.exe: PE32+ executable (console) x86-64, for MS Windows
@@ -10,7 +14,24 @@ packages/src/database/oracle2/instantclient_21_6/uidrvci.exe: PE32+ executable (
 packages/src/database/oracle2/instantclient_21_6/oraociei.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/orasql.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/src/database/oracle2/instantclient_21_6/oramysql.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4748c1f7b7e9626c2d2d17cc24bd2a29c6953522, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/ansys/turbogrid/api/__init__.pyc: data
+packages/ansys/turbogrid/api/cueengine_core.pyc: data
+packages/ansys/turbogrid/api/cueengine_read_messenger.pyc: data
+packages/ansys/turbogrid/api/pyturbogrid_core.pyc: data
+packages/ansys/turbogrid/api/pypost_core.pyc: data
+packages/ansys/turbogrid/api/cueengine_send_messenger.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_utils.pyc: data
+packages/ansys/turbogrid/api/CCL/__init__.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_constants.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_rules_parser.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_object_db.pyc: data
+packages/ansys/turbogrid/api/CCL/object_db_service_interface.pyc: data
+packages/ansys/turbogrid/api/CCL/state_ccl_object.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_object_factory.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_object.pyc: data
+packages/ansys/turbogrid/api/CCL/remote_engine_interface.pyc: data
+packages/ansys/turbogrid/api/CCL/ccl_change_observer_interface.pyc: data
+packages/ansys/turbogrid/api/pypre_core.pyc: data
 packages/gandai/migrations/__pycache__/dealcloud.cpython-311.pyc: data
 packages/gandai/migrations/__pycache__/__init__.cpython-311.pyc: data
 packages/gandai/__pycache__/models.cpython-311.pyc: data
@@ -31,4 +52,3 @@ packages/gandai/__pycache__/db.cpython-311.pyc: data
 packages/gandai/__pycache__/sources.cpython-311.pyc: data
 packages/gandai/__pycache__/tasks.cpython-311.pyc: data
 packages/gandai/__pycache__/gpt.cpython-311.pyc: data
-packages/moc_cli-0.8.0.data/scripts/moc: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8cff394fe4a9dfa1974a2cec77f25c8d1ebae676, for GNU/Linux 3.2.0, stripped
