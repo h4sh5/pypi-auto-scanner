@@ -1,6 +1,86 @@
 packages/idftools/01-verify_registry_windows.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/idftools/02-create_new_registry_windows_runas.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/llmstudio/ui/bun.lockb: a /usr/bin/env bun script executable (binary data)
-packages/marimo/_lsp/copilot/dist/crypt32.node: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/marimo/_lsp/copilot/dist/compiled/win32/x64/kerberos.node: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/edk2toolext/bin/NuGet.exe: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/pruna/__init__.pyc: data
+packages/pruna/run_inference.pyc: data
+packages/pruna/evaluations/evaluate_classification.pyc: data
+packages/pruna/evaluations/__init__.pyc: data
+packages/pruna/evaluations/evaluate_training.pyc: data
+packages/pruna/evaluations/evaluate_deviation.pyc: data
+packages/pruna/evaluations/evaluate_inference.pyc: data
+packages/pruna/evaluations/evaluate_segmentation.pyc: data
+packages/pruna/evaluations/evaluate_memory.pyc: data
+packages/pruna/evaluations/evaluate_detection.pyc: data
+packages/pruna/evaluations/evaluate_all.pyc: data
+packages/pruna/data/CommonVoiceDataModule.pyc: data
+packages/pruna/data/SingleInpaintDataModule.pyc: data
+packages/pruna/data/COCODataModule.pyc: data
+packages/pruna/data/__init__.pyc: data
+packages/pruna/data/MNISTDataModule.pyc: data
+packages/pruna/data/LAION256DataModule.pyc: data
+packages/pruna/data/RandomImageDataModule.pyc: data
+packages/pruna/data/ImageNetDataModule.pyc: data
+packages/pruna/data/PubchemSelfiesGenerationDataModule.pyc: data
+packages/pruna/data/C4DataModule.pyc: data
+packages/pruna/data/PolyglotDataModule.pyc: data
+packages/pruna/data/SingleImage2ImageDataModule.pyc: data
+packages/pruna/data/WikiTextDataModule.pyc: data
+packages/pruna/smash_for_training.pyc: data
+packages/pruna/algorithms/pruning/prune.pyc: data
+packages/pruna/algorithms/pruning/__init__.pyc: data
+packages/pruna/algorithms/smasher_config.pyc: data
+packages/pruna/algorithms/__init__.pyc: data
+packages/pruna/algorithms/quantization/quantize.pyc: data
+packages/pruna/algorithms/quantization/lit_llm_int8.pyc: data
+packages/pruna/algorithms/quantization/auto_gptq.pyc: data
+packages/pruna/algorithms/quantization/__init__.pyc: data
+packages/pruna/algorithms/quantization/huggingface_bnb.pyc: data
+packages/pruna/algorithms/quantization/huggingface_gptq.pyc: data
+packages/pruna/algorithms/quantization/torch_qat.pyc: data
+packages/pruna/algorithms/quantization/bitsandbytes.pyc: data
+packages/pruna/algorithms/quantization/torch_dynamic.pyc: data
+packages/pruna/algorithms/quantization/huggingface_awq.pyc: data
+packages/pruna/algorithms/quantization/hugginface_gptq.pyc: data
+packages/pruna/algorithms/quantization/torch_static.pyc: data
+packages/pruna/algorithms/quantization/lit_gptq.pyc: data
+packages/pruna/algorithms/model_config.pyc: data
+packages/pruna/algorithms/compilation/compilation_wrappers.pyc: data
+packages/pruna/algorithms/compilation/__init__.pyc: data
+packages/pruna/algorithms/compilation/ctranslate2/__init__.pyc: data
+packages/pruna/algorithms/compilation/ctranslate2/optimize_ctranslate2.pyc: data
+packages/pruna/algorithms/compilation/ifw/__init__.pyc: data
+packages/pruna/algorithms/compilation/ifw/optimize_whisper.pyc: data
+packages/pruna/algorithms/compilation/compile.pyc: data
+packages/pruna/algorithms/compilation/stable_diffusion/__init__.pyc: data
+packages/pruna/algorithms/compilation/stable_diffusion/optimize_diffusers.pyc: data
+packages/pruna/algorithms/factorization/__init__.pyc: data
+packages/pruna/algorithms/factorization/factorize.pyc: data
+packages/pruna/smash.pyc: data
+packages/pruna/smash_for_inference.pyc: data
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/msi: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=333fd51b5d37836e26df619399dfad1e69e096b7, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/caget: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9137dddcba04aa7ed7af4c1d669fcbb9f04e7774, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvmonitor: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=009979f79e877c7fdea5c8c7fa9dd13128aabc91, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/catime: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=2da539e69f415060f6542ec8b7df624bcc2ece55, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/caConnTest: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=eff2a5297004c02dfaf16a74fe20b5daef4fa7f3, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/e_flex: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=1ae7e9e6bebcbcd40cab8d783fcd355110b4408d, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/caput: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a58b626398f0804e627af06f2d0a1a1b0f4f558, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvget: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=962990361569c4d3eb99584ef84169bc4d5a3758, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=a7fc9acd22fb2980c39f1c9c1493fd035c4c56fc, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/cainfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=127a2f5bfb152c2db5de728a499619b54ef9f470, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvcall: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f1dc69feb98e9bccb7adf7ffba46ed088016a6a3, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/antelope: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f90006934e846d417cf7213850c8e7ec4431f2ee, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/casw: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e9a35ed9372f87595c997a521c4f69a5e80856ab, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvlist: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=70efd9a8fc0327786d5468020a384aae6010e11b, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/iocLogServer: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=147eef58c6e92d0b1ca848577b3c47d523e2d1f8, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/ascheck: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=bb1b4a0014670425c38bdcf665b50d0b23a8c9dc, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/camonitor: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=d179ed100ba3afbefadb2c8c5d4628e753c295bc, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/ca_test: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=10fcf3389baba10f69f7a033dbdc6a142e2eeeae, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/softIocPVA: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=0da57e3b1b1904640c7c4bc9fed4b5eb776b98a2, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/caRepeater: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=ed63f676b2a5bc5ad154dd26711610bac87c90b6, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/p2p: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=dcaeaaebf1ffeee8b987c6bdfd947752bbe12dd9, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/pvput: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=1c234e40df4a1b379ec85da660cf5dd5dee2fd74, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/caEventRate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e3cfa204518bd0fdcfb78379d91fe3d8ec4f2aeb, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/acctst: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=0d08876d35448a73826520d61b14a26f2b3174a1, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/makeBpt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=02aa5663f38fc71f9112b9bca880c9c2cc7c9c9e, stripped
+packages/epics_appimage/_AppImage/squashfs-root/usr/bin/softIoc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9ffe6090a834e8014c20b38210009efcc335f829, stripped
+packages/docs/__init__.pyc: data
+packages/docs/conf.pyc: data
