@@ -1,13 +1,3 @@
-chromedriver-binary==122.0.6185.0.0
-jobpackage==0.1.4
-coiled==1.2.1.dev27
-pyfaust-torch==3.39.19a1
-pyfaust-openblaso==3.39.19a1
-pydeephaven==0.31.0
-deephaven-server==0.31.0
-deephaven-core==0.31.0
-pyfaust==3.39.19a1
-rei-api==0.1.2
 functional-swipl-interface==1.0.1
 envers==0.2.0
 promptcraft==0.2.1
@@ -98,3 +88,13 @@ watchmen-storage-oss==16.6.6
 watchmen-storage-postgresql==16.6.6
 watchmen-storage-oracle==16.6.6
 watchmen-storage-mysql==16.6.6
+watchmen-storage-mssql==16.6.6
+watchmen-storage-rds==16.6.6
+watchmen-storage-mongodb==16.6.6
+watchmen-storage==16.6.6
+watchmen-model==16.6.6
+watchmen-utilities==16.6.6
+envers==0.1.0
+fms-robot-plugin==0.1.7rc2
+minicv==1.0.1
+keras-nightly==3.0.1.dev2023121503
