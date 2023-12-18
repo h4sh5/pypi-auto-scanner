@@ -1,17 +1,60 @@
-packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0013_formsubmissionpaymentdetails.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0012_paymentgatewaywebhook_formfield_slug_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
+packages/pruna/__init__.pyc: data
+packages/pruna/run_inference.pyc: data
+packages/pruna/evaluations/evaluate_classification.pyc: data
+packages/pruna/evaluations/__init__.pyc: data
+packages/pruna/evaluations/evaluate_training.pyc: data
+packages/pruna/evaluations/evaluate_deviation.pyc: data
+packages/pruna/evaluations/evaluate_inference.pyc: data
+packages/pruna/evaluations/evaluate_segmentation.pyc: data
+packages/pruna/evaluations/evaluate_memory.pyc: data
+packages/pruna/evaluations/evaluate_detection.pyc: data
+packages/pruna/evaluations/evaluate_all.pyc: data
+packages/pruna/data/CommonVoiceDataModule.pyc: data
+packages/pruna/data/SingleInpaintDataModule.pyc: data
+packages/pruna/data/COCODataModule.pyc: data
+packages/pruna/data/__init__.pyc: data
+packages/pruna/data/MNISTDataModule.pyc: data
+packages/pruna/data/LAION256DataModule.pyc: data
+packages/pruna/data/RandomImageDataModule.pyc: data
+packages/pruna/data/ImageNetDataModule.pyc: data
+packages/pruna/data/PubchemSelfiesGenerationDataModule.pyc: data
+packages/pruna/data/C4DataModule.pyc: data
+packages/pruna/data/PolyglotDataModule.pyc: data
+packages/pruna/data/SingleImage2ImageDataModule.pyc: data
+packages/pruna/data/WikiTextDataModule.pyc: data
+packages/pruna/smash_for_training.pyc: data
+packages/pruna/algorithms/pruning/prune.pyc: data
+packages/pruna/algorithms/pruning/__init__.pyc: data
+packages/pruna/algorithms/smasher_config.pyc: data
+packages/pruna/algorithms/__init__.pyc: data
+packages/pruna/algorithms/quantization/quantize.pyc: data
+packages/pruna/algorithms/quantization/lit_llm_int8.pyc: data
+packages/pruna/algorithms/quantization/auto_gptq.pyc: data
+packages/pruna/algorithms/quantization/__init__.pyc: data
+packages/pruna/algorithms/quantization/huggingface_bnb.pyc: data
+packages/pruna/algorithms/quantization/huggingface_gptq.pyc: data
+packages/pruna/algorithms/quantization/torch_qat.pyc: data
+packages/pruna/algorithms/quantization/bitsandbytes.pyc: data
+packages/pruna/algorithms/quantization/torch_dynamic.pyc: data
+packages/pruna/algorithms/quantization/huggingface_awq.pyc: data
+packages/pruna/algorithms/quantization/hugginface_gptq.pyc: data
+packages/pruna/algorithms/quantization/torch_static.pyc: data
+packages/pruna/algorithms/quantization/lit_gptq.pyc: data
+packages/pruna/algorithms/model_config.pyc: data
+packages/pruna/algorithms/compilation/compilation_wrappers.pyc: data
+packages/pruna/algorithms/compilation/__init__.pyc: data
+packages/pruna/algorithms/compilation/stablef/__init__.pyc: data
+packages/pruna/algorithms/compilation/stablef/optimize_stablef.pyc: data
+packages/pruna/algorithms/compilation/ctranslate2/__init__.pyc: data
+packages/pruna/algorithms/compilation/ctranslate2/optimize_ctranslate2.pyc: data
+packages/pruna/algorithms/compilation/ifw/__init__.pyc: data
+packages/pruna/algorithms/compilation/ifw/optimize_whisper.pyc: data
+packages/pruna/algorithms/compilation/compile.pyc: data
+packages/pruna/algorithms/compilation/stable_diffusion/__init__.pyc: data
+packages/pruna/algorithms/compilation/stable_diffusion/optimize_diffusers.pyc: data
+packages/pruna/algorithms/factorization/__init__.pyc: data
+packages/pruna/algorithms/factorization/factorize.pyc: data
+packages/pruna/smash.pyc: data
+packages/pruna/smash_for_inference.pyc: data
+packages/docs/__init__.pyc: data
+packages/docs/conf.pyc: data
