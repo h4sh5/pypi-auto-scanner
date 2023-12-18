@@ -1,3 +1,8 @@
+packages/bmf/bin/run_bmf_graph: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d62f6b316da474893f263ea584e65c3fc6835d1b, for GNU/Linux 2.6.32, not stripped
+packages/bmf/bin/module_manager: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c83d7265ab878abfeb49db050c49c6925ea5ed31, for GNU/Linux 2.6.32, not stripped
+packages/bmf/bin/trace_format_log: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c471d64830407e6787c16649780232796b6274f0, for GNU/Linux 2.6.32, not stripped
+packages/bmf/bin/hmp_perf_main: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=882456ed8d4ec4285b47c7551fcdc636221fc4ff, for GNU/Linux 2.6.32, not stripped
+packages/bmf/bin/test_hmp: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fb2c12b8193031e215a70e2b1669ec6601beedf1, for GNU/Linux 2.6.32, not stripped
 packages/vineyard/bdist/vineyardctl: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, no section header
 packages/vineyard/bdist/vineyardd: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c77b9c6f6d2f0899f4b6bbb372e2e98233896888, for GNU/Linux 2.6.32, stripped
 packages/pyarmor/cli/core/themida/windows/x86/pyarmor_runtime.pyd: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
@@ -8,3 +13,4 @@ packages/pyarmor/cli/core/windows/x86_64/pytransform3.pyd: PE32+ executable (DLL
 packages/pyarmor/cli/core/windows/x86_64/pyarmor_runtime.pyd: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/pyarmor/platforms/windows/x86/_pytransform.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/pyarmor/platforms/windows/x86_64/_pytransform.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sourcery_nightly-1.14.1b38.data/purelib/sourcery/sourcery: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7581f70a4d98d5500492e695816ee783a570fc93, stripped
