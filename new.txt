@@ -1,3 +1,11 @@
+sequence-model==0.6.0
+aws-hexagonal-adapters==1.2.2
+nibabies-wrapper==24.0.0a1
+nibabies==24.0.0a1
+quantecon-book-theme==0.7.1
+micropython-stdlib-stubs==1.0.1a2
+intrinio-sdk==6.26.4
+excalc-py==0.0.1
 fastlabel==0.14.9
 karaoke-prep==0.6.4
 lumibot==2.9.11
@@ -90,11 +98,3 @@ pkscreener==0.42.20231220.16
 large-image-source-zarr==1.26.4.dev4
 spaceone-monitoring==2.0.dev8
 large-image-source-vips==1.26.4.dev4
-large-image-source-tifffile==1.26.4.dev4
-large-image-source-tiff==1.26.4.dev4
-large-image-source-test==1.26.4.dev4
-large-image-source-rasterio==1.26.4.dev4
-pydc-control==2.92
-large-image-source-pil==1.26.4.dev4
-large-image-source-openslide==1.26.4.dev4
-ontogpt==0.3.6
