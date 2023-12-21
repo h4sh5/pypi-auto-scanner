@@ -1,4 +1,11 @@
-packages/ColdTOFU/ATSIFIO64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/memsim/config/__pycache__/__colors__.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/config/__pycache__/__disp__.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/config/__pycache__/__config__.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/__pycache__/membrane.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/__pycache__/__version__.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/membrane/__pycache__/membrane.cpython-39.pyc: python 3.9 byte-compiled
+packages/memsim/membrane/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/lalapps/bin/lalapps_frread: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8c78a344385c39b631f17634c1a0987bc22785f5, stripped
 packages/lalapps/bin/lalapps_frinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7172f54e0d966a82b4643aca9905433dec439b24, stripped
 packages/lalapps/bin/lalapps_random_bank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b53eef3a8cf85af5b1215d4fd4a190c38b19e609, stripped
@@ -24,8 +31,8 @@ packages/lalapps/bin/lalpulsar_WriteSFTsfromSFDBs: ELF 64-bit LSB executable, x8
 packages/lalapps/bin/lalapps_chirplen: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d91f1b2022d51396eaf62c1fb8cf28d1b1e9ee16, stripped
 packages/lalapps/bin/lalsim-ns-mass-radius: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=730a68107c92dbcacdc2679ec8012973eaa6e2cc, stripped
 packages/lalapps/bin/lalsim-ns-eos-table: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1ea18cc8691a37e60102fdd14bd7d502252e96c5, stripped
-packages/lalapps/bin/lalpulsar_crosscorr_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a2263ff7a8dfbb03ea1c6c2c98df401808bce3c0, stripped
 packages/lalapps/bin/lalapps_exc_resp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=880ada9e76220016a9ab676aa0cd14be13c3e48c, stripped
+packages/lalapps/bin/lalpulsar_crosscorr_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a2263ff7a8dfbb03ea1c6c2c98df401808bce3c0, stripped
 packages/lalapps/bin/lalpulsar_ComputeFstatistic_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=319e142ec92bc053b36e4d68ad47da7266383f63, stripped
 packages/lalapps/bin/lalfr-cksum: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ce864efef8d2257d86fee3490e4cf43e87a0755e, stripped
 packages/lalapps/bin/lalinference_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=49053f615aa3d06251caf54487dc7ecbacc177dd, stripped
