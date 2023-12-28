@@ -1,5 +1,3 @@
-myhand==2.0.51
-uitk==1.0.10
 netsys-client==0.48.0
 django-jet-reboot==1.3.7
 pythontk==0.7.12
@@ -98,3 +96,5 @@ apache-airflow-providers-apache-sqoop==4.2.1
 apache-airflow-providers-apache-spark==4.6.0
 apache-airflow-providers-apache-kafka==1.3.1
 apache-airflow-providers-apache-hive==6.4.0
+apache-airflow-providers-apache-hdfs==4.3.1
+apache-airflow-providers-apache-cassandra==3.4.1
