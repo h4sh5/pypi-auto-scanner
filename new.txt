@@ -1,3 +1,6 @@
+xeno==7.4.3
+python-memcached==1.61
+vector-vault==3.6.0
 flask-ssm==3.7.2.5
 jgtutils==0.1.8
 bustimes==1.0.6
@@ -95,6 +98,3 @@ botocore-a-la-carte-snow-device-management==1.34.10
 botocore-a-la-carte-managedblockchain-query==1.34.10
 botocore-a-la-carte-ecr-public==1.34.10
 botocore-a-la-carte-iotdeviceadvisor==1.34.10
-botocore-a-la-carte-cleanroomsml==1.34.10
-botocore-a-la-carte-route53domains==1.34.10
-botocore-a-la-carte-discovery==1.34.10
