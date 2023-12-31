@@ -52,8 +52,8 @@ packages/wtpy/wrapper/x64/traders/TraderCTP.dll: PE32+ executable (DLL) (GUI) x8
 packages/wtpy/wrapper/x64/traders/TraderCTPOpt.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/traders/thosttraderapi_se.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/traders/soptthosttraderapi_se.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/wtpy/wrapper/x64/TraderDumper.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtDtPorter.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wtpy/wrapper/x64/TraderDumper.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtDtServo.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtBtPorter.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtDataStorageAD.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
@@ -78,3 +78,6 @@ packages/wtpy/wrapper/x64/CTPOptLoader.dll: PE32+ executable (DLL) (console) x86
 packages/wtpy/wrapper/x64/WtMsgQue.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtDataStorage.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/wtpy/wrapper/x64/WtDtHelper.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/hyuiauto/tools/android/AdbWinUsbApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/hyuiauto/tools/android/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/hyuiauto/tools/android/adb.exe: PE32 executable (console) Intel 80386, for MS Windows
