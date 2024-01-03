@@ -1,0 +1,4 @@
+packages/driftdb/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
+packages/driftdb/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/driftdb/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=qlypuyAN5c7ptyNNv8it/MWq5wpVqyzii8-62Q54P/V_7w04Q77trQCZNJ_21A/phrUsVQHPwUX8XHNpvq-, with debug_info, not stripped
+packages/cmeel.prefix/bin/cmeel-add: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c1b05b1925ced5d7ec0d97683e8369a9c2f506e4, for GNU/Linux 3.2.0, not stripped
