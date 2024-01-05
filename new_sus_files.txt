@@ -1,8 +1,1 @@
-packages/kb_python/bins/darwin/m1/kallisto/kallisto: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/kb_python/bins/darwin/m1/bustools/bustools: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/kb_python/bins/darwin/kallisto/kallisto: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
-packages/kb_python/bins/darwin/bustools/bustools: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/kb_python/bins/linux/kallisto/kallisto: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f4607056e4804c5aedf18901a868857bcc7450ea, with debug_info, not stripped
-packages/kb_python/bins/linux/bustools/bustools: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.9, BuildID[sha1]=8a6a0b2ef52cc179f46f4dd8cfc00cdf20aea1f5, not stripped
-packages/kb_python/bins/windows/kallisto/kallisto.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/kb_python/bins/windows/bustools/bustools.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
