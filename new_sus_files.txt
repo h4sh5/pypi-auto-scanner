@@ -1,3 +1,11 @@
+packages/rev/__pycache__/_init_rev.cpython-310.pyc: data
+packages/rev/__pycache__/__init__.cpython-310.pyc: data
+packages/rev/__pycache__/version.cpython-310.pyc: data
+packages/agentforge/utils/guiutils/__pycache__/__init__.cpython-311.pyc: data
+packages/agentforge/utils/guiutils/__pycache__/sendtoui.cpython-311.pyc: data
+packages/agentforge/utils/guiutils/__pycache__/listenforui.cpython-311.pyc: data
+packages/agentforge/utils/installer/__pycache__/__init__.cpython-311.pyc: data
+packages/agentforge/utils/installer/__pycache__/agentforge_cli.cpython-311.pyc: data
 packages/onnx/backend/test/data/pytorch-converted/test_ConvTranspose2d_no_bias/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
 packages/onnx/backend/test/data/pytorch-converted/test_ConvTranspose2d_no_bias/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 101
 packages/onnx/backend/test/data/pytorch-converted/test_MaxPool2d/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped
@@ -1050,10 +1058,3 @@ packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_se
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_2.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/output_1.pb: 0420 Alliant virtual executable
 packages/onnx/backend/test/data/simple/test_gradient_of_add_and_mul/test_data_set_0/input_0.pb: 0420 Alliant virtual executable
-packages/pyrlottie/linux_x86_64/gif2webp: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), static-pie linked, BuildID[sha1]=ba914942ea255e55311bb7f3ab9c7bd8a6fdb4e5, for GNU/Linux 3.2.0, stripped
-packages/pyrlottie/linux_x86_64/lottie2gif: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=074dc816554220ca509b9805dbff3ece8188fedc, for GNU/Linux 3.2.0, not stripped
-packages/pyrlottie/windows_amd64/lottie2gif.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/pyrlottie/windows_amd64/gif2webp.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
-packages/pyrlottie/linux_aarch64/gif2webp: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4de4c35bc83009e031a7d551330334deb132488f, for GNU/Linux 3.2.0, not stripped
-packages/pyrlottie/linux_aarch64/lottie2gif: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=0d345460003395c99fd4b043062c6daa7603dcff, for GNU/Linux 3.7.0, not stripped
-packages/pyqrack/qrack_cl_precompile/Linux/2_35/qrack_cl_precompile: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6581fb0bacf7c6e53616dac04582d9b18e2b2225, for GNU/Linux 3.2.0, not stripped
