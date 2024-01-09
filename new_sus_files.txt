@@ -1,142 +1,219 @@
-packages/vvv_rpc_server/Awake.exe: PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/runningz/opt/opt_sgd.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_random.pyc: python 3.9 byte-compiled
-packages/runningz/opt/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_convex.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_random_py.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_optuna.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_scipy.pyc: python 3.9 byte-compiled
-packages/runningz/opt/opt_elo.pyc: python 3.9 byte-compiled
-packages/runningz/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/metric/get_score_metric.pyc: python 3.9 byte-compiled
-packages/runningz/metric/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/metric/metrics_numba.pyc: python 3.9 byte-compiled
-packages/runningz/metric/metrics.pyc: python 3.9 byte-compiled
-packages/runningz/metric/ic.pyc: python 3.9 byte-compiled
-packages/runningz/fe/FEMaster_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config_top.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config_opt_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/cols_dict.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/cols_fea.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config_opt.pyc: python 3.9 byte-compiled
-packages/runningz/fe/config/fm_config_top_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/fe_eval_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/fe_main.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/ranker.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/pather.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/typer.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/pooler_old.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/pooler_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/ranker_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/er/pooler.pyc: python 3.9 byte-compiled
-packages/runningz/fe/prepare_data/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/prepare_data/basic_data.pyc: python 3.9 byte-compiled
-packages/runningz/fe/prepare_data/base_data.pyc: python 3.9 byte-compiled
-packages/runningz/fe/prepare_data/base_data_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/prepare_data/basic_data_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/fe_eval.pyc: python 3.9 byte-compiled
-packages/runningz/fe/fe_main_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/status/status.pyc: python 3.9 byte-compiled
-packages/runningz/fe/status/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/status/status_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/FEMaster.pyc: python 3.9 byte-compiled
-packages/runningz/fe/util/util_py.pyc: python 3.9 byte-compiled
-packages/runningz/fe/util/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/fe/util/util.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_3_numba.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/OPMaster.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_3_numba_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_1_numba.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_3.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_other.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_groupby.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_1_numba_old.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_1.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/OPMaster_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_2_2.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_2_numba.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_2.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_1_numba_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_2_numba_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_m_numba.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_2.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/op_m.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_1.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_1_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_merge_roll.pyc: python 3.9 byte-compiled
-packages/runningz/core/op/_numba_2_py.pyc: python 3.9 byte-compiled
-packages/runningz/core/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/core/DataMaster.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/namer.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/scaler.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/hasher.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/idxer.pyc: python 3.9 byte-compiled
-packages/runningz/core/er/masker.pyc: python 3.9 byte-compiled
-packages/runningz/core/api.pyc: python 3.9 byte-compiled
-packages/runningz/model/base.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_deep_wide.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_lstm.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_tabnet.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_moe.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/nn_util_py.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_cnn.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_rxnet.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/nn_util.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_mlp.pyc: python 3.9 byte-compiled
-packages/runningz/model/nn/model_mlp_py.pyc: python 3.9 byte-compiled
-packages/runningz/model/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/model/test_model_all.pyc: python 3.9 byte-compiled
-packages/runningz/model/linear/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/model/linear/model_l2.pyc: python 3.9 byte-compiled
-packages/runningz/model/linear/model_sgd.pyc: python 3.9 byte-compiled
-packages/runningz/model/linear/model_lr.pyc: python 3.9 byte-compiled
-packages/runningz/model/test_lgb.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_lgb.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_lgb_py.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_xgb.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_rf.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_cat.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_erf.pyc: python 3.9 byte-compiled
-packages/runningz/model/tree/model_cat_py.pyc: python 3.9 byte-compiled
-packages/runningz/model/api.pyc: python 3.9 byte-compiled
-packages/runningz/model/imp/pfi.pyc: python 3.9 byte-compiled
-packages/runningz/model/imp/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/model/imp/util.pyc: python 3.9 byte-compiled
-packages/runningz/model/imp/tfi.pyc: python 3.9 byte-compiled
-packages/runningz/model/imp/adv.pyc: python 3.9 byte-compiled
-packages/runningz/model/lgb.pyc: python 3.9 byte-compiled
-packages/runningz/api.pyc: python 3.9 byte-compiled
-packages/runningz/util/csv.pyc: python 3.9 byte-compiled
-packages/runningz/util/test.pyc: python 3.9 byte-compiled
-packages/runningz/util/test_py.pyc: python 3.9 byte-compiled
-packages/runningz/util/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/util/clss.pyc: python 3.9 byte-compiled
-packages/runningz/util/dist.pyc: python 3.9 byte-compiled
-packages/runningz/util/util.pyc: python 3.9 byte-compiled
-packages/runningz/util/env.pyc: python 3.9 byte-compiled
-packages/runningz/util/npy_numba.pyc: python 3.9 byte-compiled
-packages/runningz/util/db.pyc: python 3.9 byte-compiled
-packages/runningz/util/dec.pyc: python 3.9 byte-compiled
-packages/runningz/util/const.pyc: python 3.9 byte-compiled
-packages/runningz/util/npy.pyc: python 3.9 byte-compiled
-packages/runningz/util/temp/__init__.pyc: python 3.9 byte-compiled
-packages/runningz/util/temp/main.pyc: python 3.9 byte-compiled
-packages/runningz/util/const_py.pyc: python 3.9 byte-compiled
-packages/runningz/util/split.pyc: python 3.9 byte-compiled
-packages/runningz/util/mem.pyc: python 3.9 byte-compiled
-packages/runningz/util/api.pyc: python 3.9 byte-compiled
-packages/runningz/util/npy_numba_py.pyc: python 3.9 byte-compiled
-packages/runningz/util/run.pyc: python 3.9 byte-compiled
-packages/runningz/util/code.pyc: python 3.9 byte-compiled
-packages/pyqrack/qrack_cl_precompile/Linux/2_35/qrack_cl_precompile: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d1003f1efd00d660c1e5f8c0327cc6d67f303226, for GNU/Linux 3.2.0, not stripped
+packages/andisdk/dlls/ANDi.Docs.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/blf_converter.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/System.Runtime.CompilerServices.Unsafe.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Interop.WaitHandles.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ExcelNumberFormat.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Half.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Interactive.Async.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.J2534.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ja/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ja/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ClosedXML.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PrimaTestCaseLibrary.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Options.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Logging.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.AccessControl.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ANDi.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/YamlDotNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.IO.Packaging.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/apiNET32.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Buffers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Arxml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Grpc.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.TEDiscovery.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/XObjectsCore.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ru/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ru/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Collections.Deque.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Core.Wibu.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Diagnostics.EventLog.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Encoding.CodePages.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Configuration.ConfigurationManager.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.Wpf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ted-windows-minimal.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/Microsoft.Data.Sqlite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.VisualStudio.Validation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/de/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/de/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x86/libtedrv.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/asc_reader.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/TE-BTS-Driver.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/x86/TE-BTS-Driver-Wrapper.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x86/TE-DriverBase.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ldf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/NetQD.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/FastColoredTextBox.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi_NET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ethtp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PeNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/HtmlAgilityPack.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.ANDi.Runners.Express.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/PrimaITestCaseLibrary.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.WireBytes.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Cancellation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.DotNet.PlatformAbstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Options.DataAnnotations.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Caching.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Numerics.Vectors.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ssh.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ptp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/isotp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ptp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/__init__.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/e2e.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/ssh.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/tecmp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/isotp.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/tecmp.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/autosar.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/e2e.cpython-310.pyc: data
+packages/andisdk/dlls/Lib/site-packages/andi/__pycache__/autosar.cpython-37.pyc: python 3.7 byte-compiled
+packages/andisdk/dlls/Lib/site-packages/andi/converters/binConverter/linux/tecmp_converter: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=9847e6b363cbb9dd1945264555539a5443a62616, for GNU/Linux 3.2.0, not stripped
+packages/andisdk/dlls/Lib/site-packages/andi/converters/binConverter/windows/tecmp_converter.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-7.1.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-9.0-amd64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-8.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-10.0-amd64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-10.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-9.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Lib/distutils/command/wininst-6.0.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Caching.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.ServiceModel.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/it/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/it/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/NodaTime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x64/libtedrv.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/x64/asc_reader.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/x64/TE-BTS-Driver.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/x64/TE-BTS-Driver-Wrapper.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/x64/TE-DriverBase.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/wupi.net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Pendulum.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Avb.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ANDi.Docs.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Renci.SshNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pt-BR/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pt-BR/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyInjection.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Relational.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/MQTTnet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Dynamic.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.TraceFiles.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.IO.Pipelines.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.ANDi.Runners.Express.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.batteries_v2.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.CodeDom.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/WireSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Mdf.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Grpc.Core.Api.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/AuthenticodeExaminer.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Win32.Registry.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Scripting.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Db.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/DotNetZip.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/protobuf-net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Castle.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Bcl.AsyncInterfaces.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win-x86/native/e_sqlite3.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/andisdk/dlls/runtimes/win-x64/native/e_sqlite3.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/andisdk/dlls/runtimes/win-arm64/native/e_sqlite3.dll: PE32+ executable (DLL) (console) Aarch64, for MS Windows
+packages/andisdk/dlls/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/native/grpc_csharp_ext.x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/runtimes/win/native/grpc_csharp_ext.x86.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Security.Cryptography.Pkcs.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/net6.0/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win/lib/netstandard2.0/System.Private.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/unix/lib/netstandard2.0/System.Private.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/runtimes/win-arm/native/e_sqlite3.dll: PE32 executable (DLL) (console) ARMv7 Thumb, for MS Windows
+packages/andisdk/dlls/WibuCmNET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.Disposables.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/MathParser.org-mXparser.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.Pkcs.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Permissions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ko/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ko/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyInjection.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.Xml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/fr/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/fr/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/cs/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/cs/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Cryptography.ProtectedData.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/andisdk/dlls/Technica.Data.Blf.Converter.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SimpleMapi.NET.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Coordination.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/apiNET64.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Python.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.EntityFrameworkCore.Sqlite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.DependencyModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Wibu.dll: PE32 executable (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Traces.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Mono.Unix.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.Modules.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.VisualStudio.Threading.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.Binder.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/OxyPlot.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Configuration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/ted-linux-minimal: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=9230f3fa19123436d7e9b46b02c11f1e492895c1, for GNU/Linux 2.6.32, stripped
+packages/andisdk/dlls/System.ServiceModel.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Text.Encodings.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Tasks.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PeNet.Asn1.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SharpPcap.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Bcl.HashCode.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/tr/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/tr/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.SQLite.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/DocumentFormat.OpenXml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SQLitePCLRaw.provider.e_sqlite3.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/PacketDotNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Fibex.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Ethcc.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Extensions.Logging.Abstractions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IntelliLock.Licensing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/vxlapi64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/andisdk/dlls/Sentry.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/IronPython.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nito.AsyncEx.Oop.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/es/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/es/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/WupiEngineNet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Memory.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Microsoft.Scripting.Metadata.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Nerdbank.Streams.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Security.Principal.Windows.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/Technica.Databases.Dbc.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/SshNet.Security.Cryptography.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pl/Microsoft.VisualStudio.Threading.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/andisdk/dlls/pl/Microsoft.VisualStudio.Validation.resources.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/vxpy/ext_lib/tis_windows/tisgrabber.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/vxpy/ext_lib/tis_windows/TIS_UDSHL11_x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/vxpy/ext_lib/tis_windows/tisgrabber_x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/vxpy/ext_lib/tis_windows/TIS_UDSHL11.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
