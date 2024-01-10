@@ -1,14 +1,197 @@
-packages/_gdcm/gdcminfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=db1382e36cffa80a07df7081492309daedcfb28d, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmscanner: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=025a18a07abaa224e147297b3c7c2899e02e4719, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmtar: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=03a73c0ab513ba0db457c19dce28a4fa157d3ca2, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmimg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3cab1a69d66c0e39aecb976173dfaac505d5872e, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmxml: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=35cf78774ac3e4396a9004a301537880572893fd, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmraw: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=89981b54bd56e2fbb67b46927315c2dea198dc21, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmconv: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=78503885c8a4ee0c610c18229c5eb7e2b7a11a82, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmpap3: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=461a95172b5893b0b54e73bb189955dfbb2d32e1, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmanon: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=42a73f357eb9f6a90fbda51577c31db166ba0f95, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmgendir: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6793e117af402d82afbe6c48781983f2ab39488c, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmdump: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=7e3f4255c9beccabaf59fff5c9ed1566f85d6b83, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmscu: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=f9691de63585b56e6046b9c3eab52a2d514f0c61, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmclean: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8c05dc5f8135199a1ca39cfd9706b62a62a1d776, for GNU/Linux 2.6.32, not stripped
-packages/_gdcm/gdcmdiff: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a5458b7b20e8afaaa84dceffe28ad9429c2b07db, for GNU/Linux 2.6.32, not stripped
+packages/sdpc/WINDOWS/dll/avcodec-58.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/postproc-55.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/avformat-58.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/DecodeSdpcDll.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/sdpc/WINDOWS/dll/avutil-56.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/swresample-3.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/avfilter-7.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/swscale-5.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/sdpc/WINDOWS/dll/avdevice-58.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/aesim/simba/Resources/Simba.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/Newtonsoft.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/CsvHelper.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/Simba.Helper.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/DotNetZip.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/System.Security.Permissions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/Python.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Compression.Brotli.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Numerics.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Transactions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Private.Xml.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Principal.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.CompilerServices.Unsafe.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.RegularExpressions.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ValueTuple.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Collections.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Collections.Specialized.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.XPath.XDocument.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.FileSystem.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Resources.ResourceManager.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Numerics.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Serialization.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ServiceModel.Web.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Quic.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Security.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.IsolatedStorage.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Globalization.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Transactions.Local.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.Algorithms.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Console.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.AccessControl.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Dynamic.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Private.Uri.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Emit.Lightweight.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.UnmanagedMemoryStream.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.Annotations.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Requests.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Buffers.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.CompilerServices.VisualC.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.ServicePoint.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Tasks.Parallel.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.MemoryMappedFiles.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.Debug.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Data.DataSetExtensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Http.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/Microsoft.CSharp.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Linq.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.DiagnosticSource.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/Microsoft.Win32.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Channels.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/createdump: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=b12f7feb89c8ef3cf3e983671374c8d8f555e457, stripped
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ServiceProcess.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.InteropServices.RuntimeInformation.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.Encoding.CodePages.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.Encoding.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Pipes.AccessControl.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.TypeConverter.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.NameResolution.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.XmlSerializer.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.TextWriterTraceListener.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Collections.Immutable.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Data.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/WindowsBase.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Serialization.Formatters.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.DispatchProxy.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Resources.Writer.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Windows.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Compression.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Private.CoreLib.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ObjectModel.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Numerics.Vectors.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Tasks.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Collections.NonGeneric.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Private.Xml.Linq.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Serialization.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Drawing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Claims.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.InteropServices.JavaScript.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.DataAnnotations.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Serialization.Xml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Private.DataContractSerialization.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.Cng.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Intrinsics.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.Primitives.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Compression.ZipFile.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.WebProxy.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Primitives.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.Linq.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Formats.Asn1.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Tasks.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Drawing.Primitives.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Ping.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.Encoding.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Linq.Expressions.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.Tools.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Handles.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.WebSockets.Client.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/Microsoft.Win32.Registry.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.StackTrace.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Globalization.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.FileSystem.AccessControl.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Tasks.Dataflow.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Http.Json.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Linq.Parallel.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Pipes.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Globalization.Calendars.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Emit.ILGeneration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.Contracts.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.XPath.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.EventBasedAsync.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.ReaderWriter.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Thread.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.Process.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.InteropServices.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.Encoding.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.NetworkInformation.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.Primitives.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Loader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.X509Certificates.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Emit.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.Tracing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.TraceSource.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/mscorlib.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.WebHeaderCollection.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Runtime.Serialization.Primitives.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.Json.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.XmlDocument.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Configuration.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.Csp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.FileSystem.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.FileSystem.DriveInfo.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Collections.Concurrent.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Text.Encodings.Web.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Sockets.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.Metadata.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Timer.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/Microsoft.VisualBasic.Core.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Web.HttpUtility.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Reflection.TypeExtensions.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.ComponentModel.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Resources.Reader.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.FileSystem.Watcher.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.HttpListener.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.IO.Compression.FileSystem.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.SecureString.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.Overlapped.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.Mail.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Formats.Tar.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/Microsoft.VisualBasic.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.WebClient.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Cryptography.OpenSsl.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.XDocument.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Memory.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Data.Common.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/netstandard.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Net.WebSockets.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Security.Principal.Windows.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Diagnostics.FileVersionInfo.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Linq.Queryable.dll: PE32+ executable (DLL) (console) Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Threading.ThreadPool.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/shared/Microsoft.NETCore.App/8.0.0/System.Xml.Serialization.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/dotnet/dotnet: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=e2a93c4fa4964f7e334bef1101faa54a9a874e7e, stripped
+packages/aesim/simba/Resources/System.Drawing.Common.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/DeviceId.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/Simba.Drawing.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/aesim/simba/Resources/System.Windows.Extensions.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/driftdb/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
+packages/driftdb/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/driftdb/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=qlypuyAN5c7ptyNNv8it/MWq5wpVqyzii8-62Q54P/V_7w04Q77trQCZNJ_21A/phrUsVQHPwUX8XHNpvq-, with debug_info, not stripped
