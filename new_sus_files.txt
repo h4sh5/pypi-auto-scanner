@@ -1,5 +1,11 @@
-packages/quantcrypt/internal/bin/Windows/clean/sphincs_shake_256f_simple.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/quantcrypt/internal/bin/Windows/clean/falcon_1024.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/quantcrypt/internal/bin/Windows/clean/sphincs_shake_256s_simple.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/quantcrypt/internal/bin/Windows/clean/kyber1024.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/quantcrypt/internal/bin/Windows/clean/dilithium5.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/brickschema/topquadrant_shacl/org.topbraid.shacl.tools.infer: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/brickschema/topquadrant_shacl/org.topbraid.shacl.tools.validate: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/brickschema/topquadrant_shacl/lib/org.topbraid.shacl.tools.infer: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/pet/pyd/wifi.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/sciunit2/libexec/scripter: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e6f8130014684837a496cffbd351ee4fc7702edf, stripped
+packages/sciunit2/libexec/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/sciunit2/libexec/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/sciunit2/libexec/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/sciunit2/libexec/ptu: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bee7f653ed9ff1ddd6fc9d1ecc946f60a62c8d04, stripped
+packages/sciunit2/libexec/vv: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9d5693ee5ad26a83dc346a2e4dc7f4dc520c800d, stripped
+packages/skyramp/lib/dev-windows-amd64.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
