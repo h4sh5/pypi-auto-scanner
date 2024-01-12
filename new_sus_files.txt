@@ -1,3 +1,18 @@
+packages/MPSPlots/styles/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSPlots/render3D/__pycache__/scene.cpython-310.pyc: data
+packages/MPSPlots/render3D/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSPlots/render3D/__pycache__/axis.cpython-310.pyc: data
+packages/MPSPlots/render3D/__pycache__/artist.cpython-310.pyc: data
+packages/MPSPlots/render2D/__pycache__/scene.cpython-310.pyc: data
+packages/MPSPlots/render2D/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSPlots/render2D/__pycache__/axis.cpython-310.pyc: data
+packages/MPSPlots/render2D/__pycache__/artist.cpython-310.pyc: data
+packages/MPSPlots/__pycache__/colormaps.cpython-310.pyc: data
+packages/MPSPlots/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSPlots/tools/__pycache__/directories.cpython-310.pyc: data
+packages/MPSPlots/tools/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSPlots/tools/__pycache__/utils.cpython-310.pyc: data
+packages/reywechat/data/client_api.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/afdko-4.0.1a0.data/scripts/makeotfexe: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3c448501fb8792c67e50fc3bfb3b1896195a1052, for GNU/Linux 2.6.32, not stripped
 packages/afdko-4.0.1a0.data/scripts/sfntdiff: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=16ad0ead5f3e544cde856f316296453ccc4f421f, for GNU/Linux 2.6.32, not stripped
 packages/afdko-4.0.1a0.data/scripts/rotatefont: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4df00532ee341c8a0ba04cfa94e275e85d14eccb, for GNU/Linux 2.6.32, not stripped
@@ -7,65 +22,3 @@ packages/afdko-4.0.1a0.data/scripts/tx: ELF 64-bit LSB executable, x86-64, versi
 packages/afdko-4.0.1a0.data/scripts/type1: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=84ea4717096b2d2ca3ec7e37c18bca6c43de3b3a, for GNU/Linux 2.6.32, not stripped
 packages/afdko-4.0.1a0.data/scripts/sfntedit: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8ac4f7da0f138f6b6f2a65ac88a53ed780944507, for GNU/Linux 2.6.32, not stripped
 packages/afdko-4.0.1a0.data/scripts/detype1: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c66cb02d97ca19d10a4a56fe604280b2a5181c1d, for GNU/Linux 2.6.32, not stripped
-packages/jgtfxcon/forexconnect/lib/windows/pricehistorymgr.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-runtime-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxmsg.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-interlocked-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxcorepy.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows, AIN 2.x self-extracting archive
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processthreads-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-errorhandling-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-synch-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/ForexConnect.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-console-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/vccorlib140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processenvironment-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-private-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-debug-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-string-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-time-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gszlib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-sysinfo-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-handle-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-filesystem-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-localization-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/msvcp140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-multibyte-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-libraryloader-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-memory-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/fxtp.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/vcruntime140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-datetime-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/pdas.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-profile-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-conio-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-timezone-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gslibeay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-heap-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-math-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-process-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-environment-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gsexpat.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/log4cplus.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l1-2-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-stdio-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gstool3.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/quotesmgr2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-heap-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/httplib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-util-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/python3.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-convert-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-string-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gsssleay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-processthreads-l1-1-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-file-l2-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/gscurl.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/concrt140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-synch-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-rtlsupport-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-utility-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-crt-locale-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/api-ms-win-core-namedpipe-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/sqlite3.8.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/jgtfxcon/forexconnect/lib/windows/ucrtbase.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
