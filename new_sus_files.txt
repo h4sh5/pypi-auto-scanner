@@ -2,6 +2,7 @@ packages/robocorp/windows/_vendored/uiautomation/bin/UIAutomationClient_VC140_X6
 packages/robocorp/windows/_vendored/uiautomation/bin/UIAutomationClient_VC140_X86.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/robocorp/action_server/bin/rcc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, Go BuildID=cBGXYPFMTf-1BC9d3vyP/Qydk4mvcDBMxRHEwREAI/LTNmTd-e97jm0VH70lv8/ZP56E0wkCu5YaqP1Cna0, stripped
 packages/cargo_zigbuild-0.18.2.data/scripts/cargo-zigbuild: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, stripped
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
 packages/vuer/__pycache__/base.cpython-38.pyc: python 3.8 byte-compiled
 packages/vuer/__pycache__/serdes.cpython-38.pyc: python 3.8 byte-compiled
 packages/vuer/__pycache__/events.cpython-38.pyc: python 3.8 byte-compiled
@@ -35,10 +36,6 @@ packages/oscarbot/migrations/__pycache__/0003_user_last_message_id.cpython-311.p
 packages/oscarbot/management/__pycache__/__init__.cpython-311.pyc: data
 packages/oscarbot/management/commands/__pycache__/__init__.cpython-311.pyc: data
 packages/oscarbot/management/commands/__pycache__/runbot.cpython-311.pyc: data
-packages/py_process_hooker/dll/DetourHook.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/py_process_hooker/dll/injectpy64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/py_process_hooker/dll/AnyHook.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/py_process_hooker/dll/injectpy32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/lalapps/bin/lalapps_frread: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=bc2b734b6c48cee840d1bae644f940a6a0b5403f, stripped
 packages/lalapps/bin/lalapps_frinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5e54163047f0a71cc239e95b613add685fdbde11, stripped
 packages/lalapps/bin/lalapps_random_bank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b53eef3a8cf85af5b1215d4fd4a190c38b19e609, stripped
