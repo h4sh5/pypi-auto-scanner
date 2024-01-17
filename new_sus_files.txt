@@ -6,25 +6,8 @@ packages/omniorb_py-4.3.0.post5.data/data/bin/omkdepend: ELF 64-bit LSB pie exec
 packages/omniorb_py-4.3.0.post5.data/data/bin/omnicpp: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=cf4646a2d42e140981333e47a8f8699e56d1d81f, for GNU/Linux 3.2.0, not stripped
 packages/omniorb_py-4.3.0.post5.data/data/bin/omniMapper: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b01dcd09dee093c74feefab98de96df01ab0b943, for GNU/Linux 3.2.0, not stripped
 packages/omniorb_py-4.3.0.post5.data/data/bin/genior: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=fde98163bb3934f7163ae46b042a8bc87afa070a, for GNU/Linux 3.2.0, not stripped
-packages/airtest/core/android/static/stf_libs/armeabi-v7a/minicap-nopie: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/stf_libs/armeabi-v7a/minitouch-nopie: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/stf_libs/armeabi/minitouch-nopie: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/stf_libs/x86/minicap-nopie: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/stf_libs/x86/minitouch-nopie: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/stf_libs/mips/minitouch-nopie: ELF 32-bit LSB executable, MIPS, MIPS32 version 1 (SYSV), dynamically linked, interpreter /system/bin/linker, stripped
-packages/airtest/core/android/static/adb/linux_arm/adb: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 2.6.32, BuildID[sha1]=2dbc05a2dbfe481990ac93b0f1e1199397ec99ad, with debug_info, not stripped
-packages/airtest/core/android/static/adb/mac/adb: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
-packages/airtest/core/android/static/adb/windows/AdbWinUsbApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/airtest/core/android/static/adb/windows/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/airtest/core/android/static/adb/windows/adb.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/airtest/core/ios/iproxy/mac/iproxy: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
-packages/airtest/core/ios/iproxy/windows/plist.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/airtest/core/ios/iproxy/windows/getopt.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/airtest/core/ios/iproxy/windows/iproxy.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/airtest/core/ios/iproxy/windows/usbmuxd.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/airtest/report/__pycache__/report.cpython-39.pyc: python 3.9 byte-compiled
-packages/airtest/report/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
 packages/fprime_fpp_depend-2.1.0a2.data/data/bin/fpp-depend: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b1dbf67b9b52e5aadbc852af134807a138eca408, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/FilePathCheckerModule.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/fprime_fpp_format-2.1.0a2.data/data/bin/fpp-format: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3c414707839c6db01522ffa025d2dd7b0eec5d9d, for GNU/Linux 2.6.32, with debug_info, not stripped
 packages/fprime_fpp_locate_defs-2.1.0a2.data/data/bin/fpp-locate-defs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ce8804c5a818d4bbc81ae5d9ac6e36f514ca7323, for GNU/Linux 2.6.32, with debug_info, not stripped
 packages/fprime_fpp_to_json-2.1.0a2.data/data/bin/fpp-to-json: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1966dbe63ca9f70dc4e65b0be35508bc4d5fe305, for GNU/Linux 2.6.32, with debug_info, not stripped
@@ -32,6 +15,134 @@ packages/fprime_fpp_to_xml-2.1.0a2.data/data/bin/fpp-to-xml: ELF 64-bit LSB exec
 packages/fprime_fpp_to_cpp-2.1.0a2.data/data/bin/fpp-to-cpp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=134a7c84728aec8ee6d2717ba5ae3b79bec1c16d, for GNU/Linux 2.6.32, with debug_info, not stripped
 packages/fprime_fpp_check-2.1.0a2.data/data/bin/fpp-check: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=8f2c021a71a3573029f3428383589738f71567e6, for GNU/Linux 2.6.32, with debug_info, not stripped
 packages/fprime_fpp_filenames-2.1.0a2.data/data/bin/fpp-filenames: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab8a77e4b6ca5fe6375d1cea7be130608de4517d, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/lumibot/traders/__pycache__/trader.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/traders/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_limit_and_trailing_stops.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/_strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy_executor.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/debt_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversification.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/strangle.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/simple.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/fast_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/intraday_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bars.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/dataline.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/trading_fee.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/asset.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/position.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bar.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/data_source.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/ccxt_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/interactive_brokers_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpha_vantage_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/yahoo_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/pandas_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpaca_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/tradovate_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/exceptions.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/polygon_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpha_vantage_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/pandas_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/data_source_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/yahoo_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/backtesting_broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpaca_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/custom_stream.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/safe_list.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/pandas.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/yahoo_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/decorators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/indicators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/debugers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/types.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/polygon_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/black_scholes.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/helpers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/interactive_brokers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/alpaca.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/ccxt.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/tradovate.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/test_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/test_ib_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
 packages/fprime_fpp_from_xml-2.1.0a2.data/data/bin/fpp-from-xml: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4df8c90cd7814958c1a7fe7fd08659cbe0107529, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/funboost/function_result_web/__pycache__/functions.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/function_result_web/__pycache__/app.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/py3_raise.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/__init__.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/StoppableThread.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/exceptions.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/py3_raise.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/dafunc.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/dafunc.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/dafunc.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/exceptions.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/StoppableThread.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/py3_raise.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/exceptions.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/func_timeout/__pycache__/StoppableThread.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/add_to_pythonpath.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/__init__.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/add_to_pythonpath.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/add_to_pythonpath.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/lock.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/connection.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/__init__.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/connection.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/utils.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/client.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/compat.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/compat.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/exceptions.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/connection.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/compat.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/lock.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/client.cpython-311.pyc: data
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/lock.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/utils.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/exceptions.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/exceptions.cpython-37.pyc: python 3.7 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/client.cpython-39.pyc: python 3.9 byte-compiled
+packages/funboost/utils/dependency_packages_in_pythonpath/aioredis/__pycache__/utils.cpython-311.pyc: data
 packages/fprime_fpp_locate_uses-2.1.0a2.data/data/bin/fpp-locate-uses: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d2586e9f6f2f5dc37c964f35cef13ba406fdcb21, for GNU/Linux 2.6.32, with debug_info, not stripped
 packages/fprime_fpp_syntax-2.1.0a2.data/data/bin/fpp-syntax: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=806afbe0caf43b30ffb88ccfee0b39d18a5d91c3, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/tests/__pycache__/test_asset.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_main_pandas_daily.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_order.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtesting_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtest_polygon.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_tradingfee.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_executor.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_alpaca.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_methods.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_ccxt.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_example_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_polygon_helper.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
