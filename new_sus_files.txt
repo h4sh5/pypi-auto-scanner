@@ -1,17 +1,79 @@
-packages/llmware/lib/gguf/lib_ctransformers.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libmongoc-1.0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/liblzma-5.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/liboffice_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libzstd.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libgcc_s_seh-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libgraph_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libpdf_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/zlib1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libwinpthread-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libbson-1.0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libzip.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libpng16-16.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libbz2-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libtiff-6.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libiconv-2.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/llmware/lib/windows/x86_64/llmware/libxml2-2.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/ydata/sdk/__init__.pyc: data
+packages/ydata/sdk/connectors/_models/connector_map.pyc: data
+packages/ydata/sdk/connectors/_models/__init__.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/azureblob.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/credentials.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/__init__.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/bigquery.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/azuresql.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/snowflake.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/googlecloudstorage.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/mysql.pyc: data
+packages/ydata/sdk/connectors/_models/credentials/awes3.pyc: data
+packages/ydata/sdk/connectors/_models/connector.pyc: data
+packages/ydata/sdk/connectors/_models/connector_list.pyc: data
+packages/ydata/sdk/connectors/_models/connector_type.pyc: data
+packages/ydata/sdk/connectors/__init__.pyc: data
+packages/ydata/sdk/connectors/connector.pyc: data
+packages/ydata/sdk/utils/__init__.pyc: data
+packages/ydata/sdk/utils/list_item_utils.pyc: data
+packages/ydata/sdk/utils/cache.pyc: data
+packages/ydata/sdk/utils/model_utils.pyc: data
+packages/ydata/sdk/utils/table.pyc: data
+packages/ydata/sdk/utils/model_mixin.pyc: data
+packages/ydata/sdk/datasources/_models/status.pyc: data
+packages/ydata/sdk/datasources/_models/connector_to_datasource.pyc: data
+packages/ydata/sdk/datasources/_models/__init__.pyc: data
+packages/ydata/sdk/datasources/_models/datatype.pyc: data
+packages/ydata/sdk/datasources/_models/datasource_list.pyc: data
+packages/ydata/sdk/datasources/_models/filetype.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/azureblob.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/__init__.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/aws3.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/bigquery.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/azuresql.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/googlecloudstorage.pyc: data
+packages/ydata/sdk/datasources/_models/datasources/mysql.pyc: data
+packages/ydata/sdk/datasources/_models/attributes.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/__init__.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/column.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/warning_types.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/data_types.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/metadata.pyc: data
+packages/ydata/sdk/datasources/_models/metadata/warnings.pyc: data
+packages/ydata/sdk/datasources/_models/datasource.pyc: data
+packages/ydata/sdk/datasources/__init__.pyc: data
+packages/ydata/sdk/datasources/datasources/gcs.pyc: data
+packages/ydata/sdk/datasources/datasources/local.pyc: data
+packages/ydata/sdk/datasources/datasources/azureblob.pyc: data
+packages/ydata/sdk/datasources/datasources/__init__.pyc: data
+packages/ydata/sdk/datasources/datasources/aws3.pyc: data
+packages/ydata/sdk/datasources/datasources/bigquery.pyc: data
+packages/ydata/sdk/datasources/datasources/azuresql.pyc: data
+packages/ydata/sdk/datasources/datasources/mysql.pyc: data
+packages/ydata/sdk/datasources/datasource.pyc: data
+packages/ydata/sdk/common/logger.pyc: data
+packages/ydata/sdk/common/config.pyc: data
+packages/ydata/sdk/common/__init__.pyc: data
+packages/ydata/sdk/common/model.pyc: data
+packages/ydata/sdk/common/client/parser.pyc: data
+packages/ydata/sdk/common/client/client.pyc: data
+packages/ydata/sdk/common/client/__init__.pyc: data
+packages/ydata/sdk/common/client/utils.pyc: data
+packages/ydata/sdk/common/client/singleton.pyc: data
+packages/ydata/sdk/common/types.pyc: data
+packages/ydata/sdk/common/exceptions.pyc: data
+packages/ydata/sdk/common/warnings.pyc: data
+packages/ydata/sdk/dataset/__init__.pyc: data
+packages/ydata/sdk/dataset/dataset.pyc: data
+packages/ydata/sdk/synthesizers/synthesizer.pyc: data
+packages/ydata/sdk/synthesizers/_models/status.pyc: data
+packages/ydata/sdk/synthesizers/_models/synthesizer.pyc: data
+packages/ydata/sdk/synthesizers/_models/__init__.pyc: data
+packages/ydata/sdk/synthesizers/_models/synthesizers_list.pyc: data
+packages/ydata/sdk/synthesizers/_models/synthesizer_map.pyc: data
+packages/ydata/sdk/synthesizers/_models/synthesizer_type.pyc: data
+packages/ydata/sdk/synthesizers/__init__.pyc: data
+packages/ydata/sdk/synthesizers/regular.pyc: data
+packages/ydata/sdk/synthesizers/timeseries.pyc: data
+packages/ydata/sdk/synthesizers/multitable.pyc: data
