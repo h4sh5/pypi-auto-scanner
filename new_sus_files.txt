@@ -1,3 +1,82 @@
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
-packages/pytest_html_object_storage-0.2.1.data/data/pytest_html_object_storage/__init__.cpython-312.pyc: data
-packages/pytest_html_object_storage/__pycache__/__init__.cpython-312.pyc: data
+packages/calcbench/__pycache__/listener.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/disclosures.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/api_client.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/companies.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/raw_numeric_non_XBRL.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/filing.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/standardized_numeric.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/dimensional.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/raw_numeric_XBRL.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/metrics.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0014_remove_account_stripe_connect_redirect_url.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0013_formsubmissionpaymentdetails.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0012_paymentgatewaywebhook_formfield_slug_and_more.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0015_form_category_form_qrcode_alter_formfield_field_type.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
+packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
+packages/wolfhece/lazviewer/viewer/viewer.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/wolfhece/lazviewer/vfuncs/vfuncs.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/lazviewer/vfuncs/vfuncs.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/Qt5Widgets.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/icuin53.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/msvcr120.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/icudt53.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/msvcp120.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/icuuc53.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/Qt5Core.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/Qt5Gui.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/tbb.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/vcomp120.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/tbbmalloc.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/qwindows.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/Qt5Network.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/libs/qt_plugins/platforms/qwindows.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/lazviewer/processing/estimate_normals/estimate_normals.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/lazviewer/processing/estimate_normals/estimate_normals.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/bernoulli/fib8.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/bernoulli/Pyth_bern.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/mkl_core.2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/api-ms-win-crt-runtime-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/wolfpy.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/vcruntime140_1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/libcurl.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/WolfDll.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libmmd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libmmdd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libifcoremd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/mkl_intel_thread.2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libpardiso600-WIN-X86-64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/svml_dispmd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/netcdf.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/paho-mqtt3cs.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libifcoremdd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/vcruntime140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/zlib1.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/MSVCP140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/wolfogl.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/hdf5_hl.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/api-ms-win-crt-math-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/msvcr100.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/wolfpy.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/glu32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/api-ms-win-crt-heap-l1-1-0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/vcomp100.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/hdf5.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/wolfhece/libs/mkl_rt.2.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libifportmd.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/wolfogl.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/wolfhece/libs/libiomp5md.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
