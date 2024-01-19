@@ -111,8 +111,8 @@ packages/NearBeach/tests/tests_views/tests_kanban/__pycache__/__init__.cpython-3
 packages/NearBeach/tests/tests_views/tests_organisations/__pycache__/__init__.cpython-311.pyc: data
 packages/NearBeach/templates/__pycache__/__init__.cpython-311.pyc: data
 packages/scripro/data/bedGraphToBigWig: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c21cbc004174272d746cc7b0bd83eb115fa88b06, with debug_info, not stripped
-packages/bin/createQuadraticMesh: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=bbd3fd121cf6e296f2e45182431fd671b0dcef26, stripped
 packages/bin/OGS2VTK: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=6a90d5ee6a06c05d8c8326c2a44c911f79b0eff6, stripped
+packages/bin/createQuadraticMesh: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=bbd3fd121cf6e296f2e45182431fd671b0dcef26, stripped
 packages/bin/AddElementQuality: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=d43cf676c27744c62376041b21a833de1df30f26, stripped
 packages/bin/AddLayer: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c4b8941b5652488471d344f923c21d567dd71835, stripped
 packages/bin/xdmfdiff: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=d8e0913707620f0f41f4bfd0d4891c92d87a86ae, not stripped
@@ -178,6 +178,47 @@ packages/bin/MoveMesh: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux),
 packages/bin/postLIE: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=ae1a50b28c447b78421aa71dfb10c27bc2034d9f, stripped
 packages/bin/queryMesh: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=cb722f72f28b6dbbf733b80229fe390e0c395444, stripped
 packages/bin/editMaterialID: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=86291c1f437a5a3e82baccd24b65269ec531ecb5, stripped
+packages/raga/__pycache__/lightmetrics.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/constants.cpython-311.pyc: data
+packages/raga/__pycache__/raga_schema.cpython-311.pyc: data
+packages/raga/__pycache__/lightmetrics.cpython-311.pyc: data
+packages/raga/__pycache__/__init__.cpython-311.pyc: data
+packages/raga/__pycache__/test_session.cpython-311.pyc: data
+packages/raga/__pycache__/filters.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/post_deployment_checks.cpython-311.pyc: data
+packages/raga/__pycache__/constants.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/exception.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/_tests.cpython-311.pyc: data
+packages/raga/__pycache__/post_deployment_checks.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/filters.cpython-311.pyc: data
+packages/raga/__pycache__/model_executor_factory.cpython-311.pyc: data
+packages/raga/__pycache__/exception.cpython-311.pyc: data
+packages/raga/__pycache__/dataset.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/test_session.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/_tests.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/model_executor_factory.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/dataset_creds.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/dataset.cpython-311.pyc: data
+packages/raga/__pycache__/model_raga.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/raga_schema.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/__pycache__/dataset_creds.cpython-311.pyc: data
+packages/raga/utils/__pycache__/__init__.cpython-311.pyc: data
+packages/raga/utils/__pycache__/raga_config_reader.cpython-311.pyc: data
+packages/raga/utils/__pycache__/raga_config_reader.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/utils/__pycache__/dataset_util.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/utils/__pycache__/http_client.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/utils/__pycache__/dataset_util.cpython-311.pyc: data
+packages/raga/utils/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/utils/__pycache__/file.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/utils/__pycache__/http_client.cpython-311.pyc: data
+packages/raga/utils/__pycache__/file.cpython-311.pyc: data
+packages/raga/validators/__pycache__/dataset_validations.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/validators/__pycache__/test_session_validation.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/validators/__pycache__/test_session_validation.cpython-311.pyc: data
+packages/raga/validators/__pycache__/dataset_creds_validations.cpython-311.pyc: data
+packages/raga/validators/__pycache__/dataset_creds_validations.cpython-39.pyc: python 3.9 byte-compiled
+packages/raga/validators/__pycache__/dataset_validations.cpython-311.pyc: data
 packages/lalapps/bin/lalapps_frread: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=83cad5793dab0af54933508379d137ea637e641e, stripped
 packages/lalapps/bin/lalapps_frinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2be64cdd139a4a43382dbdbbd0a146965dd51b78, stripped
 packages/lalapps/bin/lalapps_random_bank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b53eef3a8cf85af5b1215d4fd4a190c38b19e609, stripped
