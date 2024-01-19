@@ -1,26 +1,96 @@
-packages/ruff-0.1.14.data/scripts/ruff: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4e135fc1716ecd240d16c6f8be21e88eb599f3be, for GNU/Linux 2.6.32, stripped
 packages/pyft4222/wrapper/dll/win/amd64/LibFT4222-64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/graphscope.runtime/openmpi/bin/mpicc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/mpiexec: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a1707a5b0d8609eff48622c27aeaaa4b4f1aeb5, not stripped
-packages/graphscope.runtime/openmpi/bin/mpic++: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/ompi-server: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c4464de5d1063300ce633ffbcacc2220af58dc5f, not stripped
-packages/graphscope.runtime/openmpi/bin/ompi_info: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=86137e657557756fdc5a744b09e1c20ac1d989b0, not stripped
-packages/graphscope.runtime/openmpi/bin/orte-server: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c4464de5d1063300ce633ffbcacc2220af58dc5f, not stripped
-packages/graphscope.runtime/openmpi/bin/mpicxx: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/ortecc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/mpiCC: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/orte-clean: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=18d98890b6c6c2c5ec0eb7d01cde23c1f797c874, not stripped
-packages/graphscope.runtime/openmpi/bin/orterun: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a1707a5b0d8609eff48622c27aeaaa4b4f1aeb5, not stripped
-packages/graphscope.runtime/openmpi/bin/ompi-clean: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=18d98890b6c6c2c5ec0eb7d01cde23c1f797c874, not stripped
-packages/graphscope.runtime/openmpi/bin/mpif90: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/opal_wrapper: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/orted: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=970a07465c22ca7e5bd9f7bae3cecec81ab60905, not stripped
-packages/graphscope.runtime/openmpi/bin/mpirun: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8a1707a5b0d8609eff48622c27aeaaa4b4f1aeb5, not stripped
-packages/graphscope.runtime/openmpi/bin/mpifort: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/mpif77: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9b85e6b01092b9232eca22ed213eec288cd52401, not stripped
-packages/graphscope.runtime/openmpi/bin/orte-info: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=1b87711330059e86780df4d114b2f8ab66f6482b, not stripped
-packages/graphscope.runtime/bin/gaia_executor: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=5d3754b69f0a2135c406daa17d046b667ed8e0b3, stripped
-packages/graphscope.runtime/bin/grape_engine: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=7fa625c9b2aed2518073cff9f5f1a2d93b3430a8, stripped
-packages/tests/unit/__pycache__/conftest.cpython-39-pytest-7.3.1.pyc: python 3.9 byte-compiled
-packages/tests/unit/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/tests/unit/__pycache__/test_meta.cpython-39-pytest-7.3.1.pyc: python 3.9 byte-compiled
+packages/calcbench/__pycache__/listener.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/disclosures.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/api_client.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/companies.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/raw_numeric_non_XBRL.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/filing.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/standardized_numeric.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/dimensional.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/raw_numeric_XBRL.cpython-38.pyc: python 3.8 byte-compiled
+packages/calcbench/__pycache__/metrics.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/traders/__pycache__/trader.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/traders/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_limit_and_trailing_stops.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/_strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy_executor.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/debt_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversification.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/strangle.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/simple.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/fast_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/intraday_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bars.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/dataline.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/trading_fee.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/asset.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/position.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bar.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/data_source.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/ccxt_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/interactive_brokers_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpha_vantage_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/yahoo_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/pandas_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpaca_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/tradovate_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/exceptions.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/polygon_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpha_vantage_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/pandas_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/data_source_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/yahoo_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/backtesting_broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpaca_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/custom_stream.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/safe_list.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/pandas.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/yahoo_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/decorators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/indicators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/debugers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/types.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/polygon_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/black_scholes.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/helpers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/interactive_brokers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/alpaca.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/ccxt.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/tradovate.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/test_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/test_ib_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_asset.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_main_pandas_daily.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_order.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtesting_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtest_polygon.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_tradingfee.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_executor.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_alpaca.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_methods.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_ccxt.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_example_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_polygon_helper.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
