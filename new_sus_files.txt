@@ -1,13 +1,57 @@
-packages/gamspy_baron/gmsba_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_baron/baron: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped, too many notes (256)
-packages/gamspy_dicopt/gmsdi_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_base/gmscvnux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_base/gamscmex.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_base/gams: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_base/gmsgenux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_base/gmssb_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_gurobi/grbprobe: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, Go BuildID=hxgmqSIdkZj1m66vsPi1/9tRT9-kZbuxs2C4ldDPi/qEWE-wrqUW8YE6ynDEC3/7hnJR4ZKwLOGjflcRGg0, BuildID[sha1]=5d815557cc170858dfe77ace88b39bb3310628da, with debug_info, not stripped
-packages/gamspy_gurobi/grbgetkey: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, Go BuildID=BG2HYjJQlo0arxy6mksp/w1f6a2jKB8wtjvpWXW1j/IOzNrrU4rszldh4gvybB/B193ut-yjjQ4aqlbWalT, BuildID[sha1]=b2ad119855422222806934d6dfcae832c47e8008, with debug_info, not stripped
-packages/gamspy_mpsge/gmsgewux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_mpsge/gmsge_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/qetrader/win/pytransform/_pytransform.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/puffin_alpha-0.0.2.data/scripts/puffin: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a113088a7099a6ecd473affb8ca5c9d7f0177852, for GNU/Linux 2.6.32, stripped
+packages/vuer/__pycache__/base.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/serdes.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/events.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/types.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/schemas.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/__pycache__/server.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/schemas/__pycache__/scene_components.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/schemas/__pycache__/drei_components.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/schemas/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/vuer/schemas/__pycache__/html_components.cpython-38.pyc: python 3.8 byte-compiled
+packages/damo-server: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5c85e27fd56dda11e402720b0274738ddcd49a73, for GNU/Linux 2.6.32, not stripped
+packages/SharedMemoryQueue-0.1.5.data/data/libs/SharedQueue.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/pueblo/io/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/io/__pycache__/universal.cpython-311.pyc: data
+packages/pueblo/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/__pycache__/__init__.cpython-310.pyc: data
+packages/pueblo/__pycache__/cli.cpython-310.pyc: data
+packages/pueblo/__pycache__/cli.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/model.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/core.cpython-310.pyc: data
+packages/pueblo/ngr/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/util.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/__init__.cpython-310.pyc: data
+packages/pueblo/ngr/__pycache__/runner.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/core.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/cli.cpython-310.pyc: data
+packages/pueblo/ngr/__pycache__/model.cpython-310.pyc: data
+packages/pueblo/ngr/__pycache__/cli.cpython-311.pyc: data
+packages/pueblo/ngr/__pycache__/runner.cpython-310.pyc: data
+packages/pueblo/ngr/__pycache__/util.cpython-310.pyc: data
+packages/pueblo/testing/__pycache__/snippet.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/folder.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/notebook.cpython-310.pyc: data
+packages/pueblo/testing/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/dataframe.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/folder.cpython-310.pyc: data
+packages/pueblo/testing/__pycache__/__init__.cpython-310.pyc: data
+packages/pueblo/testing/__pycache__/nlp.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/notebook.cpython-311.pyc: data
+packages/pueblo/testing/__pycache__/snippet.cpython-310.pyc: data
+packages/pueblo/nlp/__pycache__/resource.cpython-310.pyc: data
+packages/pueblo/nlp/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/nlp/__pycache__/__init__.cpython-310.pyc: data
+packages/pueblo/nlp/__pycache__/resource.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/environ.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/__init__.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/logging.cpython-310.pyc: data
+packages/pueblo/util/__pycache__/environ.cpython-310.pyc: data
+packages/pueblo/util/__pycache__/fs.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/logging.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/__init__.cpython-310.pyc: data
+packages/pueblo/util/__pycache__/cli.cpython-310.pyc: data
+packages/pueblo/util/__pycache__/cli.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/proc.cpython-311.pyc: data
+packages/pueblo/util/__pycache__/fs.cpython-310.pyc: data
