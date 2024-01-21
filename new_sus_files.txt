@@ -64,8 +64,6 @@ packages/ozi/tests/test_ozi_new.pyc: data
 packages/ozi/tests/__pycache__/test_ozi_fix.cpython-310.pyc: data
 packages/ozi/tests/__pycache__/test_ozi_new.cpython-310.pyc: data
 packages/ozi/tests/test_ozi_fix.pyc: data
-packages/seeker/bin/coll: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>] [arm64:Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>]
-packages/seeker/bin/coll-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, not stripped
 packages/gcsim_pypi/bin/gcsim.arm64: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, Go BuildID=iWgyR2ij0ZBdd22eOlVD/rkTSCYfwPiguhnqz4hgL/8uj68mIg2kekEyyNfDW7/x5K2PpdALk9sWDvzFgj_, with debug_info, not stripped
 packages/gcsim_pypi/bin/gcsim.darwin.arm64: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
 packages/gcsim_pypi/bin/gcsim.darwin: Mach-O 64-bit x86_64 executable
