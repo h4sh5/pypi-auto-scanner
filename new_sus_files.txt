@@ -4,3 +4,29 @@ packages/streamtranslator/streamtranslator.exe: PE32+ executable (console) x86-6
 packages/streamtranslator/libstdc++-6.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/streamtranslator/libgcc_s_seh-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/streamtranslator/libwinpthread-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/brainflow/lib/GanglionLib32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/gForceSDKWrapper32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/onnxruntime_x64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/BrainFlowBluetooth32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/DataHandler32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/neurosdk-x64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/brainflow/lib/Unicorn.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/brainflow/lib/BoardController.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/onnxruntime_x86.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/MuseLib32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/MLModule.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/BoardController32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/gForceSDKWrapper.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/MuseLib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/eego-SDK.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/brainflow/lib/gforce32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/brainflow/lib/BrainBitLib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/neurosdk-x86.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/brainflow/lib/GanglionLib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/eego-SDK32.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/brainflow/lib/DataHandler.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/simpleble-c32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/BrainBitLib32.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/brainflow/lib/gforce64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/brainflow/lib/BrainFlowBluetooth.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/brainflow/lib/simpleble-c.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
