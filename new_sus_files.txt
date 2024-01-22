@@ -1,24 +1,3 @@
-packages/bauplan/bauplan-cli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=rRwO0NKMWNs0WsZhEcn5/oMgCpPps0j3bDqq8CAdz/cV4rzDhCEzz2ebJqMwjX/lKK_V5XLGOkmpWHHPLIR, stripped
-packages/reverb/server_executable: directory
-packages/reverb/server_executable/__init__.py: empty
-packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0016_formsubmissionpaymentdetails_payment_mode_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0014_remove_account_stripe_connect_redirect_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0013_formsubmissionpaymentdetails.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0012_paymentgatewaywebhook_formfield_slug_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0015_form_category_form_qrcode_alter_formfield_field_type.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0017_formsubmissionpaymentdetails_currency_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
+packages/driftdb/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
+packages/driftdb/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/driftdb/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=qlypuyAN5c7ptyNNv8it/MWq5wpVqyzii8-62Q54P/V_7w04Q77trQCZNJ_21A/phrUsVQHPwUX8XHNpvq-, with debug_info, not stripped
