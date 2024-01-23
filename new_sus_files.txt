@@ -1,19 +1,65 @@
-packages/tf/convert/app/__pycache__/__init__.cpython-312.pyc: data
-packages/tf/convert/app/__pycache__/app.cpython-312.pyc: data
-packages/tf/client/make/__pycache__/gh.cpython-310.pyc: data
-packages/tf/client/make/__pycache__/build.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale 0-32001, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 10633823966279326983230456482242756608.000000, slope 38832028812009129446998016.000000
-packages/tf/client/make/__pycache__/gh.cpython-312.pyc: data
-packages/tf/client/make/__pycache__/build.cpython-39.pyc: python 3.9 byte-compiled
-packages/tf/client/make/__pycache__/__init__.cpython-311.pyc: data
-packages/tf/client/make/__pycache__/build.cpython-310.pyc: data
-packages/tf/client/make/__pycache__/__init__.cpython-312.pyc: data
-packages/tf/client/make/__pycache__/build.cpython-312.pyc: data
-packages/tf/client/make/__pycache__/__init__.cpython-310.pyc: data
-packages/tf/client/make/__pycache__/build-notebook.cpython-310.pyc: data
-packages/tf/client/make/__pycache__/help.cpython-312.pyc: data
-packages/tf/client/make/__pycache__/gh.cpython-311.pyc: data
-packages/tf/client/make/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/tf/client/make/__pycache__/help.cpython-311.pyc: data
-packages/tf/client/make/__pycache__/help.cpython-310.pyc: data
-packages/tf/client/make/__pycache__/help.cpython-39.pyc: python 3.9 byte-compiled
-packages/tf/client/make/__pycache__/gh.cpython-39.pyc: python 3.9 byte-compiled
+packages/quarchpy/fio/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/fio/__pycache__/fioDiskFinder.cpython-311.pyc: data
+packages/quarchpy/fio/__pycache__/FIO_interface.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/quarchPPM.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/device.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/quarchArray.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/quarchQPS.cpython-311.pyc: data
+packages/quarchpy/device/__pycache__/scanDevices.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/versionCompare.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/simple_terminal.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/module_debug.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/upgrade_quarchpy.cpython-311.pyc: data
+packages/quarchpy/debug/__pycache__/SystemTest.cpython-311.pyc: data
+packages/quarchpy/__pycache__/_version.cpython-311.pyc: data
+packages/quarchpy/__pycache__/connection.cpython-311.pyc: data
+packages/quarchpy/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/__pycache__/run.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale -29654-29703, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 9628047484971779096576.000000, slope 9842495388428280004608.000000
+packages/quarchpy/user_interface/__pycache__/user_interface.cpython-311.pyc: data
+packages/quarchpy/user_interface/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_mDNS.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_Telnet.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_ReST.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_Serial.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_QIS.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_QPS.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/StreamChannels.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_USB.cpython-311.pyc: data
+packages/quarchpy/connection_specific/__pycache__/connection_TCP.cpython-311.pyc: data
+packages/quarchpy/connection_specific/usb_libs/MS64/libusb-1.0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/quarchpy/connection_specific/usb_libs/MS32/libusb-1.0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/quarchpy/connection_specific/serial/__pycache__/serialutil.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/__pycache__/serialwin32.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/__pycache__/win32.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/tools/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/tools/__pycache__/list_ports_common.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/tools/__pycache__/list_ports.cpython-311.pyc: data
+packages/quarchpy/connection_specific/serial/tools/__pycache__/list_ports_windows.cpython-311.pyc: data
+packages/quarchpy/qps/__pycache__/qpsFuncs.cpython-311.pyc: data
+packages/quarchpy/qps/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/qis/__pycache__/StreamHeaderInfo.cpython-311.pyc: data
+packages/quarchpy/qis/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/qis/__pycache__/qisFuncs.cpython-311.pyc: data
+packages/quarchpy/config_files/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/config_files/__pycache__/quarch_config_parser.cpython-311.pyc: data
+packages/quarchpy/disk_test/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/disk_test/__pycache__/iometerDiskFinder.cpython-311.pyc: data
+packages/quarchpy/disk_test/__pycache__/DiskTargetSelection.cpython-311.pyc: data
+packages/quarchpy/disk_test/__pycache__/AbsDiskFinder.cpython-311.pyc: data
+packages/quarchpy/utilities/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/utilities/__pycache__/TestCenter.cpython-311.pyc: data
+packages/quarchpy/utilities/__pycache__/Version.cpython-311.pyc: data
+packages/quarchpy/utilities/__pycache__/TimeValue.cpython-311.pyc: data
+packages/quarchpy/iometer/__pycache__/__init__.cpython-311.pyc: data
+packages/quarchpy/iometer/__pycache__/gen_iometer_template.cpython-311.pyc: data
+packages/quarchpy/iometer/__pycache__/iometerFuncs.cpython-311.pyc: data
+packages/ssmdevices/lib/AdbWinUsbApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/ssmdevices/lib/iperf3.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/ssmdevices/lib/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/ssmdevices/lib/iperf.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/ssmdevices/lib/cygwin1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/ssmdevices/lib/adb.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
