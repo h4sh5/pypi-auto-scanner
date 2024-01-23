@@ -1,7 +1,8 @@
-packages/reverb/server_executable: directory
-packages/reverb/server_executable/__init__.py: empty
 packages/quantcrypt/internal/bin/Windows/clean/sphincs_shake_256f_simple.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/quantcrypt/internal/bin/Windows/clean/falcon_1024.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/quantcrypt/internal/bin/Windows/clean/sphincs_shake_256s_simple.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/quantcrypt/internal/bin/Windows/clean/kyber1024.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/quantcrypt/internal/bin/Windows/clean/dilithium5.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/selenium/webdriver/common/linux/selenium-manager: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, stripped
+packages/selenium/webdriver/common/windows/selenium-manager.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/selenium/webdriver/common/macos/selenium-manager: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>] [arm64]
