@@ -1,184 +1,218 @@
-packages/bigdl/llm/libs/quantize-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=207910ff905c64e3a3009ce8e7a89abf2ee09992, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/quantize-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=400b57febdcdecdd08431602b52b50dc37e480bb, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/main-gptneox: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=ab6f8fa2dc39e0e94bd40acec5ddf2c5e631332e, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/quantize-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=857b455d36767b235825a219163f55b3e0e8b66a, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/main-starcoder: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=640d67130854b47a2250758ccd4368ed44dbd846, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-bloom: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=a4837ddada3f280d0f38be3112b190bd90f5a354, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-chatglm_amx: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c234b7f2e3c3383bbdff777838b1e4e9603e7cfe, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/main-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3bbf3cfa970cbe6d2c51b5db3ebeef64e8c51b88, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/bigdl/llm/libs/quantize-llama: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=9e3e481b5c193d0cbf5f031cd94b3b69185ad78a, for GNU/Linux 3.2.0, not stripped
-packages/bigdl/llm/libs/main-chatglm_vnni: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=70babf7261d08fbddce66245cc9ae05ff909e8c3, for GNU/Linux 3.2.0, not stripped, too many notes (256)
-packages/codenerix/djng/__pycache__/angular_model.cpython-310.pyc: data
-packages/codenerix/djng/__pycache__/angular_base.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/djng/__pycache__/angular_base.cpython-310.pyc: data
-packages/codenerix/djng/__pycache__/angular_validation.cpython-310.pyc: data
-packages/codenerix/djng/__pycache__/angular_validation.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/djng/__pycache__/angular_base.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/djng/__pycache__/field_mixins.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/djng/__pycache__/angular_model.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/djng/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/djng/__pycache__/field_mixins.cpython-310.pyc: data
-packages/codenerix/djng/__pycache__/angular_base.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/djng/__pycache__/angular_validation.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/djng/__pycache__/field_mixins.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/djng/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/djng/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/djng/__pycache__/angular_model.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/djng/__pycache__/__init__.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/djng/__pycache__/field_mixins.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/djng/__pycache__/angular_validation.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/djng/__pycache__/angular_model.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/widgets.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/forms.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/widgets.cpython-310.pyc: data
-packages/codenerix/multi_email_field/__pycache__/forms.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/multi_email_field/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/forms.cpython-310.pyc: data
-packages/codenerix/multi_email_field/__pycache__/widgets.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/multi_email_field/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0006_auto_20160825_0838.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0014_auto_20170418_1011.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0013_auto_20170410_1429.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0002_auto_20160808_0843.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0007_corporateimage.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0014_auto_20170418_1011.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0015_auto_20170418_1515.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0012_auto_20170405_0815.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0009_delete_corporateimage.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0003_auto_20160817_1235.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0019_auto_20170725_1822.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0016_auto_20170419_1533.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0010_corporateimage.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0004_auto_20160824_0757.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0019_auto_20170725_1822.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0006_auto_20160825_0838.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0021_auto_20171218_1039.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0009_delete_corporateimage.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0007_corporateimage.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0016_auto_20170419_1533.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0017_auto_20170428_0850.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0013_auto_20170410_1429.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0009_delete_corporateimage.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0012_auto_20170405_0815.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0006_auto_20160825_0838.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0020_remotelog.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0019_auto_20170725_1822.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0021_auto_20171218_1039.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0018_log_snapshot_txt.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0017_auto_20170428_0850.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0004_auto_20160824_0757.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0008_auto_20170119_1526.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0021_auto_20171218_1039.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0003_auto_20160817_1235.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0009_delete_corporateimage.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0017_auto_20170428_0850.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0020_remotelog.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0007_corporateimage.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0010_corporateimage.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0001_initial.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0002_auto_20160808_0843.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0012_auto_20170405_0815.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0018_log_snapshot_txt.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0003_auto_20160817_1235.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0005_auto_20160824_1332.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0017_auto_20170428_0850.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0003_auto_20160817_1235.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0016_auto_20170419_1533.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0021_auto_20171218_1039.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0010_corporateimage.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0007_corporateimage.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0014_auto_20170418_1011.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0008_auto_20170119_1526.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0015_auto_20170418_1515.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0020_remotelog.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0001_initial.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0002_auto_20160808_0843.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0004_auto_20160824_0757.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0005_auto_20160824_1332.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0022_alter_log_options.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0013_auto_20170410_1429.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0011_delete_corporateimage.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0013_auto_20170410_1429.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0002_auto_20160808_0843.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0020_remotelog.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0011_delete_corporateimage.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/__init__.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0011_delete_corporateimage.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0004_auto_20160824_0757.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0019_auto_20170725_1822.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0018_log_snapshot_txt.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0008_auto_20170119_1526.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0005_auto_20160824_1332.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0006_auto_20160825_0838.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0008_auto_20170119_1526.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0015_auto_20170418_1515.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0015_auto_20170418_1515.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0016_auto_20170419_1533.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/migrations/__pycache__/0018_log_snapshot_txt.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0014_auto_20170418_1011.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0001_initial.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0005_auto_20160824_1332.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/migrations/__pycache__/0010_corporateimage.cpython-310.pyc: data
-packages/codenerix/migrations/__pycache__/0011_delete_corporateimage.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/migrations/__pycache__/0012_auto_20170405_0815.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/management/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/management/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/management/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/management/__pycache__/__init__.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/management/commands/__pycache__/clean.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/locales.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/management/commands/__pycache__/touch.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/management/commands/__pycache__/refresh_permissions.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/refresh_permissions.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/management/commands/__pycache__/touch.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/management/commands/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/clean_memcache.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/clean.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/management/commands/__pycache__/touch.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/clean_caches.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/management/commands/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/management/commands/__pycache__/locales.cpython-310.pyc: data
-packages/codenerix/management/commands/__pycache__/clean.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_common.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_lists.cpython-310.pyc: data
-packages/codenerix/templatetags/__pycache__/codenerix_common.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/templatetags/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/templatetags/__pycache__/codenerix_lists.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_special.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_lists.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_common.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_special.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/templatetags/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/templatetags/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/templatetags/__pycache__/__init__.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_special.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/templatetags/__pycache__/codenerix_special.cpython-310.pyc: data
-packages/codenerix/templatetags/__pycache__/codenerix_common.cpython-310.pyc: data
-packages/codenerix/templatetags/__pycache__/codenerix_lists.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/colors.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/helpers.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/lib/__pycache__/helpers.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/lib/__pycache__/debugger.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/lib/__pycache__/debugger.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/genmail.cpython-310.pyc: data
-packages/codenerix/lib/__pycache__/genmail.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/lib/__pycache__/genmail.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/__init__.cpython-310.pyc: data
-packages/codenerix/lib/__pycache__/colors.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/lib/__pycache__/colors.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/lib/__pycache__/helpers.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/codenerix/lib/__pycache__/helpers.cpython-310.pyc: data
-packages/codenerix/lib/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/lib/__pycache__/__init__.cpython-35.pyc: python 3.5.2+ byte-compiled
-packages/codenerix/lib/__pycache__/genmail.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/lib/__pycache__/debugger.cpython-39.pyc: python 3.9 byte-compiled
-packages/codenerix/lib/__pycache__/debugger.cpython-310.pyc: data
-packages/codenerix/lib/__pycache__/colors.cpython-310.pyc: data
-packages/cmeel.prefix/bin/cmeel-add: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=70ee2ecff660f6adf67a57df4cd113c660d33458, for GNU/Linux 3.2.0, not stripped
+packages/simo/generic/__pycache__/forms.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/socket_consumers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/tasks.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/gateways.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/controllers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/routing.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/generic/__pycache__/base_types.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/widgets.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/generic/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/generic/__pycache__/controllers.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/generic/__pycache__/app_widgets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/forms.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/controllers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/base_types.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/__pycache__/app_widgets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/migrations/__pycache__/0002_sound_length.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/migrations/__pycache__/0004_auto_20231023_1055.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/migrations/__pycache__/0003_alter_sound_length.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/multimedia/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/settings.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/conf.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/asgi.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/celeryc.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/__pycache__/on_http_start.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/auth_backends.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/permissions.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/auto_urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/tasks.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/middleware.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/sso_views.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/dynamic_settings.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/views.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/sso_urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0006_auto_20231003_0850.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0024_fingerprint.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0011_auto_20231004_1313.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0013_remove_user_roles.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0017_auto_20231221_0735.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0008_auto_20231003_1229.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0022_userdevicereportlog_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0019_auto_20231221_1155.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0002_componentpermission.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0014_user_roles.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0023_auto_20240105_0719.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0010_auto_20231004_1313.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0016_auto_20231005_1050.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0018_user_is_god.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0021_alter_permissionsrole_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0005_permissionsrole_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0012_alter_userinstancerole_unique_together.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0007_auto_20231003_1228.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0015_remove_user_at_home.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0003_create_roles_and_system_user.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0004_user_secret_key.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0009_remove_user_role.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/users/migrations/__pycache__/0020_rename_is_god_user_is_master.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/forms.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/socket_consumers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/auto_urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/gateways.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/controllers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/routing.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/ble.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/views.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0012_colonel_logs_stream.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0020_instanceoptions.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0015_auto_20220614_0754.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0002_auto_20220422_0743.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0024_colonel_pwm_frequency.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0018_colonel_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0006_rename_mac_colonel_uid.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0009_i2cinterface_name.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0013_alter_colonel_last_seen.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0008_i2cinterface.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0019_auto_20231006_0749.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0017_alter_colonel_secret.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0007_colonel_socket_connected.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0011_i2cinterface_freq.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0003_auto_20220422_0752.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0016_auto_20220704_0840.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0021_auto_20231006_0819.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0022_remove_colonel_secret.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0010_auto_20220602_0746.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0014_auto_20220614_0659.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0005_auto_20220428_0900.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0004_auto_20220422_0818.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/fleet/migrations/__pycache__/0023_colonel_is_authorized.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/models.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/scripts.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/widgets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/forms.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/serializers.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/socket_consumers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/events.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/todos.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/forms.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/permissions.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/auto_urls.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/tasks.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/gateways.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/controllers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/routing.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/events.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/storage.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/admin.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/middleware.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/base_types.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/signal_receivers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/autocomplete_views.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/widgets.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/filters.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/controllers.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/app_widgets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/dynamic_settings.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/loggers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/views.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/api_auth.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/__pycache__/api.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/__pycache__/gateways.cpython-37.pyc: python 3.7 byte-compiled
+packages/simo/core/utils/__pycache__/config_values.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/form_widgets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/validators.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/logs.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/mixins.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/model_helpers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/type_constants.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/formsets.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/helpers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/easing.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/form_fields.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/utils/__pycache__/relay.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0020_component_meta.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0019_alter_gateway_type.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0004_create_generic.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0021_auto_20231020_1041.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0023_auto_20231229_1352.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0010_historyaggregate.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0005_component_subcomponents.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0018_auto_20231005_0622.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0015_auto_20231004_1113.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0022_auto_20231221_0735.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0017_auto_20231004_1313.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0009_auto_20220707_1404.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0006_alter_component_subcomponents.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0025_auto_20240122_1321.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0002_load_icons.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0014_zone_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0011_component_last_change.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0008_alter_component_change_init_to.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0003_create_default_zones_and_categories.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0016_auto_20231004_1113.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0024_alter_instance_device_report_history_days.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0007_component_change_init_to.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0013_auto_20231003_0754.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/migrations/__pycache__/0012_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/db_backend/__pycache__/base.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/db_backend/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/management/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/management/commands/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/management/commands/__pycache__/gateways_manager.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/management/commands/__pycache__/run_gateway.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/templatetags/__pycache__/components_list.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/core/templatetags/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/admin.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/serializers.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/models.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/api.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/__pycache__/utils.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/simo/notifications/migrations/__pycache__/0002_notification_instance.cpython-38.pyc: python 3.8 byte-compiled
+packages/pyside2_vfx_template/__pycache__/style.cpython-39.pyc: python 3.9 byte-compiled
+packages/pyside2_vfx_template/__pycache__/actions.cpython-39.pyc: python 3.9 byte-compiled
+packages/pyside2_vfx_template/__pycache__/splashscreen.cpython-39.pyc: python 3.9 byte-compiled
+packages/pyside2_vfx_template/__pycache__/shadows.cpython-39.pyc: python 3.9 byte-compiled
+packages/pyside2_vfx_template/__pycache__/window.cpython-39.pyc: python 3.9 byte-compiled
+packages/pyside2_vfx_template/__pycache__/utils.cpython-39.pyc: python 3.9 byte-compiled
+packages/selenium/webdriver/common/linux/selenium-manager: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, stripped
+packages/selenium/webdriver/common/windows/selenium-manager.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/selenium/webdriver/common/macos/selenium-manager: Mach-O universal binary with 2 architectures: [x86_64:Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>] [arm64]
