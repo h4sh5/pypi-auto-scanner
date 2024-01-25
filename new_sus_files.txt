@@ -1,38 +1,39 @@
 packages/gpflib/gpflib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/gpflib/bcclib.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/gpflib/Graph/libpangowin32-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/cdt.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/gvplugin_gd.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/libgmodule-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/libgtkglext-win32-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/libpango-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/dot.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/freetype6.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/libglib-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/libexpat.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/gpflib/Graph/gvplugin_pango.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/libcairo-2.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/libgthread-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/fontconfig.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/gpflib/Graph/libpangoft2-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/gpflib/Graph/jpeg62.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/zlib1.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/gvc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/libfontconfig-1.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/fontconfig.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/libexpat-1.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/cgraph.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/intl.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/gvplugin_gd.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/gpflib/Graph/libxml2.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/gvplugin_core.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/iconv.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/libfreetype-6.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/gpflib/Graph/libglade-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/librsvg-2-2.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/ltdl.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/libgthread-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/gpflib/Graph/libpng14-14.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/Pathplan.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/gpflib/Graph/libpangocairo-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/gpflib/Graph/libgdk_pixbuf-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/gpflib/Graph/gvplugin_dot_layout.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/libexpat.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/gpflib/Graph/fontconfig_fix.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/gpflib/Graph/libgobject-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/libpango-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/gvc.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/cdt.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/cgraph.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/libcairo-2.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/libfreetype-6.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/libgmodule-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/zlib1.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/dot.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/gvplugin_dot_layout.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/libgtkglext-win32-1.0-0.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/gvplugin_core.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/intl.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/libexpat-1.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/libglib-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/freetype6.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/ltdl.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/gpflib/Graph/Pathplan.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/gpflib/Graph/iconv.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/libgdk_pixbuf-2.0-0.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/librsvg-2-2.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/libfontconfig-1.dll: PE32 executable (DLL) (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/gpflib/Graph/fontconfig_fix.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/edc_dashboard/tests/etc/user-aes-restricted.key: 370 XA sysV executable not stripped - version 32107 - 5.2 format
