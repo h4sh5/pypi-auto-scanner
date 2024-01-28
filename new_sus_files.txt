@@ -3,8 +3,11 @@ packages/bin/v2ray: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statica
 packages/bin/tun2socks: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, stripped
 packages/bin/sentinelcli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, Go BuildID=u8S7b4i4d_pTW_AP-HFt/zIF2-vKTrwIWVmC2koiy/gL-SElOzJlb5BK3jQBLa/ZoCVUWPsV3E4ORVX3Xed, with debug_info, not stripped
 packages/bin/warp-cli: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d7f721e5f9965e78d35c3d561813c4ffaeb7a1ec, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/go_task_bin-3.34.1.data/scripts/task: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=pANwSGJIGt992DdRMqPP/n58T3PhU9dERnu4GLheC/ZoGf4xkNSvlIC7KkxmCe/yBmFx1ZTmGhgzscyrkrx, stripped
 packages/secp256k2/_secp256k2.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/autoesp/firmwares/ESP32_GENERIC-20240105-v1.22.1.bin: DOS executable (COM)
-packages/autoesp/firmwares/ESP8266_GENERIC-20240105-v1.22.1.bin: DOS executable (COM)
-packages/autoesp/firmwares/ESP8266_GENERIC-FLASH_1M-20240105-v1.22.1.bin: DOS executable (COM)
-packages/autoesp/firmwares/ESP32_GENERIC-SPIRAM-20240105-v1.22.1.bin: DOS executable (COM)
+packages/tests/__pycache__/test_loader.cpython-310-pytest-8.0.0.pyc: data
+packages/tests/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSTools/fiber_catalogue/__pycache__/loader.cpython-310.pyc: data
+packages/MPSTools/fiber_catalogue/__pycache__/__init__.cpython-310.pyc: data
+packages/MPSTools/material_catalogue/__pycache__/loader.cpython-310.pyc: data
+packages/MPSTools/__pycache__/__init__.cpython-310.pyc: data
