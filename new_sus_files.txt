@@ -1,3 +1,8 @@
+packages/driftdb/bin/datadrift-linux: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=qlypuyAN5c7ptyNNv8it/MWq5wpVqyzii8-62Q54P/V_7w04Q77trQCZNJ_21A/phrUsVQHPwUX8XHNpvq-, with debug_info, not stripped
+packages/driftdb/bin/datadrift-mac-m1: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
+packages/driftdb/bin/datadrift-mac-intel: Mach-O 64-bit x86_64 executable
+packages/LiveCap/Capture/DXGI/DXGICapture.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/LiveCap/Capture/GDI/GDICapture.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/CP210xVCPInstaller_x64.exe: PE32+ executable (GUI) x86-64, for MS Windows
 packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/x64/silabser.sys: PE32+ executable (native) x86-64, for MS Windows
 packages/env/driver_cp210x/CP210x_Universal_Windows_Driver/arm64/silabser.sys: PE32+ executable (native) Aarch64, for MS Windows
@@ -69,3 +74,28 @@ packages/toolkit/simulator_lib/__pycache__/uasyncio.cpython-312.pyc: data
 packages/toolkit/simulator_lib/__pycache__/neopixel.cpython-312.pyc: data
 packages/toolkit/simulator_lib/__pycache__/sim_console.cpython-39.pyc: python 3.9 byte-compiled
 packages/toolkit/simulator_lib/__pycache__/ussl.cpython-312.pyc: data
+packages/speculos/resources/vnc_server: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=18ce6c59bf7c30317fad3c6e58319d85700d3681, for GNU/Linux 3.2.0, not stripped
+packages/speculos/resources/launcher: ELF 32-bit LSB executable, ARM, EABI5 version 1 (GNU/Linux), statically linked, BuildID[sha1]=eb3dcd02409e15c834f31c8232499f43f7808f39, for GNU/Linux 3.2.0, not stripped
+packages/speculos/cxlib/nanosp-cx-1.0.3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-cx-1.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanos-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-9.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-cx-2.0.2.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, not stripped
+packages/speculos/cxlib/stax-api-level-cx-3.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-7.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanox-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-8.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-14.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-13.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanosp-api-level-cx-12.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-10.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-11.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/stax-api-level-cx-1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
+packages/speculos/cxlib/nanos-cx-2.1.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
