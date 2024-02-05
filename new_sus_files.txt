@@ -1,1 +1,4 @@
-packages/pvfalcon/lib/windows/amd64/libpv_falcon.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/zaber_motion_bindings_windows/zaber-motion-lib-windows-386.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
+packages/zaber_motion_bindings_windows/zaber-motion-lib-windows-amd64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/libusb/_platform/_windows/x64/libusb-1.0.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/libusb/_platform/_windows/x86/libusb-1.0.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
