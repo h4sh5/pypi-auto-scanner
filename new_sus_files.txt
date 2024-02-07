@@ -1,3 +1,4 @@
+packages/data/nssm_original.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/simba/outlier_tools/__pycache__/outlier_corrector_location.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/outlier_tools/__pycache__/skip_outlierCorrection.cpython-310.pyc: data
 packages/simba/outlier_tools/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
@@ -18,11 +19,13 @@ packages/simba/model/__pycache__/grid_search_rf.cpython-36.pyc: python 3.6 byte-
 packages/simba/model/__pycache__/train_rf.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/model/__pycache__/train_rf.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/model/__pycache__/inference_validation.cpython-37.pyc: python 3.7 byte-compiled
+packages/simba/model/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/model/__pycache__/grid_search_rf.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/model/__pycache__/inference_validation.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/model/__pycache__/inference_batch.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/model/__pycache__/inference_batch.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/severity_calculator.cpython-37.pyc: python 3.7 byte-compiled
+packages/simba/data_processors/__pycache__/mutual_exclusivity_corrector.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/pup_retrieval_calculator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/data_processors/__pycache__/fsttc_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/movement_calculator.cpython-36.pyc: python 3.6 byte-compiled
@@ -33,9 +36,12 @@ packages/simba/data_processors/__pycache__/agg_clf_calculator.cpython-37.pyc: py
 packages/simba/data_processors/__pycache__/agg_clf_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/timebins_movement_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/data_processors/__pycache__/boolean_conditional_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/pup_retrieval_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/directing_other_animals_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/interpolate_pose.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/data_processors/__pycache__/directing_animal_to_bodypart.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/data_processors/__pycache__/severity_bout_based_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/pybursts_calculator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/data_processors/__pycache__/fsttc_calculator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/data_processors/__pycache__/kleinberg_calculator.cpython-36.pyc: python 3.6 byte-compiled
@@ -45,6 +51,7 @@ packages/simba/data_processors/__pycache__/movement_calculator.cpython-37.pyc: p
 packages/simba/data_processors/__pycache__/kleinberg_calculator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/data_processors/__pycache__/timebins_clf_calculator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/data_processors/__pycache__/interpolation_smoothing.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/data_processors/__pycache__/severity_frame_based_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/pybursts_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/timebins_clf_calculator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/data_processors/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
@@ -66,6 +73,15 @@ packages/simba/bounding_box_tools/__pycache__/agg_boundary_stats.cpython-37.pyc:
 packages/simba/bounding_box_tools/__pycache__/boundary_menus.cpython-310.pyc: data
 packages/simba/bounding_box_tools/__pycache__/boundary_menus.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/bounding_box_tools/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/simba/video_processors/__pycache__/multi_cropper.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/batch_process_menus.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/roi_selector.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/px_to_mm.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/extract_frames.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/extract_seqframes.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/video_processing.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/video_processors/__pycache__/batch_process_create_ffmpeg_commands.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/pose_importers/__pycache__/dlc_importer_csv.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/pose_importers/__pycache__/read_DANNCE_mat.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/pose_importers/__pycache__/sleap_importer_slp.cpython-36.pyc: python 3.6 byte-compiled
@@ -89,6 +105,17 @@ packages/simba/pose_importers/__pycache__/import_trk.cpython-36.pyc: python 3.6 
 packages/simba/pose_importers/__pycache__/read_DANNCE_mat.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/pose_importers/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/pose_importers/__pycache__/import_mars.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/config_creator.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/custom_feature_extractor.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/read_write.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/enums.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/data.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/lookups.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/printing.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/warnings.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/checks.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/utils/__pycache__/errors.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/utils/cli/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/utils/cli/__pycache__/cli_tools.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/utils/cli/__pycache__/cli_tools.cpython-37.pyc: python 3.7 byte-compiled
@@ -112,6 +139,7 @@ packages/simba/roi_tools/__pycache__/ROI_image.cpython-36.pyc: python 3.6 byte-c
 packages/simba/roi_tools/__pycache__/ROI_move_shape.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/roi_tools/__pycache__/ROI_directing_analyzer.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/roi_tools/__pycache__/ROI_move_shape.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/roi_tools/__pycache__/ROI_size_standardizer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/roi_tools/__pycache__/ROI_image.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/roi_tools/__pycache__/ROI_movement_analyzer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/roi_tools/__pycache__/ROI_time_bin_calculator.cpython-36.pyc: python 3.6 byte-compiled
@@ -188,6 +216,9 @@ packages/simba/unsupervised/__pycache__/__init__.cpython-37.pyc: python 3.7 byte
 packages/simba/unsupervised/__pycache__/visualizers.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/unsupervised/__pycache__/umap_embedder.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/unsupervised/__pycache__/bout_aggregator.cpython-37.pyc: python 3.7 byte-compiled
+packages/simba/feature_extractors/__pycache__/perimeter_jit.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/feature_extractors/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/feature_extractors/__pycache__/feature_subsets.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/sandbox/__pycache__/fish_feature_extractor.cpython-310.pyc: data
 packages/simba/sandbox/__pycache__/fish_feature_extractor_2023.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/labelling/__pycache__/extract_labelled_frames.cpython-37.pyc: python 3.7 byte-compiled
@@ -199,6 +230,7 @@ packages/simba/labelling/__pycache__/extract_labelled_frames.cpython-36.pyc: pyt
 packages/simba/labelling/__pycache__/labelling_interface.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/labelling/__pycache__/labelling_advanced_interface.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/labelling/__pycache__/play_annotation_video.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/labelling/__pycache__/targeted_annotations_clips.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/labelling/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/ui/__pycache__/tkinter_functions.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
@@ -206,6 +238,7 @@ packages/simba/ui/__pycache__/create_project_ui.cpython-36.pyc: python 3.6 byte-
 packages/simba/ui/__pycache__/video_info_ui.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/__pycache__/machine_model_settings_ui.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/__pycache__/user_defined_pose_creator.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/roi_size_standardizer_popup.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/clf_validation_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/smoothing_interpolation_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/pose_reorganizer_pop_up.cpython-36.pyc: python 3.6 byte-compiled
@@ -214,6 +247,8 @@ packages/simba/ui/pop_ups/__pycache__/outlier_settings_pop_up.cpython-36.pyc: py
 packages/simba/ui/pop_ups/__pycache__/subset_feature_extractor_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/create_user_defined_pose_configuration_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/quick_path_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/animal_directing_other_animals_pop_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/directing_animal_to_bodypart_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/roi_features_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/append_roi_features_bodypart_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/pose_bp_drop_pop_up.cpython-36.pyc: python 3.6 byte-compiled
@@ -230,6 +265,7 @@ packages/simba/ui/pop_ups/__pycache__/data_plot_pop_up.cpython-36.pyc: python 3.
 packages/simba/ui/pop_ups/__pycache__/third_party_annotator_appender_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/roi_analysis_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/movement_analysis_pop_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/direction_animal_to_bodypart_settings_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/video_processing_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/pup_retrieval_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/fsttc_pop_up.cpython-36.pyc: python 3.6 byte-compiled
@@ -240,10 +276,13 @@ packages/simba/ui/pop_ups/__pycache__/csv_2_parquet_pop_up.cpython-36.pyc: pytho
 packages/simba/ui/pop_ups/__pycache__/clf_add_remove_print_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/batch_preprocess_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/clf_probability_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/remove_roi_features_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/roi_tracking_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/directing_other_animals_plot_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/heatmap_location_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/clf_by_timebins_pop_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/boolean_conditional_slicer_pup_up.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/ui/pop_ups/__pycache__/mutual_exclusivity_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/gantt_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/severity_analysis_pop_up.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/ui/pop_ups/__pycache__/visualize_pose_in_dir_pop_up.cpython-36.pyc: python 3.6 byte-compiled
@@ -274,6 +313,18 @@ packages/simba/cue_light_tools/__pycache__/cue_light_menues.cpython-36.pyc: pyth
 packages/simba/cue_light_tools/__pycache__/cue_light_analyzer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/cue_light_tools/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/cue_light_tools/__pycache__/cue_light_visualizer.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/__pycache__/SimBA.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/image_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/config_reader.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/annotator_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/pose_importer_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/geometry_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/feature_extraction_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/plotting_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/train_model_mixin.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/mixins/__pycache__/pop_up_mixin.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/gantt_creator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/gantt_creator_mp.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/path_plotter_mp.cpython-36.pyc: python 3.6 byte-compiled
@@ -306,6 +357,7 @@ packages/simba/plotting/__pycache__/plot_clf_results_mp.cpython-36.pyc: python 3
 packages/simba/plotting/__pycache__/probability_plot_creator_mp.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/probability_plot_creator_mp.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/heat_mapper_clf.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/plotting/__pycache__/pose_plotter_mp.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/gantt_creator.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/heat_mapper_location_mp.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/single_run_model_validation_video_mp.cpython-37.pyc: python 3.7 byte-compiled
@@ -323,6 +375,7 @@ packages/simba/plotting/__pycache__/plot_clf_results.cpython-36.pyc: python 3.6 
 packages/simba/plotting/__pycache__/Directing_animals_visualizer.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/gantt_creator_mp.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/frame_mergerer_ffmpeg.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/plotting/__pycache__/directing_animals_to_bodypart_visualizer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/ez_lineplot.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/__pycache__/frame_mergerer_ffmpeg.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/ROI_feature_visualizer_mp.cpython-36.pyc: python 3.6 byte-compiled
@@ -337,5 +390,7 @@ packages/simba/plotting/__pycache__/shap_agg_stats_visualizer.cpython-36.pyc: py
 packages/simba/plotting/__pycache__/probability_plot_creator.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/plotting/tools/__pycache__/tkinter_tools.cpython-37.pyc: python 3.7 byte-compiled
+packages/simba/plotting/tools/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/plotting/tools/__pycache__/tkinter_tools.cpython-36.pyc: python 3.6 byte-compiled
+packages/home/runner/.indy/nssm_original.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/simpleworkspace/assets/__pycache__/__init__.cpython-311.pyc: data
