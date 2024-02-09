@@ -1,25 +1,28 @@
-packages/brainreg/core/bin/nifty_reg/osX/reg_average: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_transform: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_resample: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_measure: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_aladin: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_tools: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_jacobian: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/osX/reg_f3d: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_average: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=29da50b4d730e58237e0f74f9f05f6910ad578bb, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_transform: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=490b8f971915bcf2c40579e5f0f849a426c8c064, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_resample: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=ffcfee3861fd60295e6a1bd65876db0ed52fe0dd, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_measure: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=c864ae84a0f6d57a7469ddef1337ea17517b53cf, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_aladin: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=04ad738fbc901d13a41b70470053b3082956d906, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_tools: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=8def0334a750979d3350863a592f7c11eef0cb8d, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_jacobian: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=b1acbf3f73ad9efc34ad05c52cbd155c5e66f114, not stripped
-packages/brainreg/core/bin/nifty_reg/linux_x64/reg_f3d: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=88ac9fa4675c7ee6325125b165ec12fb78fe63db, not stripped
-packages/brainreg/core/bin/nifty_reg/win64/reg_f3d.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/vcruntime140_1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_transform.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_measure.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_tools.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_aladin.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_jacobian.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_resample.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/brainreg/core/bin/nifty_reg/win64/reg_average.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/tests/unit/__pycache__/test_meta.cpython-39-pytest-7.3.1.pyc: python 3.9 byte-compiled
+packages/tests/unit/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tests/unit/__pycache__/conftest.cpython-39-pytest-7.3.1.pyc: python 3.9 byte-compiled
+packages/primer3/src/libprimer3/primer3_core: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b38603ba5f3b9b278d0d8be86fac48a3f8313b60, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/primer3/src/libprimer3/primer3_masker: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2a2b7f0e08faa2807c5d28f2e307d5c9ae09ccbe, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/primer3/src/libprimer3/amplicon3_core: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b4cc0bac709776adf682d364175f7624851e27c9, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/primer3/src/libprimer3/ntdpal: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=6c37be1187bf894ef18907a2fe14c67aace9baaf, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/primer3/src/libprimer3/oligotm: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=cef098d6c570bc2af1ed4843771d3d0e023bb956, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/primer3/src/libprimer3/ntthal: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=00105f1b1181f4d2142bc598f852496c9f0df996, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/topologicpy/bin/windows/topologic/topologic.cp310-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKFillet-0ddbf0a8.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKGeomBase-df87aba5.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKMath-45bd625a.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKernel-08c8cfbb.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKG2d-2e2dee3d.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKBRep-e56a600e.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKBO-f6b191de.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/topologic.cp311-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKShHealing-bb48be89.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/topologic.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKGeomAlgo-d240e370.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKG3d-6674513d.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKTopAlgo-7d0d1e22.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKMesh-d6e826b1.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKOffset-79b9cc94.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/topologic.cp38-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKPrim-aa430a86.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/topologicpy/bin/windows/topologic/TKBool-7b8d47ae.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
