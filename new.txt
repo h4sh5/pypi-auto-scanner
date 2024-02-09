@@ -1,3 +1,6 @@
+open-text-embeddings==1.0.4
+localstack-core==3.1.1.dev20240209072243
+arcticdb==4.3.1
 vortexpy==4.0.11
 ev-fleet-sim==1.12
 nordea-analytics==1.11.0
@@ -95,6 +98,3 @@ arh==1.0.4
 hews==0.0.2
 libmsiecf-python==20240209
 sqlmesh==0.69.5.dev31
-pyppeteer==2.0.0rc1
-bisos-siteregistrars==0.4
-wallycore==1.2.0
