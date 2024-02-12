@@ -1,5 +1,11 @@
-packages/hgdb-replay: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.9, with debug_info, not stripped
-packages/hgdb-rewrite-vcd: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.9, with debug_info, not stripped
+packages/setuptools/gui-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/setuptools/cli-64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/setuptools/cli-32.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/setuptools/gui-64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/setuptools/gui.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/setuptools/cli.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/setuptools/cli-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/setuptools/gui-32.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/onnx/backend/test/data/pytorch-converted/test_Conv1d_pad2size1/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped - version 7
 packages/onnx/backend/test/data/pytorch-converted/test_Conv1d_pad2size1/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 75
 packages/onnx/backend/test/data/pytorch-converted/test_MaxPool2d/test_data_set_0/input_0.pb: PDP-11 pure executable not stripped
@@ -1063,4 +1069,3 @@ packages/onnx/backend/test/data/pytorch-operator/test_operator_pad/test_data_set
 packages/onnx/backend/test/data/pytorch-operator/test_operator_pad/test_data_set_0/output_0.pb: PDP-11 pure executable not stripped - version 63
 packages/onnx/backend/test/data/pytorch-operator/test_operator_reduced_mean/test_data_set_0/output_0.pb: HP s500 pure executable - version 874298937
 packages/nmodl/.data/bin/nmodl: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=e5b9a8e56ce5c04d8e84130dc26eeae7a16296da, for GNU/Linux 2.6.32, not stripped
-packages/hgdb-db: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.9, with debug_info, not stripped
