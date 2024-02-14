@@ -1,1 +1,11 @@
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/plcrex/models/qrz/qrz_model.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/models/scl/scl_model.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/models/st/st_model.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/tcgen/pyd/test_case_gen.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/fbd2st/pyd/fbd2st_compiler.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/st2scl/pyd/st2scl_compiler.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/fbd2x/pyd/fbd_optimizer.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/st2qrz/pyd/st2qrz_compiler.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/plcrex/tools/fbdia/pyd/io_analysis.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/ayx_python_sdk/assets/executables: directory
+packages/ayx_python_sdk/assets/executables/yxi-installer.pyz: Zip archive data, made by v2.0, extract using at least v2.0, last modified Sun Mar 17 10:36:43 2013, uncompressed size 4, method=deflate
