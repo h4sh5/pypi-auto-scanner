@@ -1,3 +1,11 @@
+tap-sleeper==0.2.0
+command-watcher==0.4.1
+coiled==1.5.1.dev5
+kitpdf==0.1.18
+tarraz==1.1.1
+xee==0.0.9
+factryengine==0.3.0
+potato-annotation==1.2.1.6
 dbt-tests-adapter==1.7.8
 dbt-postgres==1.7.8
 dbt-core==1.7.8
@@ -90,11 +98,3 @@ flytekitplugins-mlflow==1.10.8b0
 flytekitplugins-kftensorflow==1.10.8b0
 flytekitplugins-kfpytorch==1.10.8b0
 flytekitplugins-kfmpi==1.10.8b0
-flytekitplugins-pod==1.10.8b0
-flytekitplugins-identity-aware-proxy==1.10.8b0
-flytekitplugins-huggingface==1.10.8b0
-flytekitplugins-hive==1.10.8b0
-flytekitplugins-great-expectations==1.10.8b0
-flytekitplugins-flyteinteractive==1.10.8b0
-flytekitplugins-envd==1.10.8b0
-flytekitplugins-duckdb==1.10.8b0
