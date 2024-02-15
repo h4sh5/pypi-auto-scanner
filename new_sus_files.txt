@@ -1,3 +1,8 @@
+packages/reconstructor/diamond.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/Gesys_src/__pycache__/gesys.cpython-38.pyc: python 3.8 byte-compiled
+packages/Gesys_src/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/Gesys_src/pyarmor_runtime_000000/pyarmor_runtime.pyd: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/pvorca/lib/windows/amd64/libpv_orca.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
 packages/speculos/cxlib/nanox-api-level-cx-5.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
 packages/speculos/cxlib/stax-api-level-cx-14.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
 packages/speculos/cxlib/nanos-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
@@ -23,28 +28,3 @@ packages/speculos/cxlib/stax-api-level-cx-9.elf: ELF 32-bit LSB executable, ARM,
 packages/speculos/cxlib/nanox-cx-2.0.elf: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), statically linked, stripped
 packages/speculos/resources/vnc_server: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=18ce6c59bf7c30317fad3c6e58319d85700d3681, for GNU/Linux 3.2.0, not stripped
 packages/speculos/resources/launcher: ELF 32-bit LSB executable, ARM, EABI5 version 1 (GNU/Linux), statically linked, BuildID[sha1]=b0b6baa69c40533e42c162a6bbb5b858d388f747, for GNU/Linux 3.2.0, not stripped
-packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0021_formfield_admin_only.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0019_formmetadata_formmetadataoption_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0017_formsubmissionpaymentdetails_currency_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0014_remove_account_stripe_connect_redirect_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0012_paymentgatewaywebhook_formfield_slug_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0016_formsubmissionpaymentdetails_payment_mode_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0018_remove_formsubmissionpaymentdetails_payment_gateway_status_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0013_formsubmissionpaymentdetails.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0020_formrecaptcha_formpageviews.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0015_form_category_form_qrcode_alter_formfield_field_type.cpython-38.pyc: python 3.8 byte-compiled
