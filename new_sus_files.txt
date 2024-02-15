@@ -1,34 +1,35 @@
-packages/slitherin/detectors/aave/__pycache__/flashloan_callback.cpython-311.pyc: data
-packages/slitherin/detectors/aave/__pycache__/__init__.cpython-311.pyc: data
-packages/slitherin/detectors/reentrancy/__pycache__/reentrancy.cpython-311.pyc: data
-packages/slitherin/detectors/reentrancy/__pycache__/__init__.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/potential_arith_overflow.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/ecrecover.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/token_fallback.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/public_vs_external.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/unprotected_initialize.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/strange_setter.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/uni_v2.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/timelock_controller.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/nft_approve_warning.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/magic_number.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/before_token_transfer.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/read_only_reentrancy.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/double_entry_token_possibility.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/call_forward_to_protected.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/multiple_storage_read.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/event_setter.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/__init__.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/for_continue_increment.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/falsy_only_eoa_modifier.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/dubious_typecast.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/unprotected_setter.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/tx_gasprice_warning.cpython-311.pyc: data
-packages/slitherin/detectors/__pycache__/inconsistent_nonreentrant.cpython-311.pyc: data
-packages/slitherin/detectors/arbitrum/__pycache__/arbitrum_prevrandao_difficulty.cpython-311.pyc: data
-packages/slitherin/detectors/arbitrum/__pycache__/solidity_version.cpython-311.pyc: data
-packages/slitherin/detectors/arbitrum/__pycache__/block_number_timestamp.cpython-311.pyc: data
-packages/slitherin/detectors/arbitrary_call/__pycache__/arbitrary_call.cpython-311.pyc: data
-packages/slitherin/__pycache__/cli.cpython-311.pyc: data
-packages/slitherin/__pycache__/consts.cpython-311.pyc: data
-packages/slitherin/__pycache__/__init__.cpython-311.pyc: data
+packages/PySide6/qmllint: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=2c19aa4c1ba4f8be8e4d4f40226cecdf4ba2df0a, for GNU/Linux 3.2.0, stripped
+packages/PySide6/assistant: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=5a1d6ce273fe55d4915efd0ca4780c2108d7db25, for GNU/Linux 3.2.0, stripped
+packages/PySide6/linguist: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=b263567790d4c4cc8416f9dffe04d9b3c243a28d, for GNU/Linux 3.2.0, stripped
+packages/PySide6/lupdate: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=110455b751334073a7bed4c3d5204dbf2a6b6677, for GNU/Linux 3.2.0, stripped
+packages/PySide6/qmlformat: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=608711a10ae1f8d1931bcbf492da6aebcd61e94d, for GNU/Linux 3.2.0, stripped
+packages/PySide6/qmlls: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d434cb2d6b4c226b6f80cf565434ca7d1b2cc68c, for GNU/Linux 3.2.0, stripped
+packages/PySide6/lrelease: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=dc6bb4afd1b877c57daed8e103a8f930b5728b06, for GNU/Linux 3.2.0, stripped
+packages/PySide6/designer: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=c304221eb4518245902932f2b54982d6a69d5678, for GNU/Linux 3.2.0, stripped
+packages/PySide6/support/__pycache__/deprecated.cpython-311.pyc: data
+packages/PySide6/support/__pycache__/__init__.cpython-311.pyc: data
+packages/PySide6/Qt/libexec/QtWebEngineProcess: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=af8167e818733604e20d7985b719ce5de8f0d3cf, for GNU/Linux 3.2.0, stripped
+packages/PySide6/Qt/libexec/qmlcachegen: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=840e47aa5f550f9099ffe7299cd7f0f472932578, for GNU/Linux 3.2.0, stripped
+packages/PySide6/Qt/libexec/rcc: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=3e1ddb13e68e135e23f6e32f807df554028cb8a8, for GNU/Linux 3.2.0, stripped
+packages/PySide6/Qt/libexec/qmlimportscanner: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=81295c8c292836f649dc6efbd579a35e83e568bb, for GNU/Linux 3.2.0, stripped
+packages/PySide6/Qt/libexec/uic: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=148dc0c6ec88630e43049d406ab98cd0484c94ad, for GNU/Linux 3.2.0, stripped
+packages/PySide6/Qt/libexec/qmltyperegistrar: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=63d2e9268f8d299a2da5d2bfc918838704a33521, for GNU/Linux 3.2.0, stripped
+packages/tf/convert/app/__pycache__/__init__.cpython-312.pyc: data
+packages/tf/convert/app/__pycache__/app.cpython-312.pyc: data
+packages/tf/client/make/__pycache__/__init__.cpython-310.pyc: data
+packages/tf/client/make/__pycache__/build.cpython-312.pyc: data
+packages/tf/client/make/__pycache__/__init__.cpython-312.pyc: data
+packages/tf/client/make/__pycache__/build.cpython-39.pyc: python 3.9 byte-compiled
+packages/tf/client/make/__pycache__/build.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale 0-32001, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 10633823966279326983230456482242756608.000000, slope 38832028812009129446998016.000000
+packages/tf/client/make/__pycache__/gh.cpython-311.pyc: data
+packages/tf/client/make/__pycache__/gh.cpython-39.pyc: python 3.9 byte-compiled
+packages/tf/client/make/__pycache__/gh.cpython-310.pyc: data
+packages/tf/client/make/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/tf/client/make/__pycache__/help.cpython-311.pyc: data
+packages/tf/client/make/__pycache__/__init__.cpython-311.pyc: data
+packages/tf/client/make/__pycache__/build-notebook.cpython-310.pyc: data
+packages/tf/client/make/__pycache__/help.cpython-312.pyc: data
+packages/tf/client/make/__pycache__/gh.cpython-312.pyc: data
+packages/tf/client/make/__pycache__/help.cpython-39.pyc: python 3.9 byte-compiled
+packages/tf/client/make/__pycache__/build.cpython-310.pyc: data
+packages/tf/client/make/__pycache__/help.cpython-310.pyc: data
