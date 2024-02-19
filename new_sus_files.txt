@@ -1,30 +1,9 @@
-packages/ffmpeg/binaries/qt-faststart: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=69e624a6f851ef6b8127f81548b917229a37a355, stripped
-packages/ffmpeg/binaries/ffmpeg: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=889dc57d8fd09ead0869e34a019ab2e7f7704705, stripped
-packages/ffmpeg/binaries/ffprobe: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=c80fe1d76945ecb6d0b9d64ef73c3d79b6036d16, stripped
+packages/pyoxynet/TCN/saved_model.pb: PDP-11 pure executable not stripped - version 5
+packages/pyoxynet/regressor/saved_model.pb: PDP-11 pure executable not stripped - version 5
+packages/pyoxynet/murias_lab/saved_model.pb: PDP-11 pure executable not stripped - version 5
+packages/pyoxynet/generator/saved_model.pb: PDP-11 pure executable not stripped - version 5
+packages/pyoxynet/LSTMGRUModel/saved_model.pb: PDP-11 pure executable not stripped - version 5
+packages/vision_oslo_extension/osop.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/vision_oslo_extension/CMD.EXE: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/pdm_conda/models/__pycache__/candidates.cpython-310.pyc.281473776611248: empty
 packages/gemmi_program-0.6.5.data/scripts/gemmi: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d9856f40c8a90cdb4afe109e5e97b43753a0a9d5, for GNU/Linux 2.6.32, stripped
-packages/zippy_form/payments/__pycache__/stripe_payment.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/payments/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/management/commands/__pycache__/celery_init.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0010_account_timezone_formsubmission_api_accessed_count.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0021_formfield_admin_only.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0011_remove_form_created_by_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0019_formmetadata_formmetadataoption_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0004_rename_entry_formsubmission_revision.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0006_form_gsheet_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0017_formsubmissionpaymentdetails_currency_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0003_formsubmission_entry.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0001_initial.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0005_account_admin_email.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0007_formsubmissiondata_submission_reference.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0014_remove_account_stripe_connect_redirect_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0012_paymentgatewaywebhook_formfield_slug_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0022_form_non_admin_qrcode.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0009_alter_webhook_endpoint_url.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0016_formsubmissionpaymentdetails_payment_mode_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0008_webhook.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0018_remove_formsubmissionpaymentdetails_payment_gateway_status_and_more.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0013_formsubmissionpaymentdetails.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0002_account_meta_detail_form_meta_detail.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0020_formrecaptcha_formpageviews.cpython-38.pyc: python 3.8 byte-compiled
-packages/zippy_form/migrations/__pycache__/0015_form_category_form_qrcode_alter_formfield_field_type.cpython-38.pyc: python 3.8 byte-compiled
