@@ -1,6 +1,4 @@
-packages/gamspy_dicopt/gmsdi_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_mpsge/gmsge_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
-packages/gamspy_mpsge/gmsgewux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/tushare/stock/rtqc.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/simba/mixins/__pycache__/__init__.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/mixins/__pycache__/timeseries_features_mixin.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/mixins/__pycache__/plotting_mixin.cpython-36.pyc: python 3.6 byte-compiled
@@ -58,8 +56,8 @@ packages/simba/unsupervised/__pycache__/enums.cpython-37.pyc: python 3.7 byte-co
 packages/simba/unsupervised/__pycache__/cluster_statistics.cpython-310.pyc: data
 packages/simba/unsupervised/__pycache__/ui.cpython-37.pyc: python 3.7 byte-compiled
 packages/simba/unsupervised/__pycache__/bout_aggregator.cpython-37.pyc: python 3.7 byte-compiled
-packages/simba/unsupervised/__pycache__/cluster_visualizer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/unsupervised/__pycache__/bout_aggregator.cpython-36.pyc: python 3.6 byte-compiled
+packages/simba/unsupervised/__pycache__/cluster_visualizer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/unsupervised/__pycache__/tsne.cpython-310.pyc: data
 packages/simba/unsupervised/__pycache__/hdbscan_clusterer.cpython-36.pyc: python 3.6 byte-compiled
 packages/simba/unsupervised/__pycache__/misc.cpython-310.pyc: data
