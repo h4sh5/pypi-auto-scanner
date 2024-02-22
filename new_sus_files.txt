@@ -1,5 +1,6 @@
-packages/gcsim_pypi/bin/gcsim.darwin.arm64: Mach-O 64-bit arm64 executable, flags:<|DYLDLINK|PIE>
-packages/gcsim_pypi/bin/gcsim: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=C7S3JO1sN-8vMXQJqYGN/qet6CMfvsDzvVWruK_U3/-LraSuB_q7Lzelpcm8n0/MiaTAyvLo2Estn4WRCFH, with debug_info, not stripped
-packages/gcsim_pypi/bin/gcsim.arm64: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, Go BuildID=lRNAhT20z0hE6T-2-W9i/S7sfY0H1D779NXHB8mKQ/VTA3aOQRcbTjc-Jvj_1h/ObMz7XTLr7UJyyz1NqHf, with debug_info, not stripped
-packages/gcsim_pypi/bin/gcsim.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/gcsim_pypi/bin/gcsim.darwin: Mach-O 64-bit x86_64 executable, flags:<|DYLDLINK|PIE>
+packages/pyxai/sources/solvers/MAXSAT/openwbo-windows: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=36290cbbee18bab0404b1c6ecb955196e7112b30, with debug_info, not stripped
+packages/pyxai/sources/solvers/MAXSAT/openwbo-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=ea43e291a22ea9eb1694c4d108ded0b55fe925cd, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/pyxai/sources/solvers/MAXSAT/openwbo-darwin: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/pyxai/sources/solvers/MUS/muser-linux: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=59a6faf375222937f985eb79d59c19619e7a073e, for GNU/Linux 3.2.0, not stripped
+packages/pyxai/sources/solvers/MUS/muser-darwin: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/pyxai/sources/solvers/COMPILER/d4_static: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=776e25e9eef6f8a436fb28947bfc3b032116d71a, for GNU/Linux 3.2.0, with debug_info, not stripped
