@@ -1,13 +1,3 @@
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win32.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win32.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp312-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp312-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/latch_cli/services/init/assemble_and_sort/__pycache__/__init__.cpython-310.pyc: data
 packages/latch_cli/services/init/__pycache__/__init__.cpython-310.pyc: data
 packages/latch_cli/services/init/__pycache__/init.cpython-311.pyc: data
@@ -21,3 +11,5 @@ packages/latch_cli/services/init/example_nf_integration/latch_metadata/__pycache
 packages/latch_cli/services/init/example_conda/__pycache__/__init__.cpython-310.pyc: data
 packages/latch_cli/services/init/example_r/__pycache__/__init__.cpython-310.pyc: data
 packages/latch_cli/services/init/template/__pycache__/__init__.cpython-310.pyc: data
+packages/ast_grep_cli-0.19.2.data/scripts/sg: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=89fa7a063b46f1901c287a4498e3a00a8ce60829, for GNU/Linux 2.6.32, stripped
+packages/ast_grep_cli-0.19.2.data/scripts/ast-grep: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=89fa7a063b46f1901c287a4498e3a00a8ce60829, for GNU/Linux 2.6.32, stripped
