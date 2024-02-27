@@ -1,1 +1,250 @@
-packages/FilePathCheckerModule.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+packages/patched_cli/resources/languages_windows_amd64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/dive_bin-0.12.0.data/scripts/dive: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, Go BuildID=_n78lBve6JXK1HjDT7eO/x7s1qBH_y7uQdXXKbwTv/qLd3J2Y_SwX9NTHPWUmB/aaJYni3L5M7lz3fdGoE7, stripped
+packages/just_bin-1.24.0.data/scripts/just: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), static-pie linked, BuildID[sha1]=07776fb62839291a3d796359ecb4e92aaa0f2622, with debug_info, not stripped
+packages/hadolint_bin-2.12.0.data/scripts/hadolint: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, no section header
+packages/lalapps/bin/lalapps_inspinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9bb5237cd0d91d0952b45773a25cf879b4a105b8, stripped
+packages/lalapps/bin/lalapps_ninja: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c356b1814cf08aa4a22cbb2bf6002c5e43771c34, stripped
+packages/lalapps/bin/lalpulsar_spec_coherence: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=21f97c08989d079efbd55398e3c5c86ce3aa5ff0, stripped
+packages/lalapps/bin/lalpulsar_PredictFstat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=625ebd20771c71c89f0da8e687c0a66f9bc94264, stripped
+packages/lalapps/bin/lalpulsar_compareSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=21ef8a93f7feda36cd9d250f1e53950d1026ff77, stripped
+packages/lalapps/bin/lalapps_animate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6b52def3cf9b58f82ee883cc025114f962a284aa, stripped
+packages/lalapps/bin/lalpulsar_SFTclean: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d85a1643d8a60a6adc73c7aac85e0184e938e4fb, stripped
+packages/lalapps/bin/lalpulsar_ComputeAntennaPattern: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a718fc2302e6fb28b9486320247894f4c5a28263, stripped
+packages/lalapps/bin/lalmetaio_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=096dd16a9292f95b41427858d8d99807d7c84104, stripped
+packages/lalapps/bin/lalfr-cut: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a113f33c66a8c5abda06062b19d3a35a426232e2, stripped
+packages/lalapps/bin/lalapps_coh_PTF_inspiral: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b9672e0de2217f717083480de5fddc8995078d15, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatMCUpperLimit: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c8777098e5c08e426b4819f03c8f7f18e7e939de, stripped
+packages/lalapps/bin/lalinference_datadump: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=990bcb8c512daf2efe6bafa60d1116996ad32e4a, stripped
+packages/lalapps/bin/lalpulsar_WriteSFTsfromSFDBs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c72f1f2258b00ae61dae8e0734be142fd2973653, stripped
+packages/lalapps/bin/lalapps_calcexpsnr: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=d45a26ced2109791af7b6c3f8c23b2796ca01418, stripped
+packages/lalapps/bin/lalframe_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6351ebe29a7b2e1ff70555e0c4ee6f0df7850df6, stripped
+packages/lalapps/bin/lalapps_frread: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2da5088eeba4a7860d23add07d6123e63d8008ce, stripped
+packages/lalapps/bin/lalapps_chirplen: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2d86e8ed413b6b1fed8bebfacd3b706b0cf1748f, stripped
+packages/lalapps/bin/lalpulsar_spec_avg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7ee0fe51e1c37a428a2ccc7e09e1094e23293967, stripped
+packages/lalapps/bin/lalapps_inspiralDistance: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=68338a58242d193c9befd35220a7a99d74cb0663, stripped
+packages/lalapps/bin/lalsim-ns-params: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0a21d0ac844aac80aa77b75575da3c8885317974, stripped
+packages/lalapps/bin/lalsim-burst: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6cbd4ea1c68645a5494af7ad0aa0d1291dc6d2a3, stripped
+packages/lalapps/bin/lalapps_frextr: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=27e205f44b26be9a70c069ed7a832feb72b5c5f4, stripped
+packages/lalapps/bin/lalfr-dump: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7af0aba46409bfa08a89d822a5395f6378d72cf2, stripped
+packages/lalapps/bin/lalsim-inspiral: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a03d7cfb4e443dc86750a9d69372f6851cb3cb81, stripped
+packages/lalapps/bin/lalsim-sgwb: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=61bbc71b2ac50178a0918ff0638c87da06a9715b, stripped
+packages/lalapps/bin/lalapps_binj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e3400cd7f81e4fe5b28d9fe080cdbb6a91db0387, stripped
+packages/lalapps/bin/lalsim-inject: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8a4f451b214623e2ffb096f3c1294bf96ac07584, stripped
+packages/lalapps/bin/lalfr-paste: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7e6b8399cd562a80c8085a6265d80d4a6094d25c, stripped
+packages/lalapps/bin/lalfr-vis: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ca63870199dbe829c574127d600ebf3ac11b3fb8, stripped
+packages/lalapps/bin/lalinference_bench: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=610ded8def748c8eb24de06824528eb48f6364c8, stripped
+packages/lalapps/bin/lalpulsar_WeaveCompare: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7a41456cce42473976dcf1193ee3c673d22f94d4, stripped
+packages/lalapps/bin/lalfr-stream: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f805bdbf51c900d5a0773987b1cdf020d4a93a17, stripped
+packages/lalapps/bin/lalapps_power: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=11ba8a9564ee20ca37198b1a68b6fa71ce0d6def, stripped
+packages/lalapps/bin/lalpulsar_fits_header_getval: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=813a8436a341712234b61eab5095bc437402ff5e, stripped
+packages/lalapps/bin/lalpulsar_crosscorr_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=00a8a073edf732ebe90ad2f4ae488c3ab8673583, stripped
+packages/lalapps/bin/lalpulsar_dumpSFT: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4c1c4da36d07adb481c7c8302056b4968675fa5e, stripped
+packages/lalapps/bin/lalpulsar_HierarchSearchGCT: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e0f0b4276890e26e9100c30d2d486e58183d4b5b, stripped
+packages/lalapps/bin/lalapps_fr_ninja: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0ce01d2a6674ed27eb3f0b2ab857f948f99cbd74, stripped
+packages/lalapps/bin/lalpulsar_fits_overview: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7fafc6810cf8234edb81f5cb318048f84a9dfc0d, stripped
+packages/lalapps/bin/lalfr-cksum: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ce864efef8d2257d86fee3490e4cf43e87a0755e, stripped
+packages/lalapps/bin/lalfr-print: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c50af121dd1f82fee3883b3d8e27cc6fc3be1ef0, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatLatticeCount: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=640fbee1231351bce2ffd81fc3c2ee63275c0a67, stripped
+packages/lalapps/bin/lalsim-unicorn: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=22c3d7c5a99fbf8c93dcdc843dae66981b6cfb46, stripped
+packages/lalapps/bin/lalapps_spininj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=869c41683856b27697540aff5958ac5ddcb2577d, stripped
+packages/lalapps/bin/lalsim-bh-sphwf: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ddbc497e5bd6e8feed44adf73f319db806968587, stripped
+packages/lalapps/bin/lalapps_inspawgfile: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=930d8ab923d7dc6b168750c65d26a79ec0514214, stripped
+packages/lalapps/bin/lalinference_burst: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ad9a9e2788c3a5f2fc60cdf8ee79d40304266022, stripped
+packages/lalapps/bin/lalapps_cbc_stochasticbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f64c0fb94e76ef42bcf3495c6ac16a1ca9a408b7, stripped
+packages/lalapps/bin/lalsimulation_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c3e1777d58239bed07dc91c6a81a2c31e9484f1b, stripped
+packages/lalapps/bin/lalpulsar_Makefakedata_v4: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=55bda009279de75bc49c717400cbf57ba1d8cc0b, stripped
+packages/lalapps/bin/lalsim-detector-noise: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=454b128d70911861d6a2f5a30e82caeded63ed63, stripped
+packages/lalapps/bin/lalfr-cat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c733666b0fcabf21367b5a1a04b22313ba5b6168, stripped
+packages/lalapps/bin/lalfr-fmt: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3cde837f663e7b539ac52af9eaff8708b0dc0afc, stripped
+packages/lalapps/bin/lalpulsar_DriveHoughMulti: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=be07c9b5519da9bc05bb093dba18317687f49961, stripped
+packages/lalapps/bin/lalinspiral_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=210de4f8880f9ac74c02554a5b8d4d4b042d9866, stripped
+packages/lalapps/bin/lalapps_StringAddFrame: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=08a0edf2b84b68cdefb94a6f0f66aba461f3a550, stripped
+packages/lalapps/bin/lalapps_exc_resp: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=17994349b403291ec27ac84f214f9f2dfeed71fa, stripped
+packages/lalapps/bin/lalpulsar_compareFstats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=a258ad564f0a545950e64d4e1c73e561cd86a611, stripped
+packages/lalapps/bin/lalapps_DistanceVsMass: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2930c556ed6015a9110b1d822a1c8f97722607bd, stripped
+packages/lalapps/bin/lalpulsar_parameter_estimation_nested: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c462460e9ee1acdf3a94fd9428ec2160300642ff, stripped
+packages/lalapps/bin/lalinference_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=deb3cbbea4d2a2de91733007bdefd2cc717a8064, stripped
+packages/lalapps/bin/lal_fftwf_wisdom: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b72572b0e8f98ab7f1ed10aca7bd4cdea6029d5b, stripped
+packages/lalapps/bin/lalapps_frjoin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5f3dfe5872035186802276930bf5db538acccb46, stripped
+packages/lalapps/bin/lal_cache: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6adf55f99017201c4f3a314e6ff8780b8d65c087, stripped
+packages/lalapps/bin/lalpulsar_create_solar_system_ephemeris: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5520322737ca6962045e5cc55115ad313dc621d7, stripped
+packages/lalapps/bin/lalpulsar_heterodyne: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c6f0b0bda4d30395872ee2886e28202bdb2d61a4, stripped
+packages/lalapps/bin/lalapps_tmpltbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e757d6cee479fca7274a317b148be2170dae57ff, stripped
+packages/lalapps/bin/lalfr-stat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cead89839f86403753ad5081111bbd1a1688bd29, stripped
+packages/lalapps/bin/lalpulsar_create_time_correction_ephemeris: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e155ecb483818966fae17d1d003f7ff15efa1272, stripped
+packages/lalapps/bin/lalpulsar_spec_avg_long: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e7afca6b581350bca16b8ce059f3a06dbd1dba52, stripped
+packages/lalapps/bin/lalburst_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=958f151c90e6129c4f129079ca749cd90bf6bf67, stripped
+packages/lalapps/bin/lalapps_gwf2xml: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=026aa8cf6813a081c1e794838ea7c1058547e8cd, stripped
+packages/lalapps/bin/lalpulsar_synthesizeBstatMC: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=087625701a26cf072b51f9d3e0ef40b8e21a5db5, stripped
+packages/lalapps/bin/lal_fftw_wisdom: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=071eec7aa6d9e69f4c3d83f33933e39965284206, stripped
+packages/lalapps/bin/lalpulsar_SFTvalidate: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=30e352ee55f104163685772e951cd28601d25a14, stripped
+packages/lalapps/bin/lalsim-bh-ringdown: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=839e3118584f8bae8553ee77af7db0ed9ee2b65a, stripped
+packages/lalapps/bin/lalapps_effdist: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=417b917eb9c682834343cc686b6e7534220376b6, stripped
+packages/lalapps/bin/lalapps_randombank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7d6f9b14f70cd8f41626bf5956221b16f97f6594, stripped
+packages/lalapps/bin/lalpulsar_frequency_evolution: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=765997e79e482a95a4c7cb7a04df780b5806f122, stripped
+packages/lalapps/bin/lalinference_mcmc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3e15c157ef295f0bd078b95fac07c2684d992a6d, stripped
+packages/lalapps/bin/lalsim-ns-mass-radius: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=feef49906617a6766e08cf6a2cef1eae5f5e41e3, stripped
+packages/lalapps/bin/lalapps_frview: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=403554fe3a4a856afdad4595341c08aedc21e45e, stripped
+packages/lalapps/bin/lalsim-detector-strain: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=2d7c11c59fb04f034a2334a6222eae40ca4f9f21, stripped
+packages/lalapps/bin/lal_tconvert: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b79d26ec3d189cff943be40f55f18c00482e1749, stripped
+packages/lalapps/bin/lalsim-ns-eos-table: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fbb4730055561aaba84dcddae22ecb09cc53da64, stripped
+packages/lalapps/bin/lalpulsar_synthesizeTransientStats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=868bdee94927ba7be415e28ce030ed7e4b14e76d, stripped
+packages/lalapps/bin/lalapps_splitbank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4f0baeb87a2d84a96090752c9d6b1964ec8e5dca, stripped
+packages/lalapps/bin/lalpulsar_fits_table_list: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1ebf5769f1374713612e8151bd24b94e12440c57, stripped
+packages/lalapps/bin/lalapps_xtefitstoframe: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f9255a6be0a7b26ab1de688a614a79d3753c59f1, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatBenchmark: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=1f75d759412c5a52d59f118ccfaad98bc8a3b5a9, stripped
+packages/lalapps/bin/lalapps_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=9a8d6c8e0a379bff77e520e16dd24e2d7fb3aa0f, stripped
+packages/lalapps/bin/lalpulsar_FstatMetric_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=fc263acb2251f01299fd4ff9b59f0da013e432d8, stripped
+packages/lalapps/bin/lalpulsar_ssbtodetector: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f04ee1c43f2aeade1d04e0bfb6f5477c8c9d4047, stripped
+packages/lalapps/bin/lalpulsar_ComputeFstatistic_v2: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=7dca7383f4c5358068769845c797ab0a17bf1f3a, stripped
+packages/lalapps/bin/lalpulsar_WeaveConcat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e1c355e47d94eccd6f04cead0c77a14097dde84a, stripped
+packages/lalapps/bin/lalfr-split: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=81de1f7eb09d1746e25e044a7ad64d40e340ef4d, stripped
+packages/lalapps/bin/lalpulsar_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f40d7e1d56140592d8d160cb0e6942d75e26156d, stripped
+packages/lalapps/bin/lal_simd_detect: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=191c2d70fcdeb50078c5b72e991ee9f8f1991f3b, stripped
+packages/lalapps/bin/lalpulsar_ComputePSD: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=82367887bf8a98bccd60b6408a670f5cbfec6ff7, stripped
+packages/lalapps/bin/lalapps_random_bank: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b53eef3a8cf85af5b1215d4fd4a190c38b19e609, stripped
+packages/lalapps/bin/lalpulsar_WeaveSetup: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=ad7c5161ea491a48914353cbf68419884c02c5b8, stripped
+packages/lalapps/bin/lalpulsar_PrintDetectorState: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4ce4ab70d37764b8fe8a41d25d2812170d16ed6d, stripped
+packages/lalapps/bin/lalapps_StringSearch: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b1393c1ab663a99fef6fe13bcfff95854e13ab82, stripped
+packages/lalapps/bin/lalapps_calfacs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=25d0d7ced859e73388bf2e09096acd089bfc0a88, stripped
+packages/lalapps/bin/lalpulsar_Makefakedata_v5: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b3904c55970f09b1f238a9b657ec69880e10b69a, stripped
+packages/lalapps/bin/lalpulsar_fits_header_list: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=6f4969c349d7e987f373e9dc833594dd4640c831, stripped
+packages/lalapps/bin/lalpulsar_HierarchicalSearch: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=b61473a7ba6cc14ee96c999cfd65dbe9ce765a88, stripped
+packages/lalapps/bin/lalsim-bh-qnmode: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cb1d6d578573af351a79cea5f5aa8cc6a37583e1, stripped
+packages/lalapps/bin/lalapps_inspfrinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=de3ad1addaed8823a3728c1bf35158340bc1b5c8, stripped
+packages/lalapps/bin/lalapps_blindinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=863bd1bdd749e5760e7ea7f9151c118d0d3c8273, stripped
+packages/lalapps/bin/lalapps_frinfo: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=201b64d30ceaf357eef066ecd89cbbf5bba424de, stripped
+packages/lalapps/bin/lalpulsar_MakeSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=e3523f13f9dd7326b9b57c45aad9a142eae75ac7, stripped
+packages/lalapps/bin/lalinference_kombine: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=cf358687c9b30aa285340983cacf3100cede2114, stripped
+packages/lalapps/bin/lalapps_coinj: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=06beb4a91481e5a2e0028c5e7d4344be65263b21, stripped
+packages/lalapps/bin/lalinference_injectedlike: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=f235691e34347d175489b8af3c5fac44afda5501, stripped
+packages/lalapps/bin/lalinference_nest: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=41b6b5cc994f7e89aa737b10dba177776b4e9801, stripped
+packages/lalapps/bin/lalpulsar_synthesizeLVStats: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=79091e01ec6ba9144ecb748f6b47ad9f2a62bd2f, stripped
+packages/lalapps/bin/lalpulsar_Weave: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0dde9c088896d56ad48ceb0ee64f102885b85512, stripped
+packages/lalapps/bin/lalpulsar_splitSFTs: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=0f9cfdd88fc3e812042581aea14206a8de8ec5d8, stripped
+packages/lalapps/bin/lal_version: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=8f1b1c8c60a0e9b524c5d8d4672fd6722a3bfaba, stripped
+packages/fumedev/models/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/models/__pycache__/ChatLog.cpython-311.pyc: data
+packages/fumedev/commands/__pycache__/start_coder.cpython-311.pyc: data
+packages/fumedev/commands/__pycache__/lone_coder.cpython-311.pyc: data
+packages/fumedev/__pycache__/env.cpython-311.pyc: data
+packages/fumedev/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/__pycache__/prompts.cpython-311.pyc: data
+packages/fumedev/__pycache__/main.cpython-311.pyc: data
+packages/fumedev/__pycache__/globals.cpython-311.pyc: data
+packages/fumedev/lllm_utils/__pycache__/generate_search_phrases.cpython-311.pyc: data
+packages/fumedev/lllm_utils/__pycache__/rerank_snippets.cpython-311.pyc: data
+packages/fumedev/lllm_utils/__pycache__/if_changes_needed.cpython-311.pyc: data
+packages/fumedev/lllm_utils/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/lllm_utils/__pycache__/split_complex_task.cpython-311.pyc: data
+packages/fumedev/language_servers/__pycache__/check_error.cpython-311.pyc: data
+packages/fumedev/language_servers/__pycache__/python_server.cpython-311.pyc: data
+packages/fumedev/language_servers/__pycache__/javascript_server.cpython-311.pyc: data
+packages/fumedev/agents/__pycache__/agent.cpython-311.pyc: data
+packages/fumedev/agents/__pycache__/philosopher.cpython-311.pyc: data
+packages/fumedev/agents/__pycache__/taskMaster.cpython-311.pyc: data
+packages/fumedev/agents/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/agents/__pycache__/coderMinion.cpython-311.pyc: data
+packages/fumedev/agents/utils/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/agents/utils/__pycache__/find_code_blocks.cpython-311.pyc: data
+packages/fumedev/coder/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/coder/coder/models/__pycache__/openrouter.cpython-311.pyc: data
+packages/fumedev/coder/coder/models/__pycache__/model.cpython-311.pyc: data
+packages/fumedev/coder/coder/models/__pycache__/openai.cpython-311.pyc: data
+packages/fumedev/coder/coder/models/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/voice.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/repomap.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale 0-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 0.000000, slope 2658455991569831745807614120560689152.000000
+packages/fumedev/coder/coder/__pycache__/mdstream.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/utils.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/io.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/dump.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/history.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/repo.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/sendchat.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/diffs.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/commands.cpython-311.pyc: data
+packages/fumedev/coder/coder/__pycache__/scrape.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/wholefile_func_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/search_replace.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/single_wholefile_func_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/base_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/single_wholefile_func_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/wholefile_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/base_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/udiff_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/editblock_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/editblock_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/editblock_func_prompts.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/wholefile_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/editblock_func_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/wholefile_func_coder.cpython-311.pyc: data
+packages/fumedev/coder/coder/coders/__pycache__/udiff_prompts.cpython-311.pyc: data
+packages/fumedev/git_ops/gitlab_ops/__pycache__/utils.cpython-311.pyc: data
+packages/fumedev/git_ops/gitlab_ops/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/git_ops/__pycache__/wrappers.cpython-311.pyc: data
+packages/fumedev/git_ops/__pycache__/utils.cpython-311.pyc: data
+packages/fumedev/git_ops/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/git_ops/github_ops/__pycache__/app.cpython-311.pyc: data
+packages/fumedev/git_ops/github_ops/__pycache__/utils.cpython-311.pyc: data
+packages/fumedev/git_ops/github_ops/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/fliter_snippets_list.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/get_dir_structure.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/run_with_spinner.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/create_diff.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/syntax_checker.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/file_path_formatter.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/process_snippets.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/generate_id.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/copy_to_existing_directory.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/search_snippet.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/get_changed_files.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/find_closest_file_path.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/filter_snippets_header.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/run_documentation.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/stream_messae.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/get_language_name.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/undo_all_commits.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/create_git.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/merge_overlapping_snippets.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/get_unique_extensions.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/stream_message.cpython-311.pyc: data
+packages/fumedev/utils/__pycache__/create_file.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/find_js_dependents.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/start_coder.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/get_dependents.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/find_py_dependets.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/utils/get_dependents/__pycache__/lone_coder.cpython-311.pyc: data
+packages/fumedev/auth/__pycache__/keys.cpython-311.pyc: data
+packages/fumedev/auth/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/auth/__pycache__/auth.cpython-311.pyc: data
+packages/fumedev/gui/__pycache__/app.cpython-311.pyc: data
+packages/fumedev/gui/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/SearchPhrase/__pycache__/searchPhrase.cpython-311.pyc: data
+packages/fumedev/gui/screens/SearchPhrase/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/FileTreeSelector/__pycache__/fileTreeSelector.cpython-311.pyc: data
+packages/fumedev/gui/screens/FileTreeSelector/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/Login/__pycache__/login.cpython-311.pyc: data
+packages/fumedev/gui/screens/Login/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/Main/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/gui/screens/Main/__pycache__/main.cpython-311.pyc: data
+packages/fumedev/node_modules/quick-lint-js/win32-ia32/bin/quick-lint-js.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+packages/fumedev/node_modules/quick-lint-js/win32-x64/bin/quick-lint-js.exe: PE32+ executable (console) x86-64 (stripped to external PDB), for MS Windows
+packages/fumedev/node_modules/quick-lint-js/win32-arm64/bin/quick-lint-js.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/fumedev/node_modules/quick-lint-js/quick-lint-js.exe: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
+packages/fumedev/index/__pycache__/VectorStore.cpython-311.pyc: data
+packages/fumedev/index/__pycache__/Documentation.cpython-311.pyc: data
+packages/fumedev/index/__pycache__/DocumentationCreator.cpython-311.pyc: data
+packages/fumedev/index/__pycache__/FolderGraph.cpython-311.pyc: data
+packages/fumedev/index/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/index/utils/__pycache__/get_emmbedding.cpython-311.pyc: data
+packages/fumedev/index/utils/__pycache__/line_chunker.cpython-311.pyc: data
+packages/fumedev/index/utils/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/file_operations/__pycache__/apply_code_changes.cpython-311.pyc: data
+packages/fumedev/file_operations/__pycache__/__init__.cpython-311.pyc: data
+packages/fumedev/file_operations/__pycache__/get_file_content.cpython-311.pyc: data
