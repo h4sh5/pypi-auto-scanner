@@ -1,5 +1,19 @@
-packages/patched_cli/resources/languages_windows_amd64.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/pyre_check_nightly-0.0.101709208754.data/data/bin/pyre.bin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=efcf65503161a8eead054c2df4b8288685b9c6db, with debug_info, not stripped, too many notes (256)
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w64-arm.exe: PE32+ executable (GUI) Aarch64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64-arm.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t32.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/t64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/pip/_vendor/distlib/w32.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/cli-32.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/gui-arm64.exe: PE32+ executable (GUI) Aarch64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/gui-64.exe: PE32+ executable (GUI) x86-64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/cli-64.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/gui-32.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/gui.exe: PE32 executable (GUI) Intel 80386, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/cli-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/cognica/server/usr/lib/python3.10/site-packages/setuptools/cli.exe: PE32 executable (console) Intel 80386, for MS Windows
+packages/cognica/server/usr/bin/cognica: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=4aa1b352784cb6f3d9d27ce56d2085c8601c041f, for GNU/Linux 3.2.0, stripped
 packages/visyn_core/security/__pycache__/__init__.cpython-310.pyc: data
 packages/visyn_core/security/__pycache__/permissions.cpython-310.pyc: data
 packages/visyn_core/security/__pycache__/jwt_router.cpython-310.pyc: data
