@@ -1,8 +1,7 @@
-packages/jsslib/jsslib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/xtquant/log4cxx.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/xtquant/xtpythonclient.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/xtquant/IPythonApiClient.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/xtquant/ssleay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/xtquant/IPythonApiClient.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/xtquant/msvcp140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/xtquant/xtpythonclient.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/xtquant/libeay32.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
@@ -12,11 +11,8 @@ packages/xtquant/IPythonApiClient.cp36-win_amd64.pyd: PE32+ executable (DLL) (GU
 packages/xtquant/vcruntime140.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/tests/__pycache__/__init__.cpython-310.pyc: data
 packages/tests/__pycache__/test_loader.cpython-310-pytest-8.0.2.pyc: data
-packages/tritonclient-2.43.0.data/data/bin/perf_analyzer: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d1bfc2c5d16dce8c62ddcd918365fe1c1e64d287, for GNU/Linux 3.2.0, not stripped
-packages/tritonclient-2.43.0.data/data/bin/perf_client: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d1bfc2c5d16dce8c62ddcd918365fe1c1e64d287, for GNU/Linux 3.2.0, not stripped
 packages/MPSTools/material_catalogue/__pycache__/__init__.cpython-310.pyc: data
 packages/MPSTools/material_catalogue/__pycache__/loader.cpython-310.pyc: data
 packages/MPSTools/__pycache__/__init__.cpython-310.pyc: data
 packages/MPSTools/fiber_catalogue/__pycache__/__init__.cpython-310.pyc: data
 packages/MPSTools/fiber_catalogue/__pycache__/loader.cpython-310.pyc: data
-packages/triton_model_analyzer-1.37.0.data/data/bin/perf_analyzer: ELF 64-bit LSB pie executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=d1bfc2c5d16dce8c62ddcd918365fe1c1e64d287, for GNU/Linux 3.2.0, not stripped
