@@ -1,15 +1,9 @@
-packages/_discord/bin/libopus-0.x86.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/_discord/bin/libopus-0.x64.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/logos_lang/notes/assembly/hello_world: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
-packages/autowsgr/bin/adb/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/autowsgr/bin/adb/AdbWinUsbApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/autowsgr/bin/adb/adb.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
-packages/autowsgr/bin/image_recognize/libgcc_s_seh-1.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/autowsgr/bin/image_recognize/libopencv_core454.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/autowsgr/bin/image_recognize/libopencv_imgproc454.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/autowsgr/bin/image_recognize/libstdc++-6.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/autowsgr/bin/image_recognize/recognize_enemy.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/autowsgr/bin/image_recognize/libwinpthread-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
-packages/autowsgr/bin/image_recognize/libopencv_imgcodecs454.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/autowsgr/bin/image_recognize/locator.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/clidriver/bin/db2level: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=272b074c20043980dbb965516f86cb64a56b9e62, not stripped
+packages/clidriver/bin/db2ldcfg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=3bad9f0ca7c0c521bb02ec51da52145a673c3c3f, not stripped
+packages/clidriver/bin/db2lddrg: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=bff9ea71ac2359d247c23198c4efe6d6c85e4e98, not stripped
+packages/clidriver/bin/db2trc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=551b2691fca5887f2c5014cd549f7a34b80a3431, not stripped
+packages/clidriver/bin/db2drdat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=9a1105ecc2f9fd630f9f01f9e8ff4b1447c740f1, not stripped
+packages/clidriver/bin/db2dsdcfgfill: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=da882a19600bc8c385772d9a9625667e2c3fdef9, not stripped
+packages/clidriver/bin/db2support: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=2bd34a81d76fd9db8015c48bcb5827114d28fc76, not stripped
+packages/clidriver/bin/db2cli: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=5eb7641b17e834a53a2dfc5d96b2a1f400839a27, not stripped
+packages/clidriver/bin/db2diag: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=b6d43357d0f5af34721af0f752b66ea94b251d18, not stripped
