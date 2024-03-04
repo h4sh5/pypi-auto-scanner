@@ -1,20 +1,2 @@
-packages/resipy/exe/gmsh.exe: PE32+ executable (GUI) x86-64 (stripped to external PDB), for MS Windows
-packages/resipy/exe/R2.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp312-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp36-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp311-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp311-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp39-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/fastRecip.cp37-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/resipy/cext/meshCalc.cp312-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/cmeel.prefix/lib/python3.10/site-packages/placo_utils/__pycache__/__init__.cpython-310.pyc: data
-packages/cmeel.prefix/lib/python3.10/site-packages/placo_utils/__pycache__/tf.cpython-310.pyc: data
-packages/cmeel.prefix/lib/python3.10/site-packages/placo_utils/__pycache__/visualization.cpython-310.pyc: data
-packages/datafusion_cli-36.0.0.data/scripts/datafusion-cli: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=04e20b03f1c0e09f407e8533019ec9396b20200c, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/bolero/pkg_data/cbust_macos: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE>
+packages/bolero/pkg_data/cbust: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, BuildID[sha1]=b90d2ad51287651703d1bffd7770d731757a0dc2, for GNU/Linux 3.2.0, not stripped
