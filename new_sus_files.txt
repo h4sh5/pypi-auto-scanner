@@ -3,5 +3,25 @@ packages/gamspy_gurobi/grbprobe: ELF 64-bit LSB executable, x86-64, version 1 (S
 packages/gamspy_dicopt/gmsdi_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/gamspy_mpsge/gmsge_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/gamspy_mpsge/gmsgewux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/covey/__pycache__/utils.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/price.cpython-310.pyc: data
+packages/covey/__pycache__/covey_calendar.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/covey_trade.cpython-310.pyc: data
+packages/covey/__pycache__/__init__.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/utils.cpython-310.pyc: data
+packages/covey/__pycache__/covey_checks.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/covey_pricer.cpython-310.pyc: data
+packages/covey/__pycache__/covey_price.cpython-310.pyc: data
+packages/covey/__pycache__/covey_calendar.cpython-310.pyc: data
+packages/covey/__pycache__/covey_pricer.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/covey_portfolio.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/portfolio.cpython-310.pyc: data
+packages/covey/__pycache__/covey_trade.cpython-37.pyc: python 3.7 byte-compiled
+packages/covey/__pycache__/covey_checks.cpython-310.pyc: data
+packages/gamspy_base/gmsgenux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gmssb_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gmscvnux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gamscmex.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gams: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/gamspy_baron/gmsba_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
 packages/gamspy_baron/baron: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped, too many notes (256)
