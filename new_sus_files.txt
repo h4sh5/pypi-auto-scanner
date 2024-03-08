@@ -1,8 +1,51 @@
-packages/vision_oslo_extension/osop.exe: PE32 executable (console) Intel 80386, for MS Windows
 packages/nimlite/libnimlite.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/GPUDTW/OpenCL.dll: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/csoundengine/__pycache__/termui.cpython-310.pyc: data
+packages/csoundengine/__pycache__/config.cpython-39.pyc: python 3.9 byte-compiled
+packages/csoundengine/__pycache__/internalTools.cpython-310.pyc: data
+packages/csoundengine/__pycache__/csoundlib.cpython-310.pyc: data
+packages/csoundengine/__pycache__/sessioninstrs.cpython-310.pyc: data
+packages/csoundengine/__pycache__/synth.cpython-310.pyc: data
+packages/csoundengine/__pycache__/baseevent.cpython-310.pyc: data
+packages/csoundengine/__pycache__/linuxaudio.cpython-310.pyc: data
+packages/csoundengine/__pycache__/paramtable.cpython-310.pyc: data
+packages/csoundengine/__pycache__/engine.cpython-310.pyc: data
+packages/csoundengine/__pycache__/engineorc.cpython-310.pyc: data
+packages/csoundengine/__pycache__/jacktools.cpython-310.pyc: data
+packages/csoundengine/__pycache__/__init__.cpython-310.pyc: data
+packages/csoundengine/__pycache__/state.cpython-310.pyc: data
+packages/csoundengine/__pycache__/tableproxy.cpython-310.pyc: data
+packages/csoundengine/__pycache__/instr.cpython-310.pyc: data
+packages/csoundengine/__pycache__/dependencies.cpython-310.pyc: data
+packages/csoundengine/__pycache__/errors.cpython-310.pyc: data
+packages/csoundengine/__pycache__/session.cpython-310.pyc: data
+packages/csoundengine/__pycache__/jupytertools.cpython-310.pyc: data
+packages/csoundengine/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
+packages/csoundengine/__pycache__/config.cpython-310.pyc: data
+packages/csoundengine/__pycache__/tools.cpython-310.pyc: data
+packages/csoundengine/__pycache__/offline.cpython-310.pyc: data
+packages/csoundengine/data/plugins7/windows/else.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows/pathtools.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows/beosc.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows/klib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows/poly.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows-x86_64/else.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows-x86_64/pathtools.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows-x86_64/beosc.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows-x86_64/klib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins7/windows-x86_64/poly.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows/else.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows/pathtools.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows/beosc.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows/klib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows/poly.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows-x86_64/else.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows-x86_64/pathtools.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows-x86_64/beosc.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows-x86_64/klib.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/csoundengine/data/plugins6/windows-x86_64/poly.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 packages/scida_utils/eda.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/muko/muko.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/easys_ordermanager/__pycache__/__init__.cpython-312.pyc: data
 packages/NikGapps/helper/assets/update-binary-busybox: a /sbin/sh script executable (binary data)
 packages/NikGapps/helper/assets/bin/Linux/aapt2: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, not stripped
 packages/NikGapps/helper/assets/bin/Darwin/aapt2: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK|PIE|HAS_TLV_DESCRIPTORS>
@@ -13,3 +56,4 @@ packages/NikGapps/helper/assets/bin/Windows/adb.exe: PE32 executable (console) I
 packages/NikGapps/helper/assets/bin/Windows/AdbWinApi.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
 packages/NikGapps/helper/assets/bin/Windows/aapt.exe: PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
 packages/NikGapps/helper/assets/busybox: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, BuildID[sha1]=16068ba72aeb08eb31124718a0c895d24e4cacab, stripped
+packages/SharedData/sharedmutexwin.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
