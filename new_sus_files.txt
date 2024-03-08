@@ -1,5 +1,7 @@
 packages/vision_oslo_extension/osop.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/mitsuba/mitsuba: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=592a143a5d374751967cd1fb9f26ad5305b3d1d7, for GNU/Linux 2.6.32, not stripped
+packages/nimlite/libnimlite.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/scida_utils/eda.cp310-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
+packages/muko/muko.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
 packages/easys_ordermanager/__pycache__/__init__.cpython-312.pyc: data
 packages/NikGapps/helper/assets/update-binary-busybox: a /sbin/sh script executable (binary data)
 packages/NikGapps/helper/assets/bin/Linux/aapt2: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.24, not stripped
