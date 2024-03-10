@@ -1,236 +1,85 @@
-packages/ozi/fix/rewrite_command.pyc: data
-packages/ozi/fix/missing.pyc: data
-packages/ozi/fix/__pycache__/parser.cpython-310.pyc: data
-packages/ozi/fix/__pycache__/missing.cpython-310.pyc: data
-packages/ozi/fix/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/fix/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/fix/__pycache__/rewrite_command.cpython-310.pyc: data
-packages/ozi/fix/__pycache__/build_definition.cpython-310.pyc: data
-packages/ozi/fix/build_definition.pyc: data
-packages/ozi/fix/__init__.pyc: data
-packages/ozi/fix/__main__.pyc: data
-packages/ozi/fix/parser.pyc: data
-packages/ozi/tests/test_ozi_new.pyc: data
-packages/ozi/tests/__pycache__/test_ozi_new.cpython-310.pyc: data
-packages/ozi/tests/__pycache__/test_ozi_fix.cpython-310.pyc: data
-packages/ozi/tests/test_ozi_fix.pyc: data
-packages/ozi/tap.pyc: data
-packages/ozi/meson.pyc: data
-packages/ozi/comment.pyc: data
-packages/ozi/__pycache__/comment.cpython-310.pyc: data
-packages/ozi/__pycache__/meson.cpython-310.pyc: data
-packages/ozi/__pycache__/spec.cpython-310.pyc: data
-packages/ozi/__pycache__/actions.cpython-310.pyc: data
-packages/ozi/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/__pycache__/spdx.cpython-310.pyc: data
-packages/ozi/__pycache__/pkg_extra.cpython-310.pyc: data
-packages/ozi/__pycache__/render.cpython-310.pyc: data
-packages/ozi/__pycache__/filter.cpython-310.pyc: data
-packages/ozi/__pycache__/tap.cpython-310.pyc: data
-packages/ozi/actions.pyc: data
-packages/ozi/new/__pycache__/parser.cpython-310.pyc: data
-packages/ozi/new/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/new/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/new/__init__.pyc: data
-packages/ozi/new/__main__.pyc: data
-packages/ozi/new/parser.pyc: data
-packages/ozi/render.pyc: data
-packages/ozi/__init__.pyc: data
-packages/ozi/__main__.pyc: data
-packages/ozi/spdx.pyc: data
-packages/ozi/spec.pyc: data
-packages/ozi/vendor/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/vendor/__init__.pyc: data
-packages/ozi/vendor/email_validator/validate_email.pyc: data
-packages/ozi/vendor/email_validator/syntax.pyc: data
-packages/ozi/vendor/email_validator/exceptions_types.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/exceptions_types.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/deliverability.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/rfc_constants.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/__main__.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/__init__.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/syntax.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/validate_email.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/__pycache__/version.cpython-310.pyc: data
-packages/ozi/vendor/email_validator/version.pyc: data
-packages/ozi/vendor/email_validator/__init__.pyc: data
-packages/ozi/vendor/email_validator/__main__.pyc: data
-packages/ozi/vendor/email_validator/rfc_constants.pyc: data
-packages/ozi/vendor/email_validator/deliverability.pyc: data
-packages/ozi/scripts/version_metadata_template.pyc: data
-packages/ozi/scripts/__pycache__/scm_version_snip.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/to_distribution_template.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/replace_ruff_target_version.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/render_requirements.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/meson_dist_setuptools_scm.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/meson_setuptools_scm.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/core_metadata_template.cpython-310.pyc: data
-packages/ozi/scripts/__pycache__/version_metadata_template.cpython-310.pyc: data
-packages/ozi/scripts/to_distribution_template.pyc: data
-packages/ozi/scripts/replace_ruff_target_version.pyc: data
-packages/ozi/scripts/meson_setuptools_scm.pyc: data
-packages/ozi/scripts/render_requirements.pyc: data
-packages/ozi/scripts/scm_version_snip.pyc: data
-packages/ozi/scripts/meson_dist_setuptools_scm.pyc: data
-packages/ozi/scripts/core_metadata_template.pyc: data
-packages/ozi/filter.pyc: data
-packages/ozi/pkg_extra.pyc: data
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp312-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp312-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win32.pyd: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win_amd64.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp38-win_amd64.pyd: PE32+ executable (DLL) (GUI) x86-64, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp310-win32.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win_amd64.pyd: MS-DOS executable
-packages/mpf/platforms/pinproc/windows/pinproc.cp39-win32.pyd: PE32 executable (DLL) (console) Intel 80386, for MS Windows
-packages/mpf/platforms/pinproc/windows/pinproc.cp311-win32.pyd: MS-DOS executable
-packages/mani_skill/utils/scene_builder/replicacad/__pycache__/scene_builder.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/replicacad/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/replicacad/__pycache__/scene_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/replicacad/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/table/__pycache__/table_scene_builder.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/table/__pycache__/table_scene_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/table/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/table/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/variants.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/constants.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/scene_builder.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/constants.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/variants.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/scene_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/ai2thor/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/__pycache__/registration.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/__pycache__/scene_builder.cpython-311.pyc: data
-packages/mani_skill/utils/scene_builder/__pycache__/registration.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/__pycache__/scene_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/scene_builder/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/actor.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/base.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/joint.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/render_camera.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/link.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/types.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/articulation.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/base.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/link.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/articulation.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/types.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/pose.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/pose.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/joint.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/decorators.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/actor.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/structs/__pycache__/render_camera.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/structs/__pycache__/decorators.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/logging_utils.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/io_utils.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/common.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/download_asset.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/sapien_utils.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/registration.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/logging_utils.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/common.cpython-311.pyc: data
-packages/mani_skill/utils/__pycache__/registration.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/sapien_utils.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/io_utils.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/visualization/__pycache__/misc.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale -23038-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 9849696644232445427712.000000, slope 2793213588627093672333721154808184832.000000
-packages/mani_skill/utils/visualization/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/visualization/__pycache__/misc.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/visualization/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/articulation_builder.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/articulation_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/ground.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/actor_builder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/actors.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/actors.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/articulations.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/urdf_loader.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/ground.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/articulations.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/building/__pycache__/actor_builder.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/urdf_loader.cpython-311.pyc: data
-packages/mani_skill/utils/building/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/geometry/__pycache__/rotation_conversions.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/geometry/__pycache__/bounding_cylinder.cpython-311.pyc: data
-packages/mani_skill/utils/geometry/__pycache__/geometry.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/geometry/__pycache__/trimesh_utils.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/geometry/__pycache__/rotation_conversions.cpython-311.pyc: data
-packages/mani_skill/utils/geometry/__pycache__/trimesh_utils.cpython-311.pyc: data
-packages/mani_skill/utils/geometry/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/geometry/__pycache__/geometry.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale 0-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 9480473532382102683648.000000, slope 9473559381054182129664.000000
-packages/mani_skill/utils/geometry/__pycache__/bounding_cylinder.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/geometry/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/utils/wrappers/__pycache__/record.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/wrappers/__pycache__/record.cpython-311.pyc: data
-packages/mani_skill/utils/wrappers/__pycache__/visual_encoders.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/wrappers/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/wrappers/__pycache__/flatten.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/utils/wrappers/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/utils/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/utils/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/utils/randomization/__pycache__/samplers.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/utils/randomization/__pycache__/pose.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/utils/randomization/__pycache__/pose.cpython-311.pyc: data
-packages/mani_skill/envs/utils/randomization/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/utils/randomization/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/utils/randomization/__pycache__/samplers.cpython-311.pyc: data
-packages/mani_skill/envs/utils/observations/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/utils/observations/__pycache__/observations.cpython-311.pyc: data
-packages/mani_skill/envs/utils/observations/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/utils/observations/__pycache__/observations.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/dexterity/__pycache__/rotate_valve.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/dexterity/__pycache__/rotate_single_object_in_hand.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/dexterity/__pycache__/rotate_valve.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/dexterity/__pycache__/rotate_single_object_in_hand.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/dexterity/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/dexterity/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/fmb/__pycache__/fmb.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/fmb/__pycache__/fmb.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/fmb/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/fmb/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/two_robot_pick_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/two_robot_stack_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/push_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/stack_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/empty_env.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/pick_single_ycb.cpython-311.pyc: DIY-Thermocam raw data (Lepton 2.x), scale -21500--23036, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 549755813888.000000, slope 558514176.000000
-packages/mani_skill/envs/tasks/__pycache__/quadruped_run.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/pull_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/lift_peg_upright.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/pull_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/quadruped_run.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/two_robot_stack_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/open_cabinet_drawer.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/two_robot_pick_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/pick_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/quadruped_stand.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/peg_insertion_side.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/push_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/lift_peg_upright.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/empty_env.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/pick_single_ycb.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/stack_cube.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/quadruped_stand.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/tasks/__pycache__/pick_cube.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/tasks/__pycache__/open_cabinet_drawer.cpython-311.pyc: data
-packages/mani_skill/envs/scenes/__pycache__/base_env.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/scenes/__pycache__/base_env.cpython-311.pyc: data
-packages/mani_skill/envs/scenes/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/scenes/__pycache__/__init__.cpython-311.pyc: data
-packages/mani_skill/envs/__pycache__/scene.cpython-311.pyc: data
-packages/mani_skill/envs/__pycache__/sapien_env.cpython-311.pyc: data
-packages/mani_skill/envs/__pycache__/scene.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/__pycache__/sapien_env.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/__pycache__/__init__.cpython-39.pyc: python 3.9 byte-compiled
-packages/mani_skill/envs/__pycache__/__init__.cpython-311.pyc: data
+packages/tests/__pycache__/test_example_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_main_pandas_daily.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_ccxt.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_tradingfee.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_polygon_helper.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtesting_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_asset.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_backtest_polygon.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_executor.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_alpaca.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_strategy_methods.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/tests/__pycache__/test_order.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/certora_bins/gambit: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=01e9dd5da3861697b941ca65af5c12e181289d82, for GNU/Linux 3.2.0, with debug_info, not stripped
+packages/lumibot/tests/__pycache__/test_strategies.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/test_ib_broker.cpython-38-pytest-7.4.0.pyc: python 3.8 byte-compiled
+packages/lumibot/tests/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/traders/__pycache__/trader.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/traders/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/polygon_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpaca_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/pandas_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/backtesting_broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/alpha_vantage_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/yahoo_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/backtesting/__pycache__/data_source_backtesting.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_limit_and_trailing_stops.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/example_strategies/__pycache__/stock_diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/simple.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/debt_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/strangle.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversified_leverage.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/buy_and_hold.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/intraday_momentum.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/fast_trading.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/examples/__pycache__/diversification.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/_strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy_executor.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/strategy.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/strategies/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/custom_stream.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/trading_builtins/__pycache__/safe_list.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/trading_fee.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bar.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/bars.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/asset.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/dataline.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/order.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/entities/__pycache__/position.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/alpaca.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/tradovate.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/broker.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/ccxt.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/interactive_brokers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/brokers/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/indicators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/helpers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/yahoo_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/black_scholes.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/pandas.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/decorators.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/debugers.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/types.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/tools/__pycache__/polygon_helper.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/data_source.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/interactive_brokers_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/ccxt_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/yahoo_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/tradovate_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/exceptions.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpha_vantage_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/pandas_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/alpaca_data.cpython-38.pyc: python 3.8 byte-compiled
+packages/lumibot/data_sources/__pycache__/__init__.cpython-38.pyc: python 3.8 byte-compiled
