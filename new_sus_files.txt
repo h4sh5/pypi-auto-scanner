@@ -1,3 +1,4 @@
+packages/tcx_extract/zig/extract: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE|HAS_TLV_DESCRIPTORS>
 packages/season/command/__pycache__/service.cpython-310.pyc: data
 packages/season/command/__pycache__/plugin.cpython-310.pyc: data
 packages/season/command/__pycache__/create.cpython-310.pyc: data
@@ -42,4 +43,5 @@ packages/season/lib/core/struct/__pycache__/response.cpython-310.pyc: data
 packages/season/lib/core/struct/__pycache__/request.cpython-310.pyc: data
 packages/season/lib/core/struct/__pycache__/config.cpython-310.pyc: data
 packages/season/lib/core/struct/__pycache__/logger.cpython-310.pyc: data
-packages/chrs-0.3.0a4.data/scripts/chrs: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=64b56900812601b388b46e28919cb170a979fc2b, for GNU/Linux 3.2.0, stripped
+packages/brick_tq_shacl/topquadrant_shacl/org.topbraid.shacl.tools.validate: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
+packages/brick_tq_shacl/topquadrant_shacl/org.topbraid.shacl.tools.infer: Mach-O 64-bit arm64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|PIE>
