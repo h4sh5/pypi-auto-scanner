@@ -1,12 +1,39 @@
-packages/vision_oslo_extension/osop.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/gui-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
-packages/setuptools/gui-64.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/setuptools/cli.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/gui.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/cli-64.exe: PE32+ executable (console) x86-64, for MS Windows
-packages/setuptools/cli-32.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/gui-32.exe: PE32 executable (console) Intel 80386, for MS Windows
-packages/setuptools/cli-arm64.exe: PE32+ executable (console) Aarch64, for MS Windows
+packages/slitherin/__pycache__/cli.cpython-311.pyc: data
+packages/slitherin/__pycache__/consts.cpython-311.pyc: data
+packages/slitherin/__pycache__/__init__.cpython-311.pyc: data
+packages/slitherin/detectors/arbitrum/__pycache__/solidity_version.cpython-311.pyc: data
+packages/slitherin/detectors/arbitrum/__pycache__/block_number_timestamp.cpython-311.pyc: data
+packages/slitherin/detectors/arbitrum/__pycache__/arbitrum_prevrandao_difficulty.cpython-311.pyc: data
+packages/slitherin/detectors/arbitrary_call/__pycache__/arbitrary_call.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/token_fallback.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/unprotected_setter.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/uni_v2.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/event_setter.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/magic_number.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/strange_setter.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/inconsistent_nonreentrant.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/unprotected_initialize.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/double_entry_token_possibility.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/multiple_storage_read.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/timelock_controller.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/potential_arith_overflow.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/before_token_transfer.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/public_vs_external.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/dubious_typecast.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/call_forward_to_protected.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/ecrecover.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/nft_approve_warning.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/tx_gasprice_warning.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/read_only_reentrancy.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/for_continue_increment.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/__init__.cpython-311.pyc: data
+packages/slitherin/detectors/__pycache__/falsy_only_eoa_modifier.cpython-311.pyc: data
+packages/slitherin/detectors/aave/__pycache__/flashloan_callback.cpython-311.pyc: data
+packages/slitherin/detectors/aave/__pycache__/__init__.cpython-311.pyc: data
+packages/slitherin/detectors/reentrancy/__pycache__/reentrancy.cpython-311.pyc: data
+packages/slitherin/detectors/reentrancy/__pycache__/__init__.cpython-311.pyc: data
+packages/pyre_check_nightly-0.0.101710328467.data/data/bin/pyre.bin: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=4a32ca6be508f846085887155591ee671afd9e2c, with debug_info, not stripped, too many notes (256)
+packages/ingenialink/bin/FoE/win_64x/FoEUpdateFirmware.exe: PE32+ executable (console) x86-64, for MS Windows
 packages/pdfixsdk/bin/x86/ocr_tesseract.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/pdfixsdk/bin/x86/pdf.dll: PE32 executable (DLL) (console) Intel 80386, for MS Windows
 packages/pdfixsdk/bin/x86/LicenseSpringVMD.dll: PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
