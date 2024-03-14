@@ -1,17 +1,23 @@
-packages/sempy/lib/Microsoft.IO.RecyclableMemoryStream.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.Tabular.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Snappier.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.AdomdClient.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/ZstdSharp.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.ML.DataView.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.Tabular.Json.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/IronCompress.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Parquet.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.Data.Analysis.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.Fabric.SemanticLink.XmlaTools.dll: PE32+ executable (DLL) (console) x86-64 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Apache.Arrow.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.Runtime.Windows.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.Runtime.Core.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.AnalysisServices.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
-packages/sempy/lib/Microsoft.Identity.Client.dll: PE32 executable (DLL) (console) Intel 80386 Mono/.Net assembly, for MS Windows
+packages/llmware/lib/gguf/libllama_win.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/gguf/libllama_win_cuda.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/zlib1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libgraph_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libsqlite3-0.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/liblzma-5.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libgcc_s_seh-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libbz2-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libxml2-2.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libzstd.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libcrypto-3-x64.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libbson-1.0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libintl-8.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libtiff-6.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libssl-3-x64.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libpng16-16.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libpq.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libiconv-2.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/liboffice_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libwinpthread-1.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libmongoc-1.0.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libpdf_llmware.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/llmware/lib/windows/x86_64/llmware/libzip.dll: PE32+ executable (DLL) (console) x86-64 (stripped to external PDB), for MS Windows
