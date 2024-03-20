@@ -1,1 +1,15 @@
-packages/nimlite/libnimlite.pyd: PE32+ executable (DLL) (console) x86-64, for MS Windows
+packages/gamspy_dicopt/gmsdi_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_baron/gmsba_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_baron/baron: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, stripped, too many notes (256)
+packages/omc3/bin/madx-linux64-gnu: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.32, with debug_info, not stripped
+packages/omc3/bin/madx-macosx64-gnu: Mach-O 64-bit x86_64 executable, flags:<NOUNDEFS|DYLDLINK|TWOLEVEL|WEAK_DEFINES|BINDS_TO_WEAK>
+packages/omc3/bin/madx-win64-gnu.exe: PE32+ executable (console) x86-64, for MS Windows
+packages/gamspy_mpsge/gmsge_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_mpsge/gmsgewux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gmsgenux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gmscvnux.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gams: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gmssb_ux.out: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_base/gamscmex.out: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, not stripped
+packages/gamspy_gurobi/grbprobe: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, Go BuildID=tgTZP1ZiapO-ALZOLrjv/AxSSuaJEY7GjGAMqUdEs/Tzx7sm1SEU0jhhnK4eVv/9qdHndAyMCfDY-iKNWMm, BuildID[sha1]=7a5aaaf4ca88733ff9ff2362bbec20f098788c9d, with debug_info, not stripped
+packages/gamspy_gurobi/grbgetkey: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, Go BuildID=xHHMmbOILO8iQ4hkBOtL/5txdcMvM0USKPjRFQwpT/vMfqupu5plIQO4NVuuLd/8yc2-k_fTPg_gUSWE3Te, BuildID[sha1]=1fa03053cd3f980d1caefc4c7b805dab7814167c, with debug_info, not stripped
