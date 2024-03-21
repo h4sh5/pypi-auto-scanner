@@ -1,13 +1,3 @@
-tmnt==0.7.46b20240321
-weighting==1.2.0
-whylabs-client==0.6.0
-typyn==1.0.12
-py4dstem==0.14.12
-chem-mod==0.0.2
-anyscale==0.24.8
-telegram-types==1.37
-tidy3d==2.6.2
-pycatfile==0.6.0
 easy-utils-dev==2.4
 adi-notebook==0.0.2a2
 pyhana==0.0.8
@@ -98,3 +88,13 @@ dagster-celery-k8s==0.22.12
 dagster-ssh==0.22.12
 dagster-k8s==0.22.12
 dagster-wandb==0.22.12
+dagster-snowflake==0.22.12
+dagster-webserver==1.6.12
+typyn==1.0.9
+rics==4.0.0
+clise==0.2.3
+adi-notebook==0.0.2a1
+antelope-core==0.3.0
+h2ogpte==1.4.7
+omnata-plugin-runtime==0.3.19a62
+static-frame==2.5.0
